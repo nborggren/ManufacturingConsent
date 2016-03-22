@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<!--[if IE 7]> <html class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="lt-ie9"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie9" lang="en-US"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>CNN 2016 Candidate Matchmaker</title>
+<link href="http://www.cnn.com/interactive/2015/12/politics/election-candidate-matchmaker/" rel="canonical">
+
+<meta charset="utf-8">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="noarchive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" content="CNN 2016 Candidate Matchmaker">
+<meta name="description" property="og:description" content="">
+<meta name="keywords" content="">
+<meta name="news_keywords" content="">
+<meta name="section" content="politics">
+<meta name="source" content="CNN">
+<meta name="subsection" content="">
+<meta name="application-name" content="CNN">
+
+<!-- Facebook settings -->
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:type" content="Article">
+<meta property="og:title" content="CNN 2016 Candidate Matchmaker">
+<meta property="og:url" content="http://www.cnn.com/interactive/2015/12/politics/election-candidate-matchmaker/">
+<meta property="fb:admins" content="690014395">
+<meta property="fb:app_id" content="80401312489">
+
+<!-- Twitter card settings -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@cnn">
+<meta name="twitter:site:id" content="759251">
+<meta name="twitter:creator" content="@cnn">
+
+<link href="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="http://rss.cnn.com/rss/cnn_topstories.rss" rel="alternate" title="CNN - Top Stories [RSS]">
+<link href="http://rss.cnn.com/rss/cnn_latest.rss" rel="alternate" title="CNN - Recent Stories [RSS]">
+<link href="http://edition.cnn.com" hreflang="en" rel="alternate" title="CNN International">
+<link href="http://arabic.cnn.com" hreflang="ar" rel="alternate" title="CNN Arabic">
+<link href="http://mexico.cnn.com" hreflang="es" rel="alternate" title="CNN Mexico">
+
+<script src="http://z.cdn.turner.com/cnn/.e/js/libs/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+</script>
+
+<link rel="stylesheet" href="css/match-o-matic.css">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="css/match-o-matic-ie.css">
+<![endif]-->
+
+<script type="text/javascript" src="http://i.cdn.turner.com/analytics/cnn/ais.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/ads/cnn/adfuel.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/ads/cnn/cnn_interactive_main.js"></script>
+<script>
+
+var CNN = CNN || {};
+	CNN.staticResponsive = true;
+	window.CNNSTATICSECTION = 'politics';
+
+	CNN.omniture = {
+        "branding_ad_page":           "",
+        "branding_ad_zone":           ["", "", ""],
+        "branding_ad_container":      ["", "", ""],
+        "branding_ad_card":           ["", "", ""],
+        "branding_content_page":      "",
+        "branding_content_zone":      ["", "", ""],
+        "branding_content_container": ["", "", ""],
+        "branding_content_card":      ["", "", ""],
+        "cap_author":                 "",
+        "cap_content_type":           "article",
+        "cap_genre":                  "",
+        "cap_franchise":              "",
+        "cap_media_type":             "",
+        "cap_show_name":              "",
+        "cap_topic":                  "",
+        "friendly_name":              "CNN 2016 Candidate Matchmaker",
+        "full_gallery":               "",
+        "gallery_name":               "",
+        "gallery_slide":              "",
+        "grid_size":                  "",
+        "headline":                   "CNN 2016 Candidate Matchmaker",
+        "ireport_assignment":         "",
+        "publish_date":               "2015/12/22",
+        "rs_flag":                    "",
+        "search_results_count":       "",
+        "search_results_page":        "",
+        "search_term":                "",
+        "section":                    ["politics", "", "interactives", "", ""],
+        "template_type":              "interactive",
+        "video_collection":           "",
+        "video_hpt":                  "",
+        "video_opportunity":          "",
+        "video_player_type":          ""
+    }
+
+    var cnn_shareconfig = [];
+</script>
+<script type="text/javascript">
+    (function setRefDom(win, doc, registryFile) {
+        var edition = ((registryFile && registryFile.split('_')[0]) || '@@edition.type').toUpperCase(),
+            host = doc.referrer.replace(/^http(?:s)?\:\/\/([\w\-\.]+).*$/i, '$1').toLowerCase();
+
+        win[edition] = win[edition] || {};
+        win[edition].adTargets = window[edition].adTargets || {};
+
+        if (host.search(/^([\w\-]+\.)*money\.cnn\.com$/) >= 0) {
+            win[edition].adTargets.refdom = 'money';
+        } else if (host.search(/^([\w\-]+\.)*(www|us|edition|next)\.cnn\.com$/) >= 0) {
+            win[edition].adTargets.refdom = 'cnn';
+        } else if (host === 't.co') {
+            win[edition].adTargets.refdom = 'twitter';
+        } else if (host.search(/^([\w\-]+\.)*facebook\.com$/) >= 0) {
+            win[edition].adTargets.refdom = 'facebook';
+        } else if (host.search(/^([\w\-]+\.)*google\.\w{2,3}(\.\w\w)?$/) >= 0) {
+            win[edition].adTargets.refdom = 'google';
+        } else {
+            win[edition].adTargets.refdom = 'other';
+        }
+
+        if (CNN.PageParams && typeof CNN.PageParams.adkey === 'string') {
+            win[edition].adTargets.adkey = CNN.PageParams.adkey;
+        }
+
+        if (CNN && CNN.contentModel && CNN.contentModel.analytics && CNN.contentModel.analytics.cap_topics) {
+            win[edition].adTargets.capTopics = CNN.contentModel.analytics.cap_topics.split(/,\s*/);
+        }
+    }(window, document, 'cnn_interactive_main.js'));
+
+    (function setEpicSpec(win, doc, brandingValue, registryFile) {
+        var edition = ((registryFile && registryFile.split('_')[0]) || '@@edition.type').toUpperCase();
+        win[edition] = win[edition] || {};
+        win[edition].adTargets = win[edition].adTargets || {};
+        if (brandingValue !== '') {
+            win[edition].adTargets.spec = brandingValue;
+        }
+    }(window, document, 'elections', 'cnn_interactive_main.js'));
+</script>
+
+</head>
+<body>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- HEADER -->
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="nav"></div>
+</div>
+<script>
+    var CNNENV = "http://www.cnn.com",
+        CNNVERTICAL = 'politics';
+</script>
+<script src="http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js"></script>
+
+
+<div id="ad-container" align="center" style="padding: 0; margin: 10px 0 0 0; border: 0;">
+    <div id="ad_bnr_atf_01"></div>
+</div>
+
+<div class="interactive-container">
+
+
+
+<!-- CONTENT GOES HERE -->
+<!-- TODO: Move into external stylesheet -->
+<style>
+    .match-o-matic {
+        border: none;
+        margin: 20px 0;
+        visibility: hidden;
+        width: 100%;
+    }
+
+    .match-o-matic[data-loaded] {
+        visibility: visible;
+    }
+</style>
+<!-- TODO: Move into external script -->
+<script>
+    function getDocHeight(doc) {
+        var body = doc.body,
+            html = doc.documentElement;
+
+        return Math.max(body.scrollHeight || 0, body.offsetHeight || 0, html.clientHeight || 0, html.scrollHeight || 0, html.offsetHeight || 0);
+    }
+
+    function iframeLoaded(currentFrame, to) {
+
+        var frame = currentFrame || document.getElementById('match-o-matic'),
+            framedoc = frame.contentWindow && frame.contentWindow.document ? frame.contentWindow.document : frame.contentDocument,
+            timeout = to || 10,
+            h;
+
+        if(frame && framedoc) {
+            h = getDocHeight(framedoc);
+            frame.height = '';
+            frame.height = h + 'px';
+            if (h > 200) {
+                frame.setAttribute('data-loaded', true);
+            } else {
+                setTimeout(function tryAgain() {
+                    iframeLoaded(currentFrame, to * 2);
+                }, to);
+            }
+        }
+
+    }
+</script>
+<iframe id="match-o-matic" class="match-o-matic" src="dist/index.html" onLoad="iframeLoaded()"></iframe>
+
+
+
+</div> <!-- END .interactive-container -->
+
+<div class="cnn_clear"></div>
+
+
+
+<!-- OUTBRAIN -->
+<div class="cnn-outbrain">
+    <div class="OUTBRAIN" data-src="http://www.cnn.com/interactive/2015/12/politics/election-candidate-matchmaker/" data-widget-id="AR_9" data-ob-template="cnn" ></div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+
+
+<!-- FOOTER -->
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="footer"></div>
+</div>
+<script src="http://z.cdn.turner.com/analytics/cnnexpan/jsmd.min.js" charset="utf-8"></script>
+
+<script>
+var cnn_metadata = cnn_metadata || {};
+cnn_metadata.template_type_content = cnn_metadata.template_type_content || '';
+CNN.omniture = CNN.omniture || {};
+CNN.omniture.template_type = CNN.omniture.template_type || '';
+var jsmd = _jsmd.init(),
+    pageURL = location.href.toLowerCase();
+if (pageURL.indexOf("/.element/ssi/ads.iframes/") === -1 && pageURL.indexOf("/doubleclick/dartiframe.html") === -1) {
+    if (pageURL.indexOf("cnn.com/search") === -1 || pageURL.indexOf("/search/") === -1) {
+        if (_jsmd.plugin.gQuery("refresh")) {
+            jsmd.trackMetrics("dynamic-autoRefresh", "autorefresh", "cnn-autorefresh");
+        } else if (_jsmd.plugin.gQuery("is_LR")) {
+            //do nothing
+        } else if (CNN.omniture.template_type !== "gallery" || cnn_metadata.template_type_content != "gallery") {
+            jsmd.send();
+        }
+    }
+}
+</script>
+
+
+<!-- PAGE JAVASCRIPT -->
+<script src="js/match-o-matic-min.js"></script>
+
+</body>
+</html>

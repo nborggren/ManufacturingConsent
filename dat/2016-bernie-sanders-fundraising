@@ -1,0 +1,428 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+  <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+  <html class="no-js lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+  <html class="no-js lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <html class="no-js">
+<!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="http://www.bloomberg.com/features/feature-assets/img/favicon-32x32.png" type="image/x-icon">
+
+        <!-- meta tags for this project -->
+        <!-- SEO headline rewritten to accomidate keywords -->
+        <title>Why Bernie Sanders Doesn’t Want Your Vote</title>
+
+        <!-- What flavor of Bloomberg will this graphic be on? -->
+        <meta property="og:site_name" content="Bloomberg.com"/>
+        <!-- What is the FB headline? -->
+        <meta property="og:title" content="Why Bernie Sanders Doesn’t Want Your Vote">
+        <!-- What is the tweet / share statement?  -->
+        <meta property="og:longTitle" content="Why Bernie Sanders Doesn’t Want Your Vote">
+        <!-- What is the share-able image -->
+        <!-- Image aspect ratio: 1.91:1 Image Dimensions: 1200x630px -->
+        <meta property="og:image" content="http://www.bloomberg.com/features/2016-bernie-sanders-fundraising/img/bernie_sanders_offstage_1200x630.jpg"/>
+        <!-- These two can be the dek text / FB dek -->
+        <meta property="og:description" content="On the road with a man so angry he scares Democrats, too."/>
+        <meta name="description" content="On the road with a man so angry he scares Democrats, too.">
+        <!-- Some keywords if you want -->
+        <meta name="keywords" content="Bloomberg Business,Bernie Sanders,Businessweek,Democratic candidates,2016 election,socialist,Bern,Joel Stein,inequality,Vermont senator,presidential election,Democratic primaries,Hillary Clinton,Wall Street,big banks"/>
+        <!-- The full link to this graphic -->
+        <meta property="og:url" content="http://www.bloomberg.com/features/2016-bernie-sanders-fundraising/"/>
+
+        <!-- Parsely tracking -->
+        <meta name="parsely-type" content="post" data-ephemeral="true">
+        <!-- The Section where this article should appear in Parsely -->
+        <meta name="parsely-section" content="businessweek-magazine" data-ephemeral="true">
+        <!-- Article hed -->
+        <meta name="parsely-title" content="Why Bernie Sanders Doesn’t Want Your Vote">
+        <!-- Slug -->
+        <meta name="parsely-post-id" content="2016-bernie-sanders-fundraising">
+        <!-- The full link to this graphic -->
+        <meta name="parsely-link" content="http://www.bloomberg.com/features/2016-bernie-sanders-fundraising/">
+        <!-- Same as social image above -->
+        <meta name="parsely-image-url" content="http://www.bloomberg.com/features/2016-bernie-sanders-fundraising/img/bernie_sanders_offstage_1200x630.jpg">
+        <!-- Keywords -->
+        <meta name="parsely-tags" content="Bloomberg Business,Bernie Sanders,Businessweek,Democratic candidates,2016 election,socialist,Bern,Joel Stein,inequality,Vermont senator,presidential election,Democratic primaries,Hillary Clinton,Wall Street,big banks">
+        <!-- For multiple authors include 1 parsely-author line per author -->
+        <meta name="parsely-author" content="Joel Stein">
+        <!-- Publish date -->
+        <meta name="parsely-pub-date" content="2016-01-07T06:00:00+04:00">
+        
+
+
+        <meta property="og:type" content="article"/>
+        <meta name="twitter:card" content="summary"/>
+        <!-- @business, @bpolitics, @luxury -->
+        <meta name="twitter:site" content="@business"/>
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/fonts.css"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/business.css?"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/features/feature-assets/css/main.css?"/>
+        <link rel="stylesheet" type="text/css" href="css/override.css?"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/features/feature-assets/css/animate.css"/>
+
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/head.js?'></script>
+
+        <style type="text/css">
+        /*
+        styles for this project
+        */
+        </style>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="top-banner">
+          <div class="center">
+              <ul>
+                  <li>
+                      <a target="_blank" href="http://www.bloomberg.com/company/?tophat=open">Bloomberg the Company & its Products
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="https://bba.bloomberg.net/">Bloomberg Anywhere <span class="hide-tablet">Remote</span> Login
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="http://www.bloomberg.com/professional/request-demo/?utm_source=bbgmenu-demo&bbgsum=DG-WS-CORE-bbgmenu-demo">Bloomberg Terminal Request a Demo
+                      </a>
+                  </li>
+              </ul>
+              <div class="clear"></div>
+          </div>
+        </div>
+
+        <div id='full-header-space'></div>
+
+        <div id="full-header" class='sticky-header'>
+          <a href="http://bloomberg.com/"><img id="header-logo" class='white' src="http://www.bloomberg.com/graphics/assets/img/BB-Logo-2line-wb.svg"></a>
+          <a href="http://bloomberg.com/"><img id="header-logo" class='blue'  src="http://www.bloomberg.com/graphics/assets/img/BB-Logo-2line.svg"></a>
+
+          <div class="container bannerad"></div>
+          <div id="hidden-banner-ad"></div>
+
+          <div id="header-sharing">
+          <div class="header-icon" id="header-icon-twitter"><img class="blue" src="http://www.bloomberg.com/graphics/assets/img/twitter.png"><img class="white" src="http://www.bloomberg.com/graphics/assets/img/twitter_w.png"></div>
+          <div class="header-icon" id="header-icon-fb"><img class="blue" src="http://www.bloomberg.com/graphics/assets/img/facebook.png"><img class="white" src="http://www.bloomberg.com/graphics/assets/img/facebook_w.png"></div>
+          </div>
+        </div>
+
+        <div class="clearboth"></div>
+
+
+        <div id="main">
+
+        <!-- *** CONTENT STARTS HERE *** -->
+
+
+
+       <!-- LEDE W/TEXT UNDER FULL-WIDTH IMG -->
+        
+            <!-- START -->
+            <div class="lede-text-under">
+                 <!-- <img class="lede-img" style="width: 100%;" src="img/bernie_sanders_keene_2000x1200.jpg"> -->
+                    <div class="lede-content">
+                    <div class="hed">
+                        <h1>Why Bernie Sanders Doesn’t Want Your Vote</h1>
+                    </div>
+                    <div class="dek">On the road with a man so angry he scares Democrats, too.</div>
+                    <div>
+                        <p class="byline-feat">By Joel Stein | January 7, 2016</p>
+                    </div>
+                    <div>
+                        <p class="byline-feat">Photographs by Jonno Rattman</p>
+                    </div>
+                    <div>
+                        <p class="byline-feat">From <a href="http://www.bloomberg.com/businessweek" alt="Bloomberg Businessweek" class="bw-attribution-link" target="_new"><img src="http://www.bloomberg.com/features/feature-assets/img/businessweek-logo.svg" alt="Bloomberg Businessweek" class="bw-attribution-img"></a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- END -->
+
+
+            <!-- BODY COPY CENTERED -->
+
+            <!-- START -->
+            <figure class="img_full reveal fadeIn">
+                <img src="img/feat_bern03__01.jpg" alt="Bernie Sanders at Keene State College" />
+                <div class="photo-info">
+                  <figcaption>Bernie Sanders backstage at Keene State College on Dec. 5.</figcaption>
+                  <div class="credit"></div>
+                </div>
+            </figure>
+            <!-- END -->
+
+
+            <p>Bernie Sanders cannot understand why anyone is interested in Bernie Sanders. Sure, he has learned to toss a paragraph of biography into his presidential campaign speeches, but he gives that section less passion than any other. He mumbles something about growing up with an immigrant father in a tenement with three and a half rooms. When asked privately what this “half room” is, Sanders looks as if he’s never considered it. “Probably the foyer,” he says. “It had a kitchen, a living room, a bedroom, and foyer. They threw in a bathroom as well, but I didn’t count it. You know, my memory of my bathroom is that one time a fish actually came up through a toilet.” He pauses. “We did not cook it.”</p>
+
+             <figure class="img_left reveal fadeInLeft">
+                <img src="img/BBW_Bernie_Sanders_011116_500.jpg" alt="Businessweek Bernie Sanders cover" />
+                <div class="photo-info">
+                  <figcaption>Featured in <em>Bloomberg Businessweek</em>, Jan. 11, 2016. <a href="https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&cds_page_id=190089" target="_blank">Subscribe now.</a></figcaption>
+                  <div class="credit">Photographer: Jonno Rattman for Bloomberg Businessweek</div>
+                </div>
+            </figure>
+
+            <p>And the selfies—Sanders does not enjoy the selfies. “If I had my options I’d prefer to shake hands,” he says. Wading through a selfie barrage at a Christmas tree lighting ceremony in Plymouth, N.H., he allows the local radio DJ to put a knit cap with reindeer antlers on him. “I was a little afraid it would tussle your hair,” the DJ jokes. Sanders’s hair is famously disheveled. But Sanders has no interest in fashion banter. “This is a real New England hat,” says Sanders. “We worry less about looks and more about keeping warm.” Later, visiting his campaign office in Salem, N.H., he agrees to sign a few “Bernie” T-shirts for volunteers. “This is one of the skills as president I will clearly need: writing your name on T-shirts,” he says. “Who would believe that a grown-up person is debasing T-shirts all over America?”</p>
+
+          
+            <p>Bernie Sanders is more an idea than a person. An idea does not need to comb its hair. An idea can get away with skipping the task that occupies so much of most politicians’ time—phoning the rich to ask for money—by instead writing fundraising letters, which contain words that make people with money anxious, like “oligarchy.” An idea can give speeches filled with so many statistics and numbers that they’re really just white papers with hand gestures. Bernie Sanders is not a leader so much as a messenger. And his message can fit on a Post-it note: The rich are screwing you.</p>
+            <p>It’s the most passion-inducing message of the presidential campaign. Sanders has gotten <a href="http://www.bloomberg.com/politics/articles/2015-10-14/how-bernie-sanders-raised-1-3-million-in-four-hours" title="How Bernie Sanders Raised $1.3 Million in Four Hours" target="_new">more donations</a>—2.5 million-plus—at this point in the election cycle than any candidate in history, including sitting presidents, and twice as many individual donors as Hillary Clinton. The slouching, rumpled 74-year-old, who was slouching and rumpled in his 20s, has often attracted far larger audiences to his boring-ass speeches than any 2016 candidate, including Donald Trump: 28,000 in Portland, Ore.; 27,500 in Los Angeles; 20,000 in Boston; 15,000 in Seattle. While there is no calendar of semi-nude men supporting Clinton, the February model in “<a href="http://www.menwhobern.com/" title="Men Who Bern Calendar" target="_new">Men Who Bern</a>” proclaims, “Only you can rebuild the crumbling infrastructure of my heart.”</p>
+            <p>For an angry, self-righteous Post-it note, Sanders is pretty likable. He’s warm, thoughtful, self-aware, brave, funny, and—in that way that hippies don’t care what people think of them—cool. Sitting near a provolone-filled refrigerator in the cafeteria kitchen at Plymouth State University, he roughly pulls his sweater vest over his head, to look more formal, maybe, or to stay cool, or to achieve his hairstyle. He approaches his son Levi, a paralegal at Greater Boston Legal Services, who is about to introduce him onstage. He picks a huge piece of lint off his son’s lapel and asks, “Is this what genetics is about? He has more crap on his suit jacket than I have on mine.”</p>
+            <p>Levi nods and says, “I’m trying to make you look good.”</p>
+            <p>Sanders stands out for his earthy language. His speeches are salted with the casual “bulls---”s, “damn”s, and “crap”s that you’d expect from a cranky old liberal. He doesn’t adjust his act for different situations or audiences. Sanders is exactly the same, utterly comfortable and curious, whether speaking at the Jerry Falwell-founded <a href="http://www.bloomberg.com/politics/articles/2015-09-14/bernie-sanders-and-liberty-university-agree-to-disagree" title="Bernie Sanders and Liberty University Agree to Disagree" target="_new">Liberty University</a> or listening politely to <a href="https://www.youtube.com/watch?v=6BnbwUT7lBg" title="Bernie Sanders Interrupted at Seattle Rally by Black Lives Matter Protesters" target="_new">Black Lives Matter protesters</a> who have bum-rushed his stage and appropriated his microphone. As the nation debated Obamacare in the summer of 2009, and Democratic lawmakers holed up in Washington to avoid angry constituents, Sanders held town halls in the most conservative parts of Vermont, staying to answer questions after most people left. His favorite tactic with a hostile audience is to declare that they won’t agree on some crucial issue such as abortion or gay rights but can come together on a far more important problem: The rich are screwing us.</p>
+
+            <!-- START -->
+            <div class="pullquotes reveal fadeInUp">
+                “Frankly, if I were a hedge fund manager, I would not vote for Bernie Sanders.” —<em>Bernie Sanders</em>
+            </div>
+            <!-- END -->
+
+
+            <p>Oklahoma Republican Senator Jim Inhofe, <em>National Journal</em>’s 2009 Top Conservative in the Senate—the man who, in February, tossed a snowball on the floor of the chamber to assert that global warming is a hoax—calls Sanders one of his best friends in the Senate. “Bernie Sanders is unique,” Inhofe says, “in that most of the Democrats I know in the Senate vote liberal and press-release conservative. Not Bernie. He’s a proud, in-the-heart, sincere liberal. I’ve never heard him once say something that didn’t come from his heart. That’s not true with all the people running for president, Democrats and Republican. I hold him in high regard.” Sanders and Inhofe met in the early ’90s, when they were both representatives, and Sanders was proposing an amendment hiking taxes on the oil and gas industry. Inhofe rushed to the floor, debated him, and won the vote. Afterward, Sanders thanked him for offering a thoughtful, fact-based exchange.</p>
+            <p>Despite 25 years of friendship, Inhofe doesn’t know much about Sanders personally. “With everyone else in the Senate, they’ll discuss the Oklahoma-Oklahoma State game,” Inhofe says. “But not Bernie. I don’t think he has any other interests. I really don’t. I’ve never heard him talk about anything besides something legislative he’s all wrapped up in. It’s very unusual.” Inhofe pauses. “I, to this day, don’t even know if he has grandkids. Or even a wife.” The two have never gone to dinner or lunch. “I don’t know what we’d talk about,” Inhofe says, before remembering that, of course, Sanders would talk about wealth inequality. “You can’t have a whole dinner talking about that.”</p>
+
+            <!-- START -->
+            <figure class="img_column reveal fadeIn">
+                <img src="img/feat_bern03__06.jpg" alt="Sanders with a supporter at Plymouth State University on Dec. 5" />
+                <div class="photo-info">
+                  <figcaption>Sanders with a supporter at Plymouth State University on Dec. 5.</figcaption>
+                  <div class="credit">Photographer: Jonno Rattman</div>
+                </div>
+            </figure>
+            <!-- END -->
+
+            <p class="section-break">In Plymouth, Sanders is asked about his interests other than wealth inequality. “History,” he says. “How communities thrive. How they flourish. How people don’t get left behind. How social change takes place.” In other words: the history of wealth inequality. When the <em>New York Times</em> once had him pick a question from a reader out of a hat, and Sanders had to describe the U.S. to a Martian, it took him only four sentences to get to the phrase “income and wealth inequality.”</p>
+            <p>Huck Gutman, an English professor at the University of Vermont who served as Sanders’s chief of staff until 2012, and who’s been one of his closest friends for decades, says Sanders had two interests when he was mayor of Burlington: playing basketball and wealth inequality. He no longer plays basketball. Among the long list of things Sanders doesn’t care about are parties (a chore) and food (a fuel).</p>
+
+            <!-- START -->
+            <figure class="img_right reveal fadeInRight">
+                <img src="img/bernie_sanders_fan_new_york_jan_5.jpg" alt="A man at a rally for Senator Bernie Sanders at The Town Hall in New York City on Jan. 5" />
+                <div class="photo-info">
+                  <figcaption>A Sanders supporter at Town Hall in New York.</figcaption>
+                  <div class="credit">Photographer: Jonno Rattman</div>
+                </div>
+            </figure>
+            <!-- END -->
+
+            <p>“I ate dinner with him almost every night,” Gutman says, “and every so often I’d say, ‘It’s time for a good meal.’ And I’d say that I’d pay because that’s the only way I could get him to have a dinner that costs more than $15. Most of us think there are a lot of things in life that are interesting and worth working on. But Bernie says, ‘No, no, no. The struggle for equality is what my life is about.’ He’s not a liberal. He’s not a good-doer. He’s consumed by what he thinks is the struggle for equality.”</p>
+            <p>Sanders has the highest constituent approval rating and lowest disapproval rating among U.S. senators. He spends an inordinate amount of his budget on casework, addressing the individual problems of his voters. Gutman says Sanders deeply embodies Robert Frost’s poem <em>Two Tramps in Mud Time</em>. It takes place during the Depression, and Frost is really, really, really enjoying chopping wood, when two homeless guys come by, hoping he’ll pay them to do it for him:</p>
+
+            <blockquote class="blockquote_convo">
+            <p><em>Only where love and need are one,<br />And the work is play for mortal stakes,<br />Is the deed ever really done<br />For Heaven and the future’s sakes.</em></p>
+            </blockquote>
+
+            <p>Sanders’s need is to battle. He travels across the country constantly, giving long, passionate speeches in a way that makes talking seem like a blue-collar job, like Bruce Springsteen live. In August, Sanders flew coach on Southwest, carrying his own bag, to address the crowd at the Los Angeles Memorial Sports Arena. Backstage, his wife, Jane (he also has grandchildren, Senator Inhofe), tried to persuade him to wear a tie. Sanders seemed annoyed. Really, a tie? Should we be talking about ties right now?</p>
+            <p>Sarah Silverman, the comedian, was on hand to introduce Sanders. Daniel Kellison, a TV producer who’s creating a series of videos for the campaign, went to get food-truck burritos for Silverman and himself. Kellison was halfway through unwrapping his own when he felt someone looking at him. Says Silverman: “Bernie saw it and, with his incredible brand of absolutely charmless charm, said, ‘Whose is this? I’m hungry. Can I have half?’ ” Kellison remembers being astonished: “I said, ‘Is anybody looking out for this guy?’ It’s such a mom and pop organization.”</p>
+            <p>Sanders has always run an underdog’s campaign. After graduating from the University of Chicago and trying a bunch of jobs, Sanders spent most of 1972-76 running in Vermont as a third-party candidate for governor (twice) and senator (twice), once getting 4 percent of the vote. In 1981 he won a weird, four-way race for the mayor of Burlington by 10 votes, stunning everyone. The socialist mayor briefly became a national story, but he served for eight years, and the city boomed. He also started running for Congress, this time taking only two elections to win, and became the first independent elected to the House in 40 years. He spent 16 years in the House before running for Senate in 2006—with the backing of the Democratic Party, which he officially wouldn’t join.</p>
+            <p>Even with all the donors and crowds, this campaign might be another one of his many quixotic runs. He’s more than 20 percent behind Clinton in national polls of Democrats. She’s got 455 endorsements from governors, senators, and representatives; he’s got two congressmen and Jesse Ventura. He has three <a href="http://www.bloomberg.com/politics/articles/2015-12-17/sanders-receives-biggest-labor-endorsement-yet" title="Bernie Sanders Receives Biggest Labor Endorsement Yet" target="_new">labor unions</a> totaling about a million workers backing him; she has 18 unions representing nearly 12 million workers. Iowa requires a lot of organization, and while he might win in New Hampshire, <a href="https://en.wikipedia.org/wiki/Super_Tuesday" title="Wikipedia: Super Tuesday" target="_new">Super Tuesday</a> involves a lot of Southern states that are low on the white liberals who love Sanders.</p>
+
+            <!-- START -->
+            <div class="pullquotes reveal fadeInUp">
+                “I don’t know that I have too many wealthy friends”
+            </div>
+            <!-- END -->
+
+            <p>Win or lose in an election, he’s always stuck to his message. And it’s possible that people will keep responding. Robert Reich, an economist who was secretary of labor under Bill Clinton, says that anyone who carried on Occupy Wall Street’s attack on growing inequality would have attracted the same support. Massachusetts Senator Elizabeth Warren, he says, perhaps more so. “Essentially, America faces a choice between authoritarian populism, represented by Donald Trump, and reform populism, represented by Bernie Sanders. If we don’t make the choice in 2016, we’ll be making it in 2020 or 2024,” Reich says. “I am amazed at the enthusiasm amongst young people for Bernie. But he seems to be very aware that this isn’t a personality cult. His ego is very much under control.”</p>
+            <p>Sanders makes no attempt to seem fun or milk trends. While Hillary Clinton’s <a href="https://twitter.com/HillaryClinton" title="@HillaryClinton" target="_new">Twitter feed</a> gets down with tweets like “Yaas, queen,” <a href="https://twitter.com/SenSanders" title="@SenSanders" target="_new">Sanders’s feed</a> is unapologetically wonky. While Warren will tackle income inequality, she sounds like a Harvard professor. Sanders sounds like a guy who at least considered cooking a toilet fish.</p>
+            <p>It also helps that he isn’t beholden to anyone, for anything. While Sanders is running for the Democratic nomination, he’s still not a member of the party. He doesn’t have an affiliated super PAC collecting and spending money on his behalf. Fewer than 300 of his supporters have given the individual maximum of $2,700 during the primary and as a group are responsible for less than 2 percent of his cash; Clinton’s almost 18,000 maximum donors account for nearly two-thirds of hers.</p>
+            <p>He will not allow himself to be taken off message. He gets furious when people talk to him about nonsubstantive issues, <a href="http://www.bloomberg.com/politics/videos/2015-10-14/sanders-agrees-with-clinton-enough-of-the-e-mails" title="Sanders Agrees With Clinton: Enough of the E-Mails" target="_new">refusing</a> to take a moderator’s prodding to attack a vulnerable Clinton at the first Democratic debate by saying, “The American people are sick and tired of hearing about your damn e-mails.” To New Hampshire voters, most of the political ads on TV appear the same: Chris Christie nodding thoughtfully at town halls, Marco Rubio smiling while shaking hands, Jeb Bush on a lot of factory tours. The Sanders ads have charts.</p>
+            <p>His liberal credentials are cartoonish; Garry Trudeau has put him in <em>Doonesbury</em> as a representative of anticapitalism. As an undergraduate, not only was he arrested for protesting, but he was also a member of the following extracurricular organizations:</p>
+            <p>The Young People’s Socialist League<br />The Congress for Racial Equality<br />The Student Nonviolent Coordinating Committee<br />The Student Peace Union</p>
+            <p>In the 1960s, he lived on a kibbutz in Israel for a few months and moved to Vermont, where he first lived in a maple sugar shack and cooked food over a coffee can filled with a roll of toilet paper soaked in lighter fluid—a poor man’s Sterno that his friends called a “Berno.” He <a href="http://www.huffingtonpost.com/entry/bernie-sanders-discography_55d64df6e4b00d8137edc0c1" title="A Look At Bernie Sanders' Spoken Word Album and Full Discography" target="_new">recorded a spoken-word album</a> covering folk songs. He made a <a href="https://www.youtube.com/watch?v=oY2mQxm4SNQ" title="Bernie Sanders - Eugene Debs Documentary - 1979" target="_new">documentary</a> about five-time socialist presidential candidate Eugene V. Debs and has a plaque celebrating him in his Senate office. Disgusted with the Democrats’ turn to the center after the Reagan years, in 1991 he started the <a href="http://www.bloomberg.com/politics/articles/2015-05-08/how-a-ragtag-group-of-lefties-mainlined-debt-free-college-into-the-democratic-primary" title="How a Ragtag Group of Lefties Mainlined Debt-Free College Into the Democratic Primary" target="_new">Congressional Progressive Caucus</a>, which now has 68 members in the House. His brother, Larry, who first got him interested in liberal issues, is a Green Party politician in England. In 1988, Bernie and his first wife honeymooned in the Soviet Union. As mayor, he earned his administration the nickname “Sandernistas” when he visited Daniel Ortega, the president of Nicaragua, and declared Puerto Cabezas the sister city to Burlington. In speeches, he refers to the audience as “brothers and sisters.” When he became the ranking minority member of the Senate Budget Committee last year, he hired Stephanie Kelton as the Democratic Party’s chief economist on the committee. Kelton espouses Modern Monetary Theory, a branch of economics so far left that it rejects Keynesianism and holds that government surpluses are disastrous.</p>
+
+            <p>Sanders had, until 2015, five digits’ worth of credit card debt, even though it’s hard to imagine he could have ever spent that much. “I’m not much of a money person,” Sanders says. “To me, growing up in a family that never had a lot of money, the major difference between my life then and getting a Senate salary is the security of knowing that the telephone company is not going to shut off our phone, the electric company isn’t going to shut off my electricity, that I can go to a restaurant tonight, pay the bill, and the credit card will have money in it. I’m not much of a big spender. I probably have more clothes than I have ever had because I have to be a senator and a candidate.”</p>
+            <p>In his perfect <em>Saturday Night Live</em> impersonation of Sanders, Larry David claimed the candidate owned one pair of underwear. “I have two pairs,” corrects Sanders, going along with the joke. “I bought an extra pair of underwear. I said to hell with it. You have to have at least two pair on a campaign.” The two sound so naturally alike that when David called Sanders on his cell phone, Sanders was heard on the Acela train declaring, “I know it’s really you. Because you sound just like me.”</p>
+            <p>As a gauge of his natural charisma, he came in last of three candidates when running for president of James Madison High School in Brooklyn. During speeches and debates, Sanders jabs with his index finger, an act of aggression seemingly banned from U.S. politics when Bill Clinton took to making a fist and moving his thumb like he was clicking through slides. “Cool, fun presidents have gotten us into trouble,” says Patton Oswalt, a comedian who’s volunteered to introduce Sanders at speeches. “We need the guy in the nontailored suit who just wants to sit at a desk and be boring and get s--- done. George W. Bush was eight years of Michael Scott from <em>The Office</em>, and sometimes I have that problem with Obama.” America, Oswalt believes, is the Bad News Bears and Sanders its Walter Matthau.</p>
+            <p>After Sanders’s speech in Plymouth, Kim De Lutis, a Canadian who’s raised children in New Hampshire, says she’s becoming a U.S. citizen just to cast a ballot for Sanders. She’s seen him more than once in a diner in Montpelier, Vt. “You can’t miss him,” she says. “He’s got that crazy hair, and he’s always working. He’s real. I don’t get caught up in the celebrity makeover all the candidates have.” </p>
+
+            <!-- START -->
+            <figure class="img_full reveal fadeIn">
+                <img src="img/feat_bern03__04.jpg" alt="Bernie Sanders at Town Hall in New York" />
+                <div class="photo-info">
+                  <figcaption>Onstage at New York’s Town Hall on Jan. 5.</figcaption>
+                  <div class="credit">Photographer: Jonno Rattman</div>
+                </div>
+            </figure>
+            <!-- END -->
+
+            <p class="section-break">Sanders became a national political figure in the way politicians did in previous centuries: by giving a speech. On Dec. 10, 2010, he gave an 8½-hour speech against extending the Bush tax cuts that seemed like a filibuster, except that he wasn’t holding up any vote. It was so popular it was published as a book.</p>
+            <p>Even more than most candidates, Sanders is better at identifying problems than offering solutions. Most of the plans he does offer require turning America into Scandinavia. The answer to all problems, he argues, is something like an $18 trillion Great New Deal, $15 trillion of which is for a “Medicare for all” health plan. It includes more Social Security, a $15-an-hour minimum wage, free public college, family leave, more pensions, and a lot of infrastructure jobs, as Mr. February alluded to. This would all be paid for by “a tax on Wall Street speculation,” a tax on the rich, and a higher business tax. In the Bernie Sanders drinking game, every time he mentions a free government program, you drink someone else’s beer.</p>
+            <p>Sanders is waging class warfare, but it’s a fight he feels was started by the rich, who “rigged” the economy—one of the words he returns to most often. He uses class warfare terms from another century, calling investors “speculators” and his childhood apartment a “tenement”; he refers to “establishment” economics, corporations, media, and politics—his version of the Right’s “mainstream.” He’s not a conspiracy theorist, but he does believe a very small group of very rich people are controlling our election results, our information, and the distribution of our resources. When asked what his wealthy friends think of his ranting against the immorality of the moneyed class, he says, “I don’t know that I have too many wealthy friends.”</p>
+
+            <!-- START -->
+            <div class="pullquotes reveal fadeInUp">
+                “Their greed ... has destroyed the lives of millions of Americans” 
+            </div>
+            <!-- END -->
+
+
+            <p>Sanders prefers hating the rich. When Hillary Clinton was asked in a debate if corporate America should love her, she responded, “Everyone should. I want to be the president for the struggling, the striving, and the successful.” Sanders does not. When asked before a speech in Keene, N.H., what he would say to reassure the <em>Bloomberg Businessweek</em> readers who work on Wall Street, or have millions of dollars, or run a hedge fund, and might be afraid he wants to tax them back to the Carter Age, Sanders puts down the manila folder containing his talk, which he delivers without a TelePrompTer. “I’m not going to reassure them,” he says. “Their greed, their recklessness, their illegal behavior has destroyed the lives of millions of Americans. Frankly, if I were a hedge fund manager, I would not vote for Bernie Sanders. And I would contribute money to my opponents to try to defeat him.” Then the only socialist ever elected to the U.S. Senate goes back to working on his prepared remarks.</p>
+
+            <p>Each night before a speech, he futzes with it, agonizing over the lines even though it’s essentially the same speech he’s given for four decades, the word “Rockefellers” replaced by “Kochs.” It’s a message that isn’t all that different from that of Franklin Roosevelt, who was elected during a time of great inequality. In 1936, running for reelection, Roosevelt spoke at Madison Square Garden: “We know now that government by organized money is just as dangerous as government by organized mob. Never before in all our history have these forces been so united against one candidate as they stand today. They are unanimous in their hate for me—and I welcome their hatred.”</p>
+
+            <!-- START -->
+            <figure class="img_column reveal fadeIn">
+                <img src="img/feat_bern03__02.jpg" alt="Bernie Sanders and wife Jane" />
+                <div class="photo-info">
+                  <figcaption>With his wife, Jane (left).</figcaption>
+                  <div class="credit">Photographer: Jonno Rattman</div>
+                </div>
+            </figure>
+            <!-- END -->
+
+            <p>On Jan. 5, at Manhattan’s Town Hall theater, Sanders <a href="http://www.bloomberg.com/politics/videos/2016-01-05/bernie-sanders-wall-street-plan-in-three-minutes" title="Bernie Sanders' Wall Street Plan in Three Minutes" target="_new">declared his own war</a> on organized money, decrying Clinton for taking Wall Street dollars in both speaking fees and campaign donations, and vowing to break up the six largest banks, bring back the Glass-Steagall Act, arrest some bankers, ban bankers from sitting on the Federal Reserve Board, make the credit rating agencies nonprofits, allow post offices to offer banking services, cap credit card interest rates at 15 percent, and limit ATM fees to $2. “The reality is fraud is the business model of Wall Street,” he said. “It is not the exception to the rule. It is the rule.”</p>
+            <p>It’s been only slightly easier for many Vermont business leaders to deal with Sanders. Win Smith, chairman of the Vermont Business Roundtable, and owner of the Sugarbush ski resort, says the Vermont business community doesn’t party with Sanders much. The Roundtable’s executive director meets regularly with Vermont’s other senator, Democrat Patrick Leahy, but has seen Sanders twice in 15 years. “He clearly does not view big business as positive. There are not a lot of big businesses in Vermont, but he has a tendency to broad-brush everybody,” says Smith, who spent 28 years at Merrill Lynch, the last 10 as chairman of Merrill Lynch International. He finds Sanders’s economic rants against Wall Street abrasive. “In my opinion it is naive and it is a shame. I don’t know that he truly understands how the capital markets function and how they have to function.”</p>
+            <p>Wade Black, who runs Scarsdale Equities, a boutique investment firm in New York, and donates to Sanders, disagrees. “I think he understands monetary policy. That great harangue he gave Alan Greenspan [in 2003] shows that. He probably has a better understanding of the financial industry than Ben Carson does. He may have a better understanding of how capitalism works than Donald Trump does,” he says. President Sanders, Black believes, will make Wall Street more competitive, so the vitriol against his occupation doesn’t bother him. “It’s a metaphor. There’s not going to be a Kristallnacht in Lower Manhattan. He’s talking about regulation, not shutting down the stock exchange. People turn their logic circuits off as soon as they hear the word ‘socialism.’ ”</p>
+            <p>Unlike Trump rallies, which have violence in the air, Sanders’s events present a more mellow radicalism. The first thing you learn at a Sanders rally is how many songs there are about revolutions. Before he arrives, the speakers blast Steve Earle’s <em>The Revolution Starts Now</em> and Bob Marley’s <em>Revolution</em>. But the one that best fits the scene at a soccer field in suburban Las Vegas on a foot-numbingly cold night is Tracy Chapman’s <em>Talkin’ Bout a Revolution</em>. She sounds so calm and thoughtful, like nothing is about to happen more violent than a spilled latte, as she strums her guitar and slowly sings:
+
+
+            <blockquote class="blockquote_convo">
+            <p><em>Poor people gonna rise up<br />And take what’s theirs<br />Don’t you know you better run, run, run, run, run, run, run</em></p>
+          
+
+            </blockquote>
+
+            <p>The people gathered here—old hippies, college kids, immigrants, union workers breaking with their leadership’s choice of candidate—look similarly relaxed, like they’re less interested in actual revolution than in attending a graduate seminar about revolution. It’s a very serious crowd for Las Vegas—not one person is vaping. Still, Sanders’s call to elect him—and then stay involved, changing the system with constant million-person marches on the capital—seems impossible with this laid-back crew. Then again, the Bolsheviks were humanities students in coffee shops, and the Tahrir Square protesters were college kids with Twitter accounts. The one obvious revolution song that isn’t played is the Beatles’, with its “Don’t you know it’s going to be all right/Shoo bee doo wop.” Sanders emphatically does not believe it’s going to be all right.</p>
+            <p>The reason a wonky septuagenarian can even convincingly talk about revolution is that Sanders is so genuinely angry. Often, he doesn’t play nicely. As mayor of Burlington, he was once invited to speak at a United Way fundraiser. His speech, perhaps for the only time, lasted just a few minutes and consisted of telling people that the United Way shouldn’t exist—that asking for dollars from workers’ paychecks to do the government’s job was shameful. As mayor, he strong-armed a real estate group that was going to convert low-income housing to luxury condos by passing laws specifically to thwart their efforts. The righteous can be ruthless.</p>
+            <p>Madeleine May Kunin, who was governor of Vermont from 1985 to 1991, had to run a gubernatorial campaign against Sanders and a Republican at the same time. “When you’re in a small radio studio—and in Vermont all the radio studios are small—and someone is attacking you from the right and the left, there’s not much oxygen,” she remembers. “He used to be much more aggressive. One time he was at a rally for women and he claimed to be a better feminist than I was.”</p>
+            <p>In November, Sanders met Killer Mike at a barbershop the rapper owns in Atlanta. They faced each other on giant red leather barber chairs for an hour, as the hip-hop star interviewed the senator. At one point, Killer Mike complimented Sanders on his civil rights work in the 1960s. “That’s some bomb s---. That is absolute dope,” Mike said. Sanders, oddly comfortable as always despite clearly not knowing what any of that meant, responded, “If I can use some bomb s---, we saw our friends getting the s--- kicked out of them and getting beaten to hell. They were the brave ones.” At the end of the hour, Mike shook his head in admiration. “I wish to stay as angry as you,” he said. The rapper said he fears getting soft, but vowed to yell out his barbershop window about injustice after his music career ends.</p>
+            <p>Sanders pumped his fist and smiled broadly. “That’s being human,” he said. “If you see stuff that’s bad and you don’t respond with—what did King call it?—‘the urgency of the moment,’ then you’re not alive.”</p>
+
+
+            <!-- START -->
+            <figure class="img_column reveal fadeIn">
+                <img src="img/feat_bern03__03.jpg" alt="Bernie Sanders delivering a speech about Wall Street Reform at The Town Hall in New York City on Jan. 5" />
+                <div class="photo-info">
+                  <figcaption></figcaption>
+                  <div class="credit">Photographer: Jonno Rattman</div>
+                </div>
+            </figure>
+            <!-- END -->
+
+
+
+
+
+            <!-- FOOTER/CREDIT LINE -->
+            <div id="footer">
+                <div class="container">
+                    <div class="left"></div>
+                    <div class="source"><strong>Editor:</strong> Bryant Urstadt<br /><strong>Producer:</strong> Justin McLean</div>
+                    <div class="clearboth">&nbsp;</div>
+                </div>
+            </div>
+            
+
+        <!-- END CONTENT -->
+
+        </div><!-- id="main" -->
+
+        <ul class="t-hide bbg-recirculator index-page__items index-page__top-items"></ul>
+
+
+        <!-- Optional Scripts-->
+
+        <!--
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/topojson-v1.6.8.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/queue.v1.min.js?"></script>
+        <script src="js/skrollr.min.js"></script>
+        -->
+
+        <!-- Required Scripts-->
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/jquery.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/lodash.underscore.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/d3.v3.min.js?"></script>
+        <script src="http://www.bloomberg.com/features/feature-assets/js/parallax.min.js"></script>
+        <script src="http://www.bloomberg.com/features/feature-assets/js/wow.min.js"></script>
+
+        <script type="text/javascript">
+
+          // //Required: Uncomment config block and fill this out
+          // //bb_brand will always have bbiz and optionally one of the following: bpol, bmkt, bpur, btech, bview
+          // //bb_category values:  'Technology', 'Industries', 'Science-energy', 'Game-plan', 'Benchmark', 'Pursuits', 'Personal-finance', 'Culture', 'Businessweek', 'Markets'
+          var config = {
+            'name': 'blp.visual-data:graphics-2016-bernie-sanders-fundraising',
+            'bb_brand': 'bbiz',
+            'bb_slug': '2016-bernie-sanders-fundraising',
+            'bb_author': 'Joel Stein',
+            'bb_cg_3': 'On the road with Bernie Sanders, a man so angry he scares Democrats, too.',
+            'bb_category' : 'Businessweek', // See expected values listed above
+            'bb_groupId': 'visual-data/2016-bernie-sanders-fundraising',
+            'bb_pub_d': '2016-01-07T06:00:00+04:00',
+            'correlator': (new String(Math.random()).substring(2,11)),
+            'ad_code': '/5262/businessweek', //don't forget leading '/5262' - /5262/business/insights/focus_on_mba
+            'num_ad_scroll_refesh': 3
+          };
+
+          var _sf_async_config = {
+            domain: 'bloomberg.com'
+          }
+        </script>
+
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/share.js?'></script>
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/tracker.js?'></script>
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/recirculator.js?'></script>
+
+        <script type="text/javascript">
+          initShare()
+
+          //stick header to top of page
+          var fixedHeader = null
+          d3.select(window).on('scroll.sticky', function(){
+            var fixedHeader1 = pageYOffset > 120
+            if (fixedHeader != fixedHeader1){
+              fixedHeader = fixedHeader1
+              
+              d3.select('#full-header').classed('stuck', fixedHeader)
+              d3.select('#full-header-space').classed('stuck', fixedHeader)
+            }
+          });
+
+          //WOW ANIMATIONS
+
+          wow = new WOW(
+          {
+            boxClass:   'reveal',
+            animateClass: 'animated',
+            offset:     100,
+            mobile: false,
+          }
+          );
+          wow.init();
+
+          //TERMINAL LINKS
+
+          $(document).ready(function(){
+
+            if(isTerminal) $("a").attr("href", "#");
+            if(isTerminal) d3.selectAll(".t-remove").remove();
+
+          });
+
+
+
+          (function(){
+
+          //
+          // code for this project
+          //
+
+          })()
+
+        </script>
+    </body>
+</html>

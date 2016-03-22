@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+  <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+  <html class="no-js lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+  <html class="no-js lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <html class="no-js">
+<!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="http://www.bloomberg.com/graphics/assets/img/favicon.png" type="image/x-icon">
+
+        <!-- meta tags for this project -->
+        <!-- Create an SEO version of your headline -->
+        <title>Here’s Exactly Where the Candidates’ Cash Came From</title>
+
+        <!-- What flavor of Bloomberg will this graphic be on? -->
+        <meta property="og:site_name" content="Bloomberg.com"/>
+        <!-- What is the main headline? -->
+        <meta property="og:title" content="Americans have given candidates $388 million so far. Here’s where they live.">
+        <!-- What is the tweet / share statement? -->
+        <meta property="og:longTitle" content="Americans have given presidential candidates $388 million so far. Here’s where they live.">
+        <!-- What is the share-able image -->
+        <!-- Image aspect ratio: 1.91:1 Image Dimensions: 1200x630px -->
+        <meta property="og:image" content="http://www.bloomberg.com/politics/graphics/2015-presidential-money-map/img/tout-fb.png"/>
+        <!-- These two can be the dek text -->
+        <meta property="og:description" content="The 22 major candidates running for U.S president, along with an even larger number of independent groups supporting them, raised an unprecedented $388 million in the first half of the year. This shows which neighborhoods this money came from."/>
+        <meta name="description" content="The 22 major candidates running for U.S president, along with an even larger number of independent groups supporting them, raised an unprecedented $388 million in the first half of the year. This shows which neighborhoods this money came from.">
+        <!-- Some keywords if you want -->
+        <meta name="keywords" content="Bloomberg Graphics, politics, 2016 election, campaign, contributions, candidates, PAC, Hillary, Clinton, Jeb, Bush, Sanders, Cruz, Trump, Rubio, Carson, Christie, Walker, Rand Paul, Jindal, Kasich, Graham, Perry, Fiorina, Chafee, O'Malley, Pataki, Webb, Santorum"/>
+        <!-- The full link to this graphic -->
+        <meta property="og:url" content="http://www.bloomberg.com/politics/graphics/2015-presidential-money-map/"/>
+
+        <!-- Parsely tracking -->
+        <meta name="parsely-type" content="post" data-ephemeral="true">
+        <meta name="parsely-section" content="graphics" data-ephemeral="true">
+
+        <meta property="og:type" content="article"/>
+        <meta name="twitter:card" content="summary"/>
+        <!-- @bbgvisualdata is Bloomberg Graphics -->
+        <meta name="twitter:site" content="@bbgvisualdata"/>
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/fonts.css"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/business.css?"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/bpol-override.css?"/>
+        <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/head.js?'></script>
+
+        <style type="text/css">
+        /*
+        styles for this project
+        */
+        </style>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="top-banner">
+          <div class="center">
+              <ul>
+                  <li>
+                      <a target="_blank" href="http://www.bloomberg.com/company/">Bloomberg the Company & its Products
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="https://bba.bloomberg.net/">Bloomberg Anywhere <span class="hide-tablet">Remote</span> Login
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="http://www.bloomberg.com/professional/request-demo/?utm_source=bbgmenu-demo&bbgsum=DG-WS-CORE-bbgmenu-demo">Bloomberg Terminal Request a Demo
+                      </a>
+                  </li>
+              </ul>
+              <div class="clear"></div>
+          </div>
+        </div>
+
+        <div id='full-header-space'></div>
+
+        <div id="full-header" class='sticky-header'>
+           <a href="http://www.bloomberg.com/politics/">
+            <span class="colorwhite">Bloomberg</span><span class="breaker"><br></span><span class="tighten">P</span>o<span class="loosen">lit</span>i<span class="loosen">c</span>s
+          </a>
+
+          <div class="container bannerad"></div>
+          <div id="hidden-banner-ad"></div>
+
+          <div id="header-sharing">
+          <div class="header-icon" id="header-icon-twitter"><img class="blue" src="http://www.bloomberg.com/graphics/assets/img/twitter.png"><img class="white" src="http://www.bloomberg.com/graphics/assets/img/twitter_w.png"></div>
+          <div class="header-icon" id="header-icon-fb"><img class="blue" src="http://www.bloomberg.com/graphics/assets/img/facebook.png"><img class="white" src="http://www.bloomberg.com/graphics/assets/img/facebook_w.png"></div>
+          </div>
+        </div>
+
+        <div class="clearboth"></div>
+
+
+        <div id="inner-content">
+
+          <div class="article-title">Here’s Exactly Where the Candidates’ Cash Came From</div>
+          <div class="bydek copywidth">
+            <div>September 15, 2015</div>
+            By 
+            <a href="https://twitter.com/zachmider" alt="@zachmider" target="blank" class="t-hide">
+              Zach Mider,
+            </a>
+            <span class="t-show t-inline-block">
+              Zach Mider,
+            </span>
+            <a href="https://twitter.com/homiedonttweet" alt="@homiedonttweet" target="blank" class="t-hide">
+              Christopher Cannon,
+            </a>
+            <span class="t-show t-inline-block">
+              Christopher Cannon,
+            </span> and 
+              <a href="https://twitter.com/adamrpearce" alt="@adamrpearce" target="blank" class="t-hide">
+              Adam Pearce
+            </a>
+            <span class="t-show t-inline-block">
+              Adam Pearce
+            </span>
+            
+          </div>
+          <div class="clearboth"></div>
+
+
+          <!-- <section class="copyblock copywidth">
+            <p>We tallied up all the donations to presidential campaigns, as well as contributions to independent groups that are dedicated to support presidential candidates, and located them on a map of the United States. This covers all donations made from Jan. 1 to June 30 of this year.</p>
+            <p>First we sized each separate donation equally. The result is a map that looks basically like the population distribution of the country, color-coded by party, with Republicans dominating the middle and Democrats prominent on the coasts. One quirk: the blue dots throughout Bernie Sanders' home state of Vermont. </p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img src="img/equal-size.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img src="img/equal-size_mobile.png" alt="">
+              </div>
+          </section> -->
+
+          <section class="copyblock copywidth">
+            <p>The 22 major candidates running for U.S president, along with an even larger number of independent groups supporting them, raised an unprecedented $388 million in the first half of the year. This shows which neighborhoods this money came from.</p>
+            <p>The circles on the maps below show the relative size of the contributions. (All payments in each zip code were aggregated for clarity.) The result shows the disruption unleashed by the rise of big money in politics. While some large contributions came from traditional political fundraising centers like New York, Washington, or Miami&mdash;places that dominated prior to the dawn of the super-PAC era in 2010&mdash;many of the biggest checks are from elsewhere: northeastern Nevada, Omaha, Puerto Rico.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/all_zips.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/all_zips_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <p>The next map shows only the contributions to super-PACs and other independent groups supporting a presidential candidate. These groups can accept donations of unlimited size from individuals, unions and corporations. (Campaigns can’t accept corporate or union money and are limited to $2,700 per individual per race.) Notice that even in Democratic enclaves like New York and San Francisco, the big money is flowing mostly to GOP candidates.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/all_zips_PAC.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/all_zips_PAC_mobile.png" alt="">
+              </div>
+            <div class="caption">Contributions to super-PACs and other independent groups</div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <p>And here is where the million-dollar checks are coming from:</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/all_zips_1m-plus.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/all_zips_1m-plus_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName">Jeb Bush</div>
+            <p>Jeb Bush was the fundraising leader in the first half of 2016, pulling in $115 million, mostly through his super-PAC. Not surprisingly, the former Florida governor leaned heavily on his home state, but he also picked up large checks from across the country. He had a lower number of donations than some of his rivals&mdash;possibly because he waited until later in the year to declare his candidacy and become eligible to accept direct campaign contributions.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/bush.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/bush_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName">Marco Rubio</div>
+            <p>Marco Rubio’s donor base looks a lot like Bush’s, just smaller. This map doesn’t show the full extent of pro-Rubio fundraising, however. In addition to his super-PAC, he’s getting support from a politically active nonprofit group that raised $15.8 million and doesn’t have to disclose the identities&mdash;or locations&mdash;of its donors.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/rubio.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/rubio_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName">Scott Walker</div>
+            <p>Scott Walker also has a national fundraising profile. There aren’t many small donations on this map because he declared for the presidency in July and therefore was unable to collect any direct campaign contributions in the first half of the year.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/walker.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/walker_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName">Hillary Clinton</div>
+            <p>Hillary Clinton’s contributors skew more toward the coasts than the leading Republicans’, and didn't write any checks larger than about $1 million.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/clinton.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/clinton_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+          <div class="mapName">Bernie Sanders</div>
+            <p>Only about $3 million of the $15 million raised by Bernie Sanders in the first half appears on the map below. That’s because the rest came from donors who gave such small amounts&mdash;under $200&mdash;that their names and addresses weren’t required to be disclosed. Sanders attracted small-dollar contributions from across the country while discouraging the formation of any super-PACs to support him.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/sanders.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/sanders_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <p>Sanders is not the only one who is depending primarily on small donations from across the country. Ben Carson, Mike Huckabee, and Rand Paul fit that pattern to some degree.</p>
+          </section>
+          <section class="chartwidth">
+              <div class="smallMap">
+                <img class="smallMap" src="img/carson.png" alt=""><span class="mapName">Ben Carson</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/huckabee.png" alt=""><span class="mapName">Mike Huckabee</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/paul.png" alt=""><span class="mapName">Rand Paul</span>
+                  </div>
+                  </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName">Donald Trump</div>
+            <p>The billionaire Donald Trump is largely self-funding his campaign and didn’t solicit donations in the first half. A few trickled in anyway, from all over the place.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/trump.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/trump_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName">Ted Cruz</div>
+            <p>Ted Cruz’s supporters are both widespread and well-heeled. His campaign gathered a large number of small checks from across the country, and his superPACs got huge donations from three families, in New York, Texas, and Puerto Rico. (The Puerto Rico donation is from Toby Neugebauer, a retired private-equity fund manager who recently moved to the territory from Texas.)</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/cruz.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/cruz_mobile.png" alt="">
+              </div>
+          </section>
+
+          <section class="copyblock copywidth">
+            <p>A few candidates got most of their money from in or around their home state, where they hold or used to hold an important office: Chris Christie, Bobby Jindal, Lindsey Graham, John Kasich, Rick Perry. (Perry dropped out of the race last week.) Although she never held elective office in California, Carly Fiorina gets most of her money there.</p>
+          </section>
+          <section class="chartwidth">
+              <div class="smallMap">
+                <img class="smallMap" src="img/christie.png" alt=""><span class="mapName">Chris Christie</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/jindal.png" alt=""><span class="mapName">Bobby Jindal</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/graham.png" alt=""><span class="mapName">Lindsey Graham</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/kasich.png" alt=""><span class="mapName">John Kasich</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/perry.png" alt=""><span class="mapName">Rick Perry</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/fiorina.png" alt=""><span class="mapName">Carly Fiorina</span>
+                  </div>
+                  </section>
+
+          <section class="copyblock copywidth">
+            <p>And a few of the candidates haven’t raised much from anywhere: Lincoln Chafee, Martin O'Malley, George Pataki, Jim Webb, and Rick Santorum.</p>
+          </section>
+          <section class="chartwidth">
+              <div class="smallMap">
+                <img class="smallMap" src="img/chafee.png" alt=""><span class="mapName">Lincoln Chafee</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/omalley.png" alt=""><span class="mapName">Martin O’Malley</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/pataki.png" alt=""><span class="mapName">George Pataki</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/webb.png" alt=""><span class="mapName">Jim Webb</span>
+                  </div>
+              <div class="smallMap">
+                <img class="smallMap" src="img/santorum.png" alt=""><span class="mapName">Rick Santorum</span>
+                  </div>
+                  </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName"><span class="redName">Bush</span> vs. <span class="blueName">Clinton</span></div>
+            <p>Now for the matchups. Here’s Bush vs. Clinton. The former Florida governor dominates his home state. Clinton wins the West Coast and Colorado.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/bush-clinton.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/bush-clinton_mobile.png" alt="">
+              </div>
+              </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName"><span class="blueName">Clinton</span> vs. <span class="orangeName">Sanders</span></div>
+            <p>Even though Sanders raised much less than Clinton, he had more small-dollar support in some parts of the country outside of major cities.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/clinton-sanders.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/clinton-sanders_mobile.png" alt="">
+              </div>
+              </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName"><span class="redName">Carson</span> vs. <span class="blueName">Sanders</span></div>
+            <p>They come from opposite parties, but Sanders and Carson were both standouts when it came to small-dollar fundraising.</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/carson-sanders.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/carson-sanders_mobile.png" alt="">
+              </div>
+              </section>
+
+          <section class="copyblock copywidth">
+            <div class="mapName"><span class="redName">Bush</span> vs. <span class="orangeName">Carson</span></div>
+            <p>Two of the top Republican contenders had very different fundraising strategies. Bush spent most of the first half of 2015 raising big checks for his super-PAC, while Carson raked in small amounts from across the country.</p>
+            </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/bush-carson.png" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/bush-carson_mobile.png" alt="">
+              </div>
+          </section>
+          
+
+          <section class="copyblock copywidth">
+            <p>Here’s how the donations came in, week by week:</p>
+          </section>
+          <section class="chartwidth">
+            <div class="mapDesktop">
+                <img class="infographic" src="img/weekly-cumulative.gif" alt="">
+              </div>
+            <div class="mapMobile">
+                <img class="infographic" src="img/weekly-cumulative_mobile.gif" alt="">
+              </div>
+          </section>
+
+
+              </div>
+
+
+          <div id="footer">
+            <div class="container">
+              <div class="left"></div>
+              <div class="source">SOURCE: Federal Elections Commission</div>
+              <div class="clearboth">&nbsp;</div>
+            </div>
+          </div>
+
+        </div><!-- id="inner-content" -->
+
+        <ul class="t-hide bbg-recirculator index-page__items index-page__top-items"></ul>
+
+
+        <!-- Optional Scripts-->
+
+        <!--
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/jquery.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/topojson-v1.6.8.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/queue.v1.min.js?"></script>
+        -->
+
+        <!-- Required Scripts-->
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/lodash.underscore.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/d3.v3.min.js?"></script>
+
+        <script type="text/javascript">
+
+          // //Required: Uncomment config block and fill this out
+          // //bb_brand will always have bbiz and optionally one of the following: bpol, bmkt, bpur, btech, bview
+          var config = {
+            'name': 'blp.visual-data:graphics-2015-presidential-money-map',
+            'bb_brand': 'bbiz bpol',
+            'bb_slug': '2015-presidential-money-map',
+            'bb_author': 'Zach Mider, Christopher Cannon, Adam Pearce',
+            'bb_cg_3': 'The 22 major candidates running for U.S president, along with an even larger number of independent groups supporting them, raised an unprecedented $388 million in the first half of the year. This shows which neighborhoods this money came from.',
+            'bb_groupId': 'visual-data/2015-presidential-money-map',
+            'bb_pub_d': '2015-01-01T00:15:00+04:00',
+            'ad_code': '', //don't forget leading '/5262' - /5262/business/insights/focus_on_mba
+            'num_ad_scroll_refesh': 3
+          };
+
+          var _sf_async_config = {
+            domain: 'bloomberg.com'
+          }
+        </script>
+
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/share.js?'></script>
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/tracker.js?'></script>
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/recirculator.js?'></script>
+
+        <script type="text/javascript">
+          initShare()
+
+          //stick header to top of page
+          var fixedHeader = null
+          d3.select(window).on('scroll.sticky', function(){
+            var fixedHeader1 = pageYOffset > 120
+            if (fixedHeader != fixedHeader1){
+              fixedHeader = fixedHeader1
+
+              d3.select('#full-header').classed('stuck', fixedHeader)
+              d3.select('#full-header-space').classed('stuck', fixedHeader)
+            }
+          });
+
+
+
+          (function(){
+
+          //
+          // code for this project
+          //
+
+          })()
+
+        </script>
+    </body>
+</html>
