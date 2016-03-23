@@ -16,7 +16,7 @@
 
 
 <meta name='parsely-metadata' content='{"title": "2016 Presidential Primaries and Caucuses", "link": "//www.foxnews.com/politics/elections/2016/primaries", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_primary", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "2016 Presidential Primaries and Caucuses", "link": "//www.foxnews.com/politics/elections/2016/primaries", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary", "pub_date": "2016-03-22 1:38:31 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "2016 Presidential Primaries and Caucuses", "link": "//www.foxnews.com/politics/elections/2016/primaries", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary", "pub_date": "2016-03-22 5:21:40 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
@@ -103,7 +103,7 @@
                   <a href="/politics/elections/2016/presidential-election-headquarters">Elections Home</a>
                 </li>
                           <li class="active">
-                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary and Caucus Results</a>
+                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary &amp; Caucus Results</a>
                 </li>
                           <li class="dropdown desktop  ">
                   <a href="#">Results By State</a>
@@ -113,6 +113,8 @@
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/georgia">Georgia</a></li>
@@ -124,6 +126,7 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/louisiana">Louisiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/maine">Maine</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/massachusetts">Massachusetts</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/michigan">Michigan</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
@@ -132,16 +135,20 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
-                                                    <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
+                                                    <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
@@ -154,6 +161,8 @@
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
+                                                <option value="primary-caucus/connecticut">Connecticut</option>
+                                                <option value="primary-caucus/delaware">Delaware</option>
                                                 <option value="primary-caucus/district-of-columbia">District Of Columbia</option>
                                                 <option value="primary-caucus/florida">Florida</option>
                                                 <option value="primary-caucus/georgia">Georgia</option>
@@ -165,6 +174,7 @@
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
                                                 <option value="primary-caucus/louisiana">Louisiana</option>
                                                 <option value="primary-caucus/maine">Maine</option>
+                                                <option value="primary-caucus/maryland">Maryland</option>
                                                 <option value="primary-caucus/massachusetts">Massachusetts</option>
                                                 <option value="primary-caucus/michigan">Michigan</option>
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
@@ -173,16 +183,20 @@
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
-                                                        <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/pennsylvania">Pennsylvania</option>
+                                                        <option value="primary-caucus/rhode-island">Rhode Island</option>
+                                                <option value="primary-caucus/south-carolina">South Carolina</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
                   </div>  
@@ -248,15 +262,144 @@
       <main class="main-content">
         <div class="wrap">
           <div class="alert"></div>
-        <div class="video-holder mobile-tablet" data-playlist-id="4802304233001">
-          <!-- render video here -->
-          <!-- render video here -->
+<section class="results-caucus todays-events">
+  <header>
+    <h2>Today's Events</h2>
+    <p>2016 presidential primaries and caucuses happening today</p>
+      <div class="live-data">Live Results</div>
+    </header>
+  <div class="content">
+        <section class="state  arizona" data-fips="04" data-state-code="AZ">
+      <header>
+        <h3><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></h3>
+        <div class="available-delegates">
+                            	      <div class="rep"><span>58</span> R</div>
+                              	      <div class="dem"><span>75</span> D</div>
+                            	    </div>
+      </header>
+      <div class="content data-table">
+        <div class="header">
+          <div class="votes">Votes</div>
+          <div class="percent">%</div>
+          <div class="delegates">Delegates</div>
         </div>
+                                    <div class="row rep " data-npid="61815" data-feed="1">
+          <div class="name"><span>Cruz</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="36679" data-feed="1">
+          <div class="name"><span>Kasich</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="8639" data-feed="1">
+          <div class="name"><span>Trump</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                                  <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row dem " data-npid="1445" data-feed="1">
+          <div class="name"><span>Sanders</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                  </div>     
+    </section>
+     
     <div class="advert mobile">
       <div class="ad-container">
         <div class="ad gpt" id="mobile-300x250_320x50"></div>
       </div>
     </div>
+              <section class="state  idaho" data-fips="16" data-state-code="ID">
+      <header>
+        <h3><a href="/politics/elections/2016/primary-caucus/idaho">Idaho</a></h3>
+        <div class="available-delegates">
+                            	      <div class="dem"><span>23</span> D</div>
+                            	    </div>
+      </header>
+      <div class="content data-table">
+        <div class="header">
+          <div class="votes">Votes</div>
+          <div class="percent">%</div>
+          <div class="delegates">Delegates</div>
+        </div>
+                                    <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row dem " data-npid="1445" data-feed="1">
+          <div class="name"><span>Sanders</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                  </div>     
+    </section>
+              <section class="state  utah" data-fips="49" data-state-code="UT">
+      <header>
+        <h3><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></h3>
+        <div class="available-delegates">
+                            	      <div class="rep"><span>40</span> R</div>
+                              	      <div class="dem"><span>33</span> D</div>
+                            	    </div>
+      </header>
+      <div class="content data-table">
+        <div class="header">
+          <div class="votes">Votes</div>
+          <div class="percent">%</div>
+          <div class="delegates">Delegates</div>
+        </div>
+                                    <div class="row rep " data-npid="61815" data-feed="1">
+          <div class="name"><span>Cruz</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="36679" data-feed="1">
+          <div class="name"><span>Kasich</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="8639" data-feed="1">
+          <div class="name"><span>Trump</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                                  <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row dem " data-npid="1445" data-feed="1">
+          <div class="name"><span>Sanders</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                  </div>     
+    </section>
+            </div>
+</section>
+        <div class="video-holder mobile-tablet" data-playlist-id="4802304233001">
+          <!-- render video here -->
+          <!-- render video here -->
+        </div>
 <section class="delegates-leaderboard">
   <header>
     <h2>Delegates Leaderboard</h2>
@@ -277,7 +420,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/donald-trump.png" alt="Donald Trump" />
                   </div>
             <div class="info">
-              <div class="data">680</div>
+              <div class="data">681</div>
               <div class="name">Donald Trump</div>
             </div>
           </li>
@@ -286,7 +429,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
                   </div>
             <div class="info">
-              <div class="data">424</div>
+              <div class="data">425</div>
               <div class="name">Ted Cruz</div>
             </div>
           </li>
@@ -921,8 +1064,20 @@
           </div>
           <div class="winner">
    
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Multiple winner -->               
+            <div class="row rep">
+              <div class="headshot double">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
+                </div>
+                <span class="name" data-winner-npid="61815">Cruz</span>
+                <span class="slash">/</span>
+                <div class="m">
+                      <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/donald-trump.png" alt="Donald Trump" alt="Donald Trump" />
+                </div>
+                <span class="name" data-winner-npid="8639">Trump</span>
+              </div>
+            </div>
        
     <!-- Single winner -->               
             <div class="row dem">
@@ -937,9 +1092,9 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- double winner -->
+            <div class="row rep split">
+              <span>1 <span class="slash">/</span> 1</span>
             </div>
        
     
@@ -1089,6 +1244,9 @@
                       
                       <li>March 1 -  Caucuses</li>
             
+                    
+                      <li>April 9 -  State Republican Convention</li>
+            
                     </ul>
             </div>
           </div>
@@ -1124,10 +1282,10 @@
         </div>
           <div class="state connecticut" data-state-fips="09" data-state-code="CT">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/connecticut.png" alt="Connecticut" /></div>
-            <div class="name short">CT</div>
-            <div class="name long"><span>Connecticut</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/connecticut"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/connecticut.png" alt="Connecticut" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/connecticut">CT</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></span></div>
                    <div class="events">
               <ul>
      
@@ -1162,10 +1320,10 @@
         </div>
           <div class="state delaware" data-state-fips="10" data-state-code="DE">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/delaware.png" alt="Delaware" /></div>
-            <div class="name short">DE</div>
-            <div class="name long"><span>Delaware</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/delaware"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/delaware.png" alt="Delaware" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/delaware">DE</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></span></div>
                    <div class="events">
               <ul>
      
@@ -1865,10 +2023,10 @@
         </div>
           <div class="state maryland" data-state-fips="24" data-state-code="MD">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/maryland.png" alt="Maryland" /></div>
-            <div class="name short">MD</div>
-            <div class="name long"><span>Maryland</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/maryland"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/maryland.png" alt="Maryland" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/maryland">MD</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2425,10 +2583,10 @@
         </div>
           <div class="state new-york" data-state-fips="36" data-state-code="NY">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/new-york.png" alt="New York" /></div>
-            <div class="name short">NY</div>
-            <div class="name long"><span>New York</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/new-york"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/new-york.png" alt="New York" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/new-york">NY</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2736,10 +2894,10 @@
         </div>
           <div class="state pennsylvania" data-state-fips="42" data-state-code="PA">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/pennsylvania.png" alt="Pennsylvania" /></div>
-            <div class="name short">PA</div>
-            <div class="name long"><span>Pennsylvania</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/pennsylvania"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/pennsylvania.png" alt="Pennsylvania" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/pennsylvania">PA</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2808,10 +2966,10 @@
         </div>
           <div class="state rhode-island" data-state-fips="44" data-state-code="RI">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/rhode-island.png" alt="Rhode Island" /></div>
-            <div class="name short">RI</div>
-            <div class="name long"><span>Rhode Island</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/rhode-island"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/rhode-island.png" alt="Rhode Island" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/rhode-island">RI</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></span></div>
                    <div class="events">
               <ul>
      
@@ -3298,10 +3456,10 @@
         </div>
           <div class="state wisconsin" data-state-fips="55" data-state-code="WI">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/wisconsin.png" alt="Wisconsin" /></div>
-            <div class="name short">WI</div>
-            <div class="name long"><span>Wisconsin</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/wisconsin"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/wisconsin.png" alt="Wisconsin" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/wisconsin">WI</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></span></div>
                    <div class="events">
               <ul>
      
@@ -3336,10 +3494,10 @@
         </div>
           <div class="state wyoming" data-state-fips="56" data-state-code="WY">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/wyoming.png" alt="Wyoming" /></div>
-            <div class="name short">WY</div>
-            <div class="name long"><span>Wyoming</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/wyoming"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/wyoming.png" alt="Wyoming" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/wyoming">WY</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></span></div>
                    <div class="events">
               <ul>
      
@@ -3348,6 +3506,9 @@
             
                     
                       <li>April 9 -  Democratic Caucuses</li>
+            
+                    
+                      <li>April 16 -  Republican State Convention</li>
             
                     </ul>
             </div>
@@ -3411,48 +3572,48 @@
   </header>
   <div class="content">
     <ul>
-                  <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
+                  <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/22/bill-clinton-slams-awful-legacy-last-eight-years-claims-was-criticizing-republicans.html"><img itemprop="image" src="//a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/03/21/276/156/dem-2016-clinton_cham791280720.jpg?ve=1&tl=1" alt="Bill Clinton slams &#039;awful legacy of the last eight years&#039;, claims he was criticizing Republicans" /></a>
+    <a href="//video.foxnews.com/v/4812667422001/terror-in-brussels-infiltrates-us-presidential-race/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812679133001_6f7ec04b-948a-48c9-8634-a17f31beac48.jpg?ve=1&tl=1" alt="Terror in Brussels infiltrates US presidential race" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/22/bill-clinton-slams-awful-legacy-last-eight-years-claims-was-criticizing-republicans.html">Bill Clinton slams &#039;awful legacy of the last eight years&#039;, claims he was criticizing Republicans</a></h4>
-    <p itemprop="description">Former President Bill Clinton slammed what he called the &quot;awful legacy of the last eight years&quot; during a campaign appearance for his wife, Democratic front-runner Hillary Clinton, in Washington state Monday.</p>
+    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812667422001/terror-in-brussels-infiltrates-us-presidential-race/">Terror in Brussels infiltrates US presidential race</a></h4>
+    <p itemprop="description">How will global issue impact campaign?</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T05:00:00Z">
+  <meta itemprop="datePublished" content="2016-03-22T19:13:28Z">
 </article>
 </li>
                             <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4811365895001/trump-talks-leading-the-silent-majority-movement/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811378246001_f8cbbbce-0e54-469c-a53a-de1307ec369e.jpg?ve=1&tl=1" alt="Trump talks leading the &#039;silent majority&#039; movement" /></a>
+    <a href="//video.foxnews.com/v/4812621520001/rep-duncan-hunter-trump-wants-nato-to-pull-its-own-weight/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812620989001_76b233f5-2297-445a-808b-f2174540f1c9.jpg?ve=1&tl=1" alt="Rep. Duncan Hunter: Trump wants NATO to pull its own weight" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4811365895001/trump-talks-leading-the-silent-majority-movement/">Trump talks leading the &#039;silent majority&#039; movement</a></h4>
-    <p itemprop="description">Candidate responds to criticisms from the left, the GOP establishment and rally disrupters on &#039;Hannity&#039;</p>
+    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812621520001/rep-duncan-hunter-trump-wants-nato-to-pull-its-own-weight/">Rep. Duncan Hunter: Trump wants NATO to pull its own weight</a></h4>
+    <p itemprop="description">On &#039;The Real Story,&#039; congressman discusses the political reaction to the Brussels terror attacks</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T03:50:49Z">
+  <meta itemprop="datePublished" content="2016-03-22T19:06:28Z">
 </article>
 </li>
                             <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4811348284001/donald-trump-outlines-his-views-on-the-middle-east/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811350997001_abe87c9e-bd56-4b0f-b24f-88ee6db01066.jpg?ve=1&tl=1" alt="Donald Trump outlines his views on the Middle East" /></a>
+    <a href="//video.foxnews.com/v/4812555965001/sanders-calls-for-increased-intelligence-gathering-sharing/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812578212001_83eb1376-f2aa-434d-b5b0-1ee6ea0dbd51.jpg?ve=1&tl=1" alt="Sanders calls for increased intelligence gathering, sharing" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4811348284001/donald-trump-outlines-his-views-on-the-middle-east/">Donald Trump outlines his views on the Middle East</a></h4>
-    <p itemprop="description">GOP frontrunner weighs in on deals with Israel, Iran and Saudi Arabia at live &#039;Hannity&#039; event</p>
+    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812555965001/sanders-calls-for-increased-intelligence-gathering-sharing/">Sanders calls for increased intelligence gathering, sharing</a></h4>
+    <p itemprop="description">Democratic presidential candidate reacts to Brussels attacks</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T03:50:46Z">
+  <meta itemprop="datePublished" content="2016-03-22T18:10:32Z">
 </article>
 </li>
                             <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4811409252001/sheriff-arpaio-and-jan-brewer-voice-their-support-of-trump/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811413887001_036dad70-5e4f-4f5e-9a0c-9f5566b3d6d3.jpg?ve=1&tl=1" alt="Sheriff Arpaio and Jan Brewer voice their support of Trump" /></a>
+    <a href="//video.foxnews.com/v/4812506363001/obama-presidential-candidates-condemn-brussels-attacks/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812533546001_5c698911-5db7-415e-b7db-da2bb7cdea8b.jpg?ve=1&tl=1" alt="Obama, presidential candidates condemn Brussels attacks" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4811409252001/sheriff-arpaio-and-jan-brewer-voice-their-support-of-trump/">Sheriff Arpaio and Jan Brewer voice their support of Trump</a></h4>
-    <p itemprop="description">Influential Arizona endorsers speak out at live &#039;Hannity&#039; event</p>
+    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812506363001/obama-presidential-candidates-condemn-brussels-attacks/">Obama, presidential candidates condemn Brussels attacks</a></h4>
+    <p itemprop="description">Strategy Room: Bradley Blakeman and Emily Tisch Sussman respond to Obama and the presidential candidates&#039; reactions to the recent terror attacks in Brussels</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T03:50:24Z">
+  <meta itemprop="datePublished" content="2016-03-22T17:55:32Z">
 </article>
 </li>
               <li> 

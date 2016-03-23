@@ -16,7 +16,7 @@
 
 
 <meta name='parsely-metadata' content='{"title": "2016 Presidential Election Headquarters", "link": "//www.foxnews.com/politics/elections/2016/presidential-election-headquarters", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_home", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "2016 Presidential Election Headquarters", "link": "//www.foxnews.com/politics/elections/2016/presidential-election-headquarters", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_home", "pub_date": "2016-03-22 1:44:05 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "2016 Presidential Election Headquarters", "link": "//www.foxnews.com/politics/elections/2016/presidential-election-headquarters", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_home", "pub_date": "2016-03-22 5:24:35 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
@@ -103,7 +103,7 @@
                   <a href="/politics/elections/2016/presidential-election-headquarters">Elections Home</a>
                 </li>
                           <li class="">
-                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary and Caucus Results</a>
+                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary &amp; Caucus Results</a>
                 </li>
                           <li class="dropdown desktop  ">
                   <a href="#">Results By State</a>
@@ -113,6 +113,8 @@
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/georgia">Georgia</a></li>
@@ -124,6 +126,7 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/louisiana">Louisiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/maine">Maine</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/massachusetts">Massachusetts</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/michigan">Michigan</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
@@ -132,16 +135,20 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
-                                                    <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
+                                                    <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
@@ -154,6 +161,8 @@
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
+                                                <option value="primary-caucus/connecticut">Connecticut</option>
+                                                <option value="primary-caucus/delaware">Delaware</option>
                                                 <option value="primary-caucus/district-of-columbia">District Of Columbia</option>
                                                 <option value="primary-caucus/florida">Florida</option>
                                                 <option value="primary-caucus/georgia">Georgia</option>
@@ -165,6 +174,7 @@
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
                                                 <option value="primary-caucus/louisiana">Louisiana</option>
                                                 <option value="primary-caucus/maine">Maine</option>
+                                                <option value="primary-caucus/maryland">Maryland</option>
                                                 <option value="primary-caucus/massachusetts">Massachusetts</option>
                                                 <option value="primary-caucus/michigan">Michigan</option>
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
@@ -173,16 +183,20 @@
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
-                                                        <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/pennsylvania">Pennsylvania</option>
+                                                        <option value="primary-caucus/rhode-island">Rhode Island</option>
+                                                <option value="primary-caucus/south-carolina">South Carolina</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
                   </div>  
@@ -258,13 +272,13 @@
      
       <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/22/bill-clinton-slams-awful-legacy-last-eight-years-claims-was-criticizing-republicans.html"><img itemprop="image" src="//a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/03/21/864/486/dem-2016-clinton_cham791280720.jpg?ve=1&tl=1" alt="Bill Clinton slams &#039;awful legacy of the last eight years&#039;, claims he was criticizing Republicans" /></a>
+    <a href="//www.foxnews.com/politics/2016/03/22/enormous-pressure-could-gop-delegates-be-bought-wooed.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/17/864/486/694940094001_4805467216001_8054d647-114b-4bbd-a6fc-5c7b2a90a6ed.jpg?ve=1&tl=1" alt="&#039;Enormous pressure&#039;: Could GOP delegates be bought, wooed?" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/22/bill-clinton-slams-awful-legacy-last-eight-years-claims-was-criticizing-republicans.html">Bill Clinton slams &#039;awful legacy of the last eight years&#039;, claims he was criticizing Republicans</a></h4>
-    <p itemprop="description">Former President Bill Clinton slammed what he called the &quot;awful legacy of the last eight years&quot; during a campaign appearance for his wife, Democratic front-runner Hillary Clinton, in Washington state Monday.</p>
+    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/22/enormous-pressure-could-gop-delegates-be-bought-wooed.html">&#039;Enormous pressure&#039;: Could GOP delegates be bought, wooed?</a></h4>
+    <p itemprop="description">With front-runner Donald Trump eyeing a narrow path to clinching the Republican nomination outright, and Ted Cruz and John Kasich’s road even slimmer, a contested GOP convention this July – and specifically the attending delegates – could decide everything. But who are the delegates? And perhaps more important for the candidates, how can they be swayed?</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T05:00:00Z">
+  <meta itemprop="datePublished" content="2016-03-22T17:23:00Z">
 </article>
 </li>
     </ul>
@@ -287,7 +301,115 @@
 <section class="sidebar-heading">
   <header>
     <h2><a href="/politics/elections/2016/presidential-primary-caucus-results">Election Data</a></h2>
+    <span class="updated"></span>
   </header>
+</section>
+<section class="results-caucus">
+  <header>
+    <h2>Today's Events</h2>
+      <div class="live-data"></div> 
+    
+  </header>
+  <div class="content">
+      <section class="state arizona" data-fips="04" data-state-code="AZ">
+      <header><h3><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></h3>
+        <div class="available-delegates">
+                            	      <div class="rep"><span>58</span> R</div>
+                              	      <div class="dem"><span>75</span> D</div>
+                            	    </div>
+      </header>
+      <div class="content data-table">
+        <div class="header">
+          <div class="votes">Votes</div>
+          <div class="percent">%</div>
+          <div class="delegates">Delegates</div>
+        </div>
+                                    <div class="row rep " data-npid="61815" data-feed="1">
+          <div class="name"><span>Cruz</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="36679" data-feed="1">
+          <div class="name"><span>Kasich</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="8639" data-feed="1">
+          <div class="name"><span>Trump</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                                  <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row dem " data-npid="1445" data-feed="1">
+          <div class="name"><span>Sanders</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                
+      </div>
+    </section>
+         
+    <section class="state utah" data-fips="49" data-state-code="UT">
+      <header><h3><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></h3>
+        <div class="available-delegates">
+                            	      <div class="rep"><span>40</span> R</div>
+                              	      <div class="dem"><span>33</span> D</div>
+                            	    </div>
+      </header>
+      <div class="content data-table">
+        <div class="header">
+          <div class="votes">Votes</div>
+          <div class="percent">%</div>
+          <div class="delegates">Delegates</div>
+        </div>
+                                    <div class="row rep " data-npid="61815" data-feed="1">
+          <div class="name"><span>Cruz</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="36679" data-feed="1">
+          <div class="name"><span>Kasich</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row rep " data-npid="8639" data-feed="1">
+          <div class="name"><span>Trump</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                                  <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                  <div class="row dem " data-npid="1445" data-feed="1">
+          <div class="name"><span>Sanders</span></div>
+          <div class="votes"><span>0</span></div>
+          <div class="percent"><span>0%</span></div>
+          <div class="delegates"><span>0</span></div>
+        </div>
+                                
+      </div>
+    </section>
+          </div>
+  <footer>
+    <div class="button">
+	  <a href="/politics/elections/2016/presidential-primary-caucus-results">See All</a>
+	</div>
+  </footer>
 </section>
   <div class="advert desktop">
     <div class="ad-container"><div class="ad gpt" id="desktop-300x600_300x250"></div></div>
@@ -308,7 +430,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/donald-trump.png" alt="Donald Trump" />
                     </div>
             <div class="info">
-              <div class="data">680</div>
+              <div class="data">681</div>
               <div class="name">Donald Trump</div>
             </div>
           </li>
@@ -317,7 +439,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
                     </div>
             <div class="info">
-              <div class="data">424</div>
+              <div class="data">425</div>
               <div class="name">Ted Cruz</div>
             </div>
           </li>
@@ -445,24 +567,24 @@
     <ul>
               <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/21/trump-clinton-battle-for-israel-vote-vow-support-in-major-washington-speeches.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/500/283/694940094001_4811159504001_307c643a-eeee-453c-8a3a-9b03dba2ec43.jpg?ve=1&tl=1" alt="Trump, Clinton battle for Israel vote, vow support in major Washington speeches" /></a>
+    <a href="//www.foxnews.com/politics/2016/03/22/trump-threat-to-house-gop-control-no-worries-says-ryan.html"><img itemprop="image" src="//a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2012/05/10/500/283/ryan_paul_120711.JPG?ve=1&tl=1" alt="Trump threat to House GOP control? No worries, says Ryan" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/trump-clinton-battle-for-israel-vote-vow-support-in-major-washington-speeches.html">Trump, Clinton battle for Israel vote, vow support in major Washington speeches</a></h4>
-    <p itemprop="description">Republican presidential candidate Donald Trump on Monday pledged his firm support for Israel -- vowing that if elected, the country would no longer be treated like a “second-class citizen” and calling Democratic rival Hillary Clinton a “total disaster” for America’s closest Middle East ally.</p>
+    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/22/trump-threat-to-house-gop-control-no-worries-says-ryan.html">Trump threat to House GOP control? No worries, says Ryan</a></h4>
+    <p itemprop="description">Some Republicans may be losing sleep over the prospects that Donald Trump could cost Republicans House control this November, but Speaker Paul Ryan says he&#039;s not one of them.</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T00:37:00Z">
+  <meta itemprop="datePublished" content="2016-03-22T16:06:00Z">
 </article>
 </li>
                 <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/21/trump-meets-with-gop-lawmakers-in-dc-urges-party-to-embrace-him.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/500/283/694940094001_4810979935001_91aa47ef-81ba-4009-9f19-77b64d5f008e.jpg?ve=1&tl=1" alt="Trump meets with GOP lawmakers in DC, urges party to ‘embrace’ him" /></a>
+    <a href="//www.foxnews.com/us/2016/03/22/belgiums-911-as-series-terror-attacks-hit-brussels.html"><img itemprop="image" src="//a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/03/22/500/283/belgium-slideshow-11.jpg?ve=1&tl=1" alt="Belgium&#039;s 9/11 as Series of Terror Attacks Hit Brussels" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/trump-meets-with-gop-lawmakers-in-dc-urges-party-to-embrace-him.html">Trump meets with GOP lawmakers in DC, urges party to ‘embrace’ him</a></h4>
-    <p itemprop="description">Republican presidential frontrunner Donald Trump met Monday in Washington with congressional Republicans and other conservative leaders, attempting to forge a relationship with party leaders while urging them to “embrace this movement.”</p>
+    <h4 itemprop="headline"><a href="//www.foxnews.com/us/2016/03/22/belgiums-911-as-series-terror-attacks-hit-brussels.html">Belgium&#039;s 9/11 as Series of Terror Attacks Hit Brussels</a></h4>
+    <p itemprop="description">Terror attacks kill at least 34 people in coordinated attacks in Belgium.</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-21T22:13:00Z">
+  <meta itemprop="datePublished" content="2016-03-22T13:16:00Z">
 </article>
 </li>
           </ul>
@@ -481,28 +603,28 @@
     <ul>
         <li class="video-ct"><article>
   <div class="m">
-    <a href="http://video.foxnews.com/v/4811365895001/trump-talks-leading-the-silent-majority-movement/?playlist_id=942851221001"><img src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811380434001_f8cbbbce-0e54-469c-a53a-de1307ec369e.jpg?ve=1&tl=1" alt="Trump talks leading the &#039;silent majority&#039; movement" /></a>
+    <a href="http://video.foxnews.com/v/4812667422001/terror-in-brussels-infiltrates-us-presidential-race/?playlist_id=942851221001"><img src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812673128001_6f7ec04b-948a-48c9-8634-a17f31beac48.jpg?ve=1&tl=1" alt="Terror in Brussels infiltrates US presidential race" /></a>
   </div>
   <div class="info">
-    <h4><a href="http://video.foxnews.com/v/4811365895001/trump-talks-leading-the-silent-majority-movement/?playlist_id=942851221001">Trump talks leading the &#039;silent majority&#039; movement</a></h4>
+    <h4><a href="http://video.foxnews.com/v/4812667422001/terror-in-brussels-infiltrates-us-presidential-race/?playlist_id=942851221001">Terror in Brussels infiltrates US presidential race</a></h4>
   </div>
 </article>
 </li>
         <li class="video-ct"><article>
   <div class="m">
-    <a href="http://video.foxnews.com/v/4811348284001/donald-trump-outlines-his-views-on-the-middle-east/?playlist_id=942851221001"><img src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811370476001_abe87c9e-bd56-4b0f-b24f-88ee6db01066.jpg?ve=1&tl=1" alt="Donald Trump outlines his views on the Middle East" /></a>
+    <a href="http://video.foxnews.com/v/4812621520001/rep-duncan-hunter-trump-wants-nato-to-pull-its-own-weight/?playlist_id=942851221001"><img src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812626779001_76b233f5-2297-445a-808b-f2174540f1c9.jpg?ve=1&tl=1" alt="Rep. Duncan Hunter: Trump wants NATO to pull its own weight" /></a>
   </div>
   <div class="info">
-    <h4><a href="http://video.foxnews.com/v/4811348284001/donald-trump-outlines-his-views-on-the-middle-east/?playlist_id=942851221001">Donald Trump outlines his views on the Middle East</a></h4>
+    <h4><a href="http://video.foxnews.com/v/4812621520001/rep-duncan-hunter-trump-wants-nato-to-pull-its-own-weight/?playlist_id=942851221001">Rep. Duncan Hunter: Trump wants NATO to pull its own weight</a></h4>
   </div>
 </article>
 </li>
         <li class="video-ct"><article>
   <div class="m">
-    <a href="http://video.foxnews.com/v/4811409252001/sheriff-arpaio-and-jan-brewer-voice-their-support-of-trump/?playlist_id=942851221001"><img src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811414656001_036dad70-5e4f-4f5e-9a0c-9f5566b3d6d3.jpg?ve=1&tl=1" alt="Sheriff Arpaio and Jan Brewer voice their support of Trump" /></a>
+    <a href="http://video.foxnews.com/v/4812555965001/sanders-calls-for-increased-intelligence-gathering-sharing/?playlist_id=942851221001"><img src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812566963001_83eb1376-f2aa-434d-b5b0-1ee6ea0dbd51.jpg?ve=1&tl=1" alt="Sanders calls for increased intelligence gathering, sharing" /></a>
   </div>
   <div class="info">
-    <h4><a href="http://video.foxnews.com/v/4811409252001/sheriff-arpaio-and-jan-brewer-voice-their-support-of-trump/?playlist_id=942851221001">Sheriff Arpaio and Jan Brewer voice their support of Trump</a></h4>
+    <h4><a href="http://video.foxnews.com/v/4812555965001/sanders-calls-for-increased-intelligence-gathering-sharing/?playlist_id=942851221001">Sanders calls for increased intelligence gathering, sharing</a></h4>
   </div>
 </article>
 </li>
@@ -561,47 +683,28 @@
            
            
            
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
                   
       <li class="article-ct">
         <div class="date">
           <span>
-              JUL                </span>
+              APR                </span>
           <span>
-              18                </span>
+              5                </span>
         </div>
         <div class="info">
           <h4>
-                        Republican National Convention, Cleveland                        </h4>
+                          <a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin Presidential Primary</a>
+                        </h4>
           <p>
                 </p>
+                <div class="button"><a href="/politics/elections/2016/primary-caucus/wisconsin">View State</a></div>
               </div>
       </li>
        
          
+           
+           
+           
                 </ul>
   </div>
 </section>
@@ -620,6 +723,50 @@
   <div class="OUTBRAIN" data-fbk="foxSFelection" data-src="http://www.foxnews.com/politics/elections/2016/presidential-election-headquarters" data-widget-id data-ob-template="foxnews"></div>
     <ul>
                   <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
+  <div class="m">
+    <a href="//www.foxnews.com/politics/2016/03/22/trump-pitching-his-dc-hotel-tells-press-hes-winning-over-establishment.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/2016/03/21/276/156/032116_Kurtz_Trump.jpg?ve=1&tl=1" alt="Trump, pitching his DC hotel, tells press he&#039;s winning over the establishment" /></a>
+  </div>
+  <div class="info">
+    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/22/trump-pitching-his-dc-hotel-tells-press-hes-winning-over-establishment.html">Trump, pitching his DC hotel, tells press he&#039;s winning over the establishment</a></h4>
+    <p itemprop="description">Donald Trump had just finished a news conference in the soaring atrium of what Washingtonians still think of as the Old Post Office, the historic Pennsylvania Avenue edifice that he is renovating into what he called “one of the great hotels in the world,” with “the largest luxury ballroom in the Washington area.”</p>
+  </div>
+  <meta itemprop="datePublished" content="2016-03-22T09:00:00Z">
+</article>
+</li>
+                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
+  <div class="m">
+    <a href="//www.foxnews.com/politics/2016/03/22/bill-clinton-slams-awful-legacy-last-eight-years-claims-was-criticizing-republicans.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/2016/03/22/276/156/032216_clinton_speech_1280.jpg?ve=1&tl=1" alt="Bill Clinton slams &#039;awful legacy of the last eight years&#039;, claims he was criticizing Republicans" /></a>
+  </div>
+  <div class="info">
+    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/22/bill-clinton-slams-awful-legacy-last-eight-years-claims-was-criticizing-republicans.html">Bill Clinton slams &#039;awful legacy of the last eight years&#039;, claims he was criticizing Republicans</a></h4>
+    <p itemprop="description">Former President Bill Clinton slammed what he called the &quot;awful legacy of the last eight years&quot; during a campaign appearance for his wife, Democratic front-runner Hillary Clinton, in Washington state Monday.</p>
+  </div>
+  <meta itemprop="datePublished" content="2016-03-22T05:00:00Z">
+</article>
+</li>
+                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
+  <div class="m">
+    <a href="//www.foxnews.com/politics/2016/03/21/trump-clinton-battle-for-israel-vote-vow-support-in-major-washington-speeches.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4811159504001_307c643a-eeee-453c-8a3a-9b03dba2ec43.jpg?ve=1&tl=1" alt="Trump, Clinton battle for Israel vote, vow support in major Washington speeches" /></a>
+  </div>
+  <div class="info">
+    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/trump-clinton-battle-for-israel-vote-vow-support-in-major-washington-speeches.html">Trump, Clinton battle for Israel vote, vow support in major Washington speeches</a></h4>
+    <p itemprop="description">Republican presidential candidate Donald Trump on Monday pledged his firm support for Israel -- vowing that if elected, the country would no longer be treated like a “second-class citizen” and calling Democratic rival Hillary Clinton a “total disaster” for America’s closest Middle East ally.</p>
+  </div>
+  <meta itemprop="datePublished" content="2016-03-22T00:37:00Z">
+</article>
+</li>
+                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
+  <div class="m">
+    <a href="//www.foxnews.com/politics/2016/03/21/trump-meets-with-gop-lawmakers-in-dc-urges-party-to-embrace-him.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4810979935001_91aa47ef-81ba-4009-9f19-77b64d5f008e.jpg?ve=1&tl=1" alt="Trump meets with GOP lawmakers in DC, urges party to ‘embrace’ him" /></a>
+  </div>
+  <div class="info">
+    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/trump-meets-with-gop-lawmakers-in-dc-urges-party-to-embrace-him.html">Trump meets with GOP lawmakers in DC, urges party to ‘embrace’ him</a></h4>
+    <p itemprop="description">Republican presidential frontrunner Donald Trump met Monday in Washington with congressional Republicans and other conservative leaders, attempting to forge a relationship with party leaders while urging them to “embrace this movement.”</p>
+  </div>
+  <meta itemprop="datePublished" content="2016-03-21T22:13:00Z">
+</article>
+</li>
+                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
     <a href="//www.foxnews.com/politics/2016/03/21/utah-gop-allowing-online-voting-amid-cybersecurity-concerns.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4810539360001_d1b643f9-b62c-488a-b958-b55a07de0fef.jpg?ve=1&tl=1" alt="Utah GOP allowing online voting, amid cybersecurity concerns" /></a>
   </div>
@@ -683,50 +830,6 @@
     <p itemprop="description">Democratic presidential front-runner Hillary Clinton openly challenged Donald Trump’s commitment to the U.S.-Israel alliance during an address Monday before the country’s most influential pro-Israel group, slamming his call to be “neutral” in peace talks and offering what could be a preview of the general election battle.</p>
   </div>
   <meta itemprop="datePublished" content="2016-03-21T14:42:00Z">
-</article>
-</li>
-                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
-  <div class="m">
-    <a href="//www.foxnews.com/opinion/2016/03/21/goodwin-america-its-time-for-trump-revolution.html"><img itemprop="image" src="//a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/03/17/276/156/gop-2016-trump_cham431280720.jpg?ve=1&tl=1" alt="Goodwin: America, it&#039;s time for a Trump revolution" /></a>
-  </div>
-  <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/opinion/2016/03/21/goodwin-america-its-time-for-trump-revolution.html">Goodwin: America, it&#039;s time for a Trump revolution</a></h4>
-    <p itemprop="description">My gut tells me much of the contempt for Trump reflects contempt for his working-class white support. It is one prejudice gentry liberals and gentry conservatives share.</p>
-  </div>
-  <meta itemprop="datePublished" content="2016-03-21T13:12:00Z">
-</article>
-</li>
-                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
-  <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/21/trump-reportedly-to-meet-with-top-republicans-in-washington.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/21/276/156/694940094001_4810927257001_27b412e4-a0d2-4be1-8a6b-f2e50b4c99fd.jpg?ve=1&tl=1" alt="Trump reportedly to meet with top Republicans in Washington" /></a>
-  </div>
-  <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/trump-reportedly-to-meet-with-top-republicans-in-washington.html">Trump reportedly to meet with top Republicans in Washington</a></h4>
-    <p itemprop="description">Donald Trump will reportedly meet Monday in Washington with nearly two dozen influential Republicans, with the apparent hope of improving relations with the GOP establishment.</p>
-  </div>
-  <meta itemprop="datePublished" content="2016-03-21T05:00:00Z">
-</article>
-</li>
-                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
-  <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/21/money-trail-cruz-trounces-kasich-sanders-outraises-clinton-in-february.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/2016/03/19/276/156/031916_redeye_trumpcruz_1280.jpg?ve=1&tl=1" alt="The money trail: Cruz trounces Kasich, Sanders outraises Clinton in February" /></a>
-  </div>
-  <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/money-trail-cruz-trounces-kasich-sanders-outraises-clinton-in-february.html">The money trail: Cruz trounces Kasich, Sanders outraises Clinton in February</a></h4>
-    <p itemprop="description">Wealthy donors handed over $25 million last month to an outside group backing then-Republican presidential candidate Marco Rubio, and the flood of money helped pay for thousands of television advertisements.</p>
-  </div>
-  <meta itemprop="datePublished" content="2016-03-21T05:00:00Z">
-</article>
-</li>
-                            <li class="article-ct"><article itemtype="http://schema.org/NewsArticle">
-  <div class="m">
-    <a href="//www.foxnews.com/politics/2016/03/21/trump-says-hell-release-list-potential-supreme-court-justices.html"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/20/276/156/694940094001_4809360965001_c9120f3d-9dd8-491f-9015-0178d738d517.jpg?ve=1&tl=1" alt="Trump says he&#039;ll release list of potential Supreme Court justices" /></a>
-  </div>
-  <div class="info">
-    <h4 itemprop="headline"><a href="//www.foxnews.com/politics/2016/03/21/trump-says-hell-release-list-potential-supreme-court-justices.html">Trump says he&#039;ll release list of potential Supreme Court justices</a></h4>
-    <p itemprop="description">Republican presidential front-runner Donald Trump says he&#039;s planning to release a list of judges that he would select from to fill Supreme Court vacancies if he&#039;s elected president in an effort to ease concerns about his picks.</p>
-  </div>
-  <meta itemprop="datePublished" content="2016-03-21T04:22:00Z">
 </article>
 </li>
             </ul>

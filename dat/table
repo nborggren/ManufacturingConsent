@@ -19,29 +19,28 @@
 
         <!-- meta tags for this project -->
         <!-- SEO headline rewritten to accomidate keywords -->
-        <title>2016 Presidential Money Race: Fourth Quarter Filings by Candidate Campaign</title>
+        <title>2016 Presidential Money Race: Third Quarter Filings by Candidate Campaign</title>
 
         <!-- What flavor of Bloomberg will this graphic be on? -->
         <meta property="og:site_name" content="Bloomberg.com"/>
         <!-- What is the main headline? -->
-        <meta property="og:title" content="2016 Presidential Money Race: Fourth Quarter Filings">
+        <meta property="og:title" content="2016 Presidential Money Race: Third Quarter Filings">
         <!-- What is the tweet / share statement? -->
-        <meta property="og:longTitle" content="Track the Presidential money race as candidates and super-PACs reveal what they've raised and spent">
+        <meta property="og:longTitle" content="Track the Presidential money race as candidates reveal what they've raised and spent">
         <!-- What is the share-able image -->
         <!-- Image aspect ratio: 1.91:1 Image Dimensions: 1200x630px -->
-        <meta property="og:image" content="http://www.bloomberg.com/politics/graphics/2016-january-fec-filings/table/img/fecpromo-fb2.png"/>
+        <meta property="og:image" content="http://www.bloomberg.com/politics/graphics/2015-october-fec-filings/table/img/fecpromo-fb2.png"/>
         <!-- These two can be the dek text -->
-        <meta property="og:description" content="This interactive graphic tracks the Presidential money race.  See what the candidates and super-PACs have raised and spent"/>
+        <meta property="og:description" content="This interactive graphic tracks the Presidential money race.  See what the candidates have raised and spent"/>
         <meta name="description" content="">
         <!-- Some keywords if you want -->
-        <meta name="keywords" content="Bloomberg Graphics Presidential election 2016 GOP Democrats  super-PACs Campaign fund raising Campaign finance Federal Election Commission FEC"/>
+        <meta name="keywords" content="Bloomberg Graphics"/>
         <!-- The full link to this graphic -->
-        <meta property="og:url" content="http://www.bloomberg.com/politics/graphics/2016-january-fec-filings/table/"/>
+        <meta property="og:url" content="http://www.bloomberg.com/politics/graphics/2015-october-fec-filings/table/"/>
 
         <!-- Parsely tracking -->
         <meta name="parsely-type" content="post" data-ephemeral="true">
         <meta name="parsely-section" content="graphics" data-ephemeral="true">
-        <meta name="parsely-author" content="Adam Pearce,Mira Rojanasakul" data-ephemeral="true">
 
         <meta property="og:type" content="article"/>
         <meta name="twitter:card" content="summary"/>
@@ -106,7 +105,7 @@
 
         <div id="inner-content">
 
-          <div class="article-title copywidth">Presidential Money Race: Fourth Quarter Filings
+          <div class="article-title copywidth">2016 Presidential Money Race: Third Quarter Filings
 </div>
           <div class="bydek copywidth">
             By
@@ -116,60 +115,68 @@
             <a href="https://twitter.com/rjnskl" alt="@rjnskl" target="blank" class="t-hide">
               Mira Rojanasakul
             </a>         
-            <div>January 31, 2016</div>
+            <div>October 15, 2015</div>
         </div>
         <div class="clearboth"></div>
 
 
           <section class="copyblock copywidth">
-            <p>On Jan. 31, presidential candidates reported how much they raised and spent in the fourth quarter of 2015. Super-PACs also filed their third and fourth quarter fundraising and spending. Here are the latest standings.</p>
+            <p>Candidates for president have until the end of the day today to reveal how much they raised and spent in the third quarter. We'll update this tally as the results come in throughout the day.</p>
           </section>
 
 
-<!--           <h1>Fourth Quarter FEC filings</h1> -->
+<!--           <h1>Third Quarter FEC filings</h1> -->
 
           <table id="candidate-table" class="ranking-table">
           <thead>
               <tr>
-                  <th data-sort-key="name" class='name'>
-                    <div class='top-line'>Candidates </div>
+                  <th data-sort-key="name">Candidates 
                     <i class="fa"></i>
                   </th>
-                  <th data-sort-key="campRaised" class="campRaised">
-                    <div class='top-line'>Campaign <span class='period'>Oct. 1 - Dec. 31</span></div>
-                  
-                    Raised
+                  <th data-sort-key="updatedSort">
+                    <span class='timestamp'>update time</span>
                     <i class="fa"></i>
                   </th>
-                  <th data-sort-key="campSpent" class='campSpent'>Spent
+                  <th data-sort-key="raisedQ3" class="raised">Raised in Q3
+                    <span class='period'>July 1 - Sept. 30</span>
                     <i class="fa"></i>
                   </th>
-                  <th data-sort-key="campCash" class='campCash'>Cash on Hand
+                  <th data-sort-key="spentQ3">Spent in Q3
+                    <span class='period'>July 1 - Sept. 30</span>
                     <i class="fa"></i>
                   </th>
-                  <th data-sort-key="pacRaised" class="pacRaised">
-                    <div class='top-line'>Super-PACs<span class='period'>July 1 - Dec. 31</span></div>
-                    Raised
+                  <th data-sort-key="cash">Cash on Hand
+                    <span class='period'>As of Sept. 30</span>
                     <i class="fa"></i>
                   </th>
-                  <th data-sort-key="pacSpent" class='pacSpent'>Spent
+                  <th data-sort-key="totalRaisedCandidate" class="">Total Raised by Candidate 
+                    <span class='period'>As of Sept. 30</span>
                     <i class="fa"></i>
                   </th>
-                  <th data-sort-key="pacCash" class='pacCash'>Cash on Hand
-                    <i class="fa"></i>
-                  </th>
+                  <th data-sort-key="superPAC" class="pac-col">Raised by SuperPACs/527s 
+                    <span class='period'>As of June 30</span>
 
-
-                  <th data-sort-key="total" class="total"><div class='top-line'>Total <span class='period'>Jan 1 - Dec. 31.</span></div> 
-                    Raised 
+                    <i class="fa"></i>
+                  </th>
+                  <th data-sort-key="totalRaised" class="total-col">Total Raised 
                     <i class="fa"></i>
                   </th>
               </tr>
           </thead>
+          <colgroup>
+                <col style="width:8%">
+                <col style="width:3%" class='tstamp-col'>
+                <col style="width:8%">
+                <col style="width:8%" class='cash-col'>
+                <col style="width:8%" class='cash-col'>
+                <col style="width:8%">
+                <col style="width:8%" class='pac-col'>
+                <col style="width:8%" class='pac-col'>
+          </colgroup>
           <tbody></tbody>
           </table>
           <div class='table-footnote'>
-            <p>Chafee, Graham, Jindal, Lessig, Pataki, Perry, Walker, and Webb have dropped out of the race. </p>
+            <p>Rick Perry exited the race on Sept. 11, and Scott Walker dropped out Sept. 21, 2015</p>
           </div>
 
 
@@ -186,8 +193,6 @@
         </div><!-- id="inner-content" -->
 
         <ul class="t-hide bbg-recirculator index-page__items index-page__top-items"></ul>
-
-        <div class='tooltip'></div>
 
 
         <!-- Optional Scripts-->
@@ -213,12 +218,12 @@
           // //Required: Uncomment config block and fill this out
           // //bb_brand will always have bbiz and optionally one of the following: bpol, bmkt, bpur, btech, bview
           var config = {
-            'name': 'blp.visual-data:graphics-2016-january-fec-filings/table',
+            'name': 'blp.visual-data:graphics-2015-october-fec-filings/table',
             'bb_brand': 'bbiz',
-            'bb_slug': '2016-january-fec-filings/table',
+            'bb_slug': '2015-october-fec-filings/table',
             'bb_author': 'Adam Pearce,Mira Rojanasakul',
-            'bb_cg_3': '2016 Presidential Money Race: Fourth Quarter Filings',
-            'bb_groupId': 'visual-data/2016-january-fec-filings/table',
+            'bb_cg_3': '2016 Presidential Money Race: Third Quarter Filings',
+            'bb_groupId': 'visual-data/2015-october-fec-filings/table',
             'bb_pub_d': '2015-01-01T00:15:00+04:00',
             'correlator': (new String(Math.random()).substring(2,11)),
             'ad_code': '', //don't forget leading '/5262' - /5262/business/insights/focus_on_mba

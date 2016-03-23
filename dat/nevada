@@ -16,7 +16,7 @@
 
 <meta name='livefyreconfig' collectionMeta='eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IjIwMTYgU3RhdGUgUHJpbWFyaWVzIGFuZCBDYXVjdXNlcyAtIE5FVkFEQSIsInVybCI6Imh0dHA6XC9cL3d3dy5mb3huZXdzLmNvbVwvcG9saXRpY3NcL2VsZWN0aW9uc1wvMjAxNlwvcHJpbWFyeS1jYXVjdXNcL25ldmFkYSIsInRhZ3MiOiIiLCJjaGVja3N1bSI6ImU2YmM2NTE4YmEyNmViY2EzN2Y4ODViZTAyNjZlNzEwIiwiYXJ0aWNsZUlkIjoiMjAxNi1zdGF0ZS1wcmltYXJpZXMtYW5kLWNhdWN1c2VzLS0tbmV2YWRhIn0.Fgwce2JmPjz3nV-Vsg1GGbsX-IjwWYOAukJxn9P5pSA' checksum='e6bc6518ba26ebca37f885be0266e710' articleId='2016-state-primaries-and-caucuses---nevada' siteId='310256'/>
 <meta name='parsely-metadata' content='{"title": "2016 State Primaries and Caucuses - NEVADA", "link": "//www.foxnews.com/politics/elections/2016/primary-caucus/nevada", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_primary_state", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "2016 State Primaries and Caucuses - NEVADA", "link": "//www.foxnews.com/politics/elections/2016/primary-caucus/nevada", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary_state", "pub_date": "2016-03-22 1:42:04 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "2016 State Primaries and Caucuses - NEVADA", "link": "//www.foxnews.com/politics/elections/2016/primary-caucus/nevada", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary_state", "pub_date": "2016-03-22 5:24:27 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
@@ -103,7 +103,7 @@
                   <a href="/politics/elections/2016/presidential-election-headquarters">Elections Home</a>
                 </li>
                           <li class="">
-                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary and Caucus Results</a>
+                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary &amp; Caucus Results</a>
                 </li>
                           <li class="dropdown desktop active ">
                   <a href="#">Results By State</a>
@@ -113,6 +113,8 @@
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/georgia">Georgia</a></li>
@@ -124,6 +126,7 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/louisiana">Louisiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/maine">Maine</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/massachusetts">Massachusetts</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/michigan">Michigan</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
@@ -132,16 +135,20 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
-                                                    <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
+                                                    <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
@@ -154,6 +161,8 @@
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
+                                                <option value="primary-caucus/connecticut">Connecticut</option>
+                                                <option value="primary-caucus/delaware">Delaware</option>
                                                 <option value="primary-caucus/district-of-columbia">District Of Columbia</option>
                                                 <option value="primary-caucus/florida">Florida</option>
                                                 <option value="primary-caucus/georgia">Georgia</option>
@@ -165,6 +174,7 @@
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
                                                 <option value="primary-caucus/louisiana">Louisiana</option>
                                                 <option value="primary-caucus/maine">Maine</option>
+                                                <option value="primary-caucus/maryland">Maryland</option>
                                                 <option value="primary-caucus/massachusetts">Massachusetts</option>
                                                 <option value="primary-caucus/michigan">Michigan</option>
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
@@ -173,16 +183,20 @@
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
-                                                        <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/pennsylvania">Pennsylvania</option>
+                                                        <option value="primary-caucus/rhode-island">Rhode Island</option>
+                                                <option value="primary-caucus/south-carolina">South Carolina</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
                   </div>  

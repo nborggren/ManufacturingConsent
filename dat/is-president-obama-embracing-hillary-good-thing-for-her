@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	    <!-- This page is generated from portal v8-www7 -->
+	    <!-- This page is generated from portal v8-www5 -->
 	    <script type="text/javascript">
 	var FOX_pagedescriptor = window.FOX_pagedescriptor = {breadcrumb:
 	"/transcript", isMgmt: "false", site: "fn2" };
@@ -79,7 +79,14 @@
 
 <script> FOX.site.topInit(); </script><link rel="apple-touch-icon" href="http://global.fncstatic.com/static/v/fn2/img/transcript/72x72-foxnews-transcript.png"> 	
 			<meta name="apple-mobile-web-app-title" content="Transcript">	
-		</head>
+		
+                  <script type="text/javascript">
+                    var w=window;
+                    if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"218742",ustr:"fs",originlat:0,clientrtt:14,ghostip:"184.25.56.192",
+                    ipv6:false,pct:10,xhrtest:false,clientip:"71.202.68.108",requestid:"bd4899bf",protocol:"",blver:5,akM:"g",akN:"",akTT:"O",akTX:"1",akTI:"bd4899bf",ai:"177077"};(function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,
+                    a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                  </script>
+                  </head>
 	<body class="transcript fn2">
 		<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/"> 
 <link rel="schema.dcterms" href="http://purl.org/dc/terms/"> 
@@ -573,8 +580,8 @@
 	</div>
 <script type="text/javascript"> jQuery.ad.pre(); FOX.site.bottomInit();</script>
 			<noscript>
- <img src="http://metrics.foxnews.com/b/ss/foxnews/1/H22.1--NS/1458625574165?pageName=noscript:transcript:front:article&g=http://www.foxnews.com/transcript/2016/01/25/is-president-obama-embracing-hillary-good-thing-for-her/" style="display:none;" width="0" height="0" border="0" alt="">
- <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-801796h&amp;cg=0&amp;cc=1&amp;si=http://www.foxnews.com/transcript/2016/01/25/is-president-obama-embracing-hillary-good-thing-for-her/&amp;ts=noscript&amp;rnd=1458625574165" style="display:none;" width="0" height="0" border="0" alt="">
+ <img src="http://metrics.foxnews.com/b/ss/foxnews/1/H22.1--NS/1458681915562?pageName=noscript:transcript:front:article&g=http://www.foxnews.com/transcript/2016/01/25/is-president-obama-embracing-hillary-good-thing-for-her/" style="display:none;" width="0" height="0" border="0" alt="">
+ <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-801796h&amp;cg=0&amp;cc=1&amp;si=http://www.foxnews.com/transcript/2016/01/25/is-president-obama-embracing-hillary-good-thing-for-her/&amp;ts=noscript&amp;rnd=1458681915562" style="display:none;" width="0" height="0" border="0" alt="">
  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9013181&c3=&c4=http://www.foxnews.com/transcript/2016/01/25/is-president-obama-embracing-hillary-good-thing-for-her/&c5=&c6=&c15=&cv=2.2&cj=1" style="display:none;" width="0" height="0" border="0" alt="">
 </noscript> 	
 </body>
