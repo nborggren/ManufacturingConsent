@@ -83,8 +83,7 @@
               <div class="breaking-banner_item">
                 <div class="is-breaking">
                   <div class="breaking-banner_txt">
-                          <p><a href="http://www.msnbc.com/live-online/watch/live-bill-clinton-headlines-emily-s-list-gala-664655939768" rel="nofollow">Watch Live: Bill Clinton Headlines Emily's List Gala</a></p>
-   
+                          <p><a href="http://www.nbcnews.com/video/watch-live-white-house-press-briefing-322524227825"> Watch Live: White House Press Briefing </a></p>  
                                       </div>
                   <div class="breaking-banner_sub-item">
                     <a href="http://secure.nbcnews.com/_tps/_accounts/msnbc/newsletters">Get Alerts
@@ -121,10 +120,10 @@
                 <ul class="nav-bar nav-bar_collapse02">
                   <li class="nav-sub-title nav-sub-title_storyline">Ongoing:</li>
                     <li>
-                      <a data-target="#ongoing-0NaN-section" href="/storyline/europes-border-crisis">Europe&#x27;s Border Crisis</a>
+                      <a data-target="#ongoing-0NaN-section" href="/storyline/paris-terror-attacks">Paris Terror Attacks</a>
                     </li>
                     <li>
-                      <a data-target="#ongoing-0NaN-section" href="/storyline/missing-nigeria-schoolgirls">Missing Nigeria Schoolgirls</a>
+                      <a data-target="#ongoing-0NaN-section" href="/storyline/charleston-church-shooting">Charleston Church Shooting</a>
                     </li>
                 </ul>
               </div>
@@ -405,8 +404,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_662897219766_5" class="js-video-placeholder" data-mpxid="662897219766" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video662897219766_5" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_662897219766_13" class="js-video-placeholder" data-mpxid="662897219766" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video662897219766_13" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -432,17 +431,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper662897219766_5", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper662897219766_13", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx662897219766_5" id="662897219766_5" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx662897219766_13" id="662897219766_13" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx662897219766_5">Manafort: Cruz Camp Using Gestapo Tactics</span></strong>
+                            <strong><span id="title_video_mpx662897219766_13">Manafort: Cruz Camp Using Gestapo Tactics</span></strong>
                                   <span>1:38</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper662897219766_5 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper662897219766_13 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -453,7 +452,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Broadcast","mpxId":"662897219766","guid":"mtp_gestapo_160410","pubDate":"2016-04-10 15:48:05 Z","expirationDate":"2046-04-10 15:48:21 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Manafort: Cruz Camp Using Gestapo Tactics","description":"&quot;There's the law, there's ethics, and there's getting votes,&quot; Paul Manafort, Donald Trump's Convention Manager, says on recruiting delegates.","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-04-10T13-11-08-066Z--1280x720.jpg","source":"Meet the Press","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/meet-the-press/video/manafort-cruz-camp-using-gestapo-tactics-662897219766","shortUrl":"http://nbcnews.to/25SQgJR","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_18424744","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=mtp_gestapo_160410","videoAssets":[{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/gAACjzQu_mO2?mbr=true","width":"640","height":"360","bitRate":"981092","privateUrl":null,"duration":"98.234","durationISO":"PT1M38.234S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/gYdGT1bPr4Sy?mbr=true","width":"426","height":"240","bitRate":"543859","privateUrl":null,"duration":"98.234","durationISO":"PT1M38.234S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/GxivHzV8gJOG?mbr=true","width":"854","height":"480","bitRate":"1635132","privateUrl":null,"duration":"98.267","durationISO":"PT1M38.267S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/LHXCiB_mQk69?mbr=true","width":"1280","height":"720","bitRate":"3380545","privateUrl":null,"duration":"98.267","durationISO":"PT1M38.267S"}],"video_playlists":[{"playlist_id":"nnd_18424744","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":98,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT1M38.267S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/169p169/2016-04-10T13-09-00.567Z--98.233.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/381/55/2016-04-10T13-09-00.567Z--98.233.mp4.vtt"}},
-                            placeHolderID : 'video_mpx_662897219766_5',
+                            placeHolderID : 'video_mpx_662897219766_13',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false
@@ -526,8 +525,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_663069763969_5" class="js-video-placeholder" data-mpxid="663069763969" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video663069763969_5" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_663069763969_13" class="js-video-placeholder" data-mpxid="663069763969" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video663069763969_13" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -553,17 +552,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper663069763969_5", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper663069763969_13", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx663069763969_5" id="663069763969_5" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx663069763969_13" id="663069763969_13" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx663069763969_5">Boston Globe Takes Front Page Jab at Trump With Fake Article</span></strong>
+                            <strong><span id="title_video_mpx663069763969_13">Boston Globe Takes Front Page Jab at Trump With Fake Article</span></strong>
                                   <span>2:31</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper663069763969_5 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper663069763969_13 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -574,7 +573,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Broadcast","mpxId":"663069763969","guid":"nn_jra_GOP_trump_160410","pubDate":"2016-04-10 22:34:02 Z","expirationDate":"2024-12-31 23:59:00 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Boston Globe Takes Front Page Jab at Trump With Fake Article","description":"Donald Trump is refining his campaign as the front-runner fights for delegates and tries to lock up the nomination before the Republican convention this summer.","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-04-10T22-35-45-033Z--1280x720.jpg","source":"Nightly News","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/nightly-news/video/boston-globe-takes-front-page-jab-at-trump-with-fake-article-663069763969","shortUrl":"http://nbcnews.to/20tgHSg","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nn_politics","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=nn_jra_GOP_trump_160410","videoAssets":[{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/cpKHpfaLbLwg?mbr=true","width":"640","height":"360","bitRate":"984952","privateUrl":null,"duration":"151.567","durationISO":"PT2M31.567S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/rus7PeSQTB8U?mbr=true","width":"1280","height":"720","bitRate":"3402191","privateUrl":null,"duration":"151.601","durationISO":"PT2M31.601S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/QcOM_K3FBmOU?mbr=true","width":"426","height":"240","bitRate":"545406","privateUrl":null,"duration":"151.567","durationISO":"PT2M31.567S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/sBeZhIseJ_Bz?mbr=true","width":"854","height":"480","bitRate":"1644925","privateUrl":null,"duration":"151.601","durationISO":"PT2M31.601S"}],"video_playlists":[{"playlist_id":"nn_politics","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":151,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT2M31.601S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/784p784/2016-04-10T22-34-02.533Z--151.567.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/545/619/2016-04-10T22-34-02.533Z--151.567.mp4.vtt"}},
-                            placeHolderID : 'video_mpx_663069763969_5',
+                            placeHolderID : 'video_mpx_663069763969_13',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false
@@ -637,8 +636,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_662898243935_5" class="js-video-placeholder" data-mpxid="662898243935" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video662898243935_5" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_662898243935_13" class="js-video-placeholder" data-mpxid="662898243935" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video662898243935_13" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -664,17 +663,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper662898243935_5", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper662898243935_13", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx662898243935_5" id="662898243935_5" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx662898243935_13" id="662898243935_13" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx662898243935_5">Paul Manafort: &#x27;Donald Trump Is Running This Campaign&#x27;</span></strong>
+                            <strong><span id="title_video_mpx662898243935_13">Paul Manafort: &#x27;Donald Trump Is Running This Campaign&#x27;</span></strong>
                                   <span>1:11</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper662898243935_5 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper662898243935_13 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -685,7 +684,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Broadcast","mpxId":"662898243935","guid":"mtp_manaforttrump_160410","pubDate":"2016-04-10 15:48:40 Z","expirationDate":"2046-04-10 15:48:53 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Paul Manafort: 'Donald Trump Is Running This Campaign'","description":"Donald Trump's Convention Manager Paul Manafort discusses the inside of the Trump campaign, saying that &quot;a more traditional campaign has to take place&quot; as the race gets closer to the end.","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-04-10T13-08-02-433Z--1280x720.jpg","source":"Meet the Press","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/meet-the-press/video/paul-manafort-donald-trump-is-running-this-campaign-662898243935","shortUrl":"http://nbcnews.to/1SXPiVy","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_18424744","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=mtp_manaforttrump_160410","videoAssets":[{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/4h4rOGls2C_g?mbr=true","width":"1280","height":"720","bitRate":"3370766","privateUrl":null,"duration":"71.767","durationISO":"PT1M11.767S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/QGbYDEZgJTVd?mbr=true","width":"854","height":"480","bitRate":"1630546","privateUrl":null,"duration":"71.767","durationISO":"PT1M11.767S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/thqSCoviuAzN?mbr=true","width":"640","height":"360","bitRate":"980287","privateUrl":null,"duration":"71.734","durationISO":"PT1M11.734S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/ybUuoK4ElDq3?mbr=true","width":"426","height":"240","bitRate":"543432","privateUrl":null,"duration":"71.734","durationISO":"PT1M11.734S"}],"video_playlists":[{"playlist_id":"nnd_18424744","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":71,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT1M11.767S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/169p169/2016-04-10T13-07-04.033Z--71.734.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/382/31/2016-04-10T13-07-04.033Z--71.734.mp4.vtt"}},
-                            placeHolderID : 'video_mpx_662898243935_5',
+                            placeHolderID : 'video_mpx_662898243935_13',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false
