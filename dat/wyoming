@@ -16,12 +16,12 @@
 
 <meta name='livefyreconfig' collectionMeta='eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IjIwMTYgU3RhdGUgUHJpbWFyaWVzIGFuZCBDYXVjdXNlcyAtIFdZT01JTkciLCJ1cmwiOiJodHRwOlwvXC93d3cuZm94bmV3cy5jb21cL3BvbGl0aWNzXC9lbGVjdGlvbnNcLzIwMTZcL3ByaW1hcnktY2F1Y3VzXC93eW9taW5nIiwidGFncyI6IiIsImNoZWNrc3VtIjoiM2I1MDMwMWZhZjkzZGI4MzdlOGVlNGU3ZjcwOTA4OWEiLCJhcnRpY2xlSWQiOiIyMDE2LXN0YXRlLXByaW1hcmllcy1hbmQtY2F1Y3VzZXMtLS13eW9taW5nIn0.AvDq8DWUIAjg1kZfy2p0C0os-UMRYdyT8VnuBl63Fv8' checksum='3b50301faf93db837e8ee4e7f709089a' articleId='2016-state-primaries-and-caucuses---wyoming' siteId='310256'/>
 <meta name='parsely-metadata' content='{"title": "2016 State Primaries and Caucuses - WYOMING", "link": "//www.foxnews.com/politics/elections/2016/primary-caucus/wyoming", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_primary_state", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "2016 State Primaries and Caucuses - WYOMING", "link": "//www.foxnews.com/politics/elections/2016/primary-caucus/wyoming", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary_state", "pub_date": "2016-03-22 1:47:44 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "2016 State Primaries and Caucuses - WYOMING", "link": "//www.foxnews.com/politics/elections/2016/primary-caucus/wyoming", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary_state", "pub_date": "2016-04-13 7:37:35 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
 <meta name="dc.publisher" content="FOX News" />
-<meta name="dc.date" content="2016-03-22" />
+<meta name="dc.date" content="2016-04-13" />
 <meta name="dc.format" scheme="dcterms.IMT" content="text/html" />
 <meta name="dc.title" lang="en" content="2016 State Primaries and Caucuses - WYOMING" />
 <meta name="dc.description" content="Stay in the know for the upcoming primaries and caucuses: WYOMING." />
@@ -49,7 +49,14 @@
 <script src="//global.fncstatic.com/static/v/all/js/ag.base.js"></script>
 <script src="//global.fncstatic.com/static/isa/core.js"></script>
 <script src="//global.fncstatic.com/static/p/elections/2016/js/lib/ag.app.js"></script>
-</head>
+
+                  <script type="text/javascript">
+                    var w=window;
+                    if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"218742",ustr:"cs",originlat:0,clientrtt:18,ghostip:"184.25.56.207",
+                    ipv6:false,pct:10,xhrtest:false,clientip:"71.202.68.108",requestid:"63725d7",protocol:"",blver:5,akM:"g",akN:"",akTT:"O",akTX:"1",akTI:"63725d7",ai:"177077"};(function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,
+                    a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                  </script>
+                  </head>
 <body class="elections-2016 state-landing single-state v2"  data-page-id="elections-2016-primaries" data-state-code="WY" data-state-fips="56" >
   <div id="wrapper">
     <div class="page">
@@ -70,7 +77,7 @@
   <div class="nav">
     <div class="wrap">
       <div class="button menu">
-        <a href="#">Menu</a>
+        <a href="#" class="sidebar_menu">Menu</a>
       </div>
       <div class="logo">
         <a href="/politics/elections/2016/presidential-election-headquarters">2016 Election Headquarters</a>
@@ -103,7 +110,7 @@
                   <a href="/politics/elections/2016/presidential-election-headquarters">Elections Home</a>
                 </li>
                           <li class="">
-                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary and Caucus Results</a>
+                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary &amp; Caucus Results</a>
                 </li>
                           <li class="dropdown desktop active ">
                   <a href="#">Results By State</a>
@@ -112,77 +119,109 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/alaska">Alaska</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/california">California</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/georgia">Georgia</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/hawaii">Hawaii</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/idaho">Idaho</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/illinois">Illinois</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/indiana">Indiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/iowa">Iowa</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kansas">Kansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/louisiana">Louisiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/maine">Maine</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/massachusetts">Massachusetts</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/michigan">Michigan</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/mississippi">Mississippi</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/missouri">Missouri</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/montana">Montana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-jersey">New Jersey</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-mexico">New Mexico</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/north-dakota">North Dakota</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
-                                                    <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/oregon">Oregon</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
+                                                    <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-dakota">South Dakota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/west-virginia">West Virginia</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
                 <li class="mobile-tablet ">
                   <div class="select-wrap">
-                    <select name="state" onchange="location.assign(this.options[this.selectedIndex].value)">
-                      <option value="default">Results By State</option>
+                    <select name="state">
+                      <option value="default" disabled selected>Results By State</option>
                                                       <option value="primary-caucus/alabama">Alabama</option>
                                                 <option value="primary-caucus/alaska">Alaska</option>
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
+                                                <option value="primary-caucus/california">California</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
+                                                <option value="primary-caucus/connecticut">Connecticut</option>
+                                                <option value="primary-caucus/delaware">Delaware</option>
                                                 <option value="primary-caucus/district-of-columbia">District Of Columbia</option>
                                                 <option value="primary-caucus/florida">Florida</option>
                                                 <option value="primary-caucus/georgia">Georgia</option>
                                                         <option value="primary-caucus/hawaii">Hawaii</option>
                                                 <option value="primary-caucus/idaho">Idaho</option>
                                                 <option value="primary-caucus/illinois">Illinois</option>
+                                                <option value="primary-caucus/indiana">Indiana</option>
                                                 <option value="primary-caucus/iowa">Iowa</option>
                                                 <option value="primary-caucus/kansas">Kansas</option>
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
                                                 <option value="primary-caucus/louisiana">Louisiana</option>
                                                 <option value="primary-caucus/maine">Maine</option>
+                                                <option value="primary-caucus/maryland">Maryland</option>
                                                 <option value="primary-caucus/massachusetts">Massachusetts</option>
                                                 <option value="primary-caucus/michigan">Michigan</option>
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
                                                 <option value="primary-caucus/mississippi">Mississippi</option>
                                                 <option value="primary-caucus/missouri">Missouri</option>
+                                                <option value="primary-caucus/montana">Montana</option>
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-jersey">New Jersey</option>
+                                                <option value="primary-caucus/new-mexico">New Mexico</option>
+                                                <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
+                                                <option value="primary-caucus/north-dakota">North Dakota</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
-                                                        <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/oregon">Oregon</option>
+                                                <option value="primary-caucus/pennsylvania">Pennsylvania</option>
+                                                        <option value="primary-caucus/rhode-island">Rhode Island</option>
+                                                <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/south-dakota">South Dakota</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/west-virginia">West Virginia</option>
+                                                <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
                   </div>  
@@ -282,7 +321,77 @@
     <header><h2>Primary / Caucus Results</h2></header>
     <div class="content">
   
-        <section class="candidates rep">
+        <section class="candidates dem">
+        <a name="democrat-candidates" href=""></a>
+        <header>
+          <div class="date">
+            <div class="mon">Apr</div>
+            <div class="day">9</div>
+          </div>
+          <h3>Democratic Caucus</h3>
+          <p></p>
+
+              <p>Results In</p>
+              <div class="info">
+          <!--
+            <div class="close-timer">
+              <div class="title">Polls Close in</div>
+              <div class="timer">
+                <span class="hr">99</span>:<span class="min">59</span>:<span class="sec">59</span>
+              </div>
+            </div>
+          -->  
+            <div class="percent-in">
+              <div class="title">Percent in</div>
+              <div class="value">100<span>%</span></div>
+            </div>
+          </div>
+        </header>
+        <div class="content">
+          <ul>
+                <li class="candidate" data-npid="1445" data-feed="1">
+              <div class="m">
+                <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                        <span class="winner">Winner</span>
+                      </div>
+              <div class="info">
+                <div class="header">
+                  <div class="votes">Votes</div>
+                  <div class="percent">%</div>
+                  <div class="delegates">Delegates</div>
+                </div>
+                <div class="row">
+                  <div class="votes">156</div>
+                  <div class="percent">55.7%</div>
+                  <div class="delegates">7</div>
+                </div>
+                <div class="name">Bernie Sanders</div>
+              </div>
+            </li>
+            <li class="candidate" data-npid="1746" data-feed="1">
+              <div class="m">
+                <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" />
+                      </div>
+              <div class="info">
+                <div class="header">
+                  <div class="votes">Votes</div>
+                  <div class="percent">%</div>
+                  <div class="delegates">Delegates</div>
+                </div>
+                <div class="row">
+                  <div class="votes">124</div>
+                  <div class="percent">44.3%</div>
+                  <div class="delegates">7</div>
+                </div>
+                <div class="name">Hillary Clinton</div>
+              </div>
+            </li>
+            
+          </ul>
+        </div>
+        <footer><p class="source">*Number of delegates projected by the Associated Press</p></footer>
+      </section>
+          <section class="candidates rep">
         <a name="republican-candidates" href=""></a>
         <header>
           <div class="date">
@@ -292,8 +401,7 @@
           <h3>Republican Caucus</h3>
           <p></p>
 
-      
-          <div class="live-data">Live Results</div>
+              <p>Results In</p>
               <div class="info">
           <!--
             <div class="close-timer">
@@ -388,78 +496,9 @@
         </div>
         <footer><p class="source">*Number of delegates projected by the Associated Press</p></footer>
       </section>
-          <section class="candidates dem">
-        <a name="democrat-candidates" href=""></a>
-        <header>
-          <div class="date">
-            <div class="mon">Apr</div>
-            <div class="day">9</div>
-          </div>
-          <h3>Democratic Caucus</h3>
-          <p></p>
-
-              <div class="info">
-          <!--
-            <div class="close-timer">
-              <div class="title">Polls Close in</div>
-              <div class="timer">
-                <span class="hr">99</span>:<span class="min">59</span>:<span class="sec">59</span>
-              </div>
-            </div>
-          -->  
-            <div class="percent-in">
-              <div class="title">Percent in</div>
-              <div class="value">-</div>
-            </div>
-          </div>
-        </header>
-        <div class="content">
-          <ul>
-                <li class="candidate" data-npid="1746" data-feed="0">
-              <div class="m">
-                <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" />
-                      </div>
-              <div class="info">
-                <div class="header">
-                  <div class="votes">Votes</div>
-                  <div class="percent">%</div>
-                  <div class="delegates">Delegates</div>
-                </div>
-                <div class="row">
-                  <div class="votes">-</div>
-                  <div class="percent">-</div>
-                  <div class="delegates">-</div>
-                </div>
-                <div class="name">Hillary Clinton</div>
-              </div>
-            </li>
-            <li class="candidate" data-npid="1445" data-feed="0">
-              <div class="m">
-                <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
-                      </div>
-              <div class="info">
-                <div class="header">
-                  <div class="votes">Votes</div>
-                  <div class="percent">%</div>
-                  <div class="delegates">Delegates</div>
-                </div>
-                <div class="row">
-                  <div class="votes">-</div>
-                  <div class="percent">-</div>
-                  <div class="delegates">-</div>
-                </div>
-                <div class="name">Bernie Sanders</div>
-              </div>
-            </li>
-            
-          </ul>
-        </div>
-        <footer><p class="source">*Number of delegates projected by the Associated Press</p></footer>
-      </section>
     
     </div>
   </section>
-<div class="video-holder" data-playlist-id="4790326105001"></div>
           <div class="advert tablet">
             <div class="ad-container"><div class="ad gpt" id="tablet-300x250"></div></div>
           </div>
@@ -469,8 +508,7 @@
    <section class="data-county">
   <header>
     <h2>Results by County</h2>
-    
-    <div class="live-data">Live Results</div>
+      <p>Results In</p>
         <div class="arrow"><a href="#">Collapse / Expand</a></div>
   </header>
   <div class="content small">
@@ -512,6 +550,30 @@
     </div>
     <div class="data-table" data-fips="51025">
                           <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
+          <div class="candidate dem " data-npid="1746" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
+            <div class="name">Clinton</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -559,7 +621,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51026">
+      <p>Campbell-Johnson</p>
+    </div>
+    <div class="data-table" data-fips="51026">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -571,26 +652,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51026">
-      <p>Campbell-Johnson</p>
-    </div>
-    <div class="data-table" data-fips="51026">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -638,7 +700,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51027">
+      <p>Converse-Niobrara</p>
+    </div>
+    <div class="data-table" data-fips="51027">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -650,26 +731,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51027">
-      <p>Converse-Niobrara</p>
-    </div>
-    <div class="data-table" data-fips="51027">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -717,7 +779,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51028">
+      <p>Crook-Weston</p>
+    </div>
+    <div class="data-table" data-fips="51028">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -729,26 +810,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51028">
-      <p>Crook-Weston</p>
-    </div>
-    <div class="data-table" data-fips="51028">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -796,7 +858,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51029">
+      <p>Fremont-Park</p>
+    </div>
+    <div class="data-table" data-fips="51029">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -808,26 +889,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51029">
-      <p>Fremont-Park</p>
-    </div>
-    <div class="data-table" data-fips="51029">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -875,7 +937,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51030">
+      <p>Goshen-Platte</p>
+    </div>
+    <div class="data-table" data-fips="51030">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -887,26 +968,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51030">
-      <p>Goshen-Platte</p>
-    </div>
-    <div class="data-table" data-fips="51030">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -954,7 +1016,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51031">
+      <p>Hot Springs-Washakie</p>
+    </div>
+    <div class="data-table" data-fips="51031">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -966,26 +1047,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51031">
-      <p>Hot Springs-Washakie</p>
-    </div>
-    <div class="data-table" data-fips="51031">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -1033,7 +1095,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51032">
+      <p>Laramie</p>
+    </div>
+    <div class="data-table" data-fips="51032">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -1045,26 +1126,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51032">
-      <p>Laramie</p>
-    </div>
-    <div class="data-table" data-fips="51032">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -1112,7 +1174,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51033">
+      <p>Sheridan-Big Horn</p>
+    </div>
+    <div class="data-table" data-fips="51033">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -1124,26 +1205,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51033">
-      <p>Sheridan-Big Horn</p>
-    </div>
-    <div class="data-table" data-fips="51033">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -1191,7 +1253,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51034">
+      <p>Sweetwater-Carbon</p>
+    </div>
+    <div class="data-table" data-fips="51034">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -1203,26 +1284,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51034">
-      <p>Sweetwater-Carbon</p>
-    </div>
-    <div class="data-table" data-fips="51034">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -1270,7 +1332,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51035">
+      <p>Teton-Sublette</p>
+    </div>
+    <div class="data-table" data-fips="51035">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -1282,26 +1363,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51035">
-      <p>Teton-Sublette</p>
-    </div>
-    <div class="data-table" data-fips="51035">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -1349,7 +1411,26 @@
             <div class="votes">0</div>
           </div>
         </div>
-                                        <div class="row">
+                    
+      </div>
+       
+    <div class="selection" data-fips="51036">
+      <p>Uinta-Lincoln</p>
+    </div>
+    <div class="data-table" data-fips="51036">
+                          <div class="row">
+          <div class="candidate dem winner" data-npid="1445" data-feed="0">
+            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+            <div class="name">Sanders</div>
+            <div class="percent">%</div>
+            <div class="votes">Votes</div>
+          </div>
+          <div class="results">
+            <div class="percent">-</div>
+            <div class="votes">-</div>
+          </div>
+        </div>
+                <div class="row">
           <div class="candidate dem " data-npid="1746" data-feed="0">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
             <div class="name">Clinton</div>
@@ -1361,26 +1442,7 @@
             <div class="votes">-</div>
           </div>
         </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                    
-      </div>
-       
-    <div class="selection" data-fips="51036">
-      <p>Uinta-Lincoln</p>
-    </div>
-    <div class="data-table" data-fips="51036">
-                          <div class="row">
+                                        <div class="row">
           <div class="candidate rep " data-npid="61815" data-feed="1">
             <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
             <div class="name">Cruz</div>
@@ -1426,30 +1488,6 @@
           <div class="results">
             <div class="percent">0%</div>
             <div class="votes">0</div>
-          </div>
-        </div>
-                                        <div class="row">
-          <div class="candidate dem " data-npid="1746" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
-            <div class="name">Clinton</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
-          </div>
-        </div>
-                <div class="row">
-          <div class="candidate dem " data-npid="1445" data-feed="0">
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-            <div class="name">Sanders</div>
-            <div class="percent">%</div>
-            <div class="votes">Votes</div>
-          </div>
-          <div class="results">
-            <div class="percent">-</div>
-            <div class="votes">-</div>
           </div>
         </div>
                     
@@ -1598,7 +1636,165 @@
           <div class="scroll-wrap">
             <div class="content" style="width: 1500px;">
               <div class="data-table">
-                            <div class="candidate rep "  data-npid="61815" data-feed="1">
+                            <div class="candidate dem winner"  data-npid="1445" data-feed="0">
+                  <div class="header">
+                    <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
+                    <div class="name">Sanders</div>
+                  </div>
+           
+                                 
+                  <div class="row" data-fips="51025">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51026">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51027">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51028">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51029">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51030">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51031">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51032">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51033">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51034">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row hide" data-fips="51035">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row hide" data-fips="51036">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                          </div>
+                      <div class="candidate dem "  data-npid="1746" data-feed="0">
+                  <div class="header">
+                    <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
+                    <div class="name">Clinton</div>
+                  </div>
+           
+                                 
+                  <div class="row" data-fips="51025">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51026">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51027">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51028">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51029">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51030">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51031">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51032">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51033">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row" data-fips="51034">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row hide" data-fips="51035">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                                 
+                  <div class="row hide" data-fips="51036">
+                    <div class="percent">-</div>
+                    <div class="votes">-</div>
+                  </div>
+             
+                          </div>
+                                      <div class="candidate rep "  data-npid="61815" data-feed="1">
                   <div class="header">
                     <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz "/></div>
                     <div class="name">Cruz</div>
@@ -1914,164 +2110,6 @@
                   </div>
              
                           </div>
-                                      <div class="candidate dem "  data-npid="1746" data-feed="0">
-                  <div class="header">
-                    <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton "/></div>
-                    <div class="name">Clinton</div>
-                  </div>
-           
-                                 
-                  <div class="row" data-fips="51025">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51026">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51027">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51028">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51029">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51030">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51031">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51032">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51033">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51034">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row hide" data-fips="51035">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row hide" data-fips="51036">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                          </div>
-                      <div class="candidate dem "  data-npid="1445" data-feed="0">
-                  <div class="header">
-                    <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders "/></div>
-                    <div class="name">Sanders</div>
-                  </div>
-           
-                                 
-                  <div class="row" data-fips="51025">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51026">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51027">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51028">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51029">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51030">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51031">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51032">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51033">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row" data-fips="51034">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row hide" data-fips="51035">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                                 
-                  <div class="row hide" data-fips="51036">
-                    <div class="percent">-</div>
-                    <div class="votes">-</div>
-                  </div>
-             
-                          </div>
               
               </div>
             </div>
@@ -2101,7 +2139,6 @@
           <div class="advert desktop">
             <div class="ad-container"><div class="ad gpt" id="desktop-300x600_300x250"></div></div>
           </div>
-<div class="video-holder" data-playlist-id="4790326105001"></div>
 
 
           <div class="advert tablet">
