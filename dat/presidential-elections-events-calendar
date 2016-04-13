@@ -16,12 +16,12 @@
 
 
 <meta name='parsely-metadata' content='{"title": "Fox News 2016 Presidential Elections Events Calendar", "link": "//www.foxnews.com/politics/elections/2016/presidential-elections-events-calendar", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_events_calendar", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "Fox News 2016 Presidential Elections Events Calendar", "link": "//www.foxnews.com/politics/elections/2016/presidential-elections-events-calendar", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_events_calendar", "pub_date": "2016-03-22 1:40:26 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "Fox News 2016 Presidential Elections Events Calendar", "link": "//www.foxnews.com/politics/elections/2016/presidential-elections-events-calendar", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_events_calendar", "pub_date": "2016-04-12 9:45:32 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
 <meta name="dc.publisher" content="FOX News" />
-<meta name="dc.date" content="2016-03-22" />
+<meta name="dc.date" content="2016-04-12" />
 <meta name="dc.format" scheme="dcterms.IMT" content="text/html" />
 <meta name="dc.title" lang="en" content="Fox News 2016 Presidential Elections Events Calendar" />
 <meta name="dc.description" content="Keep up with the 2016 Presidential Election schedule and find out when campaign events, such as primaries, caucuses, and conventions, are being held." />
@@ -70,7 +70,7 @@
   <div class="nav">
     <div class="wrap">
       <div class="button menu">
-        <a href="#">Menu</a>
+        <a href="#" class="sidebar_menu">Menu</a>
       </div>
       <div class="logo">
         <a href="/politics/elections/2016/presidential-election-headquarters">2016 Election Headquarters</a>
@@ -103,7 +103,7 @@
                   <a href="/politics/elections/2016/presidential-election-headquarters">Elections Home</a>
                 </li>
                           <li class="">
-                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary and Caucus Results</a>
+                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary &amp; Caucus Results</a>
                 </li>
                           <li class="dropdown desktop  ">
                   <a href="#">Results By State</a>
@@ -112,77 +112,109 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/alaska">Alaska</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/california">California</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/georgia">Georgia</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/hawaii">Hawaii</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/idaho">Idaho</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/illinois">Illinois</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/indiana">Indiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/iowa">Iowa</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kansas">Kansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/louisiana">Louisiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/maine">Maine</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/massachusetts">Massachusetts</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/michigan">Michigan</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/mississippi">Mississippi</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/missouri">Missouri</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/montana">Montana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-jersey">New Jersey</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-mexico">New Mexico</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/north-dakota">North Dakota</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
-                                                    <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/oregon">Oregon</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
+                                                    <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-dakota">South Dakota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/west-virginia">West Virginia</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
                 <li class="mobile-tablet ">
                   <div class="select-wrap">
-                    <select name="state" onchange="location.assign(this.options[this.selectedIndex].value)">
-                      <option value="default">Results By State</option>
+                    <select name="state">
+                      <option value="default" disabled selected>Results By State</option>
                                                       <option value="primary-caucus/alabama">Alabama</option>
                                                 <option value="primary-caucus/alaska">Alaska</option>
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
+                                                <option value="primary-caucus/california">California</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
+                                                <option value="primary-caucus/connecticut">Connecticut</option>
+                                                <option value="primary-caucus/delaware">Delaware</option>
                                                 <option value="primary-caucus/district-of-columbia">District Of Columbia</option>
                                                 <option value="primary-caucus/florida">Florida</option>
                                                 <option value="primary-caucus/georgia">Georgia</option>
                                                         <option value="primary-caucus/hawaii">Hawaii</option>
                                                 <option value="primary-caucus/idaho">Idaho</option>
                                                 <option value="primary-caucus/illinois">Illinois</option>
+                                                <option value="primary-caucus/indiana">Indiana</option>
                                                 <option value="primary-caucus/iowa">Iowa</option>
                                                 <option value="primary-caucus/kansas">Kansas</option>
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
                                                 <option value="primary-caucus/louisiana">Louisiana</option>
                                                 <option value="primary-caucus/maine">Maine</option>
+                                                <option value="primary-caucus/maryland">Maryland</option>
                                                 <option value="primary-caucus/massachusetts">Massachusetts</option>
                                                 <option value="primary-caucus/michigan">Michigan</option>
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
                                                 <option value="primary-caucus/mississippi">Mississippi</option>
                                                 <option value="primary-caucus/missouri">Missouri</option>
+                                                <option value="primary-caucus/montana">Montana</option>
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-jersey">New Jersey</option>
+                                                <option value="primary-caucus/new-mexico">New Mexico</option>
+                                                <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
+                                                <option value="primary-caucus/north-dakota">North Dakota</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
-                                                        <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/oregon">Oregon</option>
+                                                <option value="primary-caucus/pennsylvania">Pennsylvania</option>
+                                                        <option value="primary-caucus/rhode-island">Rhode Island</option>
+                                                <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/south-dakota">South Dakota</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/west-virginia">West Virginia</option>
+                                                <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
                   </div>  
@@ -589,8 +621,8 @@
               </div>
         
             </div>
-                                  <div  data-all="1" data-previous="1" data-caucuses="1" >
-              <span class="">01</span>
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
+              <span class="dem">01</span>
               <p>Colorado Caucuses</p>
                     <div class="button">
                 <a href="/politics/elections/2016/primary-caucus/colorado">View State</a>
@@ -681,9 +713,9 @@
             </div>
                                   <div  data-all="1" data-previous="1" data-primaries="1" >
               <span class="">08</span>
-              <p>Michigan Presidential Primary</p>
+              <p>Mississippi Presidential Primary</p>
                     <div class="button">
-                <a href="/politics/elections/2016/primary-caucus/michigan">View State</a>
+                <a href="/politics/elections/2016/primary-caucus/mississippi">View State</a>
               </div>
         
             </div>
@@ -697,9 +729,9 @@
             </div>
                                   <div  data-all="1" data-previous="1" data-primaries="1" >
               <span class="">08</span>
-              <p>Mississippi Presidential Primary</p>
+              <p>Michigan Presidential Primary</p>
                     <div class="button">
-                <a href="/politics/elections/2016/primary-caucus/mississippi">View State</a>
+                <a href="/politics/elections/2016/primary-caucus/michigan">View State</a>
               </div>
         
             </div>
@@ -713,6 +745,11 @@
               <p>Republican Presidential Primary Debate</p>
         
             </div>
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-rep-only="1" >
+              <span class="rep">12</span>
+              <p>District of Columbia Republican Caucuses</p>
+        
+            </div>
                                   <div  data-all="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
               <span class="dem">12</span>
               <p>Northern Mariana Islands Democratic Caucus</p>
@@ -720,12 +757,12 @@
             </div>
                                   <div  data-all="1" data-previous="1" data-caucuses="1" data-rep-only="1" >
               <span class="rep">12</span>
-              <p>District of Columbia Republican Caucuses</p>
+              <p>Wyoming Republican County Conventions</p>
         
             </div>
                                   <div  data-all="1" data-previous="1" data-caucuses="1" data-rep-only="1" >
-              <span class="rep">12</span>
-              <p>Wyoming Republican County Conventions</p>
+              <span class="rep">15</span>
+              <p>Northern Mariana Islands Republican Caucus</p>
         
             </div>
                                   <div  data-all="1" data-previous="1" data-primaries="1" >
@@ -736,24 +773,11 @@
               </div>
         
             </div>
-                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-rep-only="1" >
-              <span class="rep">15</span>
-              <p>Northern Mariana Islands Republican Caucus</p>
-        
-            </div>
                                   <div  data-all="1" data-previous="1" data-primaries="1" >
               <span class="">15</span>
-              <p>Missouri Presidential Primary</p>
+              <p>Illinois Presidential Primary</p>
                     <div class="button">
-                <a href="/politics/elections/2016/primary-caucus/missouri">View State</a>
-              </div>
-        
-            </div>
-                                  <div  data-all="1" data-previous="1" data-primaries="1" >
-              <span class="">15</span>
-              <p>Ohio Presidential Primary</p>
-                    <div class="button">
-                <a href="/politics/elections/2016/primary-caucus/ohio">View State</a>
+                <a href="/politics/elections/2016/primary-caucus/illinois">View State</a>
               </div>
         
             </div>
@@ -767,9 +791,17 @@
             </div>
                                   <div  data-all="1" data-previous="1" data-primaries="1" >
               <span class="">15</span>
-              <p>Illinois Presidential Primary</p>
+              <p>Ohio Presidential Primary</p>
                     <div class="button">
-                <a href="/politics/elections/2016/primary-caucus/illinois">View State</a>
+                <a href="/politics/elections/2016/primary-caucus/ohio">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-previous="1" data-primaries="1" >
+              <span class="">15</span>
+              <p>Missouri Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/missouri">View State</a>
               </div>
         
             </div>
@@ -778,15 +810,7 @@
               <p>Virgin Islands Republican Territorial Caucus</p>
         
             </div>
-                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-caucuses="1" >
-              <span class="">22</span>
-              <p>Utah Caucuses</p>
-                    <div class="button">
-                <a href="/politics/elections/2016/primary-caucus/utah">View State</a>
-              </div>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
               <span class="dem">22</span>
               <p>Idaho Democratic Caucuses</p>
                     <div class="button">
@@ -794,12 +818,12 @@
               </div>
         
             </div>
-                                  <div  data-all="1" data-upcoming="1" data-caucuses="1" data-rep-only="1" >
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-rep-only="1" >
               <span class="rep">22</span>
               <p>American Samoa Republican Caucus</p>
         
             </div>
-                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
+                                  <div  data-all="1" data-featured="1" data-previous="1" data-primaries="1" >
               <span class="">22</span>
               <p>Arizona Presidential Primary</p>
                     <div class="button">
@@ -807,19 +831,111 @@
               </div>
         
             </div>
-                                  <div  data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
-              <span class="dem">26</span>
-              <p>Alaska Democratic Caucuses</p>
+                                  <div  data-all="1" data-featured="1" data-previous="1" data-caucuses="1" >
+              <span class="">22</span>
+              <p>Utah Caucuses</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/utah">View State</a>
+              </div>
         
             </div>
-                                  <div  data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
               <span class="dem">26</span>
               <p>Washington Democratic Caucuses</p>
         
             </div>
-                                  <div class="last" data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
               <span class="dem">26</span>
               <p>Hawaii Democratic Caucuses</p>
+        
+            </div>
+                                  <div class="last" data-all="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
+              <span class="dem">26</span>
+              <p>Alaska Democratic Caucuses</p>
+        
+            </div>
+                    </div>
+        </li>
+              <li>
+          <div class="date" >
+            <p>Apr 2016</p>
+          </div>
+          <div class="info">
+                                <div  data-all="1" data-featured="1" data-previous="1" data-primaries="1" >
+              <span class="">05</span>
+              <p>Wisconsin Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/wisconsin">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-featured="1" data-previous="1" data-caucuses="1" data-dem-only="1" >
+              <span class="dem">09</span>
+              <p>Wyoming Democratic Caucuses</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/wyoming">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-previous="1" data-caucuses="1" data-rep-only="1" >
+              <span class="rep">09</span>
+              <p>Colorado State Republican Convention</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/colorado">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-upcoming="1" data-caucuses="1" data-rep-only="1" >
+              <span class="rep">16</span>
+              <p>Wyoming Republican State Convention</p>
+        
+            </div>
+                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
+              <span class="">19</span>
+              <p>New York Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/new-york">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
+              <span class="">26</span>
+              <p>Rhode Island Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/rhode-island">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
+              <span class="">26</span>
+              <p>Connecticut Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/connecticut">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
+              <span class="">26</span>
+              <p>Delaware Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/delaware">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
+              <span class="">26</span>
+              <p>Maryland Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/maryland">View State</a>
+              </div>
+        
+            </div>
+                                  <div class="last" data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
+              <span class="">26</span>
+              <p>Pennsylvania Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/pennsylvania">View State</a>
+              </div>
         
             </div>
                     </div>
@@ -839,59 +955,15 @@
         </li>
               <li>
           <div class="date" >
-            <p>Apr 2016</p>
-          </div>
-          <div class="info">
-                                <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">05</span>
-              <p>Wisconsin Presidential Primary</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
-              <span class="dem">09</span>
-              <p>Wyoming Democratic Caucuses</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">19</span>
-              <p>New York Presidential Primary</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">26</span>
-              <p>Rhode Island Presidential Primary</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">26</span>
-              <p>Delaware Presidential Primary</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">26</span>
-              <p>Connecticut Presidential Primary</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">26</span>
-              <p>Maryland Presidential Primary</p>
-        
-            </div>
-                                  <div class="last" data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">26</span>
-              <p>Pennsylvania Presidential Primary</p>
-        
-            </div>
-                    </div>
-        </li>
-              <li>
-          <div class="date" >
             <p>May 2016</p>
           </div>
           <div class="info">
-                                <div  data-all="1" data-upcoming="1" data-primaries="1" >
+                                <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
               <span class="">03</span>
               <p>Indiana Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/indiana">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
@@ -899,24 +971,36 @@
               <p>Guam Democratic Caucus</p>
         
             </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
-              <span class="">10</span>
-              <p>Nebraska Presidential Primary</p>
-        
-            </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
+                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
               <span class="">10</span>
               <p>West Virginia Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/west-virginia">View State</a>
+              </div>
+        
+            </div>
+                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" data-rep-only="1" >
+              <span class="rep">10</span>
+              <p>Nebraska Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/nebraska">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-primaries="1" data-dem-only="1" >
               <span class="dem">17</span>
               <p>Kentucky Democratic Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/kentucky">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-primaries="1" >
               <span class="">17</span>
               <p>Oregon Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/oregon">View State</a>
+              </div>
         
             </div>
                                   <div class="last" data-all="1" data-upcoming="1" data-primaries="1" >
@@ -946,37 +1030,58 @@
             </div>
                                   <div  data-all="1" data-upcoming="1" data-primaries="1" >
               <span class="">07</span>
-              <p>California Presidential Primary</p>
+              <p>Montana Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/montana">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-caucuses="1" data-dem-only="1" >
               <span class="dem">07</span>
               <p>North Dakota Democratic Caucuses</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/north-dakota">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-primaries="1" >
               <span class="">07</span>
               <p>New Mexico Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/new-mexico">View State</a>
+              </div>
         
             </div>
-                                  <div  data-all="1" data-upcoming="1" data-primaries="1" >
+                                  <div  data-all="1" data-featured="1" data-upcoming="1" data-primaries="1" >
               <span class="">07</span>
               <p>New Jersey Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/new-jersey">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-primaries="1" >
               <span class="">07</span>
-              <p>Montana Presidential Primary</p>
+              <p>California Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/california">View State</a>
+              </div>
         
             </div>
                                   <div  data-all="1" data-upcoming="1" data-primaries="1" >
               <span class="">07</span>
               <p>South Dakota Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/south-dakota">View State</a>
+              </div>
         
             </div>
                                   <div class="last" data-all="1" data-upcoming="1" data-primaries="1" data-dem-only="1" >
               <span class="dem">14</span>
               <p>District of Columbia Democratic Presidential Primary</p>
+                    <div class="button">
+                <a href="/politics/elections/2016/primary-caucus/district-of-columbia">View More</a>
+              </div>
         
             </div>
                     </div>
@@ -1059,7 +1164,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/donald-trump.png" alt="Donald Trump" />
                     </div>
             <div class="info">
-              <div class="data">680</div>
+              <div class="data">743</div>
               <div class="name">Donald Trump</div>
             </div>
           </li>
@@ -1068,7 +1173,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
                     </div>
             <div class="info">
-              <div class="data">424</div>
+              <div class="data">545</div>
               <div class="name">Ted Cruz</div>
             </div>
           </li>
@@ -1100,7 +1205,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" />
                     </div>
             <div class="info">
-              <div class="data">1,630</div>
+              <div class="data">1,758</div>
               <div class="name">Hillary Clinton</div>
             </div>
           </li>
@@ -1109,7 +1214,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
                     </div>
             <div class="info">
-              <div class="data">870</div>
+              <div class="data">1,069</div>
               <div class="name">Bernie Sanders</div>
             </div>
           </li>
@@ -1135,8 +1240,8 @@
           <div class="info">
             <h3><span>Donald</span> <span>Trump</span></h3>
             
-            <div class="percent">36<span>%</span></div>
-                            <div class="change">+2</div>
+            <div class="percent">41<span>%</span></div>
+                            <div class="change">+5</div>
                   </div>
         </li>
                       <li class="candidate rep">
@@ -1144,8 +1249,8 @@
           <div class="info">
             <h3><span>Ted</span> <span>Cruz</span></h3>
             
-            <div class="percent">19<span>%</span></div>
-                            <div class="change">-1</div>
+            <div class="percent">38<span>%</span></div>
+                            <div class="change">+19</div>
                   </div>
         </li>
                       <li class="candidate rep">
@@ -1153,30 +1258,30 @@
           <div class="info">
             <h3><span>John</span> <span>Kasich</span></h3>
             
-            <div class="percent">8<span>%</span></div>
-                            <div class="change">+4</div>
+            <div class="percent">17<span>%</span></div>
+                            <div class="change">+9</div>
                   </div>
         </li>
-                                        </ul>
+                </ul>
     </div>
       <div class="democrats">
       <h4>Democratic</h4>
       <ul>
                           <li class="candidate dem">
-         <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" /></div>
-          <div class="info">
-            <h3><span>Bernie</span> <span>Sanders</span></h3>
-            
-            <div class="percent">47<span>%</span></div>
-                            <div class="change">+10</div>
-                  </div>
-        </li>
-                      <li class="candidate dem">
          <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" /></div>
           <div class="info">
             <h3><span>Hillary</span> <span>Clinton</span></h3>
             
-            <div class="percent">44<span>%</span></div>
+            <div class="percent">55<span>%</span></div>
+                            <div class="change">+11</div>
+                  </div>
+        </li>
+                      <li class="candidate dem">
+         <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" /></div>
+          <div class="info">
+            <h3><span>Bernie</span> <span>Sanders</span></h3>
+            
+            <div class="percent">42<span>%</span></div>
                             <div class="change">-5</div>
                   </div>
         </li>

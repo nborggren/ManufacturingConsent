@@ -59,14 +59,7 @@
 
 				<script src='http://www.bloomberg.com/graphics/assets/js/lib/head.js?'></script>
 
-		
-                  <script type="text/javascript">
-                    var w=window;
-                    if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"330754",ustr:"cs",originlat:0,clientrtt:24,ghostip:"184.50.26.186",
-                    ipv6:false,pct:10,xhrtest:false,clientip:"71.202.68.108",requestid:"23f19ae",protocol:"",blver:5,akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"23f19ae",ai:"204646"};(function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,
-                    a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
-                  </script>
-                  </head>
+		</head>
 		<body class="auto view-DEM"> <!-- view-DEM -->
 				<!--[if lt IE 7]>
 						<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -7611,7 +7604,6 @@
 					var pstories = politicsStories(d3.select('#policirc'));
 				</script>
 
-		<script src="js/politics-recirc.js"></script>		
 		<script src="js/graphScroll.js"></script>		
 		<script src="js/graphic-auto.js?v=1.0"></script>
 		

@@ -1,0 +1,1142 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="msie msie6 core"><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="msie msie7 core"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="msie msie8 core"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="msie msie9 core"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="core" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+<style id="antiClickjack">body{display:none !important;}</style>
+<script type="text/javascript">
+if (self === top) {
+var antiClickjack = document.getElementById("antiClickjack");
+antiClickjack.parentNode.removeChild(antiClickjack);
+} else {
+top.location = self.location;
+}
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+<meta property="fb:admins" content="653531613" />
+<title>Hillary Clinton - Topics - FT.com</title>
+<meta name="description" content="
+Latest news, comment and analysis about Hillary Clinton from the FT." />
+<meta name="keywords" content=" " />
+<link rel='stylesheet' href='http://static-render-p.ft.com/style/4a2ab5c3/bundles/core.css' media="all" />
+<link rel='stylesheet' href='http://navigation.webservices.ft.com/v1/navigation/ft/css/style.min.css' media="all" />
+<link rel='stylesheet' href='http://static-render-p.ft.com/style/c3100801/bundles/nonArticle.css' media="all" />
+<!--ft:headWrapperCss-->
+ 
+<script>
+var pageUUID = "8ede9412-7d17-11e2-8bd7-00144feabdc0";
+var FT = FT || {};
+FT.isPage = { Context: 0, Master: 0, Site: 1, Section: 0, Front: 0, Story: 0 };
+</script>
+<link rel="shortcut icon" href="http://im.ft-static.com/m/icons/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://im.ft-static.com/m/icons/apple-touch-icon.png" />
+<script>
+siteMapTerm = 'Products.Person';
+navEdition = 'UK';
+brandName = '';
+primaryThemeName = '';
+</script> 
+<script>
+FT.env = {
+"site" : "ftcom",
+"sec" : "sectionAdvert1",
+"page" : "pageAdvert1",
+"artid" : "pageAdvert1",
+"server" : "",
+"dfp_site": "ftcom.5887.topics",
+"dfp_zone": "people-articles",
+"isWeekend": "false",
+"dfp_targeting" : "top=Hillary Clinton;pt=ind",
+"asset" : "topic"
+};
+// These global vars are required for FTTrack2.js
+FTSection = FT.env.sec;
+FTPage = FT.env.page;
+FTSite = FT.env.site;
+AssetType = FT.env.asset;
+</script>
+<script src="//s4.media.ft.com/opentag/opentag-27295-31253.js"></script>
+<script src="http://static-render-p.ft.com/scripts/101f4102/bundles/renderHead.js"></script>
+<!-- New tracking module, supercedes ft-tracking and si-tracking -->
+<script src="http://static-render-p.ft.com/scripts/a03ca392/bundles/tracking.js"></script>
+<noscript>
+<img alt="" border="0" width="1" height="1" src="http://track.ft.com/track/track.js?javascript=disabled"/>
+<img alt="" border="0" width="1" height="1" src="http://stats.ft.com/si/track.gif?WT.js=No"/>
+</noscript>
+<!-- FT Advertising code -->
+<script>
+(function () {
+var version = 'latest',
+urlStem = '//www.ft.com/m/advertising/',
+timestamp = new Date(),
+query = '?t=' + timestamp.getFullYear() + '-' + (timestamp.getMonth() + 1) + '-' + timestamp.getDate();
+if (FT) {
+if (FT.env && FT.env.advertising) {
+version = FT.env.advertising;
+query = '';
+}
+if (FT.Properties && FT.Properties.ADVERTISING_BASE) {
+urlStem = FT.Properties.ADVERTISING_BASE;
+}
+}
+urlStem = urlStem + 'advertising-' + version+ '.min';
+document.write('\x3Cscript src="' + urlStem + '.js' + query + '">\x3C\/script>');
+document.write('\x3Clink rel="stylesheet" media="all" href="' + urlStem + '.css' + query + '" \/>');
+}());
+</script>
+<!-- New brightcove module, contains the libraries and FT wrappers as well -->
+<script src="http://static-render-p.ft.com/scripts/eb8d20a0/bundles/brightcove.js"></script>
+ 
+</head>
+<body data-uid="8ede9412-7d17-11e2-8bd7-00144feabdc0" class="nojs hoverable o-hoverable-on ">
+<noscript data-o-component="o-tracking">
+<img src="https://spoor-api.ft.com/px.gif?data=%7B%22action%22%3A%22view%22%2C%22category%22%3A%22page%22%2C%22context%22%3A%7B%22content%22%3A%7B%22hurdle%22%3A%22%22%2C%22uuid%22%3A%228ede9412-7d17-11e2-8bd7-00144feabdc0%22%2C%22asset_type%22%3A%22topic%22%7D%2C%22product%22%3A%22ft.com%22%7D%2C%22system%22%3A%7B%22apiKey%22%3A%22qUb9maKfKbtpRsdp0p2J7uWxRPGJEP%22%2C%22source%22%3A%22o-tracking-ns%22%2C%22version%22%3A%221.0.0%22%7D%7D" height="1" width="1" />
+</noscript>
+<!-- DoubleClick DART Natural Search Standard Tracking Tag for DS3
+DFA Network - Essence - DFA EMEA (6494) : DS Agency - Essence Digital (20200000000000626) : DS Advertiser - Finacial Times (21700000000032003)
+Please do not remove
+Tag should be placed at the top of the page, after opening body tag and before DoubleClick Spotlight or Floodlight tag(s)
+Creation Date: 01-06-2014
+User Story ID - US40735
+Request By - Marketing
+Purpose - To track conversions driven by natural searches using the existing DFA infrastructure.
+-->
+<script type='text/javascript'>
+// DoubleClick DART Natural Search Tracking Code
+if (document.referrer){
+var ord = Math.random()*1000000000000;
+document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/N6494.197812.NSO.CODESRV/B7995637;dcadv=4349995;sz=1x2;ord=' + ord + '?"><\/SCRIPT>');
+}
+</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "perceivedLoadTime"});</script>
+<!-- Methode uuid: "8ede9412-7d17-11e2-8bd7-00144feabdc0" -->
+<!-- BuildLife: "PROD http://ftjen02441-lvpr-uk-p:8181/job/mvn-ft-cms/150/" -->
+<!-- Session Id: "" -->
+<script>
+FT.preInit.setBodyClass(navigator);
+</script>
+<div id="fullpage-container"></div>
+<div class="introAd" data-cb-ad-id="Intro" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=intro">
+<script>
+FT.ads.request('intro');
+</script>
+</div>
+<div class="clearfix container" id="page-container">
+<div id="bannerAdvertContainer">
+<div id="banlbGPT" data-ftads-pos="banlb" class="advertising" data-cb-ad-id="Leaderboard" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=banlb" >
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("banlbGPT");
+}
+</script>
+</div>
+<div id="newssubsGPT" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("newssubsGPT");
+}
+</script>
+</div>
+</div>
+<div class="master-row topSection" data-zone="topSection">
+<script>FT.$doc.trigger("pgObjStart", {key: "1", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "2", keyType: "el"});</script>
+<div id="header" class="headerGPT clearfix" data-comp-name="header" data-comp-view="header" data-comp-index="0" data-timer-key="2" >
+<div id="top" class="clearfix">
+<div id="page-title">
+<div class="bar section">
+<a class="heading hidden" href="http://www.ft.com"><img src="http://im.ft-static.com/m/img/masthead_print.gif" alt="Financial Times" /></a>
+<p class="bc"> 
+<a href="http://www.ft.com">ft.com</a>
+<span> &gt; </span><a href="http://www.ft.com/topics">topics</a>
+<span> &gt; </span><a href="http://www.ft.com/topics/people">people</a>
+<span> &gt; </span>
+</p>
+<div class="pagename"> 
+<h1 data-pos="0" ><a href="http://www.ft.com/topics/people/Hillary_Clinton">Hillary Clinton</a></h1>
+</div>
+</div> </div>
+<div class="colright clearfix">
+<div id="ft-search" class="clearfix wideSearchInput">
+<form id="wsod-symbolSearch" method="get" action="http://search.ft.com/search" >
+<fieldset>
+<div class="searchContainer">
+<input class="text ft-search-auto-completable" type="text" value="" name="queryText" id="simpleSearchField" autocomplete="off" />
+</div>
+<button type="submit" class="ft-button ft-button-large o-ft-icons-icon o-ft-icons-icon--search demo-icon"></button>
+</fieldset>
+</form>
+</div>
+<div id="ftLogin">
+<div class="ftLogin-loggedOut">
+<a class="ft-link" href="http://registration.ft.com/registration/subscription-service/signuppsp?segid=70009">Register</a>
+<a class="ft-link subscriptionLink" href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152">Subscribe</a>
+<a id="ftLogin-signIn" class="ft-link loginAppLink" href="https://accounts.ft.com/login?location=">Sign in</a>
+</div>
+<div class="ftLogin-loggedIn">
+<span id="ftLogin-sub-link">
+<a href="http://registration.ft.com/registration/subscription-service/bpsp?segid=70152" class="subscriptionLink">Subscribe</a>
+</span>
+<a href="http://registration.ft.com/registration/selfcare/"
+class="signedInButton o-overlay-trigger"
+data-o-overlay-src="#ftLogin-loggedIn-overlay-template"
+data-o-overlay-id="ftSignedInOverlay"
+data-o-overlay-compact="true"
+data-o-overlay-arrow-position="top"
+data-o-overlay-heading-title="You are signed in as:">
+You are signed in
+<i class="o-ft-icons-icon o-ft-icons-icon--arrow-down"></i>
+</a>
+<script type="text/template" id="ftLogin-loggedIn-overlay-template">
+<div id="ftLogin-user" class="ftLogin-userDetails"></div>
+<a href="http://registration.ft.com/registration/selfcare/" id="ftLogin-yourAccount" class="userDetails">
+<span class="o-ft-icons-icon o-ft-icons-icon--profile"></span>
+Manage account
+</a>
+<a href="https://accounts.ft.com/logout?location=" id="ftLogin-logout" class="userDetails">
+<span class="o-ft-icons-icon o-ft-icons-icon--sign-out"></span>
+Sign out
+</a>
+</script>
+</div>
+</div>
+<script>
+FT.preInit.loginForm();
+</script>
+<div id="searchbox" data-ftads-pos="newssubs" class="advertising">
+<script>
+if( FT.ads.slots && FT._ads.utils.isFunction(FT.ads.slots.initSlot) ){
+FT.ads.slots.initSlot("searchbox");
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "2"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "3", keyType: "el"});</script>
+<nav class="nav-ftcom"> <div id="nav-ftcom" data-track-comp-name="nav" data-nav-source="ft-uk"> <ol class="nav-items-l1"> <li class="nav-item-l1" data-track-pos="0"> <a href="http://www.ft.com">Home</a> <ol class="nav-items-l2"> <li class="nav-rss"><img src="http://navigation.webservices.ft.com/v1/navigation/ft/img/rss-icon.gif" width="14" height="14" alt="RSS" /></li> <li class="nav-tools nav-has-l3"> <a href="http://www.ft.com/servicestools">Tools</a> <ol class="nav-items-l3"> <li class="title"> <a href="http://www.ft.com/servicestools"> Tools <span class="arrow">&#8250;</span> </a> </li> <li> <a href="http://aboutus.ft.com/">About Us</a> </li> <li> <a href="http://www.ft.com/topics">Topics</a> </li> <li> <a href="http://portfolio.ft.com/">Portfolio</a> </li> <li> <a href="http://clippings.ft.com/">FT clippings</a> </li> <li> <a href="http://markets.ft.com/alerts/keyword.asp">Alerts hub</a> </li> <li> <a href="http://nbe.ft.com/nbe/profile.cfm">Email briefings</a> </li> <li> <a href="http://rankings.ft.com/businessschoolrankings/global-mba-rankings">MBA rankings</a> </li> <li> <a href="http://lexicon.ft.com">FT Lexicon</a> </li> <li> <a href="http://www.ft.com/mobile">Mobile</a> </li> <li> <a href="http://markets.ft.com/ft/markets/currencies.asp">Currency converter</a> </li> <li> <a href="http://www.ft.com/FTePaper">ePaper</a> </li> <li> <a href="http://www.exec-appointments.com/">Executive jobs</a> </li> <li> <a href="http://presscuttings.ft.com/presscuttings/search.htm">FT press cuttings</a> </li> <li> <a href="http://aboutus.ft.com/social-media/">Social Media hub</a> </li> <li> <a href="http://markets.ft.com/research/EcoCalendar">Economic calendar</a> </li> </ol> </li> </ol> </li> <li class="nav-item-l1" data-track-pos="1" data-headlinesuuid="2836ebbe-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world/uk">UK</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="2" data-headlinesuuid="fefd8528-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/world">World</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="3" data-headlinesuuid="ee08dbdc-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/companies">Companies</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="4" data-headlinesuuid="011debcc-cd26-11de-a748-00144feabdc0"> <a href="http://www.ft.com/markets">Markets</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="5" data-headlinesuuid="efdac59c-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/global-economy">Global Economy</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="6" data-headlinesuuid="fa35a412-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/lex">Lex</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="7" data-headlinesuuid="ec66fcc8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/comment">Comment</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="8" data-headlinesuuid="fcdae4e8-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/management">Management</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="9" data-headlinesuuid="d5480e62-cd28-11de-a748-00144feabdc0"> <a href="http://www.ft.com/personal-finance">Personal Finance</a> <div class="nav-flyout"></div> </li> <li class="nav-item-l1" data-track-pos="10" data-headlinesuuid="cec106aa-cd25-11de-a748-00144feabdc0"> <a href="http://www.ft.com/life-arts">Life & Arts</a> <div class="nav-flyout"></div> </li> </ol> </div></nav>
+<script>FT.$doc.trigger("pgObjStop", {key: "3"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "1"});</script>
+</div>
+<div class="master-column middleSection " data-zone="middleSection">
+<div class="master-row contentSection wrapperContentOneColumn " data-zone="contentSection">
+<div class="master-row editorialSection" data-zone="editorialSection">
+<script>FT.$doc.trigger("pgObjStart", {key: "4", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "5", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="0" data-timer-key="5" id="201548">
+<span></span>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "5"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "6", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="1" data-timer-key="6" id="201549">
+
+
+<p id="antiClickjack">
+    </p>
+<link rel="stylesheet" type="text/css" media="screen" href="/twigkit/resources/css/gzip_1830280130/twigkit.topics.css" />
+<script type="text/javascript" src="/twigkit/resources/js/gzip_969499792/twigkit.topics.js" ></script>
+<script type="text/javascript" src="/twigkit/resources/js/gzip_658083960/twigkit.widgets.js" ></script>
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="/twigkit/resources/js/gzip_59/twigkit.ie.js" ></script>
+<![endif]-->
+
+<div class="twigkit">
+	<div class="results">
+ 
+ 
+        <ol class="search-stock-quote empty" id=""></ol><div class="topicSearchBox clearfix">
+             <span class="topicSearchText">Search for Hillary Clinton and</span>
+	         <form class="topicSearchForm">
+	             <input type="text" name="query"/>
+	             <button class="button">Search</button>
+	         </form>
+	     </div>
+		
+
+		<ol class="result-list tk-top-results" id=""><li class="result r-1 first"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">18 minutes ago</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/white-house-countdown-poster-child-2/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=0')" >
+            White House Countdown: Poster Child</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Paul Ryan, the popular House Speaker, poured cold water on the idea that he would rescue his party from Donald Trump...</p>
+    </div>
+</li><li class="result r-2 last"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">April 11, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/white-house-countdown-fasten-your-seat-belts-3/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=1')" >
+            White House Countdown: Fasten your seat belts</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump has a big poll lead in New York ahead of the April 19 primaries in the Empire State. But the mogul...</p>
+    </div>
+</li></ol><div class="specialReports">
+                <h2 class="sectionHead"><span>Special Reports</span></h2>
+                <ol class="result-list" id=""><li class="result first"><h4><a href="http://www.ft.com/reports/women-in-business">Women in Business</a></h4>
+                            <a href="http://www.ft.com/reports/women-in-business" title="Women in Business">
+                                <img src="http://im.ft-static.com/content/images/fb8dacd8-2cad-4764-86e2-43d87f531190.img" onerror="this.style.display='none'" class="simpleThumb" />
+                            </a>
+                            <span>Does the gender of executives make a difference to business performance? The evidence ...</span>
+                            
+                    </li><li class="result last"><h4><a href="http://www.ft.com/reports/disruption-and-technology">Disruption & Technology</a></h4>
+                            <a href="http://www.ft.com/reports/disruption-and-technology" title="Disruption & Technology">
+                                <img src="http://im.ft-static.com/content/images/b8efa543-e47d-4b35-91cd-da95e183c6b2.img" onerror="this.style.display='none'" class="simpleThumb" />
+                            </a>
+                            <span>Just as digital technology has disrupted business, Jeremy Corbyn and his far-left supp...</span>
+                            
+                    </li></ol><span>Search more 
+                    <a href="http://search.ft.com/search?queryText=Hillary+Clinton&f=sections[%22Special+Reports%22]">Special Reports</a>
+                    on this topic. 
+                </span> <br/> <br/>
+            </div>
+        <ol class="result-list tk-top-results" id=""><li class="result r-3"><a href="http://www.ft.com/cms/s/0/8f7d2b5a-0003-11e6-9cc4-27926f2b110c.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=0')">
+            <img src="http://im.media.ft.com/content/images/82cc0e53-e26c-4cd0-b45f-17b912ea5593.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 11, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/8f7d2b5a-0003-11e6-9cc4-27926f2b110c.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=0')">
+            Donald Trump struggles to broaden his voter appeal</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump caused a stir earlier in the presidential campaign by saying “I love the poorly educated”, in a comment...</p>
+    </div>
+</li><li class="result r-4"><a href="http://www.ft.com/cms/s/0/9b83c824-ff3a-11e5-ac98-3c15a1aa2e62.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=1')">
+            <img src="http://im.media.ft.com/content/images/9d72ff16-6007-4c64-a675-147d20c1d187.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 10, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/9b83c824-ff3a-11e5-ac98-3c15a1aa2e62.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=1')">
+            Sanders’ success puts Clinton on defensive</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Hours after winning the Wyoming Democratic caucus on Saturday, Bernie Sanders received backhanded congratulations from...</p>
+    </div>
+</li><li class="result r-5 first"><a href="http://www.ft.com/cms/s/0/33dc1e66-fe85-11e5-ac98-3c15a1aa2e62.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=2')">
+            <img src="http://im.media.ft.com/content/images/a0ccc721-a4d0-4630-adca-9e0713c6ebb5.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 9, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/33dc1e66-fe85-11e5-ac98-3c15a1aa2e62.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=2')">
+            Bernie Sanders wins Wyoming Democratic caucuses</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Bernie Sanders has won the Wyoming Democratic caucus, according to the Associated Press, extending a seven-state...</p>
+    </div>
+</li><li class="result r-6"><div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 8, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/70b11494-fb84-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=3')">
+            How cosmopolitans can win the argument</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Five years ago Donald Trump was going around suggesting that Barack Obama wasn’t born in the US. “He grew up and nobody...</p>
+    </div>
+</li><li class="result r-7"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">April 7, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/white-house-countdown-subway-series/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=4')" >
+            White House Countdown: Subway series</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            The 2016 political circus is travelling to the Big Apple, and some candidates are surviving the move better than...</p>
+    </div>
+</li><li class="result r-8"><a href="http://www.ft.com/cms/s/0/8723a944-fcd3-11e5-a31a-7930bacb3f5f.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=5')">
+            <img src="http://im.media.ft.com/content/images/fc798eae-5310-484c-b02f-3e6f3133430b.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 7, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/8723a944-fcd3-11e5-a31a-7930bacb3f5f.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=5')">
+            Clinton not ‘qualified’ for presidency</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Bernie Sanders has described Hillary Clinton as unqualified to be president, as the two candidates prepare for an...</p>
+    </div>
+</li><li class="result r-9"><a href="http://www.ft.com/cms/s/0/62f5f1c2-fcbe-11e5-b5f5-070dca6d0a0d.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=6')">
+            <img src="http://im.media.ft.com/content/images/10996037-fc35-4213-a494-73ba4de0fc33.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 7, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/62f5f1c2-fcbe-11e5-b5f5-070dca6d0a0d.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=6')">
+            US takes tougher stance on deals under Obama</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            The Obama administration’s bid to scuttle the $25bn takeover of Baker Hughes by Halliburton is less a sudden turn...</p>
+    </div>
+</li><li class="result r-10"><a href="http://www.ft.com/cms/s/0/41fd9efa-fbee-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=7')">
+            <img src="http://im.media.ft.com/content/images/7054dac3-9240-4eab-bd7c-a704dbf1005b.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 7, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/41fd9efa-fbee-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=7')">
+            US politics is closing the door on free trade</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump wants to slap punitive tariffs on China. Hillary Clinton opposes the 12-nation Trans-Pacific Partnership...</p>
+    </div>
+</li><li class="result r-11"><a href="http://www.ft.com/cms/s/0/d975f602-fcbf-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=8')">
+            <img src="http://im.media.ft.com/content/images/9c7fe2ff-b9d0-4856-83c4-886a6125fcd5.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 7, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/d975f602-fcbf-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=8')">
+            A real-world solution to the tax repatriation ruckus</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            There are not many questions on which a man such as Tim Cook, chief executive officer of Apple , would agree with...</p>
+    </div>
+</li><li class="result r-12"><a href="http://www.ft.com/cms/s/0/3674f116-fb5b-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=9')">
+            <img src="http://im.media.ft.com/content/images/70d9e03a-3c69-411a-a0bf-6717fd07f178.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 7, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/3674f116-fb5b-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=9')">
+            US minimum wage rises underline Clinton and Sanders divide</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Steep proposed minimum wage increases in New York and California have highlighted a divide among the Democratic...</p>
+    </div>
+</li><li class="result r-13"><a href="http://www.ft.com/cms/s/0/f4fe5ec8-fba2-11e5-8f41-df5bda8beb40.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=10')">
+            <img src="http://im.media.ft.com/content/images/fc798eae-5310-484c-b02f-3e6f3133430b.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 6, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/f4fe5ec8-fba2-11e5-8f41-df5bda8beb40.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=10')">
+            Clinton attacks Sanders over banks break-up proposal</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            After a bruising loss in Wisconsin, Hillary Clinton is hitting back at Bernie Sanders, alleging that the Vermont...</p>
+    </div>
+</li><li class="result r-14"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">April 6, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/say-cheese/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=11')" >
+            White House Countdown: Say cheese</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            After a 10-day lull in the primary calendar, we are back to the races with Tuesday’s Democratic and Republican...</p>
+    </div>
+</li><li class="result r-15"><a href="http://www.ft.com/cms/s/0/674126f6-fb25-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=12')">
+            <img src="http://im.media.ft.com/content/images/18f43239-5831-4bfe-8598-7f0824683bd6.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 5, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/674126f6-fb25-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=12')">
+            Treasury’s shot at tax inversions will cause collateral damage</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            The US Treasury has taken aim at inversions, imposing new curbs on deals in which American companies look to cut their...</p>
+    </div>
+</li><li class="result r-16"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">April 4, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/the-trumpire-strikes-back/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=13')" >
+            White House Countdown: The Trumpire Strikes Back</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump is clearly not satisfied with simply being the frontrunner for the Republican presidential nomination....</p>
+    </div>
+</li><li class="result r-17"><a href="http://www.ft.com/cms/s/0/c2ffd1f2-fa5a-11e5-8f41-df5bda8beb40.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=14')">
+            <img src="http://im.media.ft.com/content/images/4d5d08f4-690d-4c79-8faa-0f5f169f0acc.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 4, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/c2ffd1f2-fa5a-11e5-8f41-df5bda8beb40.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=14')">
+            The fury of American voters is in its infancy</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            There is a deep anger in the American electorate that explains the rise of two candidates whose presidential campaigns...</p>
+    </div>
+</li><li class="result r-18"><a href="http://www.ft.com/cms/s/0/21f22854-fa7e-11e5-8e04-8600cef2ca75.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=15')">
+            <img src="http://im.media.ft.com/content/images/39c0e456-7afd-47ff-af54-3edcabf41b7a.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 4, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/21f22854-fa7e-11e5-8e04-8600cef2ca75.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=15')">
+            Who is winning the US primaries?</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            US presidential candidates are determined by a complex state-by-state process for electing delegates to party...</p>
+    </div>
+</li><li class="result r-19"><a href="http://www.ft.com/cms/s/0/60520a9a-fa44-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=16')">
+            <img src="http://im.media.ft.com/content/images/1157acc5-3edd-4cd3-92e6-541420b8073e.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 4, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/60520a9a-fa44-11e5-b3f6-11d5706b613b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=16')">
+            Panama Papers: new financial rules needed for politicians</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Julius Caesar’s wife must be above suspicion, Caesar was said to have asserted as a reason for divorcing Pompeia....</p>
+    </div>
+</li><li class="result r-20"><a href="http://www.ft.com/cms/s/0/507317a4-f74c-11e5-96db-fc683b5e52db.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=17')">
+            <img src="http://im.media.ft.com/content/images/42afe0a6-c2a8-4b38-a5ca-3dba5e0e03a9.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 3, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/507317a4-f74c-11e5-96db-fc683b5e52db.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=17')">
+            The self-induced twilight of the west</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            It seemed exaggerated at the time. But when Europeans fretted that Barack Obama’s election would mean a waning US...</p>
+    </div>
+</li><li class="result r-21"><a href="http://www.ft.com/cms/s/0/39e61cae-f5a1-11e5-803c-d27c7117d132.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=18')">
+            <img src="http://im.media.ft.com/content/images/ccfbe536-cbfa-48ae-86a5-cce39a2abc8f.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 3, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/39e61cae-f5a1-11e5-803c-d27c7117d132.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=18')">
+            Ten rules for composing your LinkedIn summary</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            It has taken me 13 years and 414m people have got there before me, but last week I finally sat down to compose my...</p>
+    </div>
+</li><li class="result r-22"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">April 1, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/white-house-countdown-fool-me-once/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=19')" >
+            White House Countdown: Fool me once</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            April Fools! These aren’t your real candidates. Oh, wait. For every 2016-themed April Fools meme dominating the...</p>
+    </div>
+</li><li class="result r-23"><a href="http://www.ft.com/cms/s/0/44c6aac8-f829-11e5-96db-fc683b5e52db.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=20')">
+            <img src="http://im.media.ft.com/content/images/6a96ebf7-d0d5-4c94-ba44-6705a177c7a1.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 1, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/44c6aac8-f829-11e5-96db-fc683b5e52db.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=20')">
+            Rhetoric turns bitter as Sanders hurts Clinton in Wisconsin and New York</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            It was meant to be a triumphant return. Introduced on stage by Congresswoman Nita Lowey as the audience’s neighbour and...</p>
+    </div>
+</li><li class="result r-24"><a href="http://www.ft.com/cms/s/0/a122ac84-f826-11e5-803c-d27c7117d132.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=21')">
+            <img src="http://im.media.ft.com/content/images/8d5a6c04-164a-4382-8399-e007bb36b20f.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">April 1, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/a122ac84-f826-11e5-803c-d27c7117d132.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=21')">
+            Trump’s stance on women takes poll toll</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            When Hillary Clinton and Ted Cruz both shoot arrows at your back over the same issue, you can be sure that something...</p>
+    </div>
+</li><li class="result r-25"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">April 1, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/04/backward-or-forwards/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=22')" >
+            White House Countdown: Backward or Forwards?</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Ted Cruz is famous for having almost zero friends in Washington. But the Texas senator seems happy with that situation...</p>
+    </div>
+</li><li class="result r-26"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">March 31, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/03/white-house-countdown-nobody-respects-women-like-donald-trump/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=23')" >
+            White House Countdown: Nobody respects women like Donald Trump</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            It’s the first week since the Iowa Caucus where there has not been a single Republican caucus or primary. And the news...</p>
+    </div>
+</li><li class="result r-27"><a href="http://www.ft.com/cms/s/0/0d833e52-f5e8-11e5-96db-fc683b5e52db.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=24')">
+            <img src="http://im.media.ft.com/content/images/f7f64b13-143f-462c-bded-ca27a8ae7757.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 29, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/0d833e52-f5e8-11e5-96db-fc683b5e52db.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=24')">
+            Reshoring and FDI boost US manufacturing jobs</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump, the Republican frontrunner, has repeatedly pledged to bring millions of jobs back to the US as he claims...</p>
+    </div>
+</li><li class="result r-28"><a href="http://www.ft.com/cms/s/2/2ca82066-f4eb-11e5-803c-d27c7117d132.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=25')">
+            <img src="http://im.media.ft.com/content/images/07a7990b-a4da-48a4-9578-1b878a7058bc.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 29, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/2/2ca82066-f4eb-11e5-803c-d27c7117d132.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=25')">
+            How Reddit has boosted Bernie Sanders’ US campaign</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            It wasn’t my intention to follow the US presidential election. I can’t vote in it and taking an interest is on par with...</p>
+    </div>
+</li><li class="result r-29"><a href="http://www.ft.com/cms/s/0/5cb6c67c-ee15-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=26')">
+            <img src="http://im.media.ft.com/content/images/1818a62b-8fa5-48d4-9c12-467f6b18234d.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 29, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/5cb6c67c-ee15-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=26')">
+            Closure of Carrier furnace plant in Indianapolis fuels populist fire</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            When Julie Meadows talks about the impending closure of her workplace, the Carrier furnace factory on the edge of...</p>
+    </div>
+</li><li class="result r-30"><a href="http://www.ft.com/cms/s/0/23fab028-f540-11e5-9afe-dd2472ea263d.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=27')">
+            <img src="http://im.media.ft.com/content/images/ada08191-3512-4716-87fe-6fac348b61be.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 29, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/23fab028-f540-11e5-9afe-dd2472ea263d.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=27')">
+            Clinton calls on Republicans to accept Supreme Court nominee</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Hillary Clinton has called on Republican leaders to accept President Barack Obama’s pick for the Supreme Court,...</p>
+    </div>
+</li><li class="result r-31"><a href="http://www.ft.com/cms/s/0/27bdf12a-f3b0-11e5-9afe-dd2472ea263d.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=28')">
+            <img src="http://im.media.ft.com/content/images/7791a23f-00c4-41a8-83cc-9cec1ba28184.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 27, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/27bdf12a-f3b0-11e5-9afe-dd2472ea263d.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=28')">
+            Sanders crushes Clinton in Washington, Alaska and Hawaii</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Bernie Sanders won landslide victories in Alaska, Washington state and Hawaii on Saturday, boosting his effort to close...</p>
+    </div>
+</li><li class="result r-32"><a href="http://www.ft.com/cms/s/0/3da1e618-f1c1-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=29')">
+            <img src="http://im.media.ft.com/content/images/290bc102-6d73-4a90-a818-4ff928ee6671.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 27, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/3da1e618-f1c1-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=29')">
+            Hillary Clinton’s looming presidency</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Here is a very modest test of your imagination. It is December and Hillary Clinton is the president-elect. Not only did...</p>
+    </div>
+</li><li class="result r-33"><a href="http://www.ft.com/cms/s/0/23f4b26a-f1ba-11e5-9f20-c3a047354386.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=30')">
+            <img src="http://im.media.ft.com/content/images/4d5d08f4-690d-4c79-8faa-0f5f169f0acc.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 25, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/23f4b26a-f1ba-11e5-9f20-c3a047354386.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=30')">
+            Donald Trump is well placed to inherit the great bonehead gambit</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Somewhere, someone is already compiling the anthology of America’s 2016 election: Wisdoms of The Donald. Filed under...</p>
+    </div>
+</li><li class="result r-34"><a href="http://www.ft.com/cms/s/0/2731c592-f1bc-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=31')">
+            <img src="http://im.media.ft.com/content/images/108960a4-4da0-430b-ae44-9cef77e35b60.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 24, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/2731c592-f1bc-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=31')">
+            Trump and Cruz would ramp up public spending</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump and Ted Cruz are touting policies that would boost public spending by hundreds of billions of dollars,...</p>
+    </div>
+</li><li class="result r-35"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">The World</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">March 23, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://blogs.ft.com/the-world/2016/03/white-house-countdown-war-of-the-roses/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=32')" >
+            White House Countdown - War of the roses</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Sign up to receive White House countdown, our daily US politics email, here. Jeb Bush emerged from oblivion on...</p>
+    </div>
+</li><li class="result r-36"><a href="http://www.ft.com/cms/s/0/dc2b2fb0-f13f-11e5-a609-e9f2438ee05b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=33')">
+            <img src="http://im.media.ft.com/content/images/9ed33b72-27c1-461a-ab11-7757707e01f5.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 23, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/dc2b2fb0-f13f-11e5-a609-e9f2438ee05b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=33')">
+            Clinton attacks Trump’s stance on Nato</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Hillary Clinton attacked Donald Trump on Wednesday for suggesting that the US should play a lesser role in Nato, in...</p>
+    </div>
+</li><li class="result r-37"><a href="http://www.ft.com/cms/s/0/37a2377a-f11e-11e5-a609-e9f2438ee05b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=34')">
+            <img src="http://im.media.ft.com/content/images/2650fa07-6f6f-4da4-bc9e-86bfba60288c.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 23, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/37a2377a-f11e-11e5-a609-e9f2438ee05b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=34')">
+            Republicans learn to (not quite) trust Cruz</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Ted Cruz has so few friends in Washington that Lindsey Graham, his Republican colleague, recently said that none of...</p>
+    </div>
+</li><li class="result r-38"><a href="http://www.ft.com/cms/s/0/d432f8da-f0e3-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=35')">
+            <img src="http://im.media.ft.com/content/images/3ace4e0c-cee8-44f4-b0e6-4c6bcbb4c5f1.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 23, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/d432f8da-f0e3-11e5-aff5-19b4e253664a.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=35')">
+            Jeb Bush endorses Ted Cruz</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Ted Cruz, the Cuban-American senator from Texas, received a boost in his effort to rally Republicans behind his bid to...</p>
+    </div>
+</li><li class="result r-39"><div class="tk-strapline">
+        <div class="field gaarticlebrand">
+        	<b class="value">Fast FT</b>
+        </div>
+        <div class="field gadatetimearticle"><p class="value">March 23, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/fastft/2016/03/23/jeb-bush-endorses-ted-cruz-for-president/" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=36')" >
+            Jeb Bush endorses Ted Cruz for president</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump’s position as favourite to take the Republican nomination for US president suffered a minor setback on...</p>
+    </div>
+</li><li class="result r-40"><a href="http://www.ft.com/cms/s/0/f783baac-f0ae-11e5-a609-e9f2438ee05b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=37')">
+            <img src="http://im.media.ft.com/content/images/200a9dae-ae21-42b7-9bbb-98a78ff951a4.img" onerror="this.style.display='none'" class="simpleThumb" />
+        </a>
+    <div class="tk-strapline">
+        <div class="field gadatetimearticle"><p class="value">March 23, 2016</p></div>
+                        </div>
+    <h3>
+        <a href="http://www.ft.com/cms/s/0/f783baac-f0ae-11e5-a609-e9f2438ee05b.html" onclick="return FT.analytics. siteIntelligence.trackLink('searchResultPageNo=|searchResultIndexOnPage=37')">
+            Trump and Clinton score big victories in Arizona</a>
+    </h3>
+    <div class="field body">
+        <p class="value">
+            Donald Trump and Hillary Clinton won big victories in the Arizona primaries on Tuesday, cementing their positions as...</p>
+    </div>
+</li></ol><div class="topicBlocks">
+                <div class="ft-header-small ft-header-small-titleleft ">
+    <h2 class="ft-header-small-title to" >
+        Related Topics </h2>
+</div><div class="clearfix">
+                                <div class="topicBlock ">
+			<h3 class="ft-heading ft-heading-medium " >
+    <a class="ft-link" href="/topics/organisations">
+    ORGANISATIONS </a>
+    </h3>
+<ul>
+                <li><a href="http://www.ft.com/topics/organisations/Democratic_Party_US">Democratic Party US</a></li>
+                <li><a href="http://www.ft.com/topics/organisations/Republican_Party_US">Republican Party US</a></li>
+                <li><a href="http://www.ft.com/topics/organisations/United_Nations">United Nations</a></li>
+                <li><a href="http://www.ft.com/topics/organisations/European_Union">European Union</a></li>
+                <li><a href="http://www.ft.com/topics/organisations/Taliban">Taliban</a></li>
+                </ul>
+		</div>
+<div class="topicBlock last">
+			<h3 class="ft-heading ft-heading-medium " >
+    <a class="ft-link" href="/topics/people">
+    PEOPLE </a>
+    </h3>
+<ul>
+                <li><a href="http://www.ft.com/topics/people/Barack_Obama">Barack Obama</a></li>
+                <li><a href="http://www.ft.com/topics/people/John_McCain">John McCain</a></li>
+                <li><a href="http://www.ft.com/topics/people/George_W._Bush">George W. Bush</a></li>
+                <li><a href="http://www.ft.com/topics/people/Mitt_Romney">Mitt Romney</a></li>
+                <li><a href="http://www.ft.com/topics/people/Donald_Trump">Donald Trump</a></li>
+                </ul>
+		</div>
+</div>
+                            <div class="clearfix">
+                                <div class="topicBlock ">
+			<h3 class="ft-heading ft-heading-medium " >
+    <a class="ft-link" href="/topics/places">
+    PLACES </a>
+    </h3>
+<ul>
+                <li><a href="http://www.ft.com/topics/places/United_States_of_America">United States of America</a></li>
+                <li><a href="http://www.ft.com/topics/places/Washington_D.C.">Washington D.C.</a></li>
+                <li><a href="http://www.ft.com/topics/places/New_York">New York</a></li>
+                </ul>
+		</div>
+<div class="topicBlock last">
+			<h3 class="ft-heading ft-heading-medium " >
+    <a class="ft-link" href="/topics/themes">
+    THEMES </a>
+    </h3>
+<ul>
+                <li><a href="http://www.ft.com/topics/themes/Global_terror">Global terror</a></li>
+                <li><a href="http://www.ft.com/topics/themes/Climate_change">Climate change</a></li>
+                <li><a href="http://www.ft.com/topics/themes/Mergers_&_Acquisitions">Mergers & Acquisitions</a></li>
+                </ul>
+		</div>
+</div>
+                            </div>
+        <div class="topicSearchBox bottom">
+            <span class="topicSearchText">Search for Hillary Clinton and</span>
+            <form class="topicSearchForm">
+                <input type="text" name="query"/>
+                <button class="button">Search</button>
+            </form>
+        </div>
+
+            <script type="text/javascript">
+            $('.topicSearchForm').delegate('.button', 'click', function(){
+                $(this.form).trigger('submit');
+            });
+            $('.topicSearchForm').on('submit',function() {
+                var query = $(this).find('input').val();
+                var topicType = 'people';
+                var filters = {
+                    organisations : 'organisations',
+                    people : 'people',
+                    places : 'regions',
+                    themes : 'topics'
+                };
+                var q = query+'&f='+filters[topicType]+'%5B"%5E"Hillary+Clinton"%24"%5D%5B"Hillary+Clinton"%5D';
+                window.location.href='http://search.ft.com?q='+q;
+                return false;
+            });
+        </script>
+
+
+	</div>
+</div>
+
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "6"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "4"});</script>
+</div>
+</div>
+<div class="master-row topAds">
+<script>FT.$doc.trigger("pgObjStart", {key: "7", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "8", keyType: "el"});</script>
+<div id="banlb" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="0" data-timer-key="8" data-cb-ad-id="Leaderboard" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=banlb">
+<script>
+FT.ads.request("banlb");
+</script>
+</div>
+<div id="newssubs" class="advertising" data-cb-ad-id="News subs" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=newssubs">
+<script>
+FT.ads.requestNewssubs();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "8"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "7"});</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "perceivedLoadTime"});</script>
+<div class="master-row railSection" data-zone="railSection">
+<script>FT.$doc.trigger("pgObjStart", {key: "9", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "10", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="0" data-timer-key="10" id="199277">
+<div class="twigkit">
+    <div id="videos-result-list-container" class="videos railList">
+        <div class="comp-header">
+            <h3 class="comp-header-title">RELATED VIDEOS</h3>
+        </div>
+
+		<p class="summary">Videos from FT.com that closely match this topic</p>
+        <ol class="rail-result-list" id=""><li class="result first"><a href="http://video.ft.com/v/4834344309001" class="videoThumb" onclick="">
+    <div class="img-block">
+        <img src="https://bcsecure01-a.akamaihd.net/13/47628783001/201604/2404/47628783001_4834419048001_TRIP-LucyKellaway-LinkedIn.jpg?pubId=47628783001" onerror="this.style.display='none'" />
+    </div>
+    <span></span>
+    <div class="descr">
+        Lucy Kellaway learns from the profiles of Hillary Clinton and...<br />
+        Wed Apr 06 17:42:38 GMT 2016</div>
+</a>
+
+<div class="field title"><h4 class="value"><a href="http://video.ft.com/v/4834344309001" title="Your LinkedIn summary: How not to do it">Your LinkedIn summary: How not to d...</a></h4></div><div class="field subheading"><p class="value">Lucy Kellaway learns from the profiles of Hillary Clint...</p></div></li><li class="result"><a href="http://video.ft.com/v/4803118574001" class="videoThumb" onclick="">
+    <div class="img-block">
+        <img src="https://bcsecure01-a.akamaihd.net/13/47628783001/201603/261/47628783001_4803055083001_SEC-FTWorld-Clintin-Trump.jpg?pubId=47628783001" onerror="this.style.display='none'" />
+    </div>
+    <span></span>
+    <div class="descr">
+        Sam Fleming reports on Super Tuesday 2...<br />
+        Wed Mar 16 07:01:35 GMT 2016</div>
+</a>
+
+<div class="field title"><h4 class="value"><a href="http://video.ft.com/v/4803118574001" title="Trump and Clinton dominate primaries">Trump and Clinton dominate primaries</a></h4></div><div class="field subheading"><p class="value">Sam Fleming reports on Super Tuesday 2</p></div></li><li class="result"><a href="http://video.ft.com/v/4793147961001" class="videoThumb" onclick="">
+    <div class="img-block">
+        <img src="https://bcsecure01-a.akamaihd.net/13/47628783001/201603/170/47628783001_4793168458001_SEC-FIRSTFT-DonaldJTrump.jpg?pubId=47628783001" onerror="this.style.display='none'" />
+    </div>
+    <span></span>
+    <div class="descr">
+        The FT provides Wednesday’s top stories...<br />
+        Wed Mar 09 11:27:38 GMT 2016</div>
+</a>
+
+<div class="field title"><h4 class="value"><a href="http://video.ft.com/v/4793147961001" title="FirstFT – Trump wins two more states, Sir George Martin dies">FirstFT – Trump wins two more state...</a></h4></div><div class="field subheading"><p class="value">The FT provides Wednesday’s top stories</p></div></li></ol></div>
+</div>
+
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "10"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "11", keyType: "el"});</script>
+<div id="hlfmpu" class="advertising" data-comp-name="advert" data-comp-view="advert" data-comp-index="1" data-timer-key="11" data-cb-ad-id="Half mpu" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=hlfmpu">
+<script>
+FT.ads.request("hlfmpu");
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "11"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "12", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="2" data-timer-key="12" id="193864">
+<div id="popularContent">
+</div>
+<script>
+(function getScript () {
+var url = 'http://mostpopular.sp.ft-static.com/v1/script/prod/min/topArticles.2.0.0.min.js';
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = true;
+script.src = url;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(script, s);
+})();
+</script>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "12"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "13", keyType: "el"});</script>
+<div id="doublet" class="advertising" data-cb-ad-id="Editorial Doublet" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=doublet">
+<script>
+FT.ads.request("doublet");
+</script>
+</div> 
+<script>FT.$doc.trigger("pgObjStop", {key: "13"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "14", keyType: "el"});</script>
+<div class="partnerLinks" data-comp-name="railFeedsBox" data-comp-view="partnerLinks" data-comp-index="4" data-timer-key="14">
+<div class="comp-header">
+<h3 class="comp-header-title" data-pos="0">
+<a href="http://www.ft.com/columnists/person-in-the-news" >
+PERSON IN THE NEWS
+</a>
+</h3>
+</div>
+<ul class="railLinks" data-pos="1">
+<li>
+<a href="http://www.ft.com/cms/s/0/c68f2216-fce7-11e5-b3f6-11d5706b613b.html" class="siTrack">
+Sanjeev Gupta – steel baron to be?
+</a>
+</li>
+<li>
+<a href="http://www.ft.com/cms/s/0/95fb3f84-f686-11e5-803c-d27c7117d132.html" class="siTrack">
+Dilma Rousseff, Brazil’s warrior president
+</a>
+</li>
+<li>
+<a href="http://www.ft.com/cms/s/0/26e2b2c0-ec32-11e5-bb79-2303682345c8.html" class="siTrack">
+Elena Ferrante, fake name behind great tale
+</a>
+</li>
+<li>
+<a href="http://www.ft.com/cms/s/0/630bcb34-e6b9-11e5-a09b-1f8b0d268c39.html" class="siTrack">
+Demis Hassabis, master of new machine age
+</a>
+</li>
+<li>
+<a href="http://www.ft.com/cms/s/0/afa3a7b6-e130-11e5-9217-6ae3733a2cd1.html" class="siTrack">
+James Comey, the lawyer battling Apple
+</a>
+</li>
+</ul>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "14"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "9"});</script>
+</div>
+</div>
+<div class="master-row bottomSection " data-zone="bottomSection">
+<script>FT.$doc.trigger("pgObjStart", {key: "15", keyType: "el"});</script>
+<script>FT.$doc.trigger("pgObjStart", {key: "16", keyType: "el"});</script>
+<div class="freestyle" data-comp-name="freestyle" data-comp-view="freestyle" data-comp-index="0" data-timer-key="16" id="156239">
+<div id="footer">
+<div id="content">
+<ul class="gen-freestyle-ul"> 
+<li><a href="http://www.ft.com/help">Help</a></li>
+<li>&#8226;<a href="http://aboutus.ft.com/contact-us">Contact us</a></li>
+<li>&#8226;<a href="http://www.ft.com/aboutus">About us</a></li>
+<li>&#8226;<a href="http://www.ft.com/advertising">Advertise with the FT</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/terms">Terms &amp; conditions</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/privacy">Privacy policy</a></li>
+<li>&#8226;<a href="http://www.ft.com/servicestools/help/copyright">Copyright</a></li>
+<li id="footerCookiePolicy">&#8226;<a href="http://www.ft.com/cookiepolicy">Cookie policy</a></li>
+<script>
+/* <![CDATA[
+FT.FooterAdChoiceLink = '<li id="footerAdChoices">&#8226;<a href="http://www.youronlinechoices.eu">AdChoices</a></li>';
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU()) {
+document.write(FT.FooterAdChoiceLink);
+}
+$(window).load(function() {
+FT.lib.hashCookies();
+if (typeof FT.render.user.isUserInEU === 'function' && FT.render.user.isUserInEU() && !$('#footerAdChoices').length) {
+$(FT.FooterAdChoiceLink).insertAfter('#footerCookiePolicy');
+}
+});
+]]> */
+</script>
+</ul>
+<p>
+<span class="copyright"><strong>&#169; The Financial Times Ltd 2016 </strong></span>
+<span><acronym title="Financial Times">FT</acronym> and 'Financial Times' are trademarks of The Financial Times Ltd.</span>
+</p>
+<br/>
+</div>
+</div>
+</div>
+<script>FT.$doc.trigger("pgObjStop", {key: "16"});</script>
+<script>FT.$doc.trigger("pgObjStop", {key: "15"});</script>
+</div>
+<div class="adRequests">
+<div id="corppop" data-cb-ad-id="Corp pop up" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=corppop">
+<script>
+FT.ads.request('corppop');
+</script>
+</div>
+<div id="refresh" data-cb-ad-id="Refresh" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=refresh">
+<script>
+FT.ads.request('refresh');
+</script>
+</div>
+</div>
+</div>
+<div id="oob" data-cb-ad-id="Oob" data-cb-dfp-id="unit=ftcom5887topics.people-articles;targeting=ind;pos=oob">
+<script>
+FT.ads.request('oob');
+</script>
+</div>
+<script src="http://static-render-p.ft.com/scripts/d119af28/bundles/coreFoot.js"></script>
+<script src="http://static-render-p.ft.com/scripts/7e26ad7/bundles/nonArticleFoot.js"></script>
+<script src="http://navigation.webservices.ft.com/v1/navigation/ft/js/script.min.js"></script>
+<!--ft:footWrapperJs-->
+ 
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1004457185;
+var google_conversion_label = "2CA1CMe1kgQQ4Zn73gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<script src="https://reg.ft-static.com/guestpass/assets/perm/js/jquery-ui-1.10.3.custom.min.js"></script>
+</body>
+</html>

@@ -16,12 +16,12 @@
 
 
 <meta name='parsely-metadata' content='{"title": "National Poll Results", "link": "//www.foxnews.com/politics/elections/2016/national-poll-results", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_home", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "National Poll Results", "link": "//www.foxnews.com/politics/elections/2016/national-poll-results", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_home", "pub_date": "2016-03-22 1:42:01 AM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "National Poll Results", "link": "//www.foxnews.com/politics/elections/2016/national-poll-results", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_home", "pub_date": "2016-04-12 9:46:03 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
 <meta name="dc.publisher" content="FOX News" />
-<meta name="dc.date" content="2016-03-22" />
+<meta name="dc.date" content="2016-04-12" />
 <meta name="dc.format" scheme="dcterms.IMT" content="text/html" />
 <meta name="dc.title" lang="en" content="National Poll Results" />
 <meta name="dc.description" content="Elections news and videos for the 2016 presidential race. See the latest analysis and data for the election on FoxNews.com." />
@@ -70,7 +70,7 @@
   <div class="nav">
     <div class="wrap">
       <div class="button menu">
-        <a href="#">Menu</a>
+        <a href="#" class="sidebar_menu">Menu</a>
       </div>
       <div class="logo">
         <a href="/politics/elections/2016/presidential-election-headquarters">2016 Election Headquarters</a>
@@ -103,7 +103,7 @@
                   <a href="/politics/elections/2016/presidential-election-headquarters">Elections Home</a>
                 </li>
                           <li class="">
-                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary and Caucus Results</a>
+                  <a href="/politics/elections/2016/presidential-primary-caucus-results">Primary &amp; Caucus Results</a>
                 </li>
                           <li class="dropdown desktop  ">
                   <a href="#">Results By State</a>
@@ -112,77 +112,109 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/alaska">Alaska</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/california">California</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/georgia">Georgia</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/hawaii">Hawaii</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/idaho">Idaho</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/illinois">Illinois</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/indiana">Indiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/iowa">Iowa</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kansas">Kansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/louisiana">Louisiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/maine">Maine</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/maryland">Maryland</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/massachusetts">Massachusetts</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/michigan">Michigan</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/mississippi">Mississippi</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/missouri">Missouri</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/montana">Montana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-jersey">New Jersey</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-mexico">New Mexico</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/north-dakota">North Dakota</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
-                                                    <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/oregon">Oregon</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
+                                                    <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-dakota">South Dakota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/west-virginia">West Virginia</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
                 <li class="mobile-tablet ">
                   <div class="select-wrap">
-                    <select name="state" onchange="location.assign(this.options[this.selectedIndex].value)">
-                      <option value="default">Results By State</option>
+                    <select name="state">
+                      <option value="default" disabled selected>Results By State</option>
                                                       <option value="primary-caucus/alabama">Alabama</option>
                                                 <option value="primary-caucus/alaska">Alaska</option>
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
+                                                <option value="primary-caucus/california">California</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
+                                                <option value="primary-caucus/connecticut">Connecticut</option>
+                                                <option value="primary-caucus/delaware">Delaware</option>
                                                 <option value="primary-caucus/district-of-columbia">District Of Columbia</option>
                                                 <option value="primary-caucus/florida">Florida</option>
                                                 <option value="primary-caucus/georgia">Georgia</option>
                                                         <option value="primary-caucus/hawaii">Hawaii</option>
                                                 <option value="primary-caucus/idaho">Idaho</option>
                                                 <option value="primary-caucus/illinois">Illinois</option>
+                                                <option value="primary-caucus/indiana">Indiana</option>
                                                 <option value="primary-caucus/iowa">Iowa</option>
                                                 <option value="primary-caucus/kansas">Kansas</option>
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
                                                 <option value="primary-caucus/louisiana">Louisiana</option>
                                                 <option value="primary-caucus/maine">Maine</option>
+                                                <option value="primary-caucus/maryland">Maryland</option>
                                                 <option value="primary-caucus/massachusetts">Massachusetts</option>
                                                 <option value="primary-caucus/michigan">Michigan</option>
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
                                                 <option value="primary-caucus/mississippi">Mississippi</option>
                                                 <option value="primary-caucus/missouri">Missouri</option>
+                                                <option value="primary-caucus/montana">Montana</option>
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-jersey">New Jersey</option>
+                                                <option value="primary-caucus/new-mexico">New Mexico</option>
+                                                <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
+                                                <option value="primary-caucus/north-dakota">North Dakota</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
-                                                        <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/oregon">Oregon</option>
+                                                <option value="primary-caucus/pennsylvania">Pennsylvania</option>
+                                                        <option value="primary-caucus/rhode-island">Rhode Island</option>
+                                                <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/south-dakota">South Dakota</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/west-virginia">West Virginia</option>
+                                                <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
                   </div>  
@@ -254,7 +286,7 @@
     <p>The latest data on how potential presidential candidates are faring against each other in the polls.</p>
     <div class="button">
    
-      <a href="http://www.foxnews.com/politics/interactive/2016/02/18/fox-news-poll-national-presidential-race-february-18-2016/">View Poll Data</a>
+      <a href="http://www.foxnews.com/politics/2016/03/23/fox-news-poll-cruz-gains-on-trump-in-gop-race-clinton-up-by-double.html">View Poll Data</a>
     </div>
   </header>
   <div class="content">
@@ -276,8 +308,8 @@
           <div class="info">
             <h3><span>Donald</span> <span>Trump</span></h3>
           
-            <div class="percent">36<span>%</span></div>
-            <div class="change">+2</div>
+            <div class="percent">41<span>%</span></div>
+            <div class="change">+5</div>
                 </div>
         </li>
             <li class="candidate rep">
@@ -285,8 +317,8 @@
           <div class="info">
             <h3><span>Ted</span> <span>Cruz</span></h3>
           
-            <div class="percent">19<span>%</span></div>
-            <div class="change">-1</div>
+            <div class="percent">38<span>%</span></div>
+            <div class="change">+19</div>
                 </div>
         </li>
             <li class="candidate rep">
@@ -294,35 +326,8 @@
           <div class="info">
             <h3><span>John</span> <span>Kasich</span></h3>
           
-            <div class="percent">8<span>%</span></div>
-            <div class="change">+4</div>
-                </div>
-        </li>
-            <li class="candidate rep">
-          <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/marco-rubio.png" alt="Marco Rubio" /></div>
-          <div class="info">
-            <h3><span>Marco</span> <span>Rubio</span></h3>
-          
-            <div class="percent">15<span>%</span></div>
-            <div class="change">+4</div>
-                </div>
-        </li>
-            <li class="candidate rep">
-          <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/jeb-bush.png" alt="Jeb Bush" /></div>
-          <div class="info">
-            <h3><span>Jeb</span> <span>Bush</span></h3>
-          
-            <div class="percent">9<span>%</span></div>
-            <div class="change">+5</div>
-                </div>
-        </li>
-            <li class="candidate rep">
-          <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/ben-carson.png" alt="Ben Carson" /></div>
-          <div class="info">
-            <h3><span>Ben</span> <span>Carson</span></h3>
-          
-            <div class="percent">9<span>%</span></div>
-            <div class="change">+1</div>
+            <div class="percent">17<span>%</span></div>
+            <div class="change">+9</div>
                 </div>
         </li>
             </ul>
@@ -331,27 +336,27 @@
       <h4>Democratic</h4>
       <ul>
              <li class="candidate dem">
-          <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" /></div>
-          <div class="info">
-            <h3><span>Bernie</span> <span>Sanders</span></h3>
-          
-            <div class="percent">47<span>%</span></div>
-            <div class="change">+10</div>
-                </div>
-        </li>
-            <li class="candidate dem">
           <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" /></div>
           <div class="info">
             <h3><span>Hillary</span> <span>Clinton</span></h3>
           
-            <div class="percent">44<span>%</span></div>
+            <div class="percent">55<span>%</span></div>
+            <div class="change">+11</div>
+                </div>
+        </li>
+            <li class="candidate dem">
+          <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" /></div>
+          <div class="info">
+            <h3><span>Bernie</span> <span>Sanders</span></h3>
+          
+            <div class="percent">42<span>%</span></div>
             <div class="change">-5</div>
                 </div>
         </li>
             </ul>
     </div>
   </div>
-  <footer><p class="source">Source:  Fox News Poll - February 15-17, 2016</p></footer>
+  <footer><p class="source">Source:  Fox News Poll - March 20-22, 2016</p></footer>
 </section>
  
           <div class="advert">
@@ -365,140 +370,6 @@
               <div class="ad-container"><div class="ad gpt" id="desktop-300x600_300x250"></div></div>
             </div>
           </div>
-<section class="national-issues">
-  <header>
-    <h2>The Issues</h2>
-    <p>The issues voters think are most important today, from Fox News Poll</p>
-    <div class="arrow">
-      <a href="#">Expand / Collapse</a>
-    </div>
-  </header>
-  <div class="content">
-    <ul>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/terrorism.png" alt="Terrorism" />
-        </div>
-        <div class="info">
-        <div class="title">Terrorism</div>
-          <div class="percent">27%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/economy-and-jobs.png" alt="Economy &amp; Jobs" />
-        </div>
-        <div class="info">
-        <div class="title">Economy &amp; Jobs</div>
-          <div class="percent">21%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/health-care.png" alt="Health Care" />
-        </div>
-        <div class="info">
-        <div class="title">Health Care</div>
-          <div class="percent">8%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/climate-change.png" alt="Climate Change" />
-        </div>
-        <div class="info">
-        <div class="title">Climate Change</div>
-          <div class="percent">6%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/immigration.png" alt="Immigration" />
-        </div>
-        <div class="info">
-        <div class="title">Immigration</div>
-          <div class="percent">6%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/foreign-policy.png" alt="Foreign Policy" />
-        </div>
-        <div class="info">
-        <div class="title">Foreign Policy</div>
-          <div class="percent">5%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/race.png" alt="Race Relations" />
-        </div>
-        <div class="info">
-        <div class="title">Race Relations</div>
-          <div class="percent">5%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/federal-deficit.png" alt="The Federal Deficit" />
-        </div>
-        <div class="info">
-        <div class="title">The Federal Deficit</div>
-          <div class="percent">4%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/gay-marriage.png" alt="Gay Marriage" />
-        </div>
-        <div class="info">
-        <div class="title">Gay Marriage</div>
-          <div class="percent">2%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/other-issues.png" alt="Other" />
-        </div>
-        <div class="info">
-        <div class="title">Other</div>
-          <div class="percent">2%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/taxes.png" alt="Taxes" />
-        </div>
-        <div class="info">
-        <div class="title">Taxes</div>
-          <div class="percent">2%</div>
-        </div>
-      </li>
-    
-      <li class="issue">
-        <div class="m">
-          <img src="//global.fncstatic.com/static/p/elections/2016/img/elections-v2/issues-2x/abortion.png" alt="Abortion" />
-        </div>
-        <div class="info">
-        <div class="title">Abortion</div>
-          <div class="percent">1%</div>
-        </div>
-      </li>
-      </ul>
-  </div>
-  <footer><p class="source">Source: Fox News Poll - December 16-17, 2015</p></footer>
-</section>
          </div>
       </main>  
 <footer id="bottom" class="fn-elections">

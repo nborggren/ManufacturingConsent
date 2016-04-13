@@ -16,12 +16,12 @@
 
 
 <meta name='parsely-metadata' content='{"title": "2016 Presidential Primaries and Caucuses", "link": "//www.foxnews.com/politics/elections/2016/primaries", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "identifier": "2016_election_primary", "section": "Elections", "tags": ["politics/elections"]}'>
-<meta name='parsely-page' content='{"title": "2016 Presidential Primaries and Caucuses", "link": "//www.foxnews.com/politics/elections/2016/primaries", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary", "pub_date": "2016-03-22 5:21:40 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
+<meta name='parsely-page' content='{"title": "2016 Presidential Primaries and Caucuses", "link": "//www.foxnews.com/politics/elections/2016/primaries", "image_url": "//global.fncstatic.com/static/v/all/img/fn_128x128.png", "type": "post", "post_id": "2016_election_primary", "pub_date": "2016-04-12 9:37:14 PM", "section": "politics/elections", "author": "Fox News", "tags": ["politics","politics/elections"]}'>
 
 <meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
 <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US" />
 <meta name="dc.publisher" content="FOX News" />
-<meta name="dc.date" content="2016-03-22" />
+<meta name="dc.date" content="2016-04-12" />
 <meta name="dc.format" scheme="dcterms.IMT" content="text/html" />
 <meta name="dc.title" lang="en" content="2016 Presidential Primaries and Caucuses" />
 <meta name="dc.description" content="Stay in the know for the upcoming primaries and caucuses." />
@@ -70,7 +70,7 @@
   <div class="nav">
     <div class="wrap">
       <div class="button menu">
-        <a href="#">Menu</a>
+        <a href="#" class="sidebar_menu">Menu</a>
       </div>
       <div class="logo">
         <a href="/politics/elections/2016/presidential-election-headquarters">2016 Election Headquarters</a>
@@ -112,6 +112,7 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/alaska">Alaska</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/arkansas">Arkansas</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/california">California</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/connecticut">Connecticut</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/delaware">Delaware</a></li>
@@ -121,6 +122,7 @@
                                                     <li><a href="/politics/elections/2016/primary-caucus/hawaii">Hawaii</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/idaho">Idaho</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/illinois">Illinois</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/indiana">Indiana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/iowa">Iowa</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kansas">Kansas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/kentucky">Kentucky</a></li>
@@ -132,34 +134,42 @@
                                             <li><a href="/politics/elections/2016/primary-caucus/minnesota">Minnesota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/mississippi">Mississippi</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/missouri">Missouri</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/montana">Montana</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nebraska">Nebraska</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/nevada">Nevada</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-hampshire">New Hampshire</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-jersey">New Jersey</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/new-mexico">New Mexico</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/new-york">New York</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/north-dakota">North Dakota</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/oklahoma">Oklahoma</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/oregon">Oregon</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/pennsylvania">Pennsylvania</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/rhode-island">Rhode Island</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/south-carolina">South Carolina</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/south-dakota">South Dakota</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/tennessee">Tennessee</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/texas">Texas</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/vermont">Vermont</a></li>
                                                     <li><a href="/politics/elections/2016/primary-caucus/virginia">Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/washington">Washington</a></li>
+                                            <li><a href="/politics/elections/2016/primary-caucus/west-virginia">West Virginia</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></li>
                                             <li><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></li>
                                 </ul>  
                 </li>
                 <li class="mobile-tablet ">
                   <div class="select-wrap">
-                    <select name="state" onchange="location.assign(this.options[this.selectedIndex].value)">
-                      <option value="default">Results By State</option>
+                    <select name="state">
+                      <option value="default" disabled selected>Results By State</option>
                                                       <option value="primary-caucus/alabama">Alabama</option>
                                                 <option value="primary-caucus/alaska">Alaska</option>
                                                         <option value="primary-caucus/arizona">Arizona</option>
                                                 <option value="primary-caucus/arkansas">Arkansas</option>
+                                                <option value="primary-caucus/california">California</option>
                                                 <option value="primary-caucus/colorado">Colorado</option>
                                                 <option value="primary-caucus/connecticut">Connecticut</option>
                                                 <option value="primary-caucus/delaware">Delaware</option>
@@ -169,6 +179,7 @@
                                                         <option value="primary-caucus/hawaii">Hawaii</option>
                                                 <option value="primary-caucus/idaho">Idaho</option>
                                                 <option value="primary-caucus/illinois">Illinois</option>
+                                                <option value="primary-caucus/indiana">Indiana</option>
                                                 <option value="primary-caucus/iowa">Iowa</option>
                                                 <option value="primary-caucus/kansas">Kansas</option>
                                                 <option value="primary-caucus/kentucky">Kentucky</option>
@@ -180,22 +191,29 @@
                                                 <option value="primary-caucus/minnesota">Minnesota</option>
                                                 <option value="primary-caucus/mississippi">Mississippi</option>
                                                 <option value="primary-caucus/missouri">Missouri</option>
+                                                <option value="primary-caucus/montana">Montana</option>
                                                 <option value="primary-caucus/nebraska">Nebraska</option>
                                                 <option value="primary-caucus/nevada">Nevada</option>
                                                 <option value="primary-caucus/new-hampshire">New Hampshire</option>
+                                                <option value="primary-caucus/new-jersey">New Jersey</option>
+                                                <option value="primary-caucus/new-mexico">New Mexico</option>
                                                 <option value="primary-caucus/new-york">New York</option>
                                                 <option value="primary-caucus/north-carolina">North Carolina</option>
+                                                <option value="primary-caucus/north-dakota">North Dakota</option>
                                                         <option value="primary-caucus/ohio">Ohio</option>
                                                 <option value="primary-caucus/oklahoma">Oklahoma</option>
+                                                <option value="primary-caucus/oregon">Oregon</option>
                                                 <option value="primary-caucus/pennsylvania">Pennsylvania</option>
                                                         <option value="primary-caucus/rhode-island">Rhode Island</option>
                                                 <option value="primary-caucus/south-carolina">South Carolina</option>
+                                                <option value="primary-caucus/south-dakota">South Dakota</option>
                                                 <option value="primary-caucus/tennessee">Tennessee</option>
                                                 <option value="primary-caucus/texas">Texas</option>
                                                 <option value="primary-caucus/utah">Utah</option>
                                                 <option value="primary-caucus/vermont">Vermont</option>
                                                         <option value="primary-caucus/virginia">Virginia</option>
                                                 <option value="primary-caucus/washington">Washington</option>
+                                                <option value="primary-caucus/west-virginia">West Virginia</option>
                                                 <option value="primary-caucus/wisconsin">Wisconsin</option>
                                                 <option value="primary-caucus/wyoming">Wyoming</option>
                                   </select>
@@ -262,144 +280,15 @@
       <main class="main-content">
         <div class="wrap">
           <div class="alert"></div>
-<section class="results-caucus todays-events">
-  <header>
-    <h2>Today's Events</h2>
-    <p>2016 presidential primaries and caucuses happening today</p>
-      <div class="live-data">Live Results</div>
-    </header>
-  <div class="content">
-        <section class="state  arizona" data-fips="04" data-state-code="AZ">
-      <header>
-        <h3><a href="/politics/elections/2016/primary-caucus/arizona">Arizona</a></h3>
-        <div class="available-delegates">
-                            	      <div class="rep"><span>58</span> R</div>
-                              	      <div class="dem"><span>75</span> D</div>
-                            	    </div>
-      </header>
-      <div class="content data-table">
-        <div class="header">
-          <div class="votes">Votes</div>
-          <div class="percent">%</div>
-          <div class="delegates">Delegates</div>
+        <div class="video-holder mobile-tablet" data-playlist-id="">
+          <!-- render video here -->
+          <!-- render video here -->
         </div>
-                                    <div class="row rep " data-npid="61815" data-feed="1">
-          <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row rep " data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row rep " data-npid="8639" data-feed="1">
-          <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                                  <div class="row dem " data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                  </div>     
-    </section>
-     
     <div class="advert mobile">
       <div class="ad-container">
         <div class="ad gpt" id="mobile-300x250_320x50"></div>
       </div>
     </div>
-              <section class="state  idaho" data-fips="16" data-state-code="ID">
-      <header>
-        <h3><a href="/politics/elections/2016/primary-caucus/idaho">Idaho</a></h3>
-        <div class="available-delegates">
-                            	      <div class="dem"><span>23</span> D</div>
-                            	    </div>
-      </header>
-      <div class="content data-table">
-        <div class="header">
-          <div class="votes">Votes</div>
-          <div class="percent">%</div>
-          <div class="delegates">Delegates</div>
-        </div>
-                                    <div class="row dem " data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                  </div>     
-    </section>
-              <section class="state  utah" data-fips="49" data-state-code="UT">
-      <header>
-        <h3><a href="/politics/elections/2016/primary-caucus/utah">Utah</a></h3>
-        <div class="available-delegates">
-                            	      <div class="rep"><span>40</span> R</div>
-                              	      <div class="dem"><span>33</span> D</div>
-                            	    </div>
-      </header>
-      <div class="content data-table">
-        <div class="header">
-          <div class="votes">Votes</div>
-          <div class="percent">%</div>
-          <div class="delegates">Delegates</div>
-        </div>
-                                    <div class="row rep " data-npid="61815" data-feed="1">
-          <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row rep " data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row rep " data-npid="8639" data-feed="1">
-          <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                                  <div class="row dem " data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                  <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>0</span></div>
-          <div class="percent"><span>0%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                  </div>     
-    </section>
-            </div>
-</section>
-        <div class="video-holder mobile-tablet" data-playlist-id="4802304233001">
-          <!-- render video here -->
-          <!-- render video here -->
-        </div>
 <section class="delegates-leaderboard">
   <header>
     <h2>Delegates Leaderboard</h2>
@@ -420,7 +309,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/donald-trump.png" alt="Donald Trump" />
                   </div>
             <div class="info">
-              <div class="data">681</div>
+              <div class="data">743</div>
               <div class="name">Donald Trump</div>
             </div>
           </li>
@@ -429,7 +318,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
                   </div>
             <div class="info">
-              <div class="data">425</div>
+              <div class="data">545</div>
               <div class="name">Ted Cruz</div>
             </div>
           </li>
@@ -447,7 +336,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/marco-rubio.png" alt="Marco Rubio" />
                   </div>
             <div class="info">
-              <div class="data">166</div>
+              <div class="data">171</div>
               <div class="name">Marco Rubio</div>
             </div>
           </li>
@@ -456,7 +345,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/ben-carson.png" alt="Ben Carson" />
                   </div>
             <div class="info">
-              <div class="data">8</div>
+              <div class="data">9</div>
               <div class="name">Ben Carson</div>
             </div>
           </li>
@@ -501,7 +390,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/chris-christie.png" alt="Chris Christie" />
                   </div>
             <div class="info">
-              <div class="data">0</div>
+              <div class="data">-</div>
               <div class="name">Chris Christie</div>
             </div>
           </li>
@@ -510,7 +399,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bw-opacity/rick-santorum.png" alt="Rick Santorum" />
                   </div>
             <div class="info">
-              <div class="data">0</div>
+              <div class="data">-</div>
               <div class="name">Rick Santorum</div>
             </div>
           </li>
@@ -534,7 +423,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" />
                   </div>
             <div class="info">
-              <div class="data">1,630</div>
+              <div class="data">1,758</div>
               <div class="name">Hillary Clinton</div>
             </div>
           </li>
@@ -543,7 +432,7 @@
               <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
                   </div>
             <div class="info">
-              <div class="data">870</div>
+              <div class="data">1,069</div>
               <div class="name">Bernie Sanders</div>
             </div>
           </li>
@@ -568,8 +457,8 @@
                </div>
                <div class="info">
                  <div class="name">Clinton</div>
-                 <div class="data regular">1163</div>
-                 <div class="data super">467</div>
+                 <div class="data regular">1289</div>
+                 <div class="data super">469</div>
                </div>
                             </div>
                    <div class="delegate">
@@ -578,8 +467,8 @@
                </div>
                <div class="info">
                  <div class="name">Sanders</div>
-                 <div class="data regular">844</div>
-                 <div class="data super">26</div>
+                 <div class="data regular">1038</div>
+                 <div class="data super">31</div>
                </div>
                            </li>
          
@@ -608,13 +497,11 @@
     <div class="arrow"><a href="#">Collapse / Expand</a></div>
   </header>
   <div class="content">
-      <section class="state florida">
+      <section class="state colorado">
     <header>
-      <h3><a href="/politics/elections/2016/primary-caucus/florida">Florida</a></h3>
+      <h3><a href="/politics/elections/2016/primary-caucus/colorado">Colorado</a></h3>
         <div class="available-delegates">
-                            	      <div class="rep"><span>99</span> R</div>
-                              	      <div class="dem"><span>214</span> D</div>
-                            	    </div>
+                                              	    </div>
 	</header>
       <div class="content data-table">
         <div class="header">
@@ -622,206 +509,31 @@
           <div class="percent">%</div>
           <div class="delegates">Delegates</div>
         </div>
-                                        <div class="row rep winner" data-npid="8639" data-feed="1">
-          <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>1,077,221</span></div>
-          <div class="percent"><span>45.7%</span></div>
-          <div class="delegates"><span>99</span></div>
-        </div>
-                   <div class="row rep " data-npid="61815" data-feed="1">
+                                        <div class="row rep winner" data-npid="61815" data-feed="0">
           <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>403,640</span></div>
-          <div class="percent"><span>17.1%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                   <div class="row rep " data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>159,412</span></div>
-          <div class="percent"><span>6.8%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                   <div class="row rep " data-npid="53044" data-feed="1">
-          <div class="name"><span>Rubio</span></div>
-          <div class="votes"><span>636,653</span></div>
-          <div class="percent"><span>27%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                                       <div class="row dem winner" data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>1,097,400</span></div>
-          <div class="percent"><span>64.4%</span></div>
-          <div class="delegates"><span>133</span></div>
-        </div>
-                   <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>566,603</span></div>
-          <div class="percent"><span>33.3%</span></div>
-          <div class="delegates"><span>65</span></div>
-        </div>
-                                      </div>
-    </section>
-       <section class="state illinois">
-    <header>
-      <h3><a href="/politics/elections/2016/primary-caucus/illinois">Illinois</a></h3>
-        <div class="available-delegates">
-                            	      <div class="rep"><span>69</span> R</div>
-                              	      <div class="dem"><span>156</span> D</div>
-                            	    </div>
-	</header>
-      <div class="content data-table">
-        <div class="header">
-          <div class="votes">Votes</div>
-          <div class="percent">%</div>
-          <div class="delegates">Delegates</div>
-        </div>
-                                        <div class="row rep winner" data-npid="8639" data-feed="1">
-          <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>556,916</span></div>
-          <div class="percent"><span>20.3%</span></div>
-          <div class="delegates"><span>53</span></div>
-        </div>
-                   <div class="row rep " data-npid="61815" data-feed="1">
-          <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>434,038</span></div>
-          <div class="percent"><span>15.8%</span></div>
-          <div class="delegates"><span>9</span></div>
-        </div>
-                   <div class="row rep " data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>282,874</span></div>
-          <div class="percent"><span>10.3%</span></div>
-          <div class="delegates"><span>5</span></div>
-        </div>
-                   <div class="row rep " data-npid="53044" data-feed="1">
-          <div class="name"><span>Rubio</span></div>
-          <div class="votes"><span>124,568</span></div>
-          <div class="percent"><span>4.5%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                                       <div class="row dem winner" data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>1,017,006</span></div>
-          <div class="percent"><span>26.2%</span></div>
-          <div class="delegates"><span>73</span></div>
-        </div>
-                   <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>769,900</span></div>
-          <div class="percent"><span>19.9%</span></div>
-          <div class="delegates"><span>70</span></div>
-        </div>
-                                      </div>
-    </section>
-       <section class="state missouri">
-    <header>
-      <h3><a href="/politics/elections/2016/primary-caucus/missouri">Missouri</a></h3>
-        <div class="available-delegates">
-                            	      <div class="rep"><span>52</span> R</div>
-                              	      <div class="dem"><span>71</span> D</div>
-                            	    </div>
-	</header>
-      <div class="content data-table">
-        <div class="header">
-          <div class="votes">Votes</div>
-          <div class="percent">%</div>
-          <div class="delegates">Delegates</div>
-        </div>
-                                        <div class="row rep " data-npid="8639" data-feed="1">
-          <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>382,093</span></div>
-          <div class="percent"><span>40.9%</span></div>
-          <div class="delegates"><span>25</span></div>
-        </div>
-                   <div class="row rep " data-npid="61815" data-feed="1">
-          <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>380,367</span></div>
-          <div class="percent"><span>40.7%</span></div>
-          <div class="delegates"><span>5</span></div>
-        </div>
-                   <div class="row rep " data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>92,533</span></div>
-          <div class="percent"><span>9.9%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                   <div class="row rep " data-npid="53044" data-feed="1">
-          <div class="name"><span>Rubio</span></div>
-          <div class="votes"><span>57,006</span></div>
-          <div class="percent"><span>6.1%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                                                       <div class="row dem winner" data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>310,602</span></div>
-          <div class="percent"><span>49.6%</span></div>
+          <div class="votes"><span>-</span></div>
+          <div class="percent"><span>-</span></div>
           <div class="delegates"><span>34</span></div>
         </div>
-                   <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>309,071</span></div>
-          <div class="percent"><span>49.4%</span></div>
-          <div class="delegates"><span>34</span></div>
+                   <div class="row rep " data-npid="36679" data-feed="0">
+          <div class="name"><span>Kasich</span></div>
+          <div class="votes"><span>-</span></div>
+          <div class="percent"><span>-</span></div>
+          <div class="delegates"><span>-</span></div>
         </div>
-                                      </div>
-    </section>
-       <section class="state north-carolina">
-    <header>
-      <h3><a href="/politics/elections/2016/primary-caucus/north-carolina">North Carolina</a></h3>
-        <div class="available-delegates">
-                            	      <div class="rep"><span>72</span> R</div>
-                              	      <div class="dem"><span>107</span> D</div>
-                            	    </div>
-	</header>
-      <div class="content data-table">
-        <div class="header">
-          <div class="votes">Votes</div>
-          <div class="percent">%</div>
-          <div class="delegates">Delegates</div>
-        </div>
-                                        <div class="row rep winner" data-npid="8639" data-feed="1">
+                   <div class="row rep " data-npid="8639" data-feed="0">
           <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>458,151</span></div>
-          <div class="percent"><span>40.2%</span></div>
-          <div class="delegates"><span>29</span></div>
-        </div>
-                   <div class="row rep " data-npid="61815" data-feed="1">
-          <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>418,740</span></div>
-          <div class="percent"><span>36.8%</span></div>
-          <div class="delegates"><span>27</span></div>
-        </div>
-                   <div class="row rep " data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>144,299</span></div>
-          <div class="percent"><span>12.7%</span></div>
-          <div class="delegates"><span>9</span></div>
-        </div>
-                   <div class="row rep " data-npid="53044" data-feed="1">
-          <div class="name"><span>Rubio</span></div>
-          <div class="votes"><span>87,858</span></div>
-          <div class="percent"><span>7.7%</span></div>
-          <div class="delegates"><span>6</span></div>
-        </div>
-                                                       <div class="row dem winner" data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>616,383</span></div>
-          <div class="percent"><span>54.6%</span></div>
-          <div class="delegates"><span>59</span></div>
-        </div>
-                   <div class="row dem " data-npid="1445" data-feed="1">
-          <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>460,316</span></div>
-          <div class="percent"><span>40.8%</span></div>
-          <div class="delegates"><span>45</span></div>
+          <div class="votes"><span>-</span></div>
+          <div class="percent"><span>-</span></div>
+          <div class="delegates"><span>-</span></div>
         </div>
                                       </div>
     </section>
-       <section class="state ohio">
+       <section class="state wyoming">
     <header>
-      <h3><a href="/politics/elections/2016/primary-caucus/ohio">Ohio</a></h3>
+      <h3><a href="/politics/elections/2016/primary-caucus/wyoming">Wyoming</a></h3>
         <div class="available-delegates">
-                            	      <div class="rep"><span>66</span> R</div>
-                              	      <div class="dem"><span>143</span> D</div>
+                            	      <div class="dem"><span>14</span> D</div>
                             	    </div>
 	</header>
       <div class="content data-table">
@@ -830,41 +542,63 @@
           <div class="percent">%</div>
           <div class="delegates">Delegates</div>
         </div>
-                                        <div class="row rep winner" data-npid="36679" data-feed="1">
-          <div class="name"><span>Kasich</span></div>
-          <div class="votes"><span>956,762</span></div>
-          <div class="percent"><span>46.8%</span></div>
-          <div class="delegates"><span>66</span></div>
+                                        <div class="row dem winner" data-npid="1445" data-feed="1">
+          <div class="name"><span>Sanders</span></div>
+          <div class="votes"><span>156</span></div>
+          <div class="percent"><span>55.7%</span></div>
+          <div class="delegates"><span>7</span></div>
         </div>
-                   <div class="row rep " data-npid="61815" data-feed="1">
+                   <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>124</span></div>
+          <div class="percent"><span>44.3%</span></div>
+          <div class="delegates"><span>7</span></div>
+        </div>
+                                      </div>
+    </section>
+       <section class="state wisconsin">
+    <header>
+      <h3><a href="/politics/elections/2016/primary-caucus/wisconsin">Wisconsin</a></h3>
+        <div class="available-delegates">
+                            	      <div class="rep"><span>42</span> R</div>
+                              	      <div class="dem"><span>86</span> D</div>
+                            	    </div>
+	</header>
+      <div class="content data-table">
+        <div class="header">
+          <div class="votes">Votes</div>
+          <div class="percent">%</div>
+          <div class="delegates">Delegates</div>
+        </div>
+                                        <div class="row rep winner" data-npid="61815" data-feed="1">
           <div class="name"><span>Cruz</span></div>
-          <div class="votes"><span>267,592</span></div>
-          <div class="percent"><span>13.1%</span></div>
-          <div class="delegates"><span>0</span></div>
-        </div>
-                   <div class="row rep " data-npid="53044" data-feed="1">
-          <div class="name"><span>Rubio</span></div>
-          <div class="votes"><span>59,418</span></div>
-          <div class="percent"><span>2.9%</span></div>
-          <div class="delegates"><span>0</span></div>
+          <div class="votes"><span>531,129</span></div>
+          <div class="percent"><span>48.2%</span></div>
+          <div class="delegates"><span>36</span></div>
         </div>
                    <div class="row rep " data-npid="8639" data-feed="1">
           <div class="name"><span>Trump</span></div>
-          <div class="votes"><span>727,585</span></div>
-          <div class="percent"><span>35.6%</span></div>
+          <div class="votes"><span>386,370</span></div>
+          <div class="percent"><span>35.1%</span></div>
+          <div class="delegates"><span>6</span></div>
+        </div>
+                   <div class="row rep " data-npid="36679" data-feed="1">
+          <div class="name"><span>Kasich</span></div>
+          <div class="votes"><span>155,200</span></div>
+          <div class="percent"><span>14.1%</span></div>
           <div class="delegates"><span>0</span></div>
         </div>
-                                                       <div class="row dem winner" data-npid="1746" data-feed="1">
-          <div class="name"><span>Clinton</span></div>
-          <div class="votes"><span>679,266</span></div>
-          <div class="percent"><span>56.5%</span></div>
-          <div class="delegates"><span>80</span></div>
-        </div>
-                   <div class="row dem " data-npid="1445" data-feed="1">
+                                                       <div class="row dem winner" data-npid="1445" data-feed="1">
           <div class="name"><span>Sanders</span></div>
-          <div class="votes"><span>513,549</span></div>
-          <div class="percent"><span>42.7%</span></div>
-          <div class="delegates"><span>62</span></div>
+          <div class="votes"><span>567,936</span></div>
+          <div class="percent"><span>56.6%</span></div>
+          <div class="delegates"><span>48</span></div>
+        </div>
+                   <div class="row dem " data-npid="1746" data-feed="1">
+          <div class="name"><span>Clinton</span></div>
+          <div class="votes"><span>432,767</span></div>
+          <div class="percent"><span>43.1%</span></div>
+          <div class="delegates"><span>38</span></div>
         </div>
                                       </div>
     </section>
@@ -1033,21 +767,28 @@
               </div>
             </div>
        
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
     
     <!-- single winner -->
             <div class="row rep">
-              <span>12</span>
+              <span>14</span>
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>16<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>13</span>
             </div>
                 </div>
         </div>
@@ -1121,24 +862,38 @@
           </div>
           <div class="winner">
    
-    <!-- election happening today, but no winner anounced yet.  -->
-            <div class="row"><span>election today</span></div>
+    <!-- Single winner -->               
+            <div class="row rep">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/donald-trump.png" alt="Donald Trump" />
+                </div>
+                <span class="name" data-winner-npid="8639">Trump</span>
+              </div>
+            </div>
        
-    <!-- election happening today, but no winner anounced yet.  -->
-            <div class="row"><span>election today</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/hillary-clinton.png" alt="Hillary Clinton" />
+                </div>
+                <span class="name" data-winner-npid="1746">Clinton</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
     
-    <!-- delegates available -->  
-            <div class="row rep has-text">
-              <span>58<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row rep">
+              <span>58</span>
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>75<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>44</span>
             </div>
                 </div>
         </div>
@@ -1196,10 +951,10 @@
         </div>
           <div class="state california" data-state-fips="06" data-state-code="CA">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/california.png" alt="California" /></div>
-            <div class="name short">CA</div>
-            <div class="name long"><span>California</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/california"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/california.png" alt="California" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/california">CA</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/california">California</a></span></div>
                    <div class="events">
               <ul>
      
@@ -1252,8 +1007,15 @@
           </div>
           <div class="winner">
    
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row rep">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
+                </div>
+                <span class="name" data-winner-npid="61815">Cruz</span>
+              </div>
+            </div>
        
     <!-- Single winner -->               
             <div class="row dem">
@@ -1268,9 +1030,9 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- single winner -->
+            <div class="row rep">
+              <span>34</span>
             </div>
        
     
@@ -1306,15 +1068,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>28<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>55<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -1344,15 +1106,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>16<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>21<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -1392,10 +1154,10 @@
         </div>
           <div class="state district-of-columbia" data-state-fips="11" data-state-code="DC">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/district-of-columbia.png" alt="District Of Columbia" /></div>
-            <div class="name short">DC</div>
-            <div class="name long"><span>District Of Columbia</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/district-of-columbia"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/district-of-columbia.png" alt="District Of Columbia" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/district-of-columbia">DC</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/district-of-columbia">District Of Columbia</a></span></div>
                    <div class="events">
               <ul>
      
@@ -1606,21 +1368,28 @@
               </div>
             </div>
        
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
     
     <!-- single winner -->
             <div class="row rep">
-              <span>10</span>
+              <span>11</span>
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>25<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>17</span>
             </div>
                 </div>
         </div>
@@ -1654,8 +1423,15 @@
               </div>
             </div>
        
-    <!-- election happening today, but no winner anounced yet.  -->
-            <div class="row"><span>election today</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
@@ -1666,9 +1442,9 @@
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>23<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>17</span>
             </div>
                 </div>
         </div>
@@ -1726,10 +1502,10 @@
         </div>
           <div class="state indiana" data-state-fips="18" data-state-code="IN">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/indiana.png" alt="Indiana" /></div>
-            <div class="name short">IN</div>
-            <div class="name long"><span>Indiana</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/indiana"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/indiana.png" alt="Indiana" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/indiana">IN</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/indiana">Indiana</a></span></div>
                    <div class="events">
               <ul>
      
@@ -1750,15 +1526,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>57<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>83<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -2047,15 +1823,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>38<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>95<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -2314,10 +2090,10 @@
         </div>
           <div class="state montana" data-state-fips="30" data-state-code="MT">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/montana.png" alt="Montana" /></div>
-            <div class="name short">MT</div>
-            <div class="name long"><span>Montana</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/montana"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/montana.png" alt="Montana" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/montana">MT</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/montana">Montana</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2507,10 +2283,10 @@
         </div>
           <div class="state new-jersey" data-state-fips="34" data-state-code="NJ">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/new-jersey.png" alt="New Jersey" /></div>
-            <div class="name short">NJ</div>
-            <div class="name long"><span>New Jersey</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/new-jersey"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/new-jersey.png" alt="New Jersey" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/new-jersey">NJ</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/new-jersey">New Jersey</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2545,10 +2321,10 @@
         </div>
           <div class="state new-mexico" data-state-fips="35" data-state-code="NM">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/new-mexico.png" alt="New Mexico" /></div>
-            <div class="name short">NM</div>
-            <div class="name long"><span>New Mexico</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/new-mexico"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/new-mexico.png" alt="New Mexico" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/new-mexico">NM</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/new-mexico">New Mexico</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2607,15 +2383,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>95<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>247<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -2673,10 +2449,10 @@
         </div>
           <div class="state north-dakota" data-state-fips="38" data-state-code="ND">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/north-dakota.png" alt="North Dakota" /></div>
-            <div class="name short">ND</div>
-            <div class="name long"><span>North Dakota</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/north-dakota"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/north-dakota.png" alt="North Dakota" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/north-dakota">ND</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/north-dakota">North Dakota</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2856,10 +2632,10 @@
         </div>
           <div class="state oregon" data-state-fips="41" data-state-code="OR">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/oregon.png" alt="Oregon" /></div>
-            <div class="name short">OR</div>
-            <div class="name long"><span>Oregon</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/oregon"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/oregon.png" alt="Oregon" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/oregon">OR</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/oregon">Oregon</a></span></div>
                    <div class="events">
               <ul>
      
@@ -2918,15 +2694,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>17<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>189<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -2990,15 +2766,15 @@
           <div class="delegates">
    
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row rep has-text">
+              <span>19<span>at stake</span></span>
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- delegates available -->  
+            <div class="row dem has-text">
+              <span>24<span>at stake</span></span>
             </div>
                 </div>
         </div>
@@ -3059,10 +2835,10 @@
         </div>
           <div class="state south-dakota" data-state-fips="46" data-state-code="SD">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/south-dakota.png" alt="South Dakota" /></div>
-            <div class="name short">SD</div>
-            <div class="name long"><span>South Dakota</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/south-dakota"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/south-dakota.png" alt="South Dakota" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/south-dakota">SD</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/south-dakota">South Dakota</a></span></div>
                    <div class="events">
               <ul>
      
@@ -3216,24 +2992,38 @@
           </div>
           <div class="winner">
    
-    <!-- election happening today, but no winner anounced yet.  -->
-            <div class="row"><span>election today</span></div>
+    <!-- Single winner -->               
+            <div class="row rep">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
+                </div>
+                <span class="name" data-winner-npid="61815">Cruz</span>
+              </div>
+            </div>
        
-    <!-- election happening today, but no winner anounced yet.  -->
-            <div class="row"><span>election today</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
     
-    <!-- delegates available -->  
-            <div class="row rep has-text">
-              <span>40<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row rep">
+              <span>40</span>
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>33<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>26</span>
             </div>
                 </div>
         </div>
@@ -3398,8 +3188,15 @@
     <!-- election TBD -->
             <div class="row"><span>TBD</span></div>
        
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
@@ -3410,18 +3207,18 @@
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>34<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>25</span>
             </div>
                 </div>
         </div>
           <div class="state west-virginia" data-state-fips="54" data-state-code="WV">
           <div class="state-name">
-                   
-            <div class="m"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/west-virginia.png" alt="West Virginia" /></div>
-            <div class="name short">WV</div>
-            <div class="name long"><span>West Virginia</span></div>
+          
+            <div class="m"><a href="/politics/elections/2016/primary-caucus/west-virginia"><img src="//global.fncstatic.com/static/p/elections/2016/img/elections/states/west-virginia.png" alt="West Virginia" /></a></div>
+            <div class="name short"><a href="/politics/elections/2016/primary-caucus/west-virginia">WV</a></div>
+            <div class="name long"><span><a href="/politics/elections/2016/primary-caucus/west-virginia">West Virginia</a></span></div>
                    <div class="events">
               <ul>
      
@@ -3471,24 +3268,38 @@
           </div>
           <div class="winner">
    
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row rep">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/ted-cruz.png" alt="Ted Cruz" />
+                </div>
+                <span class="name" data-winner-npid="61815">Cruz</span>
+              </div>
+            </div>
        
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
     
-    <!-- delegates available -->  
-            <div class="row rep has-text">
-              <span>42<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row rep">
+              <span>36</span>
             </div>
        
     
-    <!-- delegates available -->  
-            <div class="row dem has-text">
-              <span>86<span>at stake</span></span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>48</span>
             </div>
                 </div>
         </div>
@@ -3518,8 +3329,15 @@
     <!-- election TBD -->
             <div class="row"><span>TBD</span></div>
        
-    <!-- election TBD -->
-            <div class="row"><span>TBD</span></div>
+    <!-- Single winner -->               
+            <div class="row dem">
+              <div class="headshot single">
+                <div class="m">
+                  <img src="//global.fncstatic.com/static/p/elections/2016/img/230x230/bernie-sanders.png" alt="Bernie Sanders" />
+                </div>
+                <span class="name" data-winner-npid="1445">Sanders</span>
+              </div>
+            </div>
                 </div>
           <div class="delegates">
    
@@ -3530,9 +3348,9 @@
             </div>
        
     
-    <!-- delegates not available --> 
-            <div class="row">
-              <span>TBD</span>
+    <!-- single winner -->
+            <div class="row dem">
+              <span>7</span>
             </div>
                 </div>
         </div>
@@ -3542,7 +3360,6 @@
 </section>
   </div>
   <aside class="sidebar upper">
-<div class="video-holder" data-playlist-id="4802304233001"></div>
 
   </aside>
   <aside class="sidebar lower">
@@ -3563,7 +3380,6 @@
         </div>
       </div>
     </div>
-<div class="video-holder" data-playlist-id="4802304233001"></div>
 
 <section class="news-feed related-stories">
   <header>
@@ -3574,46 +3390,46 @@
     <ul>
                   <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4812667422001/terror-in-brussels-infiltrates-us-presidential-race/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812679133001_6f7ec04b-948a-48c9-8634-a17f31beac48.jpg?ve=1&tl=1" alt="Terror in Brussels infiltrates US presidential race" /></a>
+    <a href="//video.foxbusiness.com/v/4842959165001/rep-blackburn-paul-ryan-is-developing-a-presidential-persona-for-a-future-race/"><img itemprop="image" src="//a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/201604/3238/276/156/854081161001_4842970644001_b25e40e2-d551-4d95-8560-03362b18efb7.jpg?ve=1&tl=1" alt="Rep. Blackburn: Paul Ryan is developing a presidential persona for a future race" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812667422001/terror-in-brussels-infiltrates-us-presidential-race/">Terror in Brussels infiltrates US presidential race</a></h4>
-    <p itemprop="description">How will global issue impact campaign?</p>
+    <h4 itemprop="headline"><a href="//video.foxbusiness.com/v/4842959165001/rep-blackburn-paul-ryan-is-developing-a-presidential-persona-for-a-future-race/">Rep. Blackburn: Paul Ryan is developing a presidential persona for a future race</a></h4>
+    <p itemprop="description">Rep. Marsha Blackburn, (R-TN), on House Speaker Paul Ryan and the GOP race for the presidential nomination.</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T19:13:28Z">
+  <meta itemprop="datePublished" content="2016-04-12T22:54:24Z">
 </article>
 </li>
                             <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4812621520001/rep-duncan-hunter-trump-wants-nato-to-pull-its-own-weight/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812620989001_76b233f5-2297-445a-808b-f2174540f1c9.jpg?ve=1&tl=1" alt="Rep. Duncan Hunter: Trump wants NATO to pull its own weight" /></a>
+    <a href="//video.foxbusiness.com/v/4842893561001/trump-spokesperson-not-the-federal-governments-responsibility-to-bail-out-banks/"><img itemprop="image" src="//a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/201604/274/276/156/854081161001_4842881799001_041216-rr-kat.jpg?ve=1&tl=1" alt="Trump spokesperson: Not the federal government’s responsibility to bail out banks" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812621520001/rep-duncan-hunter-trump-wants-nato-to-pull-its-own-weight/">Rep. Duncan Hunter: Trump wants NATO to pull its own weight</a></h4>
-    <p itemprop="description">On &#039;The Real Story,&#039; congressman discusses the political reaction to the Brussels terror attacks</p>
+    <h4 itemprop="headline"><a href="//video.foxbusiness.com/v/4842893561001/trump-spokesperson-not-the-federal-governments-responsibility-to-bail-out-banks/">Trump spokesperson: Not the federal government’s responsibility to bail out banks</a></h4>
+    <p itemprop="description">Trump National Spokeswoman Katrina Pierson on the candidate’s campaign and economic plans.</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T19:06:28Z">
+  <meta itemprop="datePublished" content="2016-04-12T22:39:51Z">
 </article>
 </li>
                             <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4812555965001/sanders-calls-for-increased-intelligence-gathering-sharing/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812578212001_83eb1376-f2aa-434d-b5b0-1ee6ea0dbd51.jpg?ve=1&tl=1" alt="Sanders calls for increased intelligence gathering, sharing" /></a>
+    <a href="//video.foxbusiness.com/v/4842944472001/huckabee-people-want-this-to-be-an-election-not-a-selection/"><img itemprop="image" src="//a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/201604/3486/276/156/854081161001_4842875141001_041216-rr-huck1.jpg?ve=1&tl=1" alt="Huckabee: People want this to be an election, not a selection" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812555965001/sanders-calls-for-increased-intelligence-gathering-sharing/">Sanders calls for increased intelligence gathering, sharing</a></h4>
-    <p itemprop="description">Democratic presidential candidate reacts to Brussels attacks</p>
+    <h4 itemprop="headline"><a href="//video.foxbusiness.com/v/4842944472001/huckabee-people-want-this-to-be-an-election-not-a-selection/">Huckabee: People want this to be an election, not a selection</a></h4>
+    <p itemprop="description">Former Gov. Mike Huckabee, (R-AR), on Donald Trump, the GOP and the presidential race.</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T18:10:32Z">
+  <meta itemprop="datePublished" content="2016-04-12T22:38:32Z">
 </article>
 </li>
                             <li class="video-ct"><article itemtype="http://schema.org/NewsArticle">
   <div class="m">
-    <a href="//video.foxnews.com/v/4812506363001/obama-presidential-candidates-condemn-brussels-attacks/"><img itemprop="image" src="//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/03/22/276/156/694940094001_4812533546001_5c698911-5db7-415e-b7db-da2bb7cdea8b.jpg?ve=1&tl=1" alt="Obama, presidential candidates condemn Brussels attacks" /></a>
+    <a href="//video.foxbusiness.com/v/4842944463001/fmr-cia-director-waterboarding-may-be-useful-in-extreme-circumstances/"><img itemprop="image" src="//a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/201604/2958/276/156/854081161001_4842881811001_041216-rr-water.jpg?ve=1&tl=1" alt="Fmr. CIA director: Waterboarding may be useful in extreme circumstances" /></a>
   </div>
   <div class="info">
-    <h4 itemprop="headline"><a href="//video.foxnews.com/v/4812506363001/obama-presidential-candidates-condemn-brussels-attacks/">Obama, presidential candidates condemn Brussels attacks</a></h4>
-    <p itemprop="description">Strategy Room: Bradley Blakeman and Emily Tisch Sussman respond to Obama and the presidential candidates&#039; reactions to the recent terror attacks in Brussels</p>
+    <h4 itemprop="headline"><a href="//video.foxbusiness.com/v/4842944463001/fmr-cia-director-waterboarding-may-be-useful-in-extreme-circumstances/">Fmr. CIA director: Waterboarding may be useful in extreme circumstances</a></h4>
+    <p itemprop="description">Former CIA Director James Woolsey on the use of waterboarding, interrogation tactics and terror threats.</p>
   </div>
-  <meta itemprop="datePublished" content="2016-03-22T17:55:32Z">
+  <meta itemprop="datePublished" content="2016-04-12T22:38:03Z">
 </article>
 </li>
               <li> 
