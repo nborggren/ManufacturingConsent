@@ -206,7 +206,7 @@
     "@context": "https://schema.org",
     "@type": "ItemList",
     "headline": "Hillary Clinton Coasts To A Victory In South Carolina",
-    "datePublished": "2016-13-15T16:15:37-05:00",
+    "datePublished": "2016-14-51T01:51:43-05:00",
     "author": {
       "@type": "Person",
       "name": "BuzzFeed News"
@@ -1029,7 +1029,7 @@ var BF_STATIC = {
 	twitter_api_key:'vQjpMo8qABmqag9607Hg',
 	fb_loader_server:'',
 	cookie_age_limit_hours:24,
-	generated_timestamp:1460578537,
+	generated_timestamp:1460613103,
 	page: 'Buzz',
 	tt_page: 'Buzz',
     page_type: 'buzz',
@@ -1037,7 +1037,7 @@ var BF_STATIC = {
 	html5_video : false,
 	front_page_click_sample: 100,
 	bf_env:'live',
-	Features: {"save_webp_images":1,"pullquote_medium_editor":1,"amp_analytics_mongo":1,"cms_new_styling_tool":1,"postx_desktop_schema_org":1,"toggle_bzfd_special_option":1,"ads_vertical_sponsorship":1,"amp_analytics_google_analytics_secondary":1,"longform_selected_text_lists_option":1,"amp_analytics_quantcast":1,"swarm_en_mobileweb_bpage_bottom":1,"amp_analytics_comscore":1,"bzfd_ridealong_badges":1,"amp_analytics":1,"ads_msu_desktop":1,"bzfd_pound_tracking":1,"amp_analytics_adobe_iframe":1,"fast_embeds":1,"bzfd_contributions":1,"buzzfeed_wire_source":1,"ads_msu_mw":1,"ads_no_trending_brand_posts":1,"swarm_en_mobileweb_header":1,"amp_subbuzz_share_buttons":1,"https_cloud_tracking":1,"stats_impressions_from_radshift":1,"amp_ad_mobile_story_unit":1,"amp_global_setting":1,"swarm_en_desktop_header":1,"bzfd_swarm":1,"bzfd_filter":1,"ads_hp_wireframes":1,"smarter_quotes":1,"feedx_new_homepage":1,"amp_analytics_google_analytics":1,"amp_analytics_pixiedust":1},
+	Features: {"save_webp_images":1,"pullquote_medium_editor":1,"amp_analytics_mongo":1,"cms_new_styling_tool":1,"postx_desktop_schema_org":1,"toggle_bzfd_special_option":1,"ads_vertical_sponsorship":1,"amp_analytics_google_analytics_secondary":1,"longform_selected_text_lists_option":1,"amp_analytics_quantcast":1,"swarm_en_mobileweb_bpage_bottom":1,"amp_analytics_comscore":1,"bzfd_ridealong_badges":1,"amp_analytics":1,"ads_msu_desktop":1,"bzfd_pound_tracking":1,"amp_analytics_adobe_iframe":1,"fast_embeds":1,"bzfd_contributions":1,"buzzfeed_wire_source":1,"ads_msu_mw":1,"ads_no_trending_brand_posts":1,"swarm_en_mobileweb_header":1,"amp_subbuzz_share_buttons":1,"https_cloud_tracking":1,"stats_impressions_from_radshift":1,"amp_ad_mobile_story_unit":1,"amp_global_setting":1,"swarm_en_desktop_header":1,"bzfd_swarm":1,"bzfd_filter":1,"ads_hp_wireframes":1,"smarter_quotes":1,"feedx_new_homepage":1,"amp_analytics_google_analytics":1,"ads_new_ad_structure_country":1,"amp_analytics_pixiedust":1},
 	referer: "",
 	bf_test_mode: false,
 	bf_category: '43',
@@ -1064,7 +1064,7 @@ var BF_STATIC = {
 	google_public_api_browser_key: 'AIzaSyBNj6Jq504-YFNx7I1SQei5x73orklpwnQ',
 	google_plus_client_id: "895639880237-tcoheof19odpd88p676rjc70v0iqit0o.apps.googleusercontent.com",
 	timequeue: [],
-	z: "4XJX20",
+	z: "4XKNQ6",
 	hp_type:"",
 	mango_url: 'https://mango.buzzfeed.com',
 	page_layout: {
@@ -1367,7 +1367,7 @@ BuzzLoader.register(
 })();
 </script>
 
-<!-- UNIT:Acllookup generated on 16:10:10,  4/13/2016 -->
+<!-- UNIT:Acllookup generated on  2:20:20,  4/14/2016 -->
 
 
 
@@ -8663,38 +8663,38 @@ He was conflicted about the results.</p>
 		<div id="next_on" class='next_on_news'  rel:gt_cat="[ttp]:next-on-news"  data-bfa="@l:Bottom-Promo;">
 			<ul>
 			
-				<li id="next_on_ab_1"  rel:buzz_id="4203894">
+				<li id="next_on_ab_1"  rel:buzz_id="4207119">
 					<div class='leftPage'>
-						<a href="/aliceworkman/what-a-villainous-look"  rel:gt_act="post/thumb" rel:gt_label="user/aliceworkman"  data-bfa="@a:Thumb; @d:Next-On;">
-							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/7/22/campaign_images/webdr06/this-senator-just-posted-a-pro-smoker-ad-and-its--2-1477-1460080863-8_wide.jpg" alt="" />
+						<a href="/markdistefano/sack-the-queen"  rel:gt_act="post/thumb" rel:gt_label="user/markdistefano"  data-bfa="@a:Thumb; @d:Next-On;">
+							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/11/21/campaign_images/webdr02/sack-the-queen-2-26807-1460425123-1_wide.jpg" alt="" />
 						</a>
 						
 					</div>
-					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HIQ977&quot;,&quot;u&quot;:&quot;7I95DI7&quot;,&quot;buzz&quot;:&quot;what-a-villainous-look&quot;,&quot;user&quot;:&quot;aliceworkman&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
+					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJ7OA7&quot;,&quot;u&quot;:&quot;7717MJ7&quot;,&quot;buzz&quot;:&quot;sack-the-queen&quot;,&quot;user&quot;:&quot;markdistefano&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
 
-						<a href="/aliceworkman/what-a-villainous-look"  rel:gt_act="post/title" rel:gt_label="user/aliceworkman"  data-bfa="@a:Title; @d:Next-On;">
+						<a href="/markdistefano/sack-the-queen"  rel:gt_act="post/title" rel:gt_label="user/markdistefano"  data-bfa="@a:Title; @d:Next-On;">
 							<span> Next On BuzzFeed News<span class="next_arrow">&rsaquo;</span></span>
 						</a>
-						<a id="next_on_buzz_link" href="/aliceworkman/what-a-villainous-look"  rel:gt_act="post/title" rel:gt_label="user/aliceworkman"  data-bfa="@a:Title; @d:Next-On;">
-							<h3>This Senator Just Posted A Pro-Smoker Ad And It's Creepy...</h3>
+						<a id="next_on_buzz_link" href="/markdistefano/sack-the-queen"  rel:gt_act="post/title" rel:gt_label="user/markdistefano"  data-bfa="@a:Title; @d:Next-On;">
+							<h3>9 Easy Ways To Get The Queen Off Our Money</h3>
 						</a>
 					</div>
 				</li>
 			
-				<li id="next_on_ab_2" style="display:none;" rel:buzz_id="4164971">
+				<li id="next_on_ab_2" style="display:none;" rel:buzz_id="4211028">
 					<div class='leftPage'>
-						<a href="/augustafalletta/makeup-tips-for-trans-women"  rel:gt_act="post/thumb" rel:gt_label="user/augustafalletta"  data-bfa="@a:Thumb; @d:Next-On;">
-							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/8/10/campaign_images/webdr14/makeup-tips-for-trans-women-2-18796-1460125944-21_wide.jpg" alt="" />
+						<a href="/davidmack/obama-gets-got"  rel:gt_act="post/thumb" rel:gt_label="user/davidmack"  data-bfa="@a:Thumb; @d:Next-On;">
+							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr08/president-obama-gets-to-watch-game-of-thrones-ear-2-25640-1460577257-0_wide.jpg" alt="" />
 						</a>
 						
 					</div>
-					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HCW0U7&quot;,&quot;u&quot;:&quot;79BIAM7&quot;,&quot;buzz&quot;:&quot;makeup-tips-for-trans-women&quot;,&quot;user&quot;:&quot;augustafalletta&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
+					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJSSD7&quot;,&quot;u&quot;:&quot;791OCV7&quot;,&quot;buzz&quot;:&quot;obama-gets-got&quot;,&quot;user&quot;:&quot;davidmack&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
 
-						<a href="/augustafalletta/makeup-tips-for-trans-women"  rel:gt_act="post/title" rel:gt_label="user/augustafalletta"  data-bfa="@a:Title; @d:Next-On;">
+						<a href="/davidmack/obama-gets-got"  rel:gt_act="post/title" rel:gt_label="user/davidmack"  data-bfa="@a:Title; @d:Next-On;">
 							<span> Next On BuzzFeed News<span class="next_arrow">&rsaquo;</span></span>
 						</a>
-						<a id="next_on_buzz_link" href="/augustafalletta/makeup-tips-for-trans-women"  rel:gt_act="post/title" rel:gt_label="user/augustafalletta"  data-bfa="@a:Title; @d:Next-On;">
-							<h3>19 Insanely Useful Makeup Tips For Trans Women</h3>
+						<a id="next_on_buzz_link" href="/davidmack/obama-gets-got"  rel:gt_act="post/title" rel:gt_label="user/davidmack"  data-bfa="@a:Title; @d:Next-On;">
+							<h3>President Obama Gets To Watch "Game Of Thrones" Early...</h3>
 						</a>
 					</div>
 				</li>
@@ -8704,7 +8704,7 @@ He was conflicted about the results.</p>
 	
 
 
-<!-- UNIT:Nexton generated on 16:10:10,  4/13/2016 -->
+<!-- UNIT:Nexton generated on  2:20:20,  4/14/2016 -->
 		
 	
 	
@@ -9199,7 +9199,7 @@ He was conflicted about the results.</p>
   if( typeof acl != 'undefined' ) load_ad &= !acl.user_can('edit_hidden_ads');
   
   if (load_ad) {
-      loadGPTAd({"wid":13,"size":[300,250],"pos":"bigstorybpage"});
+      loadGPTAd({"wid":13,"pos":"bigstorybpage","size":[300,250]});
   }
 </script>
 
@@ -9286,7 +9286,7 @@ He was conflicted about the results.</p>
 	<div class="wyntk-module__body">
 		<div class="wyntk-module__content">
       <div class="wyntk-module__headline">In The News Today</div>
-			<ul><li><a href="http://www.buzzfeed.com/nicolasmedinamora/affluenza-teen-sentenced-to-two-years-in-jail-for-violating">Ethan Couch, the infamous "Affluenza teen," was sentenced by a Texas judge to nearly two years in jail.</a></li><li><a href="http://www.buzzfeed.com/craigsilverman/idle-no-more-protestors-have-occupied-a-government-office-ov">Protesters have occupied a Canadian government office to demand action over the suicide crisis in an indigenous community.</a></li><li><a href="http://www.buzzfeed.com/tasneemnashrulla/this-is-why-a-trans-musician-is-performing-in-north-carolina">Trans singer Laura Jane Grace won't cancel her North Carolina show as a way to protest the state's anti-LGBT law 🎸</a></li></ul>
+			<ul><li><a href="http://www.buzzfeed.com/mikegiglio/how-to-lose-your-mind-to-isis-and-then-fight-to-get-it-back">ISIS defectors tell BuzzFeed News how they were pulled into the grip of extremism — and their struggle to escape.</a></li><li><a href="http://www.buzzfeed.com/buzzfeednews/zika-virus-updates">Scientists say Zika causes microcephaly, officially confirming the link between the virus and severe birth defects.</a></li><li><a href="http://www.buzzfeed.com/jimdalrympleii/trump-campaign-manager-wont-be-prosecuted-for-battery">Donald Trump's campaign manager reportedly won't be prosecuted for battery after he was accused of grabbing a reporter.</a></li></ul>
 			<a href="http://bit.ly/1KWj2PP" class="btn--buzz" data-bfa="@l:Right-Rail; @a:App-Promo; @d:News-App;">Download the BuzzFeed News app</a>
 		</div>
 	</div>
@@ -9301,17 +9301,17 @@ He was conflicted about the results.</p>
 	
 	
 	
-	  <div class="indepth-module bf_dom" rel:bf_bucket_data='{"indepth_buzz":{"indepth_buzz_id":4204518}}'>
+	  <div class="indepth-module bf_dom" rel:bf_bucket_data='{"indepth_buzz":{"indepth_buzz_id":4204393}}'>
 	    <div class="indepth-module__logo-wrap">
 	      <a href="/news" class="indepth-module__logo-wrap__logo-image" rel:gt_act="indepth-module:buzzfeed-news-logo"></a>
 	    </div>
 	
-	    <a class="indepth-module__thumbnail" href="/jeremymccarter/saving-america-from-itself" rel:gt_label="4204518" rel:gt_act="indepth-module:image"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/10/20/campaign_images/webdr04/saving-america-from-itself-2-13460-1460335492-5_wide.jpg" width="336" height="118"  /></a>
+	    <a class="indepth-module__thumbnail" href="/mikehayes/making-an-arsonist-how-debunked-fire-science-could-exonerate" rel:gt_label="4204393" rel:gt_act="indepth-module:image"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/16/campaign_images/webdr04/making-an-arsonist-how-debunked-fire-science-coul-2-28067-1460578906-0_wide.jpg" width="336" height="118"  /></a>
 	
 	    <div class="indepth-module__text">
-	      <a class="indepth-module__title" href="/jeremymccarter/saving-america-from-itself" rel:gt_label="4204518" rel:gt_act="indepth-module:title">Why Hamilton Matters</a>
+	      <a class="indepth-module__title" href="/mikehayes/making-an-arsonist-how-debunked-fire-science-could-exonerate" rel:gt_label="4204393" rel:gt_act="indepth-module:title">Making An Arsonist: How Debunked Fire Science Could Exonerate A Convicted Murderer</a>
 	      <p class="indepth-module__subtitle">
-	        by <a href="/jeremymccarter" rel:gt_act="indepth-module:author">Jeremy McCarter</a>
+	        by <a href="/mikehayes" rel:gt_act="indepth-module:author">Mike Hayes</a>
 	      </p>
 	    </div>
 	  </div>
@@ -9319,7 +9319,7 @@ He was conflicted about the results.</p>
 	
 
 
-<!-- UNIT:Indepth generated on 16:10:10,  4/13/2016 -->
+<!-- UNIT:Indepth generated on  2:20:20,  4/14/2016 -->
 <!-- \in_depth -->
 
 
@@ -9457,12 +9457,12 @@ He was conflicted about the results.</p>
             <ul>
 
 						<script type="text/javascript">
-							var imp_attr_4206661_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4206661_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211689_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211689_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
 							
-							BF_STATIC.ctr_tracking[ 4206661 ] = {						
+							BF_STATIC.ctr_tracking[ 4211689 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 1,
@@ -9473,26 +9473,26 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  top bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ5787&quot;,&quot;u&quot;:&quot;7ABVSW7&quot;,&quot;buzz&quot;:&quot;nearly-40000-verizon-set-to-begin-strike-on-wednesday&quot;,&quot;user&quot;:&quot;coralewis&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-nearly-40000-verizon-set-to-begin-strike-on-wednesday" data-ctr-campaign-id="4206661">
-													<a href="/coralewis/nearly-40000-verizon-set-to-begin-strike-on-wednesday" rel:gt_act="buzzing/thumb" rel:buzz_id="4206661" data-bfa="@a:Thumb; @d:More-News;">
+            <li class="post sidebar-post  top bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJWCW7&quot;,&quot;u&quot;:&quot;75GZ7L7&quot;,&quot;buzz&quot;:&quot;golden-state-warriors-break-nba-record-for-most-wins-in-a-se&quot;,&quot;user&quot;:&quot;lindseyadler&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-golden-state-warriors-break-nba-record-for-most-wins-in-a-se" data-ctr-campaign-id="4211689">
+													<a href="/lindseyadler/golden-state-warriors-break-nba-record-for-most-wins-in-a-se" rel:gt_act="buzzing/thumb" rel:buzz_id="4211689" data-bfa="@a:Thumb; @d:More-News;">
 								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr13/nearly-40000-verizon-workers-are-now-on-strike-2-29761-1460577111-1_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/14/1/campaign_images/webdr08/golden-state-warriors-break-nba-record-for-most-w-2-11712-1460611882-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
 									
 								</div>
 							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4206661"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/coralewis/nearly-40000-verizon-set-to-begin-strike-on-wednesday" rel:gt_act="buzzing/title" rel:buzz_id="4206661">Nearly 40,000 Verizon Workers Are Now On Strike</a></h2>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4211689"}'></a>
+							<h2><a data-bfa="@a:Title; @d:More-News;" href="/lindseyadler/golden-state-warriors-break-nba-record-for-most-wins-in-a-se" rel:gt_act="buzzing/title" rel:buzz_id="4211689">Golden State Warriors Break NBA Record For Most Wins In A Season</a></h2>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4203498_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4203498_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4208727_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4208727_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
 							
-							BF_STATIC.ctr_tracking[ 4203498 ] = {						
+							BF_STATIC.ctr_tracking[ 4208727 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 2,
@@ -9503,26 +9503,26 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIO477&quot;,&quot;u&quot;:&quot;7ABVSW7&quot;,&quot;buzz&quot;:&quot;who-fights-for-15&quot;,&quot;user&quot;:&quot;coralewis&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-who-fights-for-15" data-ctr-campaign-id="4203498">
-													<a href="/coralewis/who-fights-for-15" rel:gt_act="buzzing/thumb" rel:buzz_id="4203498" data-bfa="@a:Thumb; @d:More-News;">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJGCY7&quot;,&quot;u&quot;:&quot;75GZ7L7&quot;,&quot;buzz&quot;:&quot;kobe-bryant-final-game&quot;,&quot;user&quot;:&quot;lindseyadler&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-kobe-bryant-final-game" data-ctr-campaign-id="4208727">
+													<a href="/lindseyadler/kobe-bryant-final-game" rel:gt_act="buzzing/thumb" rel:buzz_id="4208727" data-bfa="@a:Thumb; @d:More-News;">
 								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/16/campaign_images/webdr04/who-fights-for-15-2-24837-1460578108-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/14/1/campaign_images/webdr03/mamba-out-kobe-bryant-ends-career-with-record-bre-2-14385-1460611677-14_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
 									
 								</div>
 							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4203498"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/coralewis/who-fights-for-15" rel:gt_act="buzzing/title" rel:buzz_id="4203498">Who Fights For 15?</a></h2>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4208727"}'></a>
+							<h2><a data-bfa="@a:Title; @d:More-News;" href="/lindseyadler/kobe-bryant-final-game" rel:gt_act="buzzing/title" rel:buzz_id="4208727">&#8220;Mamba Out&#8221;: Kobe Bryant Ends Career With Record-Breaking Game</a></h2>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4210936_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210936_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4208028_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4208028_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
 							
-							BF_STATIC.ctr_tracking[ 4210936 ] = {						
+							BF_STATIC.ctr_tracking[ 4208028 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 3,
@@ -9533,26 +9533,33 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJSAH7&quot;,&quot;u&quot;:&quot;79AT697&quot;,&quot;buzz&quot;:&quot;democratic-louisiana-governor-rescinds-republican-predecesso&quot;,&quot;user&quot;:&quot;dominicholden&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-democratic-louisiana-governor-rescinds-republican-predecesso" data-ctr-campaign-id="4210936">
-													<a href="/dominicholden/democratic-louisiana-governor-rescinds-republican-predecesso" rel:gt_act="buzzing/thumb" rel:buzz_id="4210936" data-bfa="@a:Thumb; @d:More-News;">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJCL17&quot;,&quot;u&quot;:&quot;740ICF7&quot;,&quot;buzz&quot;:&quot;how-to-lose-your-mind-to-isis-and-then-fight-to-get-it-back&quot;,&quot;user&quot;:&quot;mikegiglio&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-how-to-lose-your-mind-to-isis-and-then-fight-to-get-it-back" data-ctr-campaign-id="4208028">
+													<a href="/mikegiglio/how-to-lose-your-mind-to-isis-and-then-fight-to-get-it-back" rel:gt_act="buzzing/thumb" rel:buzz_id="4208028" data-bfa="@a:Thumb; @d:More-News;">
 								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr14/democratic-louisiana-governor-rescinds-republican-2-24556-1460574373-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/22/campaign_images/webdr03/how-to-lose-your-mind-to-isis-and-then-fight-to-g-2-5591-1460600486-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
 									
 								</div>
 							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4210936"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/dominicholden/democratic-louisiana-governor-rescinds-republican-predecesso" rel:gt_act="buzzing/title" rel:buzz_id="4210936">Democratic Louisiana Governor Rescinds Republican Predecessor&#8217;s Anti-Gay Order</a></h2>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4208028"}'></a>
+							<h2><a data-bfa="@a:Title; @d:More-News;" href="/mikegiglio/how-to-lose-your-mind-to-isis-and-then-fight-to-get-it-back" rel:gt_act="buzzing/title" rel:buzz_id="4208028">How To Lose Your Mind To ISIS And Then Fight To Get It Back</a></h2>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4210869_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210869_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211299_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211299_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
+								promotions = [{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":"1024","left":0,"top":0,"height":679},"wide":{"width":"1024","left":0,"top":160,"height":360}},"image_dblwide":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_dblwide.jpg","clicks":"106","dud":"0","added":"2016-04-13 21:13:38","campaign_id":"4211299","rate":0.011054333089999,"impressions":"9589","image_id":"520743","original_image_width":"1024","promoter":"893445","updated":"2016-04-14 00:20:59","id":"806073","image_dblbig":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_dblbig.jpg","is_default":"0","promotion_image_id":"520743","sub_buzz_id":"8437019","image_big":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_big.jpg","probability":0.436551238240822,"active":"1","original_image_height":"681","height":"83","description":"A new report from researchers at Columbia University and Google has found that geotagged posts on just two social media apps are enough to draw a line back to a specific user.","image":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"The Location Data From Just Two Of Your Apps Is Enough To Identify You","image_wide":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr07/original-25586-1460595040-2.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":"1024","left":0,"top":0,"height":679},"wide":{"width":"1024","left":0,"top":160,"height":360}},"image_dblwide":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_dblwide.jpg","clicks":"110","dud":"0","added":"2016-04-13 21:13:38","campaign_id":"4211299","rate":0.0112439946846571,"impressions":"9783","image_id":"520743","original_image_width":"1024","promoter":"893445","updated":"2016-04-14 00:27:20","id":"806072","image_dblbig":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_dblbig.jpg","is_default":"0","promotion_image_id":"520743","sub_buzz_id":"8437019","image_big":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_big.jpg","probability":0.563448761759178,"active":"1","original_image_height":"681","height":"83","description":"A new report from researchers at Columbia University and Google has found that geotagged posts on just two social media apps are enough to draw a line back to a specific user.","image":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"You're More Trackable Online Than You Think","image_wide":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr07/original-25586-1460595040-2.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4211299_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4211299_13.FLEX_PRO_CLICK = sel_promo.id;
 							
-							BF_STATIC.ctr_tracking[ 4210869 ] = {						
+							
+							BF_STATIC.ctr_tracking[ 4211299 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 4,
@@ -9563,33 +9570,39 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJRXG7&quot;,&quot;u&quot;:&quot;75N07S7&quot;,&quot;buzz&quot;:&quot;affluenza-teen-sentenced-to-two-years-in-jail-for-violating&quot;,&quot;user&quot;:&quot;nicolasmedinamora&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-affluenza-teen-sentenced-to-two-years-in-jail-for-violating" data-ctr-campaign-id="4210869">
-													<a href="/nicolasmedinamora/affluenza-teen-sentenced-to-two-years-in-jail-for-violating" rel:gt_act="buzzing/thumb" rel:buzz_id="4210869" data-bfa="@a:Thumb; @d:More-News;">
-								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/13/campaign_images/webdr02/affluenza-teen-sentenced-to-two-years-in-jail-for-2-15574-1460567428-4_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
-									
-								</div>
-							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4210869"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/nicolasmedinamora/affluenza-teen-sentenced-to-two-years-in-jail-for-violating" rel:gt_act="buzzing/title" rel:buzz_id="4210869">&#8220;Affluenza&#8221; Teen Sentenced To Two Years In Jail For Violating Parole</a></h2>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJU927&quot;,&quot;u&quot;:&quot;73Q1QS7&quot;,&quot;buzz&quot;:&quot;the-location-data-from-just-two-of-your-apps-is-enough-to-id&quot;,&quot;user&quot;:&quot;sheerafrenkel&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-the-location-data-from-just-two-of-your-apps-is-enough-to-id" data-ctr-campaign-id="4211299">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/sheerafrenkel/the-location-data-from-just-two-of-your-apps-is-enough-to-id" rel:gt_act="buzzing/thumb" rel:buzz_id="4211299" data-bfa="@a:Thumb; @d:More-News;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4211299"}\'></a>\
+								<h2>\
+									<a href="/sheerafrenkel/the-location-data-from-just-two-of-your-apps-is-enough-to-id" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:More-News;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4210918_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210918_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211439_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211439_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"width":"125","extra_fields":{"small":{"width":"3000","left":0,"top":0,"height":1992},"big":{"width":"3000","left":0,"top":0,"height":1992},"wide":{"width":"3000","left":0,"top":645,"height":1056}},"image_dblwide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 15:35:15","campaign_id":"4210918","rate":0,"impressions":null,"image_id":"520302","original_image_width":"3000","promoter":"1336055","updated":null,"id":"805494","image_dblbig":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_dblbig.jpg","is_default":"0","promotion_image_id":"520302","sub_buzz_id":"8433911","image_big":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_big.jpg","probability":0.25,"active":"1","original_image_height":"2347","height":"83","description":"The U.S. Women's soccer team isn't the only one fighting an uphill battle for equal treatment.","image":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Here Are Some Major Equality Gaps Women's Soccer Teams Face Around The World","image_wide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_wide.jpg","original_image":"/static/2016-04/13/13/enhanced/webdr14/original-11533-1460569574-8.jpg"},{"width":"125","extra_fields":{"small":{"width":"3000","left":0,"top":0,"height":1992},"big":{"width":"3000","left":0,"top":0,"height":1992},"wide":{"width":"3000","left":0,"top":645,"height":1056}},"image_dblwide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 15:35:15","campaign_id":"4210918","rate":0,"impressions":null,"image_id":"520302","original_image_width":"3000","promoter":"1336055","updated":null,"id":"805492","image_dblbig":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_dblbig.jpg","is_default":"0","promotion_image_id":"520302","sub_buzz_id":"8433911","image_big":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_big.jpg","probability":0.25,"active":"1","original_image_height":"2347","height":"83","description":"The U.S. Women's soccer team isn't the only one fighting an uphill battle for equal treatment.","image":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Women's Soccer Teams Around The World Face Major Equality Gaps","image_wide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576112-3_wide.jpg","original_image":"/static/2016-04/13/13/enhanced/webdr14/original-11533-1460569574-8.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":0.936000000000036,"height":679},"wide":{"width":1024,"left":0,"top":411,"height":360}},"image_dblwide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 15:35:06","campaign_id":"4210918","rate":0,"impressions":null,"image_id":"520301","original_image_width":"1024","promoter":"1336055","updated":null,"id":"805491","image_dblbig":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_dblbig.jpg","is_default":"0","promotion_image_id":"520301","sub_buzz_id":"0","image_big":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_big.jpg","probability":0.25,"active":"1","original_image_height":"784","height":"83","description":"The U.S. Women's soccer team isn't the only one fighting an uphill battle for equal treatment.","image":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Women's Soccer Teams Around The World Face Major Equality Gaps","image_wide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_wide.jpg","original_image":"/static/2016-04/13/13/enhanced/webdr03/original-5474-1460568638-11.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":0.936000000000036,"height":679},"wide":{"width":1024,"left":0,"top":411,"height":360}},"image_dblwide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 15:35:15","campaign_id":"4210918","rate":0,"impressions":null,"image_id":"520301","original_image_width":"1024","promoter":"1336055","updated":null,"id":"805493","image_dblbig":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_dblbig.jpg","is_default":"0","promotion_image_id":"520301","sub_buzz_id":"0","image_big":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_big.jpg","probability":0.25,"active":"1","original_image_height":"784","height":"83","description":"The U.S. Women's soccer team isn't the only one fighting an uphill battle for equal treatment.","image":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Here Are Some Major Equality Gaps Women's Soccer Teams Face Around The World","image_wide":"/static/2016-04/13/15/campaign_images/webdr01/here-are-some-major-equality-gaps-womens-soccer-t-2-3389-1460576103-1_wide.jpg","original_image":"/static/2016-04/13/13/enhanced/webdr03/original-5474-1460568638-11.jpg"}];
+								promotions = [{"width":"125","extra_fields":{"small":{"width":"1500","left":0,"top":0,"height":996},"big":{"width":"1500","left":0,"top":0,"height":996},"wide":{"width":"1500","left":0,"top":244,"height":528}},"image_dblwide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_dblwide.jpg","clicks":"1","dud":"0","added":"2016-04-13 22:30:34","campaign_id":"4211439","rate":0.00216919739696312,"impressions":"461","image_id":"520787","original_image_width":"1500","promoter":"2671964","updated":"2016-04-14 00:16:28","id":"806119","image_dblbig":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_dblbig.jpg","is_default":"0","promotion_image_id":"520787","sub_buzz_id":"8437043","image_big":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_big.jpg","probability":0.166666666666667,"active":"1","original_image_height":"1016","height":"83","description":"The debate over disruption comes to mail-home medications.","image":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"A Pill Delivery Startup Is Fighting Back Against An Industry Giant","image_wide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr11/longform-original-19802-1460595463-4.png"},{"width":"125","extra_fields":{"small":{"width":1500,"left":0,"top":0,"height":996},"big":{"width":1500,"left":0,"top":0,"height":996},"wide":{"width":1500,"left":0,"top":179,"height":528}},"image_dblwide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_dblwide.jpg","clicks":"1","dud":"0","added":"2016-04-13 22:30:42","campaign_id":"4211439","rate":0.00220264317180617,"impressions":"454","image_id":"520788","original_image_width":"1500","promoter":"2671964","updated":"2016-04-14 00:36:41","id":"806123","image_dblbig":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_dblbig.jpg","is_default":"0","promotion_image_id":"520788","sub_buzz_id":"8437046","image_big":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_big.jpg","probability":0.166666666666667,"active":"1","original_image_height":"1049","height":"83","description":"The debate over disruption comes to mail-home medications.","image":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"This Pill Delivery Startup Is Going To War With An Industry Giant","image_wide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr08/longform-original-4686-1460595493-3.png"},{"width":"125","extra_fields":{"small":{"width":1390,"left":0,"top":0,"height":"923"},"big":{"width":1390,"left":0,"top":0,"height":"923"},"wide":{"width":"1500","left":0,"top":197,"height":528}},"image_dblwide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_dblwide.jpg","clicks":"2","dud":"0","added":"2016-04-13 22:30:42","campaign_id":"4211439","rate":0.00409836065573771,"impressions":"488","image_id":"520786","original_image_width":"1500","promoter":"2671964","updated":"2016-04-14 00:17:10","id":"806121","image_dblbig":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_dblbig.jpg","is_default":"0","promotion_image_id":"520786","sub_buzz_id":"8437037","image_big":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_big.jpg","probability":0.166666666666667,"active":"1","original_image_height":"923","height":"83","description":"The debate over disruption comes to mail-home medications.","image":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"This Pill Delivery Startup Is Going To War With An Industry Giant","image_wide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr06/longform-original-17505-1460595388-3.png"},{"width":"125","extra_fields":{"small":{"width":1500,"left":0,"top":0,"height":996},"big":{"width":1500,"left":0,"top":0,"height":996},"wide":{"width":1500,"left":0,"top":179,"height":528}},"image_dblwide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_dblwide.jpg","clicks":"1","dud":"0","added":"2016-04-13 22:30:42","campaign_id":"4211439","rate":0.00202429149797571,"impressions":"494","image_id":"520788","original_image_width":"1500","promoter":"2671964","updated":"2016-04-14 00:26:36","id":"806120","image_dblbig":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_dblbig.jpg","is_default":"0","promotion_image_id":"520788","sub_buzz_id":"8437046","image_big":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_big.jpg","probability":0.166666666666667,"active":"1","original_image_height":"1049","height":"83","description":"The debate over disruption comes to mail-home medications.","image":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"A Pill Delivery Startup Is Fighting Back Against An Industry Giant","image_wide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601038-5_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr08/longform-original-4686-1460595493-3.png"},{"width":"125","extra_fields":{"small":{"width":"1500","left":0,"top":0,"height":996},"big":{"width":"1500","left":0,"top":0,"height":996},"wide":{"width":"1500","left":0,"top":244,"height":528}},"image_dblwide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_dblwide.jpg","clicks":"2","dud":"0","added":"2016-04-13 22:30:42","campaign_id":"4211439","rate":0.00412371134020619,"impressions":"485","image_id":"520787","original_image_width":"1500","promoter":"2671964","updated":"2016-04-14 00:19:58","id":"806122","image_dblbig":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_dblbig.jpg","is_default":"0","promotion_image_id":"520787","sub_buzz_id":"8437043","image_big":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_big.jpg","probability":0.166666666666667,"active":"1","original_image_height":"1016","height":"83","description":"The debate over disruption comes to mail-home medications.","image":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"This Pill Delivery Startup Is Going To War With An Industry Giant","image_wide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601031-3_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr11/longform-original-19802-1460595463-4.png"},{"width":"125","extra_fields":{"small":{"width":1390,"left":0,"top":0,"height":"923"},"big":{"width":1390,"left":0,"top":0,"height":"923"},"wide":{"width":"1500","left":0,"top":197,"height":528}},"image_dblwide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_dblwide.jpg","clicks":"2","dud":"0","added":"2016-04-13 22:30:26","campaign_id":"4211439","rate":0.00429184549356223,"impressions":"466","image_id":"520786","original_image_width":"1500","promoter":"2671964","updated":"2016-04-14 00:39:33","id":"806118","image_dblbig":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_dblbig.jpg","is_default":"0","promotion_image_id":"520786","sub_buzz_id":"8437037","image_big":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_big.jpg","probability":0.166666666666667,"active":"1","original_image_height":"923","height":"83","description":"The debate over disruption comes to mail-home medications.","image":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"A Pill Delivery Startup Is Fighting Back Against An Industry Giant","image_wide":"/static/2016-04/13/22/campaign_images/webdr10/pillpack-vs-express-scripts-2-16128-1460601023-1_wide.jpg","original_image":"/static/2016-04/13/20/enhanced/webdr06/longform-original-17505-1460595388-3.png"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210918_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210918_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4211439_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4211439_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4210918 ] = {						
+							BF_STATIC.ctr_tracking[ 4211439 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 5,
@@ -9600,19 +9613,19 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS6Z7&quot;,&quot;u&quot;:&quot;75KGDU7&quot;,&quot;buzz&quot;:&quot;here-are-some-major-equality-gaps-womens-soccer-teams-face-a&quot;,&quot;user&quot;:&quot;mollyhensleyclancy&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-here-are-some-major-equality-gaps-womens-soccer-teams-face-a" data-ctr-campaign-id="4210918">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJV0A7&quot;,&quot;u&quot;:&quot;7B4VXX7&quot;,&quot;buzz&quot;:&quot;pillpack-vs-express-scripts&quot;,&quot;user&quot;:&quot;stephaniemlee&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-pillpack-vs-express-scripts" data-ctr-campaign-id="4211439">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/mollyhensleyclancy/here-are-some-major-equality-gaps-womens-soccer-teams-face-a" rel:gt_act="buzzing/thumb" rel:buzz_id="4210918" data-bfa="@a:Thumb; @d:More-News;">\
+								<a href="/stephaniemlee/pillpack-vs-express-scripts" rel:gt_act="buzzing/thumb" rel:buzz_id="4211439" data-bfa="@a:Thumb; @d:More-News;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210918"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4211439"}\'></a>\
 								<h2>\
-									<a href="/mollyhensleyclancy/here-are-some-major-equality-gaps-womens-soccer-teams-face-a" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:More-News;">' + sel_promo.title + '</a>\
+									<a href="/stephaniemlee/pillpack-vs-express-scripts" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:More-News;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -9620,12 +9633,12 @@ He was conflicted about the results.</p>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4211120_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4211120_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211333_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211333_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
 							
-							BF_STATIC.ctr_tracking[ 4211120 ] = {						
+							BF_STATIC.ctr_tracking[ 4211333 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 6,
@@ -9636,26 +9649,33 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJTA97&quot;,&quot;u&quot;:&quot;7EAKM47&quot;,&quot;buzz&quot;:&quot;charlie-sheen-is-behind-in-child-support-ex-wife-claims&quot;,&quot;user&quot;:&quot;claudiarosenbaum&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-charlie-sheen-is-behind-in-child-support-ex-wife-claims" data-ctr-campaign-id="4211120">
-													<a href="/claudiarosenbaum/charlie-sheen-is-behind-in-child-support-ex-wife-claims" rel:gt_act="buzzing/thumb" rel:buzz_id="4211120" data-bfa="@a:Thumb; @d:More-News;">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJUFO7&quot;,&quot;u&quot;:&quot;76PNOD7&quot;,&quot;buzz&quot;:&quot;greenlands-massive-ice-sheet-just-melted-faster-and-earlier&quot;,&quot;user&quot;:&quot;claudiakoerner&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-greenlands-massive-ice-sheet-just-melted-faster-and-earlier" data-ctr-campaign-id="4211333">
+													<a href="/claudiakoerner/greenlands-massive-ice-sheet-just-melted-faster-and-earlier" rel:gt_act="buzzing/thumb" rel:buzz_id="4211333" data-bfa="@a:Thumb; @d:More-News;">
 								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr09/charlie-sheen-behind-89398-in-child-support-ex-wi-2-18143-1460576787-5_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/21/campaign_images/webdr08/greenlands-massive-ice-sheet-just-melted-faster-a-2-8604-1460598518-6_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
 									
 								</div>
 							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4211120"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/claudiarosenbaum/charlie-sheen-is-behind-in-child-support-ex-wife-claims" rel:gt_act="buzzing/title" rel:buzz_id="4211120">Charlie Sheen Behind $89,398 In Child Support, Ex-Wife Claims</a></h2>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4211333"}'></a>
+							<h2><a data-bfa="@a:Title; @d:More-News;" href="/claudiakoerner/greenlands-massive-ice-sheet-just-melted-faster-and-earlier" rel:gt_act="buzzing/title" rel:buzz_id="4211333">Greenland&#8217;s Massive Ice Sheet Just Melted Faster And Earlier Than Ever Recorded</a></h2>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4204661_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4204661_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4210951_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210951_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
+								promotions = [{"width":"125","extra_fields":{"small":{"width":1024,"left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":15,"height":679},"wide":{"width":1024,"left":0,"top":109,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520470","original_image_width":"1024","promoter":"450483","updated":null,"id":"805696","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblbig.jpg","is_default":"0","promotion_image_id":"520470","sub_buzz_id":"8435075","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_big.jpg","probability":0.125,"active":"1","original_image_height":"745","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"\"Feeling The Bern Of Reality Yet?\" — Verizon CEO Slams Sanders","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_wide.jpg","original_image":"/static/2016-04/13/16/enhanced/webdr12/original-24959-1460577671-8.jpg"},{"width":"125","extra_fields":{"small":{"width":1024,"left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":15,"height":679},"wide":{"width":1024,"left":0,"top":109,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520470","original_image_width":"1024","promoter":"450483","updated":null,"id":"805692","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblbig.jpg","is_default":"0","promotion_image_id":"520470","sub_buzz_id":"8435075","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_big.jpg","probability":0.125,"active":"1","original_image_height":"745","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Verizon CEO Asks If Sanders Is \"Feeling The Bern Of Reality\"","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_wide.jpg","original_image":"/static/2016-04/13/16/enhanced/webdr12/original-24959-1460577671-8.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":0.936000000000036,"height":679},"wide":{"width":1024,"left":0,"top":54,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:14","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520468","original_image_width":"1024","promoter":"450483","updated":null,"id":"805691","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblbig.jpg","is_default":"0","promotion_image_id":"520468","sub_buzz_id":"0","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_big.jpg","probability":0.125,"active":"1","original_image_height":"683","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Verizon CEO Asks If Sanders Is \"Feeling The Bern Of Reality\"","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_wide.jpg","original_image":"/static/2016-04/13/14/enhanced/webdr06/original-21159-1460572418-1.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":0.936000000000036,"height":679},"wide":{"width":1024,"left":0,"top":54,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520468","original_image_width":"1024","promoter":"450483","updated":null,"id":"805693","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblbig.jpg","is_default":"0","promotion_image_id":"520468","sub_buzz_id":"0","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_big.jpg","probability":0.125,"active":"1","original_image_height":"683","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"\"Feeling The Bern Of Reality Yet?\" — Verizon CEO Takes On Sanders","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_wide.jpg","original_image":"/static/2016-04/13/14/enhanced/webdr06/original-21159-1460572418-1.jpg"},{"width":"125","extra_fields":{"small":{"width":1024,"left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":15,"height":679},"wide":{"width":1024,"left":0,"top":109,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520470","original_image_width":"1024","promoter":"450483","updated":null,"id":"805694","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblbig.jpg","is_default":"0","promotion_image_id":"520470","sub_buzz_id":"8435075","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_big.jpg","probability":0.125,"active":"1","original_image_height":"745","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"\"Feeling The Bern Of Reality Yet?\" — Verizon CEO Takes On Sanders","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_wide.jpg","original_image":"/static/2016-04/13/16/enhanced/webdr12/original-24959-1460577671-8.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":0.936000000000036,"height":679},"wide":{"width":1024,"left":0,"top":54,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520468","original_image_width":"1024","promoter":"450483","updated":null,"id":"805695","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblbig.jpg","is_default":"0","promotion_image_id":"520468","sub_buzz_id":"0","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_big.jpg","probability":0.125,"active":"1","original_image_height":"683","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"\"Feeling The Bern Of Reality Yet?\" — Verizon CEO Slams Sanders","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_wide.jpg","original_image":"/static/2016-04/13/14/enhanced/webdr06/original-21159-1460572418-1.jpg"},{"width":"125","extra_fields":{"small":{"width":1024,"left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":15,"height":679},"wide":{"width":1024,"left":0,"top":109,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520470","original_image_width":"1024","promoter":"450483","updated":null,"id":"805698","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_dblbig.jpg","is_default":"0","promotion_image_id":"520470","sub_buzz_id":"8435075","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_big.jpg","probability":0.125,"active":"1","original_image_height":"745","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Verizon CEO Calls Sanders' Comments \"Contemptible\"","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582897-3_wide.jpg","original_image":"/static/2016-04/13/16/enhanced/webdr12/original-24959-1460577671-8.jpg"},{"width":"125","extra_fields":{"small":{"width":"1024","left":0,"top":0,"height":679},"big":{"width":1024,"left":0,"top":0.936000000000036,"height":679},"wide":{"width":1024,"left":0,"top":54,"height":360}},"image_dblwide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblwide.jpg","clicks":null,"dud":"0","added":"2016-04-13 17:28:23","campaign_id":"4210951","rate":0,"impressions":null,"image_id":"520468","original_image_width":"1024","promoter":"450483","updated":null,"id":"805697","image_dblbig":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_dblbig.jpg","is_default":"0","promotion_image_id":"520468","sub_buzz_id":"0","image_big":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_big.jpg","probability":0.125,"active":"1","original_image_height":"683","height":"83","description":"Sanders joined striking Verizon workers on a picket line in Brooklyn on Wednesday.","image":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Verizon CEO Calls Sanders' Comments \"Contemptible\"","image_wide":"/static/2016-04/13/17/campaign_images/webdr13/verizon-ceo-calls-sanders-comments-contemptible-2-9910-1460582891-1_wide.jpg","original_image":"/static/2016-04/13/14/enhanced/webdr06/original-21159-1460572418-1.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4210951_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4210951_13.FLEX_PRO_CLICK = sel_promo.id;
 							
-							BF_STATIC.ctr_tracking[ 4204661 ] = {						
+							
+							BF_STATIC.ctr_tracking[ 4210951 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 7,
@@ -9666,26 +9686,32 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIUEC7&quot;,&quot;u&quot;:&quot;72ZVW57&quot;,&quot;buzz&quot;:&quot;the-digital-media-bloodbath-hundreds-of-jobs-lost&quot;,&quot;user&quot;:&quot;matthewzeitlin&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-the-digital-media-bloodbath-hundreds-of-jobs-lost" data-ctr-campaign-id="4204661">
-													<a href="/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost" rel:gt_act="buzzing/thumb" rel:buzz_id="4204661" data-bfa="@a:Thumb; @d:More-News;">
-								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr07/the-digital-media-bloodbath-hundreds-of-jobs-lost-2-8194-1460575383-1_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
-									
-								</div>
-							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4204661"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost" rel:gt_act="buzzing/title" rel:buzz_id="4204661">The Digital Media Bloodbath: Hundreds Of Jobs Lost</a></h2>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJSDE7&quot;,&quot;u&quot;:&quot;7ABVSW7&quot;,&quot;buzz&quot;:&quot;verizon-ceo-calls-sanders-comments-contemptible&quot;,&quot;user&quot;:&quot;coralewis&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-verizon-ceo-calls-sanders-comments-contemptible" data-ctr-campaign-id="4210951">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/coralewis/verizon-ceo-calls-sanders-comments-contemptible" rel:gt_act="buzzing/thumb" rel:buzz_id="4210951" data-bfa="@a:Thumb; @d:More-News;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210951"}\'></a>\
+								<h2>\
+									<a href="/coralewis/verizon-ceo-calls-sanders-comments-contemptible" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:More-News;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4204393_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4204393_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211165_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211165_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
 							
-							BF_STATIC.ctr_tracking[ 4204393 ] = {						
+							BF_STATIC.ctr_tracking[ 4211165 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 8,
@@ -9696,26 +9722,26 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HISY87&quot;,&quot;u&quot;:&quot;71V1G7&quot;,&quot;buzz&quot;:&quot;making-an-arsonist-how-debunked-fire-science-could-exonerate&quot;,&quot;user&quot;:&quot;mikehayes&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-making-an-arsonist-how-debunked-fire-science-could-exonerate" data-ctr-campaign-id="4204393">
-													<a href="/mikehayes/making-an-arsonist-how-debunked-fire-science-could-exonerate" rel:gt_act="buzzing/thumb" rel:buzz_id="4204393" data-bfa="@a:Thumb; @d:More-News;">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJTJ07&quot;,&quot;u&quot;:&quot;71QBW07&quot;,&quot;buzz&quot;:&quot;facebooks-future-runs-through-messenger&quot;,&quot;user&quot;:&quot;alexkantrowitz&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-facebooks-future-runs-through-messenger" data-ctr-campaign-id="4211165">
+													<a href="/alexkantrowitz/facebooks-future-runs-through-messenger" rel:gt_act="buzzing/thumb" rel:buzz_id="4211165" data-bfa="@a:Thumb; @d:More-News;">
 								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr03/making-an-arsonist-how-debunked-fire-science-coul-2-19920-1460577566-6_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/17/campaign_images/webdr04/facebooks-future-runs-through-messenger-2-6809-1460583600-5_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
 									
 								</div>
 							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4204393"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/mikehayes/making-an-arsonist-how-debunked-fire-science-could-exonerate" rel:gt_act="buzzing/title" rel:buzz_id="4204393">Making An Arsonist: How Debunked Fire Science Could Exonerate A Convicted Murderer</a></h2>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4211165"}'></a>
+							<h2><a data-bfa="@a:Title; @d:More-News;" href="/alexkantrowitz/facebooks-future-runs-through-messenger" rel:gt_act="buzzing/title" rel:buzz_id="4211165">Facebook’s Future Runs Through Messenger</a></h2>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4205428_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4205428_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211348_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211348_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
 							
-							BF_STATIC.ctr_tracking[ 4205428 ] = {						
+							BF_STATIC.ctr_tracking[ 4211348 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 9,
@@ -9726,46 +9752,16 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjb'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIYJH7&quot;,&quot;u&quot;:&quot;7H21HQ7&quot;,&quot;buzz&quot;:&quot;former-saints-defensive-will-smith-shot-and-killed-in-new-or&quot;,&quot;user&quot;:&quot;matthewchampion&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-former-saints-defensive-will-smith-shot-and-killed-in-new-or" data-ctr-campaign-id="4205428">
-													<a href="/matthewchampion/former-saints-defensive-will-smith-shot-and-killed-in-new-or" rel:gt_act="buzzing/thumb" rel:buzz_id="4205428" data-bfa="@a:Thumb; @d:More-News;">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJUIL7&quot;,&quot;u&quot;:&quot;7AZ5CM7&quot;,&quot;buzz&quot;:&quot;nfl-draft-prospect-shawn-oakman-arrested-on-suspicion-of-rap&quot;,&quot;user&quot;:&quot;salvadorhernandez&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-nfl-draft-prospect-shawn-oakman-arrested-on-suspicion-of-rap" data-ctr-campaign-id="4211348">
+													<a href="/salvadorhernandez/nfl-draft-prospect-shawn-oakman-arrested-on-suspicion-of-rap" rel:gt_act="buzzing/thumb" rel:buzz_id="4211348" data-bfa="@a:Thumb; @d:More-News;">
 								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/14/campaign_images/webdr07/coroner-classifies-former-new-orleans-saints-play-2-29889-1460571397-1_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/20/campaign_images/webdr10/nfl-draft-prospect-shawn-oakman-arrested-on-suspi-2-31690-1460593654-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
 									
 								</div>
 							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4205428"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/matthewchampion/former-saints-defensive-will-smith-shot-and-killed-in-new-or" rel:gt_act="buzzing/title" rel:buzz_id="4205428">Coroner Classifies Former New Orleans Saints Player&#8217;s Death A Homicide</a></h2>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4142503_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4142503_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-							
-							BF_STATIC.ctr_tracking[ 4142503 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 10,
-								post_category: '', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjb'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7H9IO27&quot;,&quot;u&quot;:&quot;7EAKM47&quot;,&quot;buzz&quot;:&quot;katy-perry-and-a-catholic-convent&quot;,&quot;user&quot;:&quot;claudiarosenbaum&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-katy-perry-and-a-catholic-convent" data-ctr-campaign-id="4142503">
-													<a href="/claudiarosenbaum/katy-perry-and-a-catholic-convent" rel:gt_act="buzzing/thumb" rel:buzz_id="4142503" data-bfa="@a:Thumb; @d:More-News;">
-								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/14/campaign_images/webdr01/katy-perry-expected-to-win-right-to-buy-catholic--2-20072-1460571344-5_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
-									
-								</div>
-							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4142503"}'></a>
-							<h2><a data-bfa="@a:Title; @d:More-News;" href="/claudiarosenbaum/katy-perry-and-a-catholic-convent" rel:gt_act="buzzing/title" rel:buzz_id="4142503">Katy Perry Expected To Win Right To Buy Catholic Convent, Her Attorney Says</a></h2>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4211348"}'></a>
+							<h2><a data-bfa="@a:Title; @d:More-News;" href="/salvadorhernandez/nfl-draft-prospect-shawn-oakman-arrested-on-suspicion-of-rap" rel:gt_act="buzzing/title" rel:buzz_id="4211348">NFL Draft Prospect Shawn Oakman Arrested On Suspicion Of Rape</a></h2>
 						            </li>
 	                        </ul>
         </div>
@@ -9786,7 +9782,7 @@ He was conflicted about the results.</p>
 	</script>
 </div>
 
-<!-- UNIT:Morenews generated on 16:14:14,  4/13/2016 -->
+<!-- UNIT:Morenews generated on  2:20:20,  4/14/2016 -->
 <!-- \morenews --><div>
 
 	
@@ -9826,42 +9822,62 @@ He was conflicted about the results.</p>
             <ul>
 
 						<script type="text/javascript">
-							var imp_attr_4208883_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4208883_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4208368_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4208368_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
+								promotions = [{"id":"805180","probability":1,"image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8.jpg","title":"We Asked 23 Trump Supporters Why They Want \"The Wall\" And Here's What They Said","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4208368_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4208368_13.FLEX_PRO_CLICK = sel_promo.id;
 							
-							BF_STATIC.ctr_tracking[ 4208883 ] = {						
+							
+							BF_STATIC.ctr_tracking[ 4208368 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 1,
-								post_category: 'Videos', // we need to figure out how we can get this
+								post_category: 'Culture', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
 								objectType: 'post',
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  top bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJH7A7&quot;,&quot;u&quot;:&quot;7AI1UP7&quot;,&quot;buzz&quot;:&quot;if-siri-were-your-ex&quot;,&quot;user&quot;:&quot;bencoleman2&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-if-siri-were-your-ex" data-ctr-campaign-id="4208883">
-													<a href="/bencoleman2/if-siri-were-your-ex" rel:gt_act="buzzing/thumb" rel:buzz_id="4208883" data-bfa="@a:Thumb; @d:Now-Buzzing;">
-								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/14/campaign_images/webdr06/if-siri-were-your-ex-2-21236-1460572750-14_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
-									
-								</div>
-							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4208883"}'></a>
-							<h2><a data-bfa="@a:Title; @d:Now-Buzzing;" href="/bencoleman2/if-siri-were-your-ex" rel:gt_act="buzzing/title" rel:buzz_id="4208883">If Siri Were Your Ex</a></h2>
+            <li class="post sidebar-post  top bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJEF57&quot;,&quot;u&quot;:&quot;72KY7&quot;,&quot;buzz&quot;:&quot;why-trump-supporters-want-to-build-that-wall&quot;,&quot;user&quot;:&quot;mjs538&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-why-trump-supporters-want-to-build-that-wall" data-ctr-campaign-id="4208368">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/mjs538/why-trump-supporters-want-to-build-that-wall" rel:gt_act="buzzing/thumb" rel:buzz_id="4208368" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4208368"}\'></a>\
+								<h2>\
+									<a href="/mjs538/why-trump-supporters-want-to-build-that-wall" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
 						            </li>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4210893_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210893_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4202553_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4202553_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
+								promotions = [{"id":"801100","probability":1,"image":"/static/2016-04/11/16/campaign_images/webdr12/lgbt-people-recreate-iconic-movie-posters-2-13571-1460404956-24.jpg","title":"We Re-Created Iconic Movie Posters With LGBT People And The Results Were Awesome","image_wide":"/static/2016-04/11/16/campaign_images/webdr12/lgbt-people-recreate-iconic-movie-posters-2-13571-1460404956-24_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4202553_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4202553_13.FLEX_PRO_CLICK = sel_promo.id;
 							
-							BF_STATIC.ctr_tracking[ 4210893 ] = {						
+							
+							BF_STATIC.ctr_tracking[ 4202553 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 2,
@@ -9872,56 +9888,19 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS247&quot;,&quot;u&quot;:&quot;7FEIUL7&quot;,&quot;buzz&quot;:&quot;this-is-what-happens-when-you-make-a-strawberry-lemonade-des&quot;,&quot;user&quot;:&quot;clairenolan&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-this-is-what-happens-when-you-make-a-strawberry-lemonade-des" data-ctr-campaign-id="4210893">
-													<a href="/clairenolan/this-is-what-happens-when-you-make-a-strawberry-lemonade-des" rel:gt_act="buzzing/thumb" rel:buzz_id="4210893" data-bfa="@a:Thumb; @d:Now-Buzzing;">
-								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr10/this-is-what-happens-when-you-make-a-strawberry-l-2-24582-1460576579-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
-									
-								</div>
-							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4210893"}'></a>
-							<h2><a data-bfa="@a:Title; @d:Now-Buzzing;" href="/clairenolan/this-is-what-happens-when-you-make-a-strawberry-lemonade-des" rel:gt_act="buzzing/title" rel:buzz_id="4210893">This Is What Happens When You Make A Strawberry Lemonade Dessert</a></h2>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4210348_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210348_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"804917","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3_wide.jpg"},{"id":"804913","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3_wide.jpg"},{"id":"804914","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5_wide.jpg"},{"id":"804916","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1_wide.jpg"},{"id":"804909","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3_wide.jpg"},{"id":"804918","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5_wide.jpg"},{"id":"804908","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1_wide.jpg"},{"id":"804919","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7_wide.jpg"},{"id":"804915","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7_wide.jpg"},{"id":"804910","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5_wide.jpg"},{"id":"804912","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1_wide.jpg"},{"id":"804911","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210348_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210348_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4210348 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 3,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJP457&quot;,&quot;u&quot;:&quot;7DPQU47&quot;,&quot;buzz&quot;:&quot;makeup-struggles-when-you-were-a-teen-vs-makeup-s&quot;,&quot;user&quot;:&quot;genamourbarrett&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-makeup-struggles-when-you-were-a-teen-vs-makeup-s" data-ctr-campaign-id="4210348">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIJ0G7&quot;,&quot;u&quot;:&quot;7HF3NJ7&quot;,&quot;buzz&quot;:&quot;lgbt-people-recreate-iconic-movie-posters&quot;,&quot;user&quot;:&quot;mathewjedeikin&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-lgbt-people-recreate-iconic-movie-posters" data-ctr-campaign-id="4202553">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/genamourbarrett/makeup-struggles-when-you-were-a-teen-vs-makeup-s" rel:gt_act="buzzing/thumb" rel:buzz_id="4210348" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/mathewjedeikin/lgbt-people-recreate-iconic-movie-posters" rel:gt_act="buzzing/thumb" rel:buzz_id="4202553" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210348"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4202553"}\'></a>\
 								<h2>\
-									<a href="/genamourbarrett/makeup-struggles-when-you-were-a-teen-vs-makeup-s" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/mathewjedeikin/lgbt-people-recreate-iconic-movie-posters" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -9929,42 +9908,42 @@ He was conflicted about the results.</p>
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4210903_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210903_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211375_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211375_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"805314","probability":"0.25","image":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10.jpg","title":"Amy Schumer Isn't Here At All For The Word \"Plus-Size\"","image_wide":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10_wide.jpg"},{"id":"805309","probability":"0.25","image":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10.jpg","title":"Amy Schumer Isn't Cool With All These Body Labels","image_wide":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10_wide.jpg"},{"id":"805308","probability":"0.25","image":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10.jpg","title":"Amy Schumer Is Over All These Body Labels","image_wide":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10_wide.jpg"},{"id":"805310","probability":"0.25","image":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10.jpg","title":"Amy Schumer Is Over The Term \"Plus-Size\"","image_wide":"/static/2016-04/13/14/campaign_images/webdr14/amy-schumer-is-over-the-term-plus-size-2-13945-1460571304-10_wide.jpg"}];
+								promotions = [{"id":"806078","probability":1,"image":"/static/2016-04/13/21/campaign_images/webdr08/its-lit-2-8586-1460596778-1.jpg","title":"This New Way Of Cooking Pizza Is Actually So Lit","image_wide":"/static/2016-04/13/21/campaign_images/webdr08/its-lit-2-8586-1460596778-1_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210903_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210903_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4211375_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4211375_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4210903 ] = {						
+							BF_STATIC.ctr_tracking[ 4211375 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 4,
-								post_category: 'Celebrity', // we need to figure out how we can get this
+								position: 3,
+								post_category: 'Australia', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
 								objectType: 'post',
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS427&quot;,&quot;u&quot;:&quot;74TKAZ7&quot;,&quot;buzz&quot;:&quot;amy-schumer-is-over-the-term-plus-size&quot;,&quot;user&quot;:&quot;keelyflaherty&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-amy-schumer-is-over-the-term-plus-size" data-ctr-campaign-id="4210903">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJUNU7&quot;,&quot;u&quot;:&quot;759SBH7&quot;,&quot;buzz&quot;:&quot;its-lit&quot;,&quot;user&quot;:&quot;jemimaskelley&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-its-lit" data-ctr-campaign-id="4211375">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/keelyflaherty/amy-schumer-is-over-the-term-plus-size" rel:gt_act="buzzing/thumb" rel:buzz_id="4210903" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/jemimaskelley/its-lit" rel:gt_act="buzzing/thumb" rel:buzz_id="4211375" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210903"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4211375"}\'></a>\
 								<h2>\
-									<a href="/keelyflaherty/amy-schumer-is-over-the-term-plus-size" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/jemimaskelley/its-lit" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -10011,287 +9990,85 @@ He was conflicted about the results.</p>
 
 
 						<script type="text/javascript">
-							var imp_attr_4210911_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210911_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4211351_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211351_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"805214","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568719-5.jpg","title":"This Teen Got Kylie Jenner's Lip Kit Tattooed On His Arm Because Love Is Real","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568719-5_wide.jpg"},{"id":"805212","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568713-3.jpg","title":"This Teen Is So Committed To Kylie Jenner That He Tattooed Her Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568713-3_wide.jpg"},{"id":"805213","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1.jpg","title":"This Teen Got Kylie Jenner's Lip Kit Tattooed On His Arm Because Love Is Real","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1_wide.jpg"},{"id":"805209","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr02/kylie-jenner-tattoo-2-15580-1460568545-12.jpg","title":"This Teen Boy Just Got A Tattoo Of Kylie Jenner's Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr02/kylie-jenner-tattoo-2-15580-1460568545-12_wide.jpg"},{"id":"805211","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1.jpg","title":"This Teen Is So Committed To Kylie Jenner That He Tattooed Her Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1_wide.jpg"},{"id":"805218","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568713-3.jpg","title":"This Teen Boy Just Got A Tattoo Of Kylie Jenner's Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568713-3_wide.jpg"},{"id":"805217","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1.jpg","title":"This Teen Boy Just Got A Tattoo Of Kylie Jenner's Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1_wide.jpg"},{"id":"805210","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr02/kylie-jenner-tattoo-2-15580-1460568552-14.jpg","title":"This Teen Boy Just Got A Tattoo Of Kylie Jenner's Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr02/kylie-jenner-tattoo-2-15580-1460568552-14_wide.jpg"},{"id":"805216","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568713-3.jpg","title":"This Teen Showed His Devotion To Kylie Jenner With A Tattoo Of Her Lip Kits","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568713-3_wide.jpg"},{"id":"805215","probability":"0.1","image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1.jpg","title":"This Teen Showed His Devotion To Kylie Jenner With A Tattoo Of Her Lip Kits","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1_wide.jpg"}];
+								promotions = [{"id":"805941","probability":1,"image":"/static/2016-04/13/19/campaign_images/webdr10/can-somebody-tell-me-why-isnt-no-enough-2-20770-1460588785-12.jpg","title":"Can Somebody Tell Me: Why Isn’t No Enough?","image_wide":"/static/2016-04/13/19/campaign_images/webdr10/can-somebody-tell-me-why-isnt-no-enough-2-20770-1460588785-12_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210911_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210911_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4211351_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4211351_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4210911 ] = {						
+							BF_STATIC.ctr_tracking[ 4211351 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 4,
+								post_category: 'Videos', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJUJ67&quot;,&quot;u&quot;:&quot;775TSM7&quot;,&quot;buzz&quot;:&quot;can-somebody-tell-me-why-isnt-no-enough&quot;,&quot;user&quot;:&quot;dayshavedewi&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-can-somebody-tell-me-why-isnt-no-enough" data-ctr-campaign-id="4211351">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/dayshavedewi/can-somebody-tell-me-why-isnt-no-enough" rel:gt_act="buzzing/thumb" rel:buzz_id="4211351" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4211351"}\'></a>\
+								<h2>\
+									<a href="/dayshavedewi/can-somebody-tell-me-why-isnt-no-enough" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4211299_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211299_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"806072","probability":"0.563448761759178","image":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1.jpg","title":"You're More Trackable Online Than You Think","image_wide":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_wide.jpg"},{"id":"806073","probability":"0.436551238240822","image":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1.jpg","title":"The Location Data From Just Two Of Your Apps Is Enough To Identify You","image_wide":"/static/2016-04/13/21/campaign_images/webdr04/the-location-data-from-just-two-of-your-apps-is-e-2-4941-1460596416-1_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4211299_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4211299_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4211299 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 5,
-								post_category: 'Style', // we need to figure out how we can get this
+								post_category: 'World', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
 								objectType: 'post',
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS5M7&quot;,&quot;u&quot;:&quot;79BIAM7&quot;,&quot;buzz&quot;:&quot;kylie-jenner-tattoo&quot;,&quot;user&quot;:&quot;augustafalletta&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-kylie-jenner-tattoo" data-ctr-campaign-id="4210911">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJU927&quot;,&quot;u&quot;:&quot;73Q1QS7&quot;,&quot;buzz&quot;:&quot;the-location-data-from-just-two-of-your-apps-is-enough-to-id&quot;,&quot;user&quot;:&quot;sheerafrenkel&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-the-location-data-from-just-two-of-your-apps-is-enough-to-id" data-ctr-campaign-id="4211299">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/augustafalletta/kylie-jenner-tattoo" rel:gt_act="buzzing/thumb" rel:buzz_id="4210911" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/sheerafrenkel/the-location-data-from-just-two-of-your-apps-is-enough-to-id" rel:gt_act="buzzing/thumb" rel:buzz_id="4211299" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210911"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4211299"}\'></a>\
 								<h2>\
-									<a href="/augustafalletta/kylie-jenner-tattoo" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4210530_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210530_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-							
-							BF_STATIC.ctr_tracking[ 4210530 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 6,
-								post_category: 'India', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJQ3J7&quot;,&quot;u&quot;:&quot;7AUT017&quot;,&quot;buzz&quot;:&quot;heres-what-westerners-think-of-indian-arranged-marriages&quot;,&quot;user&quot;:&quot;sahilrizwan&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-heres-what-westerners-think-of-indian-arranged-marriages" data-ctr-campaign-id="4210530">
-													<a href="/sahilrizwan/heres-what-westerners-think-of-indian-arranged-marriages" rel:gt_act="buzzing/thumb" rel:buzz_id="4210530" data-bfa="@a:Thumb; @d:Now-Buzzing;">
-								<div style="float:left; position:relative;">
- 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/10/campaign_images/webdr06/heres-what-westerners-think-of-indian-arranged-ma-2-12000-1460558097-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
-									
-								</div>
-							</a>
-							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4210530"}'></a>
-							<h2><a data-bfa="@a:Title; @d:Now-Buzzing;" href="/sahilrizwan/heres-what-westerners-think-of-indian-arranged-marriages" rel:gt_act="buzzing/title" rel:buzz_id="4210530">Here&#8217;s What Westerners Think Of Indian Arranged Marriages</a></h2>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4208368_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4208368_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"805182","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568385-4.jpg","title":"Here's Why 23 Trump Supporters Actually Want \"The Wall\" In Their Own Words","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568385-4_wide.jpg"},{"id":"805184","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8.jpg","title":"Here's Why 23 Trump Supporters Actually Want \"The Wall\" In Their Own Words","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8_wide.jpg"},{"id":"805179","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568391-6.jpg","title":"We Asked Trump Supporters Why They Want \"The Wall\" And Here's What They Said","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568391-6_wide.jpg"},{"id":"805187","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568391-6.jpg","title":"23 Trump Supporters Explain Why America Needs \"The Wall\"","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568391-6_wide.jpg"},{"id":"805177","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568380-2.jpg","title":"We Asked Trump Supporters Why They Want \"The Wall\" And Here's What They Said","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568380-2_wide.jpg"},{"id":"805186","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568385-4.jpg","title":"23 Trump Supporters Explain Why America Needs \"The Wall\"","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568385-4_wide.jpg"},{"id":"805183","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568391-6.jpg","title":"Here's Why Trump Supporters Actually Want \"The Wall\" In Their Own Words","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568391-6_wide.jpg"},{"id":"805188","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8.jpg","title":"23 Trump Supporters Explain Why America Needs \"The Wall\"","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8_wide.jpg"},{"id":"805181","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568380-2.jpg","title":"Here's Why Trump Supporters Actually Want \"The Wall\" In Their Own Words","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568380-2_wide.jpg"},{"id":"805185","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568380-2.jpg","title":"23 Trump Supporters Explain Why America Needs \"The Wall\"","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568380-2_wide.jpg"},{"id":"805178","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568385-4.jpg","title":"We Asked 23 Trump Supporters Why They Want \"The Wall\" And Here's What They Said","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568385-4_wide.jpg"},{"id":"805180","probability":"0.0833333333333333","image":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8.jpg","title":"We Asked 23 Trump Supporters Why They Want \"The Wall\" And Here's What They Said","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/why-trump-supporters-want-to-build-that-wall-2-28436-1460568400-8_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4208368_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4208368_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4208368 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 7,
-								post_category: 'Culture', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJEF57&quot;,&quot;u&quot;:&quot;72KY7&quot;,&quot;buzz&quot;:&quot;why-trump-supporters-want-to-build-that-wall&quot;,&quot;user&quot;:&quot;mjs538&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-why-trump-supporters-want-to-build-that-wall" data-ctr-campaign-id="4208368">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/mjs538/why-trump-supporters-want-to-build-that-wall" rel:gt_act="buzzing/thumb" rel:buzz_id="4208368" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4208368"}\'></a>\
-								<h2>\
-									<a href="/mjs538/why-trump-supporters-want-to-build-that-wall" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4210499_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210499_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"805086","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564773-10.jpg","title":"17 Reasons \"School Of Rock\" Is The Greatest Movie Of The Last 20 Years","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564773-10_wide.jpg"},{"id":"805083","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564773-10.jpg","title":"17 Reasons \"School Of Rock\" Is One Of The Greatest Movies Of All Time","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564773-10_wide.jpg"},{"id":"805084","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564780-12.jpg","title":"17 Reasons \"School Of Rock\" Is One Of The Greatest Movies Of All Time","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564780-12_wide.jpg"},{"id":"805088","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564785-14.jpg","title":"17 Reasons \"School Of Rock\" Is The Greatest Movie Of The Last 20 Years","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564785-14_wide.jpg"},{"id":"805078","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564773-10.jpg","title":"Why “School Of Rock” Is One Of The Greatest Movies Of The Last 20 Years","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564773-10_wide.jpg"},{"id":"805082","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564785-14.jpg","title":"Why “School Of Rock” Is One Of The Greatest Movies Of The Last 20 Years","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564785-14_wide.jpg"},{"id":"805085","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564785-14.jpg","title":"17 Reasons \"School Of Rock\" Is One Of The Greatest Movies Of All Time","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564785-14_wide.jpg"},{"id":"805079","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564780-12.jpg","title":"Why “School Of Rock” Is One Of The Greatest Movies Of The Last 20 Years","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564780-12_wide.jpg"},{"id":"805087","probability":"0.111111111111111","image":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564780-12.jpg","title":"17 Reasons \"School Of Rock\" Is The Greatest Movie Of The Last 20 Years","image_wide":"/static/2016-04/13/12/campaign_images/webdr10/rock-got-no-reason-rock-got-no-rhyme-2-20302-1460564780-12_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210499_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210499_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4210499 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 8,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJPXI7&quot;,&quot;u&quot;:&quot;76NMVN7&quot;,&quot;buzz&quot;:&quot;rock-got-no-reason-rock-got-no-rhyme&quot;,&quot;user&quot;:&quot;jamiejones&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-rock-got-no-reason-rock-got-no-rhyme" data-ctr-campaign-id="4210499">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/jamiejones/rock-got-no-reason-rock-got-no-rhyme" rel:gt_act="buzzing/thumb" rel:buzz_id="4210499" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210499"}\'></a>\
-								<h2>\
-									<a href="/jamiejones/rock-got-no-reason-rock-got-no-rhyme" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4210375_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210375_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"804659","probability":1,"image":"/static/2016-04/13/10/campaign_images/webdr04/this-is-what-the-cast-of-bend-it-like-beckham-loo-2-1965-1460558356-6.jpg","title":"The Cast Of \"Bend It Like Beckham\" Then And Now","image_wide":"/static/2016-04/13/10/campaign_images/webdr04/this-is-what-the-cast-of-bend-it-like-beckham-loo-2-1965-1460558356-6_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210375_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210375_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4210375 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 9,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJP9E7&quot;,&quot;u&quot;:&quot;7FOSUT7&quot;,&quot;buzz&quot;:&quot;this-is-what-the-cast-of-bend-it-like-beckham-looks-like-now&quot;,&quot;user&quot;:&quot;jasminnahar&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-this-is-what-the-cast-of-bend-it-like-beckham-looks-like-now" data-ctr-campaign-id="4210375">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/jasminnahar/this-is-what-the-cast-of-bend-it-like-beckham-looks-like-now" rel:gt_act="buzzing/thumb" rel:buzz_id="4210375" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210375"}\'></a>\
-								<h2>\
-									<a href="/jasminnahar/this-is-what-the-cast-of-bend-it-like-beckham-looks-like-now" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4208147_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4208147_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"804704","probability":1,"image":"/static/2016-04/13/11/campaign_images/webdr08/people-are-angry-about-burger-kings-new-angriest--2-3795-1460560055-26.jpg","title":"People Are Angry About Burger King's New \"Angriest Burger\" Menu Addition","image_wide":"/static/2016-04/13/11/campaign_images/webdr08/people-are-angry-about-burger-kings-new-angriest--2-3795-1460560055-26_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4208147_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4208147_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4208147 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 10,
-								post_category: 'UKNews', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJD867&quot;,&quot;u&quot;:&quot;7H5E3O7&quot;,&quot;buzz&quot;:&quot;people-are-angry-about-burger-kings-new-angriest-burger&quot;,&quot;user&quot;:&quot;saraspary&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-people-are-angry-about-burger-kings-new-angriest-burger" data-ctr-campaign-id="4208147">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/saraspary/people-are-angry-about-burger-kings-new-angriest-burger" rel:gt_act="buzzing/thumb" rel:buzz_id="4208147" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4208147"}\'></a>\
-								<h2>\
-									<a href="/saraspary/people-are-angry-about-burger-kings-new-angriest-burger" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4210251_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210251_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"804561","probability":"0.0538805874010817","image":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555631-5.jpg","title":"24 Of The Most WTF Things That Have Ever Happened In Manchester","image_wide":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555631-5_wide.jpg"},{"id":"804565","probability":"0.0484311787308676","image":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555653-13.jpg","title":"24 Of The Most WTF Things That Have Ever Happened In Manchester","image_wide":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555653-13_wide.jpg"},{"id":"804564","probability":"0.0560823582408264","image":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555647-11.jpg","title":"24 Of The Most WTF Things That Have Ever Happened In Manchester","image_wide":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555647-11_wide.jpg"},{"id":"804563","probability":"0.0557606862300226","image":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555641-9.jpg","title":"24 Of The Most WTF Things That Have Ever Happened In Manchester","image_wide":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555641-9_wide.jpg"},{"id":"804562","probability":"0.742499383654073","image":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555636-7.jpg","title":"24 Of The Most WTF Things That Have Ever Happened In Manchester","image_wide":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555636-7_wide.jpg"},{"id":"804558","probability":"0.0433458057431291","image":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555626-3.jpg","title":"24 Of The Most WTF Things That Have Ever Happened In Manchester","image_wide":"/static/2016-04/13/9/campaign_images/webdr15/wtf-manchester-2-5817-1460555626-3_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210251_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210251_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4210251 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 11,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJOLA7&quot;,&quot;u&quot;:&quot;72YLJF7&quot;,&quot;buzz&quot;:&quot;wtf-manchester&quot;,&quot;user&quot;:&quot;hilarywardle&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-wtf-manchester" data-ctr-campaign-id="4210251">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/hilarywardle/wtf-manchester" rel:gt_act="buzzing/thumb" rel:buzz_id="4210251" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210251"}\'></a>\
-								<h2>\
-									<a href="/hilarywardle/wtf-manchester" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/sheerafrenkel/the-location-data-from-just-two-of-your-apps-is-enough-to-id" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -10338,22 +10115,52 @@ He was conflicted about the results.</p>
 
 
 						<script type="text/javascript">
-							var imp_attr_4210857_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4210857_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4210893_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210893_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"805120","probability":"0.166666666666667","image":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566791-7.jpg","title":"Kick-Ass Styles For Curly Hair You Need To Try ASAP","image_wide":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566791-7_wide.jpg"},{"id":"805118","probability":"0.166666666666667","image":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566791-7.jpg","title":"Curly Hairstyles You Should Try For Prom","image_wide":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566791-7_wide.jpg"},{"id":"805121","probability":"0.166666666666667","image":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566796-9.jpg","title":"Kick-Ass Styles For Curly Hair You Need To Try ASAP","image_wide":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566796-9_wide.jpg"},{"id":"805117","probability":"0.166666666666667","image":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566796-9.jpg","title":"Curly Formal Hairstyles That Will Give You Life","image_wide":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566796-9_wide.jpg"},{"id":"805116","probability":"0.166666666666667","image":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566791-7.jpg","title":"Curly Formal Hairstyles That Will Give You Life","image_wide":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566791-7_wide.jpg"},{"id":"805119","probability":"0.166666666666667","image":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566796-9.jpg","title":"Curly Hairstyles You Should Try For Prom","image_wide":"/static/2016-04/13/12/campaign_images/webdr09/kickass-styles-for-curly-hair-you-need-to-try-asap-2-21077-1460566796-9_wide.jpg"}];
+							
+							BF_STATIC.ctr_tracking[ 4210893 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 6,
+								post_category: 'Videos', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS247&quot;,&quot;u&quot;:&quot;7FEIUL7&quot;,&quot;buzz&quot;:&quot;this-is-what-happens-when-you-make-a-strawberry-lemonade-des&quot;,&quot;user&quot;:&quot;clairenolan&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-this-is-what-happens-when-you-make-a-strawberry-lemonade-des" data-ctr-campaign-id="4210893">
+													<a href="/clairenolan/this-is-what-happens-when-you-make-a-strawberry-lemonade-des" rel:gt_act="buzzing/thumb" rel:buzz_id="4210893" data-bfa="@a:Thumb; @d:Now-Buzzing;">
+								<div style="float:left; position:relative;">
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/15/campaign_images/webdr10/this-is-what-happens-when-you-make-a-strawberry-l-2-24582-1460576579-0_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+									
+								</div>
+							</a>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4210893"}'></a>
+							<h2><a data-bfa="@a:Title; @d:Now-Buzzing;" href="/clairenolan/this-is-what-happens-when-you-make-a-strawberry-lemonade-des" rel:gt_act="buzzing/title" rel:buzz_id="4210893">This Is What Happens When You Make A Strawberry Lemonade Dessert</a></h2>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4210911_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210911_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"805217","probability":1,"image":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1.jpg","title":"This Teen Boy Just Got A Tattoo Of Kylie Jenner's Lip Kit On His Arm","image_wide":"/static/2016-04/13/13/campaign_images/webdr04/kylie-jenner-tattoo-2-28375-1460568707-1_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4210857_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4210857_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4210911_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4210911_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4210857 ] = {						
+							BF_STATIC.ctr_tracking[ 4210911 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 12,
+								position: 7,
 								post_category: 'Style', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
@@ -10361,19 +10168,208 @@ He was conflicted about the results.</p>
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJRV47&quot;,&quot;u&quot;:&quot;76EYNZ7&quot;,&quot;buzz&quot;:&quot;kickass-styles-for-curly-hair-you-need-to-try-asap&quot;,&quot;user&quot;:&quot;lindsaywebster&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-extra-hidden" style="display: none;" data-ctr-campaign-id="4210857">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS5M7&quot;,&quot;u&quot;:&quot;79BIAM7&quot;,&quot;buzz&quot;:&quot;kylie-jenner-tattoo&quot;,&quot;user&quot;:&quot;augustafalletta&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-kylie-jenner-tattoo" data-ctr-campaign-id="4210911">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/lindsaywebster/kickass-styles-for-curly-hair-you-need-to-try-asap" rel:gt_act="buzzing/thumb" rel:buzz_id="4210857" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/augustafalletta/kylie-jenner-tattoo" rel:gt_act="buzzing/thumb" rel:buzz_id="4210911" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210857"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210911"}\'></a>\
 								<h2>\
-									<a href="/lindsaywebster/kickass-styles-for-curly-hair-you-need-to-try-asap" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/augustafalletta/kylie-jenner-tattoo" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4142503_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4142503_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+							
+							BF_STATIC.ctr_tracking[ 4142503 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 8,
+								post_category: 'USNews', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7H9IO27&quot;,&quot;u&quot;:&quot;7EAKM47&quot;,&quot;buzz&quot;:&quot;katy-perry-and-a-catholic-convent&quot;,&quot;user&quot;:&quot;claudiarosenbaum&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-katy-perry-and-a-catholic-convent" data-ctr-campaign-id="4142503">
+													<a href="/claudiarosenbaum/katy-perry-and-a-catholic-convent" rel:gt_act="buzzing/thumb" rel:buzz_id="4142503" data-bfa="@a:Thumb; @d:Now-Buzzing;">
+								<div style="float:left; position:relative;">
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/20/campaign_images/webdr06/katy-perry-cleared-to-buy-catholic-convent-after--2-9340-1460593163-8_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+									
+								</div>
+							</a>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4142503"}'></a>
+							<h2><a data-bfa="@a:Title; @d:Now-Buzzing;" href="/claudiarosenbaum/katy-perry-and-a-catholic-convent" rel:gt_act="buzzing/title" rel:buzz_id="4142503">Katy Perry Cleared To Buy Catholic Convent After Judge Voids Nun Deal</a></h2>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4204661_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4204661_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+							
+							BF_STATIC.ctr_tracking[ 4204661 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 9,
+								post_category: 'Business', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIUEC7&quot;,&quot;u&quot;:&quot;72ZVW57&quot;,&quot;buzz&quot;:&quot;the-digital-media-bloodbath-hundreds-of-jobs-lost&quot;,&quot;user&quot;:&quot;matthewzeitlin&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-the-digital-media-bloodbath-hundreds-of-jobs-lost" data-ctr-campaign-id="4204661">
+													<a href="/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost" rel:gt_act="buzzing/thumb" rel:buzz_id="4204661" data-bfa="@a:Thumb; @d:Now-Buzzing;">
+								<div style="float:left; position:relative;">
+ 									<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/17/campaign_images/webdr04/the-digital-media-bloodbath-hundreds-of-jobs-lost-2-6592-1460583776-3_wide.jpg" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />
+									
+								</div>
+							</a>
+							<a class="qe editor-admin" style="display:none" rel:data='{"buzz_id":"4204661"}'></a>
+							<h2><a data-bfa="@a:Title; @d:Now-Buzzing;" href="/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost" rel:gt_act="buzzing/title" rel:buzz_id="4204661">The Digital Media Bloodbath: Hundreds Of Jobs Lost</a></h2>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4211360_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4211360_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"806091","probability":"0.00182535862645336","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597316-4.jpg","title":"ABC's New Drama \"Cleverman\" Is About An Indigenous Superhero","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597316-4_wide.jpg"},{"id":"806088","probability":"0.00363818214921472","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597321-6.jpg","title":"The Trailer For ABC’s new series “Cleverman” Is Here And It Looks Brilliant","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597321-6_wide.jpg"},{"id":"806089","probability":"0.00723819918596961","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597326-8.jpg","title":"The Trailer For ABC’s new series “Cleverman” Is Here And It Looks Brilliant","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597326-8_wide.jpg"},{"id":"806093","probability":"0.0472059168077009","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597326-8.jpg","title":"ABC's New Drama \"Cleverman\" Is About An Indigenous Superhero","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597326-8_wide.jpg"},{"id":"806092","probability":"0.0648929021410765","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597321-6.jpg","title":"ABC's New Drama \"Cleverman\" Is About An Indigenous Superhero","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597321-6_wide.jpg"},{"id":"806086","probability":"0.0310551493547144","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597311-2.jpg","title":"The Trailer For ABC’s new series “Cleverman” Is Here And It Looks Brilliant","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597311-2_wide.jpg"},{"id":"806090","probability":"0.842610043656103","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597311-2.jpg","title":"ABC's New Drama \"Cleverman\" Is About An Indigenous Superhero","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597311-2_wide.jpg"},{"id":"806087","probability":"0.00153424807876723","image":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597316-4.jpg","title":"The Trailer For ABC’s new series “Cleverman” Is Here And It Looks Brilliant","image_wide":"/static/2016-04/13/21/campaign_images/webdr09/cleverman-trailer-2-7442-1460597316-4_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4211360_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4211360_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4211360 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 10,
+								post_category: 'Australia', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJUKX7&quot;,&quot;u&quot;:&quot;7EQ66P7&quot;,&quot;buzz&quot;:&quot;cleverman-trailer&quot;,&quot;user&quot;:&quot;matwhitehead&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-cleverman-trailer" data-ctr-campaign-id="4211360">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/matwhitehead/cleverman-trailer" rel:gt_act="buzzing/thumb" rel:buzz_id="4211360" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4211360"}\'></a>\
+								<h2>\
+									<a href="/matwhitehead/cleverman-trailer" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4210925_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210925_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"805384","probability":1,"image":"/static/2016-04/13/14/campaign_images/webdr01/rihannas-been-helping-a-fan-come-out-of-the-close-2-24971-1460572753-5.jpg","title":"Rihanna's Been Privately Helping A Fan Come Out Of The Closet","image_wide":"/static/2016-04/13/14/campaign_images/webdr01/rihannas-been-helping-a-fan-come-out-of-the-close-2-24971-1460572753-5_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4210925_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4210925_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4210925 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 11,
+								post_category: 'Celebrity', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJS8C7&quot;,&quot;u&quot;:&quot;762Y617&quot;,&quot;buzz&quot;:&quot;rihannas-been-helping-a-fan-come-out-of-the-closet-and-its-h&quot;,&quot;user&quot;:&quot;christianzamora&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-rihannas-been-helping-a-fan-come-out-of-the-closet-and-its-h" data-ctr-campaign-id="4210925">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/christianzamora/rihannas-been-helping-a-fan-come-out-of-the-closet-and-its-h" rel:gt_act="buzzing/thumb" rel:buzz_id="4210925" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210925"}\'></a>\
+								<h2>\
+									<a href="/christianzamora/rihannas-been-helping-a-fan-come-out-of-the-closet-and-its-h" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4210697_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210697_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"805264","probability":1,"image":"/static/2016-04/13/13/campaign_images/webdr11/old-age-is-a-privilege-2-18879-1460569297-1.jpg","title":"This Canadian Mom's Refusal To Buy Into Anti-Aging Shaming Tactics Is Blowing Up On Facebook","image_wide":"/static/2016-04/13/13/campaign_images/webdr11/old-age-is-a-privilege-2-18879-1460569297-1_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4210697_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4210697_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4210697 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 12,
+								post_category: 'Canada', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJR007&quot;,&quot;u&quot;:&quot;7CY1JW7&quot;,&quot;buzz&quot;:&quot;old-age-is-a-privilege&quot;,&quot;user&quot;:&quot;laurenstrapagiel&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-extra-hidden" style="display: none;" data-ctr-campaign-id="4210697">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/laurenstrapagiel/old-age-is-a-privilege" rel:gt_act="buzzing/thumb" rel:buzz_id="4210697" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210697"}\'></a>\
+								<h2>\
+									<a href="/laurenstrapagiel/old-age-is-a-privilege" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -10397,7 +10393,7 @@ He was conflicted about the results.</p>
 	</script>
 </div>
 
-<!-- UNIT:Nowbuzzing generated on 16:12:12,  4/13/2016 -->
+<!-- UNIT:Nowbuzzing generated on  2:12:12,  4/14/2016 -->
 </div>
 
 <!-- \nowbuzzing -->
@@ -11110,7 +11106,7 @@ EventManager.observe_once(
 })();
 </script>
 
-<!-- UNIT:Badgeheaderflight generated on 16:10:10,  4/13/2016 -->
+<!-- UNIT:Badgeheaderflight generated on  2:20:20,  4/14/2016 -->
 
 
 
@@ -11118,3 +11114,5 @@ EventManager.observe_once(
  </body>
 </html>
 
+
+<!--  1:51:51,  4/14/2016 -->
