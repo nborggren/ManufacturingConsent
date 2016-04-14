@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" data-view-uid="0"><head>
+<base href='http://www.bloomberg.com/politics/'>
+    <meta charset="utf-8">
+    <title>Ted Cruz: 'I Salute Donald Trump' - Bloomberg Politics</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="shortcut icon" type="image/x-icon" href="//assets.bwbx.io/politics/public/images/icons/favicon.b838bae2.ico">
+
+    <link rel="apple-touch-icon" href="//assets.bwbx.io/politics/public/images/icons/ios60x60.77b68958.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//assets.bwbx.io/politics/public/images/icons/ios60x60.77b68958.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//assets.bwbx.io/politics/public/images/icons/ios76x76.45d85933.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//assets.bwbx.io/politics/public/images/icons/ios120x120.6e6ddc22.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//assets.bwbx.io/politics/public/images/icons/ios152x152.549a1dd0.png">
+
+    <script type="text/javascript">
+      // Starting time for chartbeat measurements
+      var _sf_startpt = (new Date()).getTime();
+    </script>
+
+    <link href="//assets.bwbx.io/politics/public/stylesheets/application.f5d6fa9b.css" media="all" rel="stylesheet" type="text/css">
+
+      <link rel="stylesheet" media="all" type="text/css" href="//assets.bwbx.io/business/public/stylesheets/tophat_snippet.17817bb0.css">
+
+    <meta property="og:site_name" content="Bloomberg.com/politics">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="//assets.bwbx.io/politics/public/images/logos/FB-Sharing.73b07052.png">
+
+
+    <script type="text/javascript">
+      (function(global) {
+        "use strict";
+        global.bbloader = {
+          queue: {},
+          loaded: {},
+          enqueue: function(namespace, fn) {
+            if (global.bbloader.loaded[namespace]) {
+              return fn();
+            }
+            global.bbloader.queue[namespace] = global.bbloader.queue[namespace] || [];
+            global.bbloader.queue[namespace].push(fn);
+          },
+          load: function(namespace, options) {
+            global.bbloader.onload(function() {
+              var s = document.createElement("script");
+              s.type = options.type;
+              s.async = options.async;
+              s.src = options.src;
+              function loaded(e) {
+                var queue = global.bbloader.queue[namespace] || [];
+                for (var i = 0, len = queue.length; i < len; ++i) {
+                  queue.pop()();
+                }
+                global.bbloader.loaded[namespace] = true;
+                s.removeEventListener("load", loaded, false);
+              }
+              s.addEventListener("load", loaded);
+              global.document.body.appendChild(s);
+            });
+          },
+          onload: function(fn) {
+            if (global.addEventListener) {
+              global.addEventListener("load", fn, false);
+              return;
+            }
+            if (global.attachEvent) {
+              global.attachEvent("onLoad", fn);
+              return;
+            }
+            var onload = global.onload;
+            if (typeof onload !== "function") {
+              return window.onload = fn;
+            }
+            window.onload = function() {
+              onload();
+              fn();
+            };
+          },
+        };
+      })(window);
+    </script>
+    <script type="text/javascript">
+        var doesNotSupportMediaQueries = !window.CSSMediaRule && !window.matchMedia && !window.msMatchMedia;
+
+        if (doesNotSupportMediaQueries) {
+            var htmlElement = document.getElementsByTagName("html")[0];
+            htmlElement.className += " no-media-queries";
+        }
+    </script>
+
+  <meta name="description" content="He's going where few other GOP&nbsp;presidential candidates dare to go, as fallout from the&nbsp;Mexican “rapists” comment continues." data-ephemeral="true"><meta name="twitter:card" content="summary" data-ephemeral="true"><meta name="twitter:site" content="@bpolitics" data-ephemeral="true"><meta name="twitter:description" content="He's going where few other GOP&nbsp;presidential candidates dare to go, as fallout from the&nbsp;Mexican “rapists” comment continues." data-ephemeral="true"><meta name="twitter:title" content="Ted Cruz: 'I Salute Donald Trump'" data-ephemeral="true"><meta name="twitter:url" content="http://www.bloomberg.com/politics/articles/2015-07-05/ted-cruz-i-salute-donald-trump-" data-ephemeral="true"><meta name="twitter:image" content="http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/-1x-1.jpg" data-ephemeral="true"><meta name="parsely-title" content="Ted Cruz: 'I Salute Donald Trump'" data-ephemeral="true"><meta name="parsely-link" content="http://www.bloomberg.com/politics/articles/2015-07-05/ted-cruz-i-salute-donald-trump-" data-ephemeral="true"><meta name="parsely-type" content="post" data-ephemeral="true"><meta name="parsely-image-url" content="http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/-1x-1.jpg" data-ephemeral="true"><meta name="parsely-pub-date" content="2015-07-05T15:17:51.335Z" data-ephemeral="true"><meta name="parsely-section" content="politics" data-ephemeral="true"><meta name="parsely-author" content="Alison Elkin" data-ephemeral="true"><meta name="parsely-tags" content="Donald Trump,Immigration,2016" data-ephemeral="true"><meta name="parsely-post-id" content="NR0T5R6KLVR401" data-ephemeral="true"><meta property="og:title" content="Ted Cruz: 'I Salute Donald Trump'" data-ephemeral="true"><meta property="og:image" content="http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/-1x-1.jpg" data-ephemeral="true"><meta property="og:url" content="http://www.bloomberg.com/politics/articles/2015-07-05/ted-cruz-i-salute-donald-trump-" data-ephemeral="true"><meta property="og:description" content="He's going where few other GOP&nbsp;presidential candidates dare to go, as fallout from the&nbsp;Mexican “rapists” comment continues." data-ephemeral="true"><meta name="keywords" content="Donald Trump,Immigration,2016" data-ephemeral="true"><meta name="sailthru.author" content="Alison Elkin" data-ephemeral="true"><meta name="date" content="2015-07-05T15:17:51.335Z" data-ephemeral="true"></head>
+
+  <body class="default_layout"><div data-view-uid="0_4"><div class="snippet-view business-snippet default-layout section-front" data-view-uid="tophatView"><div data-view-uid="tophatView_1"><div class="tophat"> <section class="tophat-menu"> <h1 class="tophat-menu__link-toggle">Bloomberg the Company &amp; Products</h1> <a href="https://bba.bloomberg.net/?utm_source=bloomberg-menu" class="tophat-menu__link-bba">Bloomberg Anywhere Login</a> </section> <div class="tophat__sitemap"> <div class="tophat__categories"> <div class="tophat__close-sitemap-button"></div> <section class="tophat-category"> <h1 class="tophat-category__title">Bloomberg</h1> <div class="tophat-category__content"> <p class="tophat-category__text"> Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. </p> </div> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Company</h1> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/company/careers/?utm_source=bloomberg-menu" class="tophat-category__link">Careers</a></li> <li><a href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu" class="tophat-category__link">Diversity &amp; Inclusion</a></li> <li><a href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu" class="tophat-category__link">Philanthropy &amp; Engagement</a></li> <li><a href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu" class="tophat-category__link">Sustainability</a></li> <li><a href="http://www.bloomberg.com/company/technology/?utm_source=bloomberg-menu" class="tophat-category__link">Technology</a></li> <li><a href="http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu" class="tophat-category__link">History &amp; Facts</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Financial Products</h1> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-12-CORE-bbgmenu" class="tophat-category__link">Bloomberg Professional</a></li> <li><a href="http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu" class="tophat-category__link">Bloomberg Tradebook</a></li> <li><a href="http://www.bloombergbriefs.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Briefs</a></li> <li><a href="http://www.bloombergindexes.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-05-13-INDEXES-bbgmenu" class="tophat-category__link">Bloomberg Indexes</a></li> <li><a href="http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu" class="tophat-category__link">Bloomberg SEF</a></li> <li><a href="http://about.bloomberginstitute.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Institute</a></li> <li><a href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu" class="tophat-category__link">Service Center</a></li> <li><a href="http://www.bloomberg.com/professional/systems-support/downloads/?utm_source=bloomberg-menu" class="tophat-category__link">Downloads</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Enterprise Products</h1> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-bbgmenu" class="tophat-category__link">Enterprise Solutions</a></li> <li><a href="http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-TS-bbgmenu" class="tophat-category__link">Trading Solutions</a></li> <li><a href="http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu" class="tophat-category__link">Bloomberg Vault</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Media</h1> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Business</a></li> <li><a href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Politics</a></li> <li><a href="http://www.bloombergview.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg View</a></li> <li><a href="http://www.bloomberg.com/live?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Television</a></li> <li><a href="http://www.bloomberg.com/radio/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Radio</a></li> <li><a href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Mobile Apps</a></li> <li><a href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu" class="tophat-category__link">News Bureaus</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Customer Support</h1> <ul class="tophat-category__content"> <li class="tophat-category__item"> <p class="tophat-category__text">Americas</p> <p class="tophat-category__text">+1 212 318 2000</p> </li> <li class="tophat-category__item"> <p class="tophat-category__text">Europe, Middle East, &amp; Africa</p> <p class="tophat-category__text">+44 20 7330 7500</p> </li> <li class="tophat-category__item"> <p class="tophat-category__text">Asia Pacific</p> <p class="tophat-category__text">+65 6212 1000</p> </li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Communications</h1> <ul class="tophat-category__content"> <li><a href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu" class="tophat-category__link">Press Announcements</a></li> <li><a href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu" class="tophat-category__link">Press Contacts</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Industry Products</h1> <ul class="tophat-category__content"> <li><a href="http://about.bgov.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Government</a></li> <li><a href="http://www.bna.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Law/BNA</a></li> <li><a href="https://bol.bna.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Big Law</a></li> <li><a href="http://about.bnef.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg New Energy Finance</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Media Services</h1> <ul class="tophat-category__content"> <li><a href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu" class="tophat-category__link">Advertising</a></li> <li><a href="http://www.bloomberg.com/content-service/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Content Service</a></li> <li><a href="http://www.bloomberglive.com/?utm_source=bloomberg-menu" class="tophat-category__link">Bloomberg Live Conferences</a></li> </ul> </section> <section class="tophat-category"> <h1 class="tophat-category__title">Follow Us</h1> <ul class="tophat-category__content"> <li><a href="http://www.facebook.com/Bloomberglp" class="tophat-category__social-link facebook" data-network="facebook" target="_blank"> Facebook </a></li> <li><a href="https://twitter.com/bloomberg" class="tophat-category__social-link twitter" data-network="twitter" target="_blank"> Twitter </a></li> <li><a href="https://www.linkedin.com/company/2494" class="tophat-category__social-link linkedin" data-network="linkedin" target="_blank"> LinkedIn </a></li> <li><a href="https://instagram.com/bloomberg" class="tophat-category__social-link instagram" data-network="instagram" target="_blank"> Instagram </a></li> </ul> </section> </div> </div> </div></div></div></div>
+
+  
+    <noscript>
+      <link href="//assets.bwbx.io/politics/public/stylesheets/noscript.133744c3.css" media="all" rel="stylesheet" type="text/css">
+    </noscript>
+
+    <div class="layout">
+      <div data-view-uid="0_2"><section class="off-canvas">
+    <div class="off-canvas__menu">
+
+        <div data-view-uid="0_2_3"><div class="video-tout">
+    <img src="//assets.bwbx.io/politics/public/images/logos/WADR-yellow.e676805a.png" class="video-tout__wadr-logo" alt="With All Due Respect">
+
+    <a href="http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-" class="video-tout__image-link">
+        <img class="" src="http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x-1.jpg" alt="">
+
+    </a>
+
+    <h1 class="video-tout__title">
+        <a href="http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-" class="video-tout__title-link">Monday-Thursday, 5 PM ET</a>
+    </h1>
+
+    <a href="http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-" class="video-tout__subtitle-link">Hosted by Mark Halperin and John Heilemann</a>
+    <a href="http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-" class="video-tout__call-to-action-link">Watch latest episode</a>
+</div>
+</div>
+
+        <div class="off-canvas__lists-container"> 
+
+            <div data-view-uid="0_2_1"><section class="curiosity-index">
+
+    <h1 class="curiosity-index__title">
+        The Index
+    </h1>
+    <ul class="curiosity-index__items">
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-" class="curiosity-index__link">
+                    Super-PACs
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="https://www.bloomberg.com/politics/articles/2015-07-02/wall-street-s-hillary-clinton-e-mails-take-a-different-tone-towards-financiers" class="curiosity-index__link">
+                    Clinton e-mails
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/health-care" class="curiosity-index__link">
+                    Health care
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/same-sex-marriage" class="curiosity-index__link">
+                    Same-sex marriage
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/2016" class="curiosity-index__link">
+                    2016
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/donald-trump" class="curiosity-index__link">
+                    Donald Trump
+                </a>
+            </li>
+    </ul>
+</section>
+</div>
+
+            <div class="off-canvas__topics">
+            </div>
+
+            <div data-view-uid="0_2_2"><section class="off-canvas-links">
+    <ol class="off-canvas-links__items">
+            <li class="off-canvas-links__item">
+                <a href="http://www.bloomberg.com/tv/channel-finder" class="off-canvas-links__link">
+                    Find Bloomberg TV
+                </a>
+            </li>
+            <li class="off-canvas-links__item">
+                <a href="http://www.bloomberg.com/privacy" class="off-canvas-links__link">
+                    Privacy Policy
+                </a>
+            </li>
+            <li class="off-canvas-links__item">
+                <a href="http://www.bloomberg.com/tos" class="off-canvas-links__link">
+                    Terms and Conditions
+                </a>
+            </li>
+    </ol>
+</section>
+</div>
+
+        </div>
+    </div>
+</section>
+</div>
+
+      <div data-view-uid="0_3"><div class="persistent-header__placeholder">
+    <div class="persistent-header">
+        <div class="persistent-header__container">
+            <div class="persistent-header__off-canvas-button"></div>
+
+            <div class="persistent-header__just-so-logo-link-isnt-full-width">
+                <a href="" class="persistent-header__logo-link make-svg-clickable" title="Bloomberg Politics">
+                    <object class="persistent-header__logo-image" type="image/svg+xml" data="//assets.bwbx.io/politics/public/images/logos/BP-Logo-H.e9d292a7.svg" title="Bloomberg Politics Logo">
+                    </object>
+                </a>
+            </div>
+
+            <section class="persistent-header__curiosity-index">
+
+                <div data-view-uid="0_3_1"><section class="curiosity-index">
+
+    <h1 class="curiosity-index__title">
+        The Index
+    </h1>
+    <ul class="curiosity-index__items">
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-" class="curiosity-index__link">
+                    Super-PACs
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="https://www.bloomberg.com/politics/articles/2015-07-02/wall-street-s-hillary-clinton-e-mails-take-a-different-tone-towards-financiers" class="curiosity-index__link">
+                    Clinton e-mails
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/health-care" class="curiosity-index__link">
+                    Health care
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/same-sex-marriage" class="curiosity-index__link">
+                    Same-sex marriage
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/2016" class="curiosity-index__link">
+                    2016
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/donald-trump" class="curiosity-index__link">
+                    Donald Trump
+                </a>
+            </li>
+    </ul>
+</section>
+</div>
+
+            </section>
+            <div class="persistent-header__headline">
+                <span class="now-reading">Now Reading: </span>
+                <span class="headline__text"></span>
+            </div>
+            <div class="persistent-header__social">
+                <div class="social-links">
+                    <div class="social-links__visible"></div>
+                    <div class="social-links__additional"></div>
+                    <div class="social-links__more"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+
+      <div class="container">
+
+        <div data-view-uid="0_1"><div class="header__container">
+
+    <header class="header">
+        <div class="header__off-canvas-button click-to-open-off-canvas"></div>
+
+        <div class="header__just-so-logo-link-isnt-full-width">
+            <a href="" class="header__logo-link make-svg-clickable" title="Bloomberg Politics">
+                <object class="header__logo-image vertical" type="image/svg+xml" data="//assets.bwbx.io/politics/public/images/logos/BP-Logo-V.87cc53a5.svg" title="Bloomberg Politics Logo">
+                </object>
+
+                <object class="header__logo-image horizontal" type="image/svg+xml" data="//assets.bwbx.io/politics/public/images/logos/BP-Logo-H.e9d292a7.svg" title="Bloomberg Politics Logo">
+                </object>
+            </a>
+        </div>
+
+        <section class="header__curiosity-index">
+
+            <div data-view-uid="0_1_1"><section class="curiosity-index">
+
+    <h1 class="curiosity-index__title">
+        The Index
+    </h1>
+    <ul class="curiosity-index__items">
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-" class="curiosity-index__link">
+                    Super-PACs
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="https://www.bloomberg.com/politics/articles/2015-07-02/wall-street-s-hillary-clinton-e-mails-take-a-different-tone-towards-financiers" class="curiosity-index__link">
+                    Clinton e-mails
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/health-care" class="curiosity-index__link">
+                    Health care
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/same-sex-marriage" class="curiosity-index__link">
+                    Same-sex marriage
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/2016" class="curiosity-index__link">
+                    2016
+                </a>
+            </li>
+            <li class="curiosity-index__item">
+                <a href="http://www.bloomberg.com/politics/topics/donald-trump" class="curiosity-index__link">
+                    Donald Trump
+                </a>
+            </li>
+    </ul>
+</section>
+</div>
+
+        </section>
+
+        <section class="header__tout-and-social">
+
+            <div data-view-uid="0_1_2"><section class="show-tout">
+
+    <img class="show-tout__promo" src="http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/-1x-1.jpg" alt="">
+
+
+    <div class="show-tout__info">
+
+        <span class="show-tout__title">
+            <a href="http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-" class="show-tout__title-link" data-resource-type="" data-resource-id="">
+                Watch Latest Episode Here
+            </a>
+        </span>
+        <span class="show-tout__subtitle">
+            Halperin &amp; Heilemann
+        </span>
+        <span class="show-tout__airdate">
+            Weekdays, 5 PM ET
+        </span>
+
+    </div>
+
+</section>
+</div>
+
+            <div class="social-properties">
+                <span class="social-properties__command">Follow us:</span>
+                <a href="https://www.facebook.com/BloombergPolitics" class="social-icon facebook" data-network="facebook" target="_blank">
+                    Facebook
+                </a>
+
+                <a href="https://twitter.com/bpolitics" class="social-icon twitter" data-network="twitter" target="_blank">
+                    Twitter
+                </a>
+
+                <a href="http://instagram.com/bpolitics" class="social-icon instagram" data-network="instagram" target="_blank">
+                    Instagram
+                </a>
+
+                <a href="https://www.youtube.com/playlist?list=PLqq4LnWs3olWvBelRnbPsgGJOtnksj3uL" class="social-icon youtube" data-network="youtube" target="_blank">
+                    Youtube
+                </a>
+
+                <a href="http://www.bloomberg.com/politics/feeds/site.xml" class="social-icon rss" data-network="rss" target="_blank">
+                    RSS
+                </a>
+
+            </div>
+
+        </section>
+
+    </header>
+
+</div>
+
+<section class="breaking-news-banner__below-the-header">
+</section>
+</div>
+
+        <main id="content" class="content"><div class="transporter animation-disabled at-bottom" data-view-uid="1|0_4"><div class="transporter__item" data-transporter-id="0" data-view-uid="1|0_4_1"><article class="article normal content-type" itemscope="" itemtype="http://schema.org/Article">
+    <div data-view-uid="1|0_4_1_1"><section class="headband module">
+    <div class="headband__arrows-container">
+        <span class="headband__right-arrow live-arrow">3</span>
+        <span class="headband__left-arrow">2</span>
+    </div>
+    <div class="headband__items-container">
+    <ol class="headband__items">
+                <li class="headband__item">
+                    <a href="articles/2015-07-06/david-vitter-s-12-senate-hearings-in-louisiana-aid-his-run-for-governor" class="headband__item-link" data-resource-type="article" data-resource-id="NR26C36KLVR501">
+                        David Vitter's 12 Senate Hearings in Louisiana Aid His Run for Governor
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="photos/2015-07-05/vice-president-joe-biden-watches-women-s-world-cup-final" class="headband__item-link" data-resource-type="photo" data-resource-id="NR1HBH6S972A01">
+                        Vice President Joe Biden Watches Women's World Cup Final
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-05/rick-perry-on-don-t-ask-don-t-tell-the-horse-is-out-of-the-barn-" class="headband__item-link" data-resource-type="article" data-resource-id="NR0XI46JTSEA01">
+                        Rick Perry on Don't Ask, Don't Tell: 'The Horse Is Out of the Barn'
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-05/ted-cruz-raised-10-million-in-second-quarter-campaign-says" class="headband__item-link" data-resource-type="article" data-resource-id="NR0SSQ6KLVR401">
+                        Ted Cruz Raised $10 Million in Second Quarter, Campaign Says
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-05/bernie-sanders-says-he-d-let-religious-groups-against-gay-marriage-stay-tax-exempt" class="headband__item-link" data-resource-type="article" data-resource-id="NR0PYF6S972801">
+                        Bernie Sanders Says He'd Let Religious Groups Against Gay Marriage Stay Tax-Exempt
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-04/happy-america-s-birthday-now-vote-for-me-" class="headband__item-link" data-resource-type="article" data-resource-id="NQZD6J6JTSE801">
+                        Happy Birthday, America! Now, Vote for Me
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="photo-essays/2015-07-04/who-loves-a-parade-" class="headband__item-link" data-resource-type="slideshow" data-resource-id="NQZBQH6JTSE801">
+                        Who Loves A Parade?
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-04/republican-rivals-on-sleepover-at-romney-s-food-fun-no-politics" class="headband__item-link" data-resource-type="article" data-resource-id="NQZ8DC6KLVR401">
+                        Republican Rivals on Sleepover at Romney's: Food, 'Fun,' No Politics
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-04/trump-says-comments-on-mexicans-have-hurt-business" class="headband__item-link" data-resource-type="article" data-resource-id="NQZ6I46S972801">
+                        Donald Trump Says Comments on Mexicans Have Hurt Business
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-03/mitt-romney-s-new-hampshire-b-b" class="headband__item-link" data-resource-type="article" data-resource-id="NQX9DD6JTSE901">
+                        Marco Rubio, Chris Christie to Bunk at Mitt Romney's New Hampshire B&amp;B
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-02/fact-checking-rick-perry-s-economic-speech" class="headband__item-link" data-resource-type="article" data-resource-id="NQVS8N6KLVR601">
+                        Fact-Checking Rick Perry's Economic Speech
+                    </a>
+                </li>
+                <li class="headband__item">
+                    <a href="articles/2015-07-02/jim-webb-s-mysteriously-timed-presidential-campaign-launch" class="headband__item-link" data-resource-type="article" data-resource-id="NQVNCE6JTSEB01">
+                        Jim Webb's Mysteriously Timed Presidential Campaign Launch
+                    </a>
+                </li>
+        </ol>
+    </div>
+
+</section>
+</div>
+
+    <div data-view-uid="1|0_4_1_2"><div class="lede violated">
+
+    <div data-view-uid="1|0_4_1_2_1">
+    <div class="lede-image"><div class="lede_image lede_background_image">
+    <meta content="http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/-1x-1.jpg" itemprop="image">
+
+    <div class="background-image " style="background-image: url(http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/-1x-1.jpg);"></div>
+
+        <div class="credit">Photographer: Andrew Harrer/Bloomberg</div>
+</div>
+</div>
+</div>
+
+    <div class="lede-content ">
+
+
+            <a href="topics/2016" class="topic_link" itemprop="articleSection">2016</a>
+        
+        <h1 class="lede-content__headline" itemprop="name headline">
+            Ted Cruz: 'I Salute Donald Trump'
+        </h1>
+
+        <div class="published_at time_based hide_time_based">
+            <time datetime="2015-07-05T15:17:51.335Z" itemprop="datePublished">
+                Jul 5, 2015 11:17 AM EDT
+            </time>
+        </div>
+
+        <div class="lede-content__dek-and-social">
+                <div class="lede-content__dek" itemprop="description">
+                    He's going where few other GOP&nbsp;presidential candidates dare to go, as fallout from the&nbsp;Mexican “rapists” comment continues.
+               </div>
+
+            <div data-view-uid="1|0_4_1_2_2"><div class="social-links"><div class="bb-social-links" data-view-uid="1|0_4_1_2_2_1"><a data-view-uid="1|0_4_1_2_2_1_1" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbloom.bg%2F1ghHsI8" class="bb-social-link bb-social-link--facebook" rel="nofollow" data-social-network="facebook" target="_blank">Share on Facebook</a><a data-view-uid="1|0_4_1_2_2_1_2" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fbloom.bg%2F1ghHsI8&amp;text=Ted%20Cruz%3A%20'I%20Salute%20Donald%20Trump'&amp;via=bpolitics" class="bb-social-link bb-social-link--twitter" rel="nofollow" data-social-network="twitter" target="_blank">Share on Twitter</a></div>
+  <div class="social-links__more"></div>
+  <div class="social-links__additional"><div class="bb-social-links" data-view-uid="1|0_4_1_2_2_2"><a data-view-uid="1|0_4_1_2_2_2_1" href="http://www.linkedin.com/shareArticle?title=Ted%20Cruz%3A%20'I%20Salute%20Donald%20Trump'&amp;url=http%3A%2F%2Fbloom.bg%2F1ghHsI8" class="bb-social-link bb-social-link--linkedin" rel="nofollow" data-social-network="linkedin" target="_blank">Share on LinkedIn</a><a data-view-uid="1|0_4_1_2_2_2_2" href="http://reddit.com/submit?title=Ted%20Cruz%3A%20'I%20Salute%20Donald%20Trump'&amp;url=http%3A%2F%2Fbloom.bg%2F1ghHsI8" class="bb-social-link bb-social-link--reddit" rel="nofollow" data-social-network="reddit" target="_blank">Share on Reddit</a><a data-view-uid="1|0_4_1_2_2_2_3" href="https://plus.google.com/share?url=http%3A%2F%2Fbloom.bg%2F1ghHsI8" class="bb-social-link bb-social-link--google" rel="nofollow" data-social-network="google" target="_blank">Share on Google+</a><a data-view-uid="1|0_4_1_2_2_2_4" href="mailto:?body=Ted%20Cruz%3A%20'I%20Salute%20Donald%20Trump'%0ABy%20Alison%20Elkin%0Ahttp%3A%2F%2Fbloom.bg%2F1ghHsI8%0ABloomberg%20Politics&amp;subject=Ted%20Cruz%3A%20'I%20Salute%20Donald%20Trump'" class="bb-social-link bb-social-link--email" rel="nofollow" data-social-network="email">E-mail</a></div></div>
+</div>
+</div>
+        </div>
+
+    </div>
+
+</div>
+</div>
+
+    <div class="article-content pushed-up-content">
+        <div class="authors" data-view-uid="1|0_4_1_6">    <div class="author-collection  author-collection--with-photo">
+    <div data-view-uid="1|0_4_1_6_1"><div class="author-byline">
+
+        <a href="authors/ASAu1cYEruw/alison-elkin" class="author-byline__link">
+            <img src="http://www.bloomberg.com/image/iqX25Ak514lA.jpg" class="author-byline__photo" alt="Alison Elkin">
+        </a>
+
+    <div class="author-byline__content">
+
+        <a href="authors/ASAu1cYEruw/alison-elkin" class="author-byline__link">
+            <span class="author-byline__content__name">
+                Ali Elkin
+            </span>
+        </a>
+
+            <a href="http://twitter.com/alielkin" class="author-byline__content__twitter" target="_blank">
+                <span class="author-byline__content__twitter__icon">t</span>
+                alielkin
+            </a>
+
+    </div>
+</div>
+</div></div>
+</div>
+
+        <div class="article-content__right-rail">
+
+            <div class="advert" data-view-uid="1|0_4_1_3"><div id="1__0_4_1_3" class="ad" data-ad-code="politics/story" data-position="right2"></div>
+</div>
+
+
+        </div>
+
+        <div class="article-content__related-content">
+        </div>
+
+
+        <div class="article-body content-type-body" itemprop="articleBody">
+            <p>While&nbsp;several of his competitors run in the opposite direction,&nbsp;Republican presidential candidate Ted Cruz says he won't&nbsp;attack&nbsp;primary rival Donald Trump&nbsp;for&nbsp;his comments on Mexican immigrants. Quite the opposite, in fact.</p><p>“I salute Donald Trump for focusing on the need to address illegal immigration,” the Texas senator <a href="http://www.nbcnews.com/meet-the-press/video/cruz-on-trump-i-salute-donald-trump-476205635988" data-web-url="http://www.nbcnews.com/meet-the-press/video/cruz-on-trump-i-salute-donald-trump-476205635988">said</a> on NBC's&nbsp;<em>Meet the Press&nbsp;</em>in an interview that aired Sunday. “The Washington cartel doesn't want to address that. The Washington cartel doesn't believe we need to secure the borders. The Washington cartel supports amnesty and I think amnesty's wrong, and I salute Donald Trump for focusing on it. He has a colorful way of speaking. It's not the way I speak, but I'm not going to engage in the media's game of throwing rocks and attacking other Republicans. I'm just not going to do it.”</p><p>In his June 16 campaign kickoff, Trump&nbsp;said&nbsp;Mexican immigrants were&nbsp;criminals and rapists, <a href="http://www.bloomberg.com/politics/articles/2015-07-04/trump-says-comments-on-mexicans-have-hurt-business">leading many&nbsp;business partners to end their relationships with him</a>.&nbsp;Republican presidential candidates <a href="http://www.nytimes.com/politics/first-draft/2015/07/04/an-angry-jeb-bush-says-he-takes-donald-trumps-remarks-personally/?_r=0" data-web-url="http://www.nytimes.com/politics/first-draft/2015/07/04/an-angry-jeb-bush-says-he-takes-donald-trumps-remarks-personally/?_r=0" target="_blank">Jeb Bush</a>,&nbsp;Rick Perry, <a href="http://www.nj.com/politics/index.ssf/2015/07/christie_in_new_hampshire_2.html" data-web-url="http://www.nj.com/politics/index.ssf/2015/07/christie_in_new_hampshire_2.html" target="_blank">Chris Christie</a>, and <a href="http://www.theguardian.com/us-news/2015/jul/04/donald-trump-marco-rubio-mexico-immigrants" data-web-url="http://www.theguardian.com/us-news/2015/jul/04/donald-trump-marco-rubio-mexico-immigrants" target="_blank">Marco Rubio</a>—as well as 2012 nominee <a href="http://www.cnn.com/2015/07/04/politics/mitt-romney-donald-trump-2016-election/index.html" data-web-url="http://www.cnn.com/2015/07/04/politics/mitt-romney-donald-trump-2016-election/index.html" target="_blank">Mitt Romney</a>—have distanced themselves from Trump's comments, underscoring the Republican Party's recognition that it needs to make inroads with the nation's growing share of Hispanic voters.</p><div class="mobile-ad" data-view-uid="1|0_4_1_4"><div id="1__0_4_1_4" class="ad" data-ad-code="politics/story" data-position="right2"></div>
+</div><aside class="pullquote">
+    <p class="pullquote__text">“I'm not interested in Republican-on-Republican violence.”</p>
+
+        <div class="pullquote__credit">Senator Ted Cruz</div>
+
+</aside>
+<p>“I've said very clearly that Donald Trump does not represent the Republican Party,” said Perry, a former Texas governor, in an interview that aired on ABC's <em>This Week&nbsp;</em>on Sunday, according to a network transcript.&nbsp;“I was offended by his remarks.”</p><p>His home-state colleague wasn't having it.</p><p>“I like Donald Trump,” Cruz said. “He's bold he's brash. And I get that it seems the favorite sport of the American&nbsp;media is to encourage some Republicans to attack other Republicans. I ain't gonna do it. I'm not interested in Republican-on-Republican violence.”</p><p>For Trump's part, he is firing back at his critics and their records on immigration and border security. To his 3.1 million Twitter followers, he urged Rubio to <a href="https://twitter.com/realDonaldTrump/status/617112173186314240" data-web-url="https://twitter.com/realDonaldTrump/status/617112173186314240" target="_blank">“stand up for US”</a>; said Romney <a href="https://twitter.com/realDonaldTrump/status/617460107945857024" data-web-url="https://twitter.com/realDonaldTrump/status/617460107945857024" target="_blank">“lost an election against Obama that should NEVER have been lost!”</a>; said Perry <a href="https://twitter.com/realDonaldTrump/status/617705622251917312" data-web-url="https://twitter.com/realDonaldTrump/status/617705622251917312" target="_blank">“failed at the border”</a> and “needs a new pair of glasses to see the crimes committed by illegal immigrants”; and said Bush <a href="https://twitter.com/realDonaldTrump/status/617710113562972160" data-web-url="https://twitter.com/realDonaldTrump/status/617710113562972160" target="_blank">“will never secure our border or negotiate great trade deals for American workers.”</a>&nbsp;In an apparent shoutout to Cruz, Trump <a href="https://twitter.com/realDonaldTrump/status/617707428839325696" data-web-url="https://twitter.com/realDonaldTrump/status/617707428839325696">tweeted</a>: “I appreciate the GOP candidates who remain strong on border security. They know I am right. A nation without borders cannot survive.”</p>
+        </div>
+    </div>
+
+    <div class="below-the-body">
+            <div class="content-type__topic-list">
+                <ul class="content-type__topic-list__topics">
+                        <li class="content-type__topic-list__topic"><a href="topics/2016" class="content-type__topic-list__topic-link">2016</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/immigration" class="content-type__topic-list__topic-link">Immigration</a></li>
+                        <li class="content-type__topic-list__topic"><a href="topics/donald-trump" class="content-type__topic-list__topic-link">Donald Trump</a></li>
+                </ul>
+            </div>
+            </div>
+
+    <div class="article__recirc-videos">
+    </div>
+
+    <div class="leaderboard" data-view-uid="1|0_4_1_5"><div id="1__0_4_1_5" class="ad" data-ad-code="politics/story" data-position="leaderboard1"></div>
+</div>
+
+    <ol class="footnotes">
+    </ol>
+</article>
+</div></div></main>
+
+        <footer id="footer" class="footer">
+          <ul class="footer__links">
+            <li class="footer__link"><a href="http://www.bloomberg.com/trademarks">Trademarks</a></li>
+            <li class="footer__link"><a href="http://www.bloomberg.com/tos">Terms of Service</a></li>
+            <li class="footer__link"><a href="http://www.bloomberg.com/privacy">Privacy Policy</a></li>
+            <li class="footer__link"><a href="http://jobs.bloomberg.com/">Careers</a></li>
+            <li class="footer__link"><a href="http://nytm.org/made-in-nyc">Made in NYC</a></li>
+            <li class="footer__link"><a href="http://www.bloomberg.com/tv/channel-finder/">Find Bloomberg TV</a></li>
+            <li class="footer__link"><a href="mailto:politics@bloomberg.net">Contact</a></li>
+            <li class="footer__link add_choices" rel="nofollow external"><a href="http://www.bloomberg.com/privacy#advertisements">Ad Choices <img src="//assets.bwbx.io/politics/public/images/icons/ad_choices_icon.49173bcd.png"></a></li>
+          </ul>
+          <p class="footer__copyright">©2015 Bloomberg L.P. All Rights Reserved</p>
+        </footer>
+
+      </div>
+    </div>
+
+    <script type="text/javascript">
+        // TODO: different file for different environments
+        window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);
+        ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"0452f9120e",applicationID:"3950336",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}
+    </script>
+
+    <script type="text/javascript">
+      // Ending time for chartbeat measurements
+      window._sf_endpt = (new Date()).getTime();
+    </script>
+
+    <div class="unsupported-browser">
+
+        <div class="unsupported-browser__mask"></div>
+
+        <div class="unsupported-browser__message">
+
+            <h2 class="unsupported-browser__headline">Please upgrade your Browser</h2>
+
+            <p class="unsupported-browser__copy">Your browser is out-of-date. Please download one of these excellent browsers:<br><br>
+
+                <a href="http://www.google.com/chrome?hl=en" class="unsupported-browser__copy-link">Chrome</a>,
+                <a href="http://www.mozilla.com/firefox/" class="unsupported-browser__copy-link">Firefox</a>,
+                <a href="https://itunes.apple.com//app/os-x-mavericks/id675248567?mt=12&amp;uo=4" class="unsupported-browser__copy-link">Safari</a>,
+                <a href="http://www.opera.com/browser/" class="unsupported-browser__copy-link">Opera</a> or
+                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="unsupported-browser__copy-link">Internet Explorer</a>.
+            </p>
+
+        </div>
+
+    </div>
+
+        <!-- START Parse.ly Include: Standard -->
+        <div id="parsely-root" style="display: none">
+          <div id="parsely-cfg" data-parsely-site="bloomberg.com"></div>
+        </div>
+        <script>
+            var parselyPreload = {eventQueue: [], loaded: false};
+
+            PARSELY = {
+                autotrack: false,
+                onload: function() {
+                    parselyPreload.loaded = true;
+                    for (var i = 0; i < parselyPreload.eventQueue.length; i++) {
+                        PARSELY.beacon.trackPageView(parselyPreload.eventQueue[i]);
+                    }
+                }
+            };
+        </script>
+        <script>
+        (function(s, p, d) {
+          var h=d.location.protocol, i=p+"-"+s,
+              e=d.getElementById(i), r=d.getElementById(p+"-root"),
+              u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+              :"static."+p+".com";
+          if (e) return;
+          e = d.createElement(s); e.id = i; e.async = true;
+          e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+        </script>
+        <!-- END Parse.ly Include -->
+        <script type="text/javascript">
+            (function(global) {
+                "use strict";
+
+                global.bbloader.enqueue("Sailthru", function() {
+                    Sailthru.setup({
+                        domain: "horizon.mail.bloombergpolitics.com"
+                    });
+                });
+
+                global.bbloader.load("Sailthru", {
+                    async: true,
+                    src: location.protocol + '//ak.sail-horizon.com/horizon/v1.js',
+                    type: "text/javascript"
+                });
+            })(window);
+        </script>
+
+    <script src="//cdn.gotraffic.net/projector/latest/bplayer.js" data-exclude="true" type="text/javascript"></script>
+    <script src="//assets.bwbx.io/politics/public/javascripts/application.cc4c6997.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var adTesting = require("app/ThirdpartyScriptVariables").adTesting();
+    </script>
+
+    <script src="http://cdn.mediavoice.com/nativeads/script/bloomberg/bloomberg_politics_plugin.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+var ClientApp = require('app/ClientApp');
+var clientApp = new ClientApp();
+clientApp.start({
+environmentConfig: {"appRoot":"/politics","assetManifest":{"public/images/biden_404_error.gif":"//assets.bwbx.io/politics/public/images/biden_404_error.212fd347.gif","public/images/cain500.gif":"//assets.bwbx.io/politics/public/images/cain500.c7dcbc00.gif","public/images/fallback.jpg":"//assets.bwbx.io/politics/public/images/fallback.2896a8ad.jpg","public/images/icons/ad_choices_icon.png":"//assets.bwbx.io/politics/public/images/icons/ad_choices_icon.49173bcd.png","public/images/icons/favicon.ico":"//assets.bwbx.io/politics/public/images/icons/favicon.b838bae2.ico","public/images/icons/ios120x120.png":"//assets.bwbx.io/politics/public/images/icons/ios120x120.6e6ddc22.png","public/images/icons/ios152x152.png":"//assets.bwbx.io/politics/public/images/icons/ios152x152.549a1dd0.png","public/images/icons/ios60x60.png":"//assets.bwbx.io/politics/public/images/icons/ios60x60.77b68958.png","public/images/icons/ios76x76.png":"//assets.bwbx.io/politics/public/images/icons/ios76x76.45d85933.png","public/images/logos/BP-Logo-H.svg":"//assets.bwbx.io/politics/public/images/logos/BP-Logo-H.e9d292a7.svg","public/images/logos/BP-Logo-V.svg":"//assets.bwbx.io/politics/public/images/logos/BP-Logo-V.87cc53a5.svg","public/images/logos/BloombergPolitics.png":"//assets.bwbx.io/politics/public/images/logos/BloombergPolitics.007c45aa.png","public/images/logos/FB-Sharing.png":"//assets.bwbx.io/politics/public/images/logos/FB-Sharing.73b07052.png","public/images/logos/WADR-yellow.png":"//assets.bwbx.io/politics/public/images/logos/WADR-yellow.e676805a.png","public/images/logos/WADR.svg":"//assets.bwbx.io/politics/public/images/logos/WADR.588a7d70.svg","public/images/newsletter-loader.gif":"//assets.bwbx.io/politics/public/images/newsletter-loader.47c1a967.gif","public/javascripts/application.js":"//assets.bwbx.io/politics/public/javascripts/application.cc4c6997.js","public/stylesheets/application.css":"//assets.bwbx.io/politics/public/stylesheets/application.f5d6fa9b.css","public/stylesheets/noscript.css":"//assets.bwbx.io/politics/public/stylesheets/noscript.133744c3.css"},"bplayerJs":"//cdn.gotraffic.net/projector/latest/bplayer.js","clientApp":"app/ClientApp","newRelicAppId":"3950336","surveyMonkeyEnabled":false,"recommendation":{"site":"bpol","url":"http://personalization.bloomberg.com"},"WSSNewsletterService":{"bridgeEndpoint":"/politics/newsletter"},"tracking":{"chartbeat":{"domain":"bloombergpolitics.com","uid":"15087"},"comscore":{"clientId":"3005059","site":"bloomberg","siteIdentifier":"004"},"googleAnalytics":{"gaAccount":"UA-11413116-58"},"personalization":{"site":"bpol","trackingUrl":"http://tracking.bloomberg.com/images/tracking-pixel.gif"},"timeouts":{"iframe":2000,"message":3000,"request":3000},"urls":{"locationService":"http://location.bloomberg.com/query/jsonp","tracking":"http://tracking.bloomberg.com/images/tracking-pixel.gif","userProxy":"http://www.bloomberg.com/bcom/iframe/user-proxy"}},"brisket:wantsCookies":false},
+bootstrappedData: {"/politics/api/curations/global":{"items":[{"id":"curiosity_index","items":[{"curatedAt":"2014-09-22T13:24:28-04:00","title":"Super-PACs","type":"interactive","url":"http://www.bloomberg.com/politics/articles/2015-06-26/does-anyone-believe-jeb-bush-isn-t-talking-to-his-super-pac-chief-"},{"curatedAt":"2014-10-09T14:22:27-04:00","title":"Clinton e-mails","type":"interactive","url":"https://www.bloomberg.com/politics/articles/2015-07-02/wall-street-s-hillary-clinton-e-mails-take-a-different-tone-towards-financiers"},{"curatedAt":"2014-09-22T13:08:51-04:00","title":"Health care","type":"interactive","url":"http://www.bloomberg.com/politics/topics/health-care"},{"curatedAt":"2014-09-30T14:40:57-04:00","title":"Same-sex marriage","type":"interactive","url":"http://www.bloomberg.com/politics/topics/same-sex-marriage"},{"curatedAt":"2014-09-22T13:08:51-04:00","title":"2016","type":"interactive","url":"http://www.bloomberg.com/politics/topics/2016"},{"curatedAt":"2014-10-01T20:59:22-04:00","title":"Donald Trump","type":"interactive","url":"http://www.bloomberg.com/politics/topics/donald-trump"}],"updatedAt":"2015-07-05T11:36:08-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"curiosityIndex","title":"The Index"},{"id":"show_tout","items":[],"updatedAt":"2015-07-05T11:36:08-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"showTout","title":"Watch Latest Episode Here","subtitle":"Halperin & Heilemann","image":{"publishedAt":1411413219,"baseUrl":"http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/-1x-1.jpg","title":"","description":"","origHeight":90,"origWidth":160,"images":{"400x225":{"id":"213798780","height":"225","width":"400","sizeType":"18","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/400x225.jpg"]},"488x-1":{"id":"dynamic","height":"-1","width":"488","sizeType":"57","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/488x-1.jpg"]},"380x252":{"id":"213796002","height":"252","width":"380","sizeType":"38","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/380x252.jpg"]},"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/-1x-1.jpg"]},"60x80":{"id":"213799900","height":"80","width":"60","sizeType":"40","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/60x80.jpg"]},"300x169":{"id":"213801540","height":"169","width":"300","sizeType":"27","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/300x169.jpg"]},"300x400":{"id":"213799328","height":"400","width":"300","sizeType":"17","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/300x400.jpg"]},"405x270":{"id":"213801614","height":"270","width":"405","sizeType":"67","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/405x270.jpg"]},"630x420":{"id":"213800452","height":"420","width":"630","sizeType":"66","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/630x420.jpg"]},"380x220":{"id":"213801988","height":"220","width":"380","sizeType":"53","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/380x220.jpg"]},"140x-1":{"id":"dynamic","height":"-1","width":"140","sizeType":"23","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/140x-1.jpg"]},"750x-1":{"id":"dynamic","height":"-1","width":"750","sizeType":"30","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/750x-1.jpg"]},"200x-1":{"id":"dynamic","height":"-1","width":"200","sizeType":"10","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/200x-1.jpg"]},"360x240":{"id":"213801084","height":"240","width":"360","sizeType":"68","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/360x240.jpg"]},"765x430":{"id":"213798554","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/765x430.jpg"]},"140x199":{"id":"213801274","height":"199","width":"140","sizeType":"61","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/140x199.jpg"]},"620x349":{"id":"213799814","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/620x349.jpg"]},"628x-1":{"id":"dynamic","height":"-1","width":"628","sizeType":"8","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/628x-1.jpg"]},"135x-1":{"id":"dynamic","height":"-1","width":"135","sizeType":"11","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/135x-1.jpg"]},"180x240":{"id":"213798064","height":"240","width":"180","sizeType":"41","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/180x240.jpg"]},"100x133":{"id":"213801808","height":"133","width":"100","sizeType":"16","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/100x133.jpg"]},"620x357":{"id":"213798444","height":"357","width":"620","sizeType":"25","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/620x357.jpg"]},"80x80":{"id":"213802040","height":"80","width":"80","sizeType":"13","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/80x80.jpg"]},"70x70":{"id":"213802012","height":"70","width":"70","sizeType":"22","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/70x70.jpg"]},"1200x-1":{"id":"dynamic","height":"-1","width":"1200","sizeType":"31","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/1200x-1.jpg"]},"140x80":{"id":"213800818","height":"80","width":"140","sizeType":"20","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/140x80.jpg"]},"140x140":{"id":"213799242","height":"140","width":"140","sizeType":"54","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/140x140.jpg"]},"840x473":{"id":"213800838","height":"473","width":"840","sizeType":"64","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/840x473.jpg"]},"620x413":{"id":"213801654","height":"413","width":"620","sizeType":"35","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/620x413.jpg"]},"-1x399":{"id":"dynamic","height":"399","width":"-1","sizeType":"37","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/-1x399.jpg"]},"120x80":{"id":"213801526","height":"80","width":"120","sizeType":"14","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/120x80.jpg"]},"512x288":{"id":"213801014","height":"288","width":"512","sizeType":"65","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/512x288.jpg"]},"190x127":{"id":"213801838","height":"127","width":"190","sizeType":"69","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/190x127.jpg"]},"220x220":{"id":"213801842","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/220x220.jpg"]},"640x-1":{"id":"dynamic","height":"-1","width":"640","sizeType":"24","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/640x-1.jpg"]},"-1x500":{"id":"dynamic","height":"500","width":"-1","sizeType":"9","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/-1x500.jpg"]},"100x60":{"id":"213798830","height":"60","width":"100","sizeType":"58","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/100x60.jpg"]},"620x226":{"id":"213801254","height":"226","width":"620","sizeType":"15","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/620x226.jpg"]},"300x172":{"id":"213800830","height":"172","width":"300","sizeType":"55","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/300x172.jpg"]},"630x354":{"id":"213795734","height":"354","width":"630","sizeType":"70","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/630x354.jpg"]},"368x-1":{"id":"dynamic","height":"-1","width":"368","sizeType":"56","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/368x-1.jpg"]},"460x260":{"id":"213800146","height":"260","width":"460","sizeType":"21","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/460x260.jpg"]},"40x40":{"id":"213802020","height":"40","width":"40","sizeType":"28","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/40x40.jpg"]},"215x233":{"id":"213793162","height":"233","width":"215","sizeType":"52","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/215x233.jpg"]},"120x120":{"id":"213801824","height":"120","width":"120","sizeType":"12","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/120x120.jpg"]},"190x-1":{"id":"dynamic","height":"-1","width":"190","sizeType":"33","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/190x-1.jpg"]},"220x126":{"id":"213801602","height":"126","width":"220","sizeType":"26","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/220x126.jpg"]},"116x68":{"id":"213801904","height":"68","width":"116","sizeType":"19","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/116x68.jpg"]},"-1x240":{"id":"dynamic","height":"240","width":"-1","sizeType":"59","url":["http://assets.bwbx.io/images/ijaMmfLL9k3E/v10376/-1x240.jpg"]}},"id":"202150569","_links":{"self":{"href":"/images/202150569?idType=AVMM"}}},"airDate":"Weekdays, 5 PM ET","link":"http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-"},{"id":"off_canvas_links","items":[{"curatedAt":"2014-09-28T18:42:03-04:00","title":"Find Bloomberg TV","type":"interactive","url":"http://www.bloomberg.com/tv/channel-finder"},{"curatedAt":"2014-09-25T11:51:14-04:00","title":"Privacy Policy","type":"interactive","url":"http://www.bloomberg.com/privacy"},{"curatedAt":"2014-09-25T11:51:14-04:00","title":"Terms and Conditions","type":"interactive","url":"http://www.bloomberg.com/tos"}],"updatedAt":"2015-07-05T11:36:08-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"offCanvasLinks"},{"id":"video_tout","items":[],"updatedAt":"2015-07-05T11:36:08-04:00","autofill":false,"searchPath":"/stories/search/last/groupPublishedAt/1/week","type":"videoTout","callToAction":"Watch latest episode","title":"Monday-Thursday, 5 PM ET","subtitle":"Hosted by Mark Halperin and John Heilemann","image":{"publishedAt":1412469600,"baseUrl":"http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x-1.jpg","title":"","description":"","origHeight":225,"origWidth":400,"images":{"400x225":{"id":"202738474","height":"225","width":"400","sizeType":"0","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/400x225.jpg"]},"488x-1":{"id":"dynamic","height":"-1","width":"488","sizeType":"57","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/488x-1.jpg"]},"380x252":{"id":"213793652","height":"252","width":"380","sizeType":"38","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/380x252.jpg"]},"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x-1.jpg"]},"60x80":{"id":"213801544","height":"80","width":"60","sizeType":"40","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/60x80.jpg"]},"300x169":{"id":"213801742","height":"169","width":"300","sizeType":"27","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/300x169.jpg"]},"300x400":{"id":"213801728","height":"400","width":"300","sizeType":"17","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/300x400.jpg"]},"630x420":{"id":"213802032","height":"420","width":"630","sizeType":"66","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/630x420.jpg"]},"405x270":{"id":"213792994","height":"270","width":"405","sizeType":"67","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/405x270.jpg"]},"380x220":{"id":"213800660","height":"220","width":"380","sizeType":"53","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/380x220.jpg"]},"140x-1":{"id":"dynamic","height":"-1","width":"140","sizeType":"23","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x-1.jpg"]},"750x-1":{"id":"dynamic","height":"-1","width":"750","sizeType":"30","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/750x-1.jpg"]},"200x-1":{"id":"dynamic","height":"-1","width":"200","sizeType":"10","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/200x-1.jpg"]},"360x240":{"id":"213801628","height":"240","width":"360","sizeType":"68","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/360x240.jpg"]},"765x430":{"id":"213801216","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/765x430.jpg"]},"620x349":{"id":"213799802","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x349.jpg"]},"140x199":{"id":"213801048","height":"199","width":"140","sizeType":"61","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x199.jpg"]},"628x-1":{"id":"dynamic","height":"-1","width":"628","sizeType":"8","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/628x-1.jpg"]},"135x-1":{"id":"dynamic","height":"-1","width":"135","sizeType":"11","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/135x-1.jpg"]},"180x240":{"id":"213799986","height":"240","width":"180","sizeType":"41","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/180x240.jpg"]},"100x133":{"id":"213801584","height":"133","width":"100","sizeType":"16","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/100x133.jpg"]},"620x357":{"id":"213801156","height":"357","width":"620","sizeType":"25","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x357.jpg"]},"80x80":{"id":"213800078","height":"80","width":"80","sizeType":"13","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/80x80.jpg"]},"70x70":{"id":"213801402","height":"70","width":"70","sizeType":"22","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/70x70.jpg"]},"1200x-1":{"id":"dynamic","height":"-1","width":"1200","sizeType":"31","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/1200x-1.jpg"]},"140x80":{"id":"213801766","height":"80","width":"140","sizeType":"20","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x80.jpg"]},"140x140":{"id":"213801794","height":"140","width":"140","sizeType":"54","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/140x140.jpg"]},"620x413":{"id":"213802078","height":"413","width":"620","sizeType":"35","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x413.jpg"]},"840x473":{"id":"213798738","height":"473","width":"840","sizeType":"64","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/840x473.jpg"]},"-1x399":{"id":"dynamic","height":"399","width":"-1","sizeType":"37","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x399.jpg"]},"120x80":{"id":"213796908","height":"80","width":"120","sizeType":"14","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/120x80.jpg"]},"512x288":{"id":"213801954","height":"288","width":"512","sizeType":"65","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/512x288.jpg"]},"190x127":{"id":"213801480","height":"127","width":"190","sizeType":"69","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/190x127.jpg"]},"220x220":{"id":"213801924","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/220x220.jpg"]},"640x-1":{"id":"dynamic","height":"-1","width":"640","sizeType":"24","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/640x-1.jpg"]},"-1x500":{"id":"dynamic","height":"500","width":"-1","sizeType":"9","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x500.jpg"]},"100x60":{"id":"213778540","height":"60","width":"100","sizeType":"58","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/100x60.jpg"]},"300x172":{"id":"213795432","height":"172","width":"300","sizeType":"55","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/300x172.jpg"]},"620x226":{"id":"213801934","height":"226","width":"620","sizeType":"15","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/620x226.jpg"]},"630x354":{"id":"213801510","height":"354","width":"630","sizeType":"70","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/630x354.jpg"]},"368x-1":{"id":"dynamic","height":"-1","width":"368","sizeType":"56","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/368x-1.jpg"]},"40x40":{"id":"213788164","height":"40","width":"40","sizeType":"28","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/40x40.jpg"]},"460x260":{"id":"213797754","height":"260","width":"460","sizeType":"21","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/460x260.jpg"]},"215x233":{"id":"213796892","height":"233","width":"215","sizeType":"52","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/215x233.jpg"]},"120x120":{"id":"213787254","height":"120","width":"120","sizeType":"12","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/120x120.jpg"]},"190x-1":{"id":"dynamic","height":"-1","width":"190","sizeType":"33","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/190x-1.jpg"]},"220x126":{"id":"213802074","height":"126","width":"220","sizeType":"26","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/220x126.jpg"]},"116x68":{"id":"213801818","height":"68","width":"116","sizeType":"19","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/116x68.jpg"]},"-1x240":{"id":"dynamic","height":"240","width":"-1","sizeType":"59","url":["http://assets.bwbx.io/images/ihRzkffgX9Tc/v1/-1x240.jpg"]}},"id":"202738470","_links":{"self":{"href":"/images/202738470?idType=AVMM"}}},"url":"http://www.bloomberg.com/politics/videos/2015-07-02/with-all-due-respect-07-02-15-"}],"_expanded":true},"/politics/api/snippet/tophat":{"tophat":"<div class=\"snippet-view business-snippet default-layout section-front\" data-view-uid=\"tophatView\"><div data-view-uid=\"tophatView_1\"><div class=\"tophat\"> <section class=\"tophat-menu\"> <h1 class=\"tophat-menu__link-toggle\">Bloomberg the Company &amp; Products</h1> <a href=\"https://bba.bloomberg.net/?utm_source=bloomberg-menu\" class=\"tophat-menu__link-bba\">Bloomberg Anywhere Login</a> </section> <div class=\"tophat__sitemap\"> <div class=\"tophat__categories\"> <div class=\"tophat__close-sitemap-button\"></div> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Bloomberg</h1> <div class=\"tophat-category__content\"> <p class=\"tophat-category__text\"> Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. </p> </div> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Company</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/company/careers/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Careers</a></li> <li><a href=\"http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Diversity &amp; Inclusion</a></li> <li><a href=\"http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Philanthropy &amp; Engagement</a></li> <li><a href=\"http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Sustainability</a></li> <li><a href=\"http://www.bloomberg.com/company/technology/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Technology</a></li> <li><a href=\"http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">History &amp; Facts</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Financial Products</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-12-CORE-bbgmenu\" class=\"tophat-category__link\">Bloomberg Professional</a></li> <li><a href=\"http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu\" class=\"tophat-category__link\">Bloomberg Tradebook</a></li> <li><a href=\"http://www.bloombergbriefs.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Briefs</a></li> <li><a href=\"http://www.bloombergindexes.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-05-13-INDEXES-bbgmenu\" class=\"tophat-category__link\">Bloomberg Indexes</a></li> <li><a href=\"http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu\" class=\"tophat-category__link\">Bloomberg SEF</a></li> <li><a href=\"http://about.bloomberginstitute.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Institute</a></li> <li><a href=\"http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Service Center</a></li> <li><a href=\"http://www.bloomberg.com/professional/systems-support/downloads/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Downloads</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Enterprise Products</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-bbgmenu\" class=\"tophat-category__link\">Enterprise Solutions</a></li> <li><a href=\"http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-TS-bbgmenu\" class=\"tophat-category__link\">Trading Solutions</a></li> <li><a href=\"http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu\" class=\"tophat-category__link\">Bloomberg Vault</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Media</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Business</a></li> <li><a href=\"http://www.bloomberg.com/politics/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Politics</a></li> <li><a href=\"http://www.bloombergview.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg View</a></li> <li><a href=\"http://www.bloomberg.com/live?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Television</a></li> <li><a href=\"http://www.bloomberg.com/radio/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Radio</a></li> <li><a href=\"http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Mobile Apps</a></li> <li><a href=\"http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">News Bureaus</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Customer Support</h1> <ul class=\"tophat-category__content\"> <li class=\"tophat-category__item\"> <p class=\"tophat-category__text\">Americas</p> <p class=\"tophat-category__text\">+1 212 318 2000</p> </li> <li class=\"tophat-category__item\"> <p class=\"tophat-category__text\">Europe, Middle East, &amp; Africa</p> <p class=\"tophat-category__text\">+44 20 7330 7500</p> </li> <li class=\"tophat-category__item\"> <p class=\"tophat-category__text\">Asia Pacific</p> <p class=\"tophat-category__text\">+65 6212 1000</p> </li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Communications</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Press Announcements</a></li> <li><a href=\"http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Press Contacts</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Industry Products</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://about.bgov.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Government</a></li> <li><a href=\"http://www.bna.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Law/BNA</a></li> <li><a href=\"https://bol.bna.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Big Law</a></li> <li><a href=\"http://about.bnef.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg New Energy Finance</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Media Services</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.bloombergmedia.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Advertising</a></li> <li><a href=\"http://www.bloomberg.com/content-service/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Content Service</a></li> <li><a href=\"http://www.bloomberglive.com/?utm_source=bloomberg-menu\" class=\"tophat-category__link\">Bloomberg Live Conferences</a></li> </ul> </section> <section class=\"tophat-category\"> <h1 class=\"tophat-category__title\">Follow Us</h1> <ul class=\"tophat-category__content\"> <li><a href=\"http://www.facebook.com/Bloomberglp\" class=\"tophat-category__social-link facebook\" data-network=\"facebook\" target=\"_blank\"> Facebook </a></li> <li><a href=\"https://twitter.com/bloomberg\" class=\"tophat-category__social-link twitter\" data-network=\"twitter\" target=\"_blank\"> Twitter </a></li> <li><a href=\"https://www.linkedin.com/company/2494\" class=\"tophat-category__social-link linkedin\" data-network=\"linkedin\" target=\"_blank\"> LinkedIn </a></li> <li><a href=\"https://instagram.com/bloomberg\" class=\"tophat-category__social-link instagram\" data-network=\"instagram\" target=\"_blank\"> Instagram </a></li> </ul> </section> </div> </div> </div></div></div>","assets":{"stylesheets":["//assets.bwbx.io/business/public/stylesheets/tophat_snippet.17817bb0.css"],"javascripts":["//assets.bwbx.io/business/public/javascripts/tophat_snippet.55017d7e.js"]},"init":"<script type=\"text/javascript\">\nvar SnippetApp = require('app/SnippetApp');\nvar snippetApp = new SnippetApp({\"appRoot\":\"\",\"assetManifest\":{\"public/images/500error.gif\":\"//assets.bwbx.io/business/public/images/500error.96cb50c5.gif\",\"public/images/bbiz404.gif\":\"//assets.bwbx.io/business/public/images/bbiz404.3020e8d7.gif\",\"public/images/fallback.jpg\":\"//assets.bwbx.io/business/public/images/fallback.269a48ad.jpg\",\"public/images/favicons/apple-touch-icon-114x114.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-114x114.4aeb3b13.png\",\"public/images/favicons/apple-touch-icon-120x120.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-120x120.616b256f.png\",\"public/images/favicons/apple-touch-icon-144x144.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-144x144.166dda65.png\",\"public/images/favicons/apple-touch-icon-152x152.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-152x152.c9951ac7.png\",\"public/images/favicons/apple-touch-icon-180x180.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-180x180.dc9ca3d6.png\",\"public/images/favicons/apple-touch-icon-57x57.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-57x57.bd486901.png\",\"public/images/favicons/apple-touch-icon-60x60.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-60x60.f457f1df.png\",\"public/images/favicons/apple-touch-icon-72x72.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-72x72.7d226513.png\",\"public/images/favicons/apple-touch-icon-76x76.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-76x76.4fb8818e.png\",\"public/images/favicons/apple-touch-icon-precomposed.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon-precomposed.c3e3dfeb.png\",\"public/images/favicons/apple-touch-icon.png\":\"//assets.bwbx.io/business/public/images/favicons/apple-touch-icon.dc9ca3d6.png\",\"public/images/favicons/favicon-160x160.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-160x160.9b14619b.png\",\"public/images/favicons/favicon-16x16.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-16x16.8cab4be4.png\",\"public/images/favicons/favicon-192x192.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-192x192.03482356.png\",\"public/images/favicons/favicon-32x32.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-32x32.fa02118e.png\",\"public/images/favicons/favicon-96x96.png\":\"//assets.bwbx.io/business/public/images/favicons/favicon-96x96.6dbd1316.png\",\"public/images/favicons/favicon.ico\":\"//assets.bwbx.io/business/public/images/favicons/favicon.9628b26e.ico\",\"public/images/favicons/mstile-144x144.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-144x144.539def7a.png\",\"public/images/favicons/mstile-150x150.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-150x150.05f21a40.png\",\"public/images/favicons/mstile-310x150.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-310x150.07f7515d.png\",\"public/images/favicons/mstile-310x310.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-310x310.b5b6727a.png\",\"public/images/favicons/mstile-70x70.png\":\"//assets.bwbx.io/business/public/images/favicons/mstile-70x70.1b6952cd.png\",\"public/images/feature_article/feature-arrow.svg\":\"//assets.bwbx.io/business/public/images/feature_article/feature-arrow.159d059a.svg\",\"public/images/icons/ad_choices_icon.png\":\"//assets.bwbx.io/business/public/images/icons/ad_choices_icon.49173bcd.png\",\"public/images/logos/BB-Logo-H-HP-TOP.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H-HP-TOP.3d81db4e.svg\",\"public/images/logos/BB-Logo-H-SFF.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H-SFF.cfc95f5f.svg\",\"public/images/logos/BB-Logo-H.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H.37109099.svg\",\"public/images/logos/BB-Logo-H1.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-H1.c318357b.svg\",\"public/images/logos/BB-Logo-V-HP-TOP.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-V-HP-TOP.a8517901.svg\",\"public/images/logos/BB-Logo-V-SFF.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-V-SFF.84957dfc.svg\",\"public/images/logos/BB-Logo-V.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Logo-V.313783e5.svg\",\"public/images/logos/BB-Politics.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-Politics.8ba9ea31.svg\",\"public/images/logos/BB-View.svg\":\"//assets.bwbx.io/business/public/images/logos/BB-View.465688fb.svg\",\"public/images/logos/bloombergGraphics.svg\":\"//assets.bwbx.io/business/public/images/logos/bloombergGraphics.59cde388.svg\",\"public/images/logos/businessweek.svg\":\"//assets.bwbx.io/business/public/images/logos/businessweek.5ab1d0e1.svg\",\"public/images/masks/0.svg\":\"//assets.bwbx.io/business/public/images/masks/0.6673ff57.svg\",\"public/images/masks/1.svg\":\"//assets.bwbx.io/business/public/images/masks/1.878a21c9.svg\",\"public/images/masks/2.svg\":\"//assets.bwbx.io/business/public/images/masks/2.f0f70f59.svg\",\"public/images/masks/3.svg\":\"//assets.bwbx.io/business/public/images/masks/3.cd142ccc.svg\",\"public/images/masks/4.svg\":\"//assets.bwbx.io/business/public/images/masks/4.fac7b759.svg\",\"public/images/masks/5.svg\":\"//assets.bwbx.io/business/public/images/masks/5.487be3a1.svg\",\"public/images/masks/6.svg\":\"//assets.bwbx.io/business/public/images/masks/6.831d863f.svg\",\"public/images/masks/7.svg\":\"//assets.bwbx.io/business/public/images/masks/7.257607a5.svg\",\"public/images/masks/8.svg\":\"//assets.bwbx.io/business/public/images/masks/8.d7942ba7.svg\",\"public/images/masks/9.svg\":\"//assets.bwbx.io/business/public/images/masks/9.4984fa8e.svg\",\"public/images/masks/the_brief/1.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/1.320956b0.svg\",\"public/images/masks/the_brief/10.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/10.e663fed1.svg\",\"public/images/masks/the_brief/11.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/11.2059376b.svg\",\"public/images/masks/the_brief/12.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/12.ed23d773.svg\",\"public/images/masks/the_brief/13.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/13.ee7a5804.svg\",\"public/images/masks/the_brief/14.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/14.ccf4047c.svg\",\"public/images/masks/the_brief/15.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/15.14ec87a2.svg\",\"public/images/masks/the_brief/16.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/16.c71241f4.svg\",\"public/images/masks/the_brief/17.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/17.203c46e2.svg\",\"public/images/masks/the_brief/18.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/18.bdf198b8.svg\",\"public/images/masks/the_brief/19.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/19.a5f0a5d8.svg\",\"public/images/masks/the_brief/2.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/2.b150f74f.svg\",\"public/images/masks/the_brief/20.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/20.2e211202.svg\",\"public/images/masks/the_brief/3.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/3.ba120ffe.svg\",\"public/images/masks/the_brief/4.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/4.97d322bf.svg\",\"public/images/masks/the_brief/5.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/5.427b4e45.svg\",\"public/images/masks/the_brief/6.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/6.394d2c05.svg\",\"public/images/masks/the_brief/7.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/7.f60dd6e3.svg\",\"public/images/masks/the_brief/8.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/8.0fa2f2be.svg\",\"public/images/masks/the_brief/9.svg\":\"//assets.bwbx.io/business/public/images/masks/the_brief/9.b7123eb5.svg\",\"public/images/newsletter-loader.gif\":\"//assets.bwbx.io/business/public/images/newsletter-loader.47c1a967.gif\",\"public/images/no-image-header-BREAKING.jpeg\":\"//assets.bwbx.io/business/public/images/no-image-header-BREAKING.475e12b5.jpeg\",\"public/images/top-noimage-ph.jpeg\":\"//assets.bwbx.io/business/public/images/top-noimage-ph.5d911b62.jpeg\",\"public/javascripts/application.js\":\"//assets.bwbx.io/business/public/javascripts/application.89eb17f1.js\",\"public/javascripts/critical.js\":\"//assets.bwbx.io/business/public/javascripts/critical.f608eece.js\",\"public/javascripts/experienceRedirect.js\":\"//assets.bwbx.io/business/public/javascripts/experienceRedirect.83a17d33.js\",\"public/javascripts/previewModules.js\":\"//assets.bwbx.io/business/public/javascripts/previewModules.eda4815e.js\",\"public/javascripts/tophat_snippet.js\":\"//assets.bwbx.io/business/public/javascripts/tophat_snippet.55017d7e.js\",\"public/stylesheets/application.css\":\"//assets.bwbx.io/business/public/stylesheets/application.14720fc1.css\",\"public/stylesheets/noscript.css\":\"//assets.bwbx.io/business/public/stylesheets/noscript.78e39895.css\",\"public/stylesheets/snippet_application.css\":\"//assets.bwbx.io/business/public/stylesheets/snippet_application.aa63a54b.css\",\"public/stylesheets/split/application-ie-blessed1.css\":\"//assets.bwbx.io/business/public/stylesheets/split/application-ie-blessed1.1f721f48.css\",\"public/stylesheets/split/application-ie-blessed2.css\":\"//assets.bwbx.io/business/public/stylesheets/split/application-ie-blessed2.997d4f96.css\",\"public/stylesheets/split/application-ie.css\":\"//assets.bwbx.io/business/public/stylesheets/split/application-ie.75e3e400.css\",\"public/stylesheets/tophat_snippet.css\":\"//assets.bwbx.io/business/public/stylesheets/tophat_snippet.17817bb0.css\"},\"bplayerJs\":\"//cdn.gotraffic.net/projector/latest/bplayer.js\",\"videoPlayerConfig\":{\"shareOverlay\":\"true\"},\"searchHost\":\"http://search.bloomberg.com\",\"clientApp\":\"app/ClientApp\",\"clientAppUrl\":\"//assets.bwbx.io/business/public/javascripts/application.89eb17f1.js\",\"startClientAppAsync\":true,\"snippetApp\":\"app/SnippetApp\",\"snippetHost\":\"http://www.bloomberg.com\",\"featureFlags\":{\"experiencesEnabled\":true,\"marketsV2\":false,\"inlineSlideshow\":true},\"recommendation\":{\"site\":\"bbiz\",\"url\":\"http://personalization.bloomberg.com\"},\"newRelicLicenseKey\":\"32a39e099b\",\"newRelicAppId\":\"4892087\",\"disqusShortname\":\"bloomberg\",\"twitterUser\":\"business\",\"twitterSite\":\"@business\",\"WSSNewsletterService\":{\"bridgeEndpoint\":\"/newsletter\"},\"tracking\":{\"chartbeat\":{\"domain\":\"bloomberg.com\",\"uid\":\"15087\"},\"comscore\":{\"clientId\":\"3005059\",\"site\":\"bloomberg\",\"siteIdentifier\":\"004\"},\"googleAnalytics\":{\"gaAccount\":\"UA-11413116-1\"},\"personalization\":{\"site\":\"bbiz\",\"trackingUrl\":\"http://tracking.bloomberg.com/images/tracking-pixel.gif\"},\"timeouts\":{\"iframe\":2000,\"message\":3000,\"request\":3000},\"urls\":{\"tracking\":\"http://tracking.bloomberg.com/images/tracking-pixel.gif\"}},\"brisket:wantsCookies\":true});\nsnippetApp.start({\"host\":\"http://www.bloomberg.com\",\"viewFunctionNames\":[\"tophatView\"]});\n<\/script>"},"/politics/api/articles/slug/2015-07-05%2Fted-cruz-i-salute-donald-trump-":{"attachments":{"image":{"224440658":{"description":"","images":{"-1x-1":{"id":"dynamic","height":"-1","width":"-1","sizeType":"1000","url":["http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/-1x-1.jpg"]},"765x430":{"id":"224445212","height":"430","width":"765","sizeType":"63","url":["http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/765x430.jpg"]},"620x349":{"id":"224445188","height":"349","width":"620","sizeType":"34","url":["http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/620x349.jpg"]},"400x225":{"id":"224440762","height":"225","width":"400","sizeType":"18","url":["http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/400x225.jpg"]},"220x220":{"id":"224441614","height":"220","width":"220","sizeType":"29","url":["http://assets.bwbx.io/images/iX8Fa.Df.9LU/v1/220x220.jpg"]}},"title":"CRUZ OBAMACARE"},"_expanded":true},"video":{}},"body":"<p>While&#xA0;several of his competitors run in the opposite direction,&#xA0;Republican presidential candidate Ted Cruz says he won&apos;t&#xA0;attack&#xA0;primary rival Donald Trump&#xA0;for&#xA0;his comments on Mexican immigrants. Quite the opposite, in fact.</p><p>&#x201C;I salute Donald Trump for focusing on the need to address illegal immigration,&#x201D; the Texas senator <a href=\"http://www.nbcnews.com/meet-the-press/video/cruz-on-trump-i-salute-donald-trump-476205635988\" data-web-url=\"http://www.nbcnews.com/meet-the-press/video/cruz-on-trump-i-salute-donald-trump-476205635988\">said</a> on NBC&apos;s&#xA0;<em>Meet the Press&#xA0;</em>in an interview that aired Sunday. &#x201C;The Washington cartel doesn&apos;t want to address that. The Washington cartel doesn&apos;t believe we need to secure the borders. The Washington cartel supports amnesty and I think amnesty&apos;s wrong, and I salute Donald Trump for focusing on it. He has a colorful way of speaking. It&apos;s not the way I speak, but I&apos;m not going to engage in the media&apos;s game of throwing rocks and attacking other Republicans. I&apos;m just not going to do it.&#x201D;</p><p>In his June 16 campaign kickoff, Trump&#xA0;said&#xA0;Mexican immigrants were&#xA0;criminals and rapists, <a href=\"http://www.bloomberg.com/politics/articles/2015-07-04/trump-says-comments-on-mexicans-have-hurt-business\">leading many&#xA0;business partners to end their relationships with him</a>.&#xA0;Republican presidential candidates <a href=\"http://www.nytimes.com/politics/first-draft/2015/07/04/an-angry-jeb-bush-says-he-takes-donald-trumps-remarks-personally/?_r=0\" data-web-url=\"http://www.nytimes.com/politics/first-draft/2015/07/04/an-angry-jeb-bush-says-he-takes-donald-trumps-remarks-personally/?_r=0\" target=\"_blank\">Jeb Bush</a>,&#xA0;Rick Perry, <a href=\"http://www.nj.com/politics/index.ssf/2015/07/christie_in_new_hampshire_2.html\" data-web-url=\"http://www.nj.com/politics/index.ssf/2015/07/christie_in_new_hampshire_2.html\" target=\"_blank\">Chris Christie</a>, and <a href=\"http://www.theguardian.com/us-news/2015/jul/04/donald-trump-marco-rubio-mexico-immigrants\" data-web-url=\"http://www.theguardian.com/us-news/2015/jul/04/donald-trump-marco-rubio-mexico-immigrants\" target=\"_blank\">Marco Rubio</a>&#x2014;as well as 2012 nominee <a href=\"http://www.cnn.com/2015/07/04/politics/mitt-romney-donald-trump-2016-election/index.html\" data-web-url=\"http://www.cnn.com/2015/07/04/politics/mitt-romney-donald-trump-2016-election/index.html\" target=\"_blank\">Mitt Romney</a>&#x2014;have distanced themselves from Trump&apos;s comments, underscoring the Republican Party&apos;s recognition that it needs to make inroads with the nation&apos;s growing share of Hispanic voters.</p><p>&#x201C;I&apos;ve said very clearly that Donald Trump does not represent the Republican Party,&#x201D; said Perry, a former Texas governor, in an interview that aired on ABC&apos;s <em>This Week&#xA0;</em>on Sunday, according to a network transcript.&#xA0;&#x201C;I was offended by his remarks.&#x201D;</p><p>His home-state colleague wasn&apos;t having it.</p><p>&#x201C;I like Donald Trump,&#x201D; Cruz said. &#x201C;He&apos;s bold he&apos;s brash. And I get that it seems the favorite sport of the American&#xA0;media is to encourage some Republicans to attack other Republicans. I ain&apos;t gonna do it. I&apos;m not interested in Republican-on-Republican violence.&#x201D;</p><p>For Trump&apos;s part, he is firing back at his critics and their records on immigration and border security. To his 3.1 million Twitter followers, he urged Rubio to <a href=\"https://twitter.com/realDonaldTrump/status/617112173186314240\" data-web-url=\"https://twitter.com/realDonaldTrump/status/617112173186314240\" target=\"_blank\">&#x201C;stand up for US&#x201D;</a>; said Romney <a href=\"https://twitter.com/realDonaldTrump/status/617460107945857024\" data-web-url=\"https://twitter.com/realDonaldTrump/status/617460107945857024\" target=\"_blank\">&#x201C;lost an election against Obama that should NEVER have been lost!&#x201D;</a>; said Perry <a href=\"https://twitter.com/realDonaldTrump/status/617705622251917312\" data-web-url=\"https://twitter.com/realDonaldTrump/status/617705622251917312\" target=\"_blank\">&#x201C;failed at the border&#x201D;</a> and &#x201C;needs a new pair of glasses to see the crimes committed by illegal immigrants&#x201D;; and said Bush <a href=\"https://twitter.com/realDonaldTrump/status/617710113562972160\" data-web-url=\"https://twitter.com/realDonaldTrump/status/617710113562972160\" target=\"_blank\">&#x201C;will never secure our border or negotiate great trade deals for American workers.&#x201D;</a>&#xA0;In an apparent shoutout to Cruz, Trump <a href=\"https://twitter.com/realDonaldTrump/status/617707428839325696\" data-web-url=\"https://twitter.com/realDonaldTrump/status/617707428839325696\">tweeted</a>: &#x201C;I appreciate the GOP candidates who remain strong on border security. They know I am right. A nation without borders cannot survive.&#x201D;</p>","credits":{"author":[{"fullName":"Alison Elkin","byline":"Ali Elkin","id":"18886357","slug":"ASAu1cYEruw/alison-elkin","image":{"images":{"220x220":{"id":"202727310","height":"220","width":"220","sizeType":"29","url":["http://www.bloomberg.com/image/iqX25Ak514lA.jpg"]}}},"socialFeeds":{"Twitter":"alielkin"}}]},"embeds":{"iframe":{},"slideshow":{}},"headline":"Ted Cruz: 'I Salute Donald Trump'","headlines":{"web":"Ted Cruz: 'I Salute Donald Trump'"},"id":"NR0T5R6KLVR401","metadata":{"thumbnail":"224440658","background":"white","seo":{"headline":""},"googleStandout":false,"social":{"twitterText":"","headline":"","description":"","image":0},"ledeTreatment":"","lede":{"type":"image","id":224440658,"overlay":"","caption":"<p>Senator Ted Cruz, a Republican from Texas, U.S. 2016 presidential candidate and chairman of the Senate Judiciary Subcommittee on oversight, agency action, federal rights and federal courts, pauses while speaking during a hearing in Washington, D.C., on Thursday, June 4, 2015.</p>\n","credit":"Photographer: Andrew Harrer/Bloomberg"},"adCode":"","disableAds":false,"adKeywords":["pol_goldman_q2"]},"publishedAt":"2015-07-05T15:17:51.335Z","quote":{"text":"“I'm not interested in Republican-on-Republican violence.”","credit":"Senator Ted Cruz","hideOnSingle":false},"slug":"2015-07-05/ted-cruz-i-salute-donald-trump-","shortUrl":"http://bloom.bg/1ghHsI8","summary":"He's going where few other GOP presidential candidates dare to go, as fallout from the Mexican “rapists” comment continues.","tags":{"topics":[{"id":"2016","name":"2016","primary":true,"score":7.3853098071399},{"id":"immigration","name":"Immigration","primary":false,"score":1.1194091095609},{"id":"donald-trump","name":"Donald Trump","primary":false,"score":1}]},"type":"article","updatedAt":"2015-07-06T09:14:33.448Z","url":"http://www.bloomberg.com/politics/articles/2015-07-05/ted-cruz-i-salute-donald-trump-","webOriginal":true,"primarySite":"bpol","footnotes":{}},"/politics/api/modules/headband{\"exclude\":\"2015-07-05/ted-cruz-i-salute-donald-trump-\"}":{"items":[{"headline":"David Vitter's 12 Senate Hearings in Louisiana Aid His Run for Governor","id":"NR26C36KLVR501","slug":"2015-07-06/david-vitter-s-12-senate-hearings-in-louisiana-aid-his-run-for-governor","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-06/david-vitter-s-12-senate-hearings-in-louisiana-aid-his-run-for-governor","primarySite":"bpol"},{"headline":"Vice President Joe Biden Watches Women's World Cup Final","id":"NR1HBH6S972A01","slug":"2015-07-05/vice-president-joe-biden-watches-women-s-world-cup-final","type":"photo","url":"http://www.bloomberg.com/politics/photos/2015-07-05/vice-president-joe-biden-watches-women-s-world-cup-final","primarySite":"bpol"},{"headline":"Rick Perry on Don't Ask, Don't Tell: 'The Horse Is Out of the Barn'","id":"NR0XI46JTSEA01","slug":"2015-07-05/rick-perry-on-don-t-ask-don-t-tell-the-horse-is-out-of-the-barn-","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-05/rick-perry-on-don-t-ask-don-t-tell-the-horse-is-out-of-the-barn-","primarySite":"bpol"},{"headline":"Ted Cruz Raised $10 Million in Second Quarter, Campaign Says","id":"NR0SSQ6KLVR401","slug":"2015-07-05/ted-cruz-raised-10-million-in-second-quarter-campaign-says","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-05/ted-cruz-raised-10-million-in-second-quarter-campaign-says","primarySite":"bpol"},{"headline":"Bernie Sanders Says He'd Let Religious Groups Against Gay Marriage Stay Tax-Exempt","id":"NR0PYF6S972801","slug":"2015-07-05/bernie-sanders-says-he-d-let-religious-groups-against-gay-marriage-stay-tax-exempt","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-05/bernie-sanders-says-he-d-let-religious-groups-against-gay-marriage-stay-tax-exempt","primarySite":"bpol"},{"headline":"Happy Birthday, America! Now, Vote for Me","id":"NQZD6J6JTSE801","slug":"2015-07-04/happy-america-s-birthday-now-vote-for-me-","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-04/happy-america-s-birthday-now-vote-for-me-","primarySite":"bpol"},{"headline":"Who Loves A Parade?","id":"NQZBQH6JTSE801","slug":"2015-07-04/who-loves-a-parade-","type":"slideshow","url":"http://www.bloomberg.com/politics/photo-essays/2015-07-04/who-loves-a-parade-","primarySite":"bpol"},{"headline":"Republican Rivals on Sleepover at Romney's: Food, 'Fun,' No Politics","id":"NQZ8DC6KLVR401","slug":"2015-07-04/republican-rivals-on-sleepover-at-romney-s-food-fun-no-politics","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-04/republican-rivals-on-sleepover-at-romney-s-food-fun-no-politics","primarySite":"bpol"},{"headline":"Donald Trump Says Comments on Mexicans Have Hurt Business","id":"NQZ6I46S972801","slug":"2015-07-04/trump-says-comments-on-mexicans-have-hurt-business","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-04/trump-says-comments-on-mexicans-have-hurt-business","primarySite":"bpol"},{"headline":"Marco Rubio, Chris Christie to Bunk at Mitt Romney's New Hampshire B&amp;B","id":"NQX9DD6JTSE901","slug":"2015-07-03/mitt-romney-s-new-hampshire-b-b","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-03/mitt-romney-s-new-hampshire-b-b","primarySite":"bpol"},{"headline":"Fact-Checking Rick Perry's Economic Speech","id":"NQVS8N6KLVR601","slug":"2015-07-02/fact-checking-rick-perry-s-economic-speech","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-02/fact-checking-rick-perry-s-economic-speech","primarySite":"bpol"},{"headline":"Jim Webb's Mysteriously Timed Presidential Campaign Launch","id":"NQVNCE6JTSEB01","slug":"2015-07-02/jim-webb-s-mysteriously-timed-presidential-campaign-launch","type":"article","url":"http://www.bloomberg.com/politics/articles/2015-07-02/jim-webb-s-mysteriously-timed-presidential-campaign-launch","primarySite":"bpol"}],"_expanded":true}}
+});
+</script></body></html>

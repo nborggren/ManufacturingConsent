@@ -206,7 +206,7 @@
 <link rel="apple-touch-icon" sizes="152x152" href="https://webappstatic.buzzfeed.com/static/images/mobile/touch-icons/touch-icon-ios_152.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="https://webappstatic.buzzfeed.com/static/images/mobile/touch-icons/touch-icon-ios_180.png" />
 <link rel="shortcut icon" sizes="196x196" href="https://webappstatic.buzzfeed.com/static/images/mobile/touch-icons/touch-icon-android.png" />
-<link rel="shortcut icon" crossOrigin="" href="https://webappstatic.buzzfeed.com/static/favicon.ico?v=1460491838" type="image/x-icon" />
+<link rel="shortcut icon" crossOrigin="" href="https://webappstatic.buzzfeed.com/static/favicon.ico?v=1460575329" type="image/x-icon" />
 
 <link rel="amphtml" href="https://www.buzzfeed.com/amphtml/hannahjewell/ted-cruz-reactions-that-perfectly-capture-your-struggle" />
 <link rel="canonical" href="http://www.buzzfeed.com/hannahjewell/ted-cruz-reactions-that-perfectly-capture-your-struggle" />
@@ -226,7 +226,7 @@
     "@context": "https://schema.org",
     "@type": "ItemList",
     "headline": "28 Times Ted Cruz Was Actually Super Relatable",
-    "datePublished": "2016-12-41T19:41:20-05:00",
+    "datePublished": "2016-13-16T16:16:49-05:00",
     "author": {
       "@type": "Person",
       "name": "Hannah Jewell"
@@ -511,13 +511,13 @@
 
 
 	
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/header.css?v=1460491838" type="text/css" />
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/legacy/core1.css?v=1460491838" type="text/css" />
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/legacy/core2.css?v=1460491838" type="text/css" />
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/bf_ui.css?v=1460491838" type="text/css" />
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/legacy/sponsorships.css?v=1460491838" type="text/css" />
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/permalink.css?v=1460491838" type="text/css" />
-	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/ccss/bpage.desktop.css?v=1460491838" type="text/css">
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/header.css?v=1460575329" type="text/css" />
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/legacy/core1.css?v=1460575329" type="text/css" />
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/legacy/core2.css?v=1460575329" type="text/css" />
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/bf_ui.css?v=1460575329" type="text/css" />
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/legacy/sponsorships.css?v=1460575329" type="text/css" />
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/permalink.css?v=1460575329" type="text/css" />
+	<link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/ccss/bpage.desktop.css?v=1460575329" type="text/css">
 
 	
 
@@ -527,7 +527,7 @@
 
 
 
-<!--[if IE 9]> <link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/buzzfeed-ie9.css?v=1460491838" type="text/css" charset="utf-8" /> <![endif]-->
+<!--[if IE 9]> <link rel="stylesheet" href="https://webappstatic.buzzfeed.com/static/css/buzzfeed-ie9.css?v=1460575329" type="text/css" charset="utf-8" /> <![endif]-->
 
 
 
@@ -802,6 +802,14 @@ if (AB_AD_TEST) {
 			}
 			if( BF_STATIC.country != 'us' ) foreign_country = true;
 		}
+		var test_env = '';
+		if(window.location.search.match("adtest") !== null) {
+			test_env = '.test';
+		} else if (window.location.search.match("giraffe_test") !== null) {
+			test_env = '.giraffe_test';
+		} else if (window.location.search.match("adops_giraffe") !== null) {
+			test_env = '.adops_giraffe';
+		}
 
 		// Required parameters
 		var wid = params.wid;
@@ -848,7 +856,7 @@ if (AB_AD_TEST) {
 		if( legacy_structure ) {
 			slotURL = '/6556/' + ( position == 'ridealong' ? 'bfd.badge' : BF_DFP_SITE + BF_DFP_ZONE );
 		} else {
-			slotURL = '/6556/' + dfp_site + '.' + platform + '/' + language + '/' + vertical + (position ? '/' + position : '');
+			slotURL = '/6556/' + dfp_site + test_env + '.' + platform + '/' + language + '/' + vertical + (position ? '/' + position : '');
 		}
 		var slot = googletag.defineSlot(slotURL, [params.size],'div-gpt-ad-' + wid);
 		return slot;
@@ -1106,8 +1114,8 @@ if (AB_AD_TEST) {
 
   
 	
-	<script src="https://webappstatic.buzzfeed.com/static/js/localization/es-es.js?v=1460491838" type="text/javascript" charset="utf-8"></script>
-	<script src="https://webappstatic.buzzfeed.com/static/js/localization/mx.js?v=1460491838" type="text/javascript" charset="utf-8"></script>
+	<script src="https://webappstatic.buzzfeed.com/static/js/localization/es-es.js?v=1460575329" type="text/javascript" charset="utf-8"></script>
+	<script src="https://webappstatic.buzzfeed.com/static/js/localization/mx.js?v=1460575329" type="text/javascript" charset="utf-8"></script>
 
 
 <script type="text/javascript">
@@ -1138,7 +1146,7 @@ var fb_is_enabled = false;
 		postTags: "--heatmap"+","+"--primarykeyword-ted cruz"+","+"american election"+","+"election"+","+"nj2k16"+","+"primary"+","+"republican"+","+"us politics"+","+"",
 		f_partner: 0,
 		published: "2016-02-05 10:12:54",
-		published_ago: 67,
+		published_ago: 68,
 		category_name: "UK",
 		form: "super-image",
 		language: "en",
@@ -1169,7 +1177,7 @@ var BF_STATIC = {
 	base_host_port: 'www.buzzfeed.com',
 	base_url:'https://www.buzzfeed.com',
 	home_url: '/',
-	version: '1460491838',
+	version: '1460575329',
 	facebook_enabled: fb_is_enabled,
 	fb_app_id:'45075597673',
 	fb_api_key: '',
@@ -1183,7 +1191,7 @@ var BF_STATIC = {
 	twitter_api_key:'vQjpMo8qABmqag9607Hg',
 	fb_loader_server:'',
 	cookie_age_limit_hours:24,
-	generated_timestamp:1460504481,
+	generated_timestamp:1460578609,
 	page: 'Buzz',
 	tt_page: 'Buzz',
     page_type: 'buzz',
@@ -1218,7 +1226,7 @@ var BF_STATIC = {
 	google_public_api_browser_key: 'AIzaSyBNj6Jq504-YFNx7I1SQei5x73orklpwnQ',
 	google_plus_client_id: "895639880237-tcoheof19odpd88p676rjc70v0iqit0o.apps.googleusercontent.com",
 	timequeue: [],
-	z: "4XIBWW",
+	z: "4XJX41",
 	hp_type:"",
 	mango_url: 'https://mango.buzzfeed.com',
 	page_layout: {
@@ -1331,7 +1339,7 @@ window.BF_Scout.adBlocked = true;
 </script>
 
 <script src="https://webappstatic.buzzfeed.com/static/js/advertiser/ads.js" type="text/javascript"></script>
-<script src="https://webappstatic.buzzfeed.com/static/compiled/bfa_webapp.js?v=1460491838" type="text/javascript" async></script>
+<script src="https://webappstatic.buzzfeed.com/static/compiled/bfa_webapp.js?v=1460575329" type="text/javascript" async></script>
 <script type="text/javascript" src="https://tags.crwdcntrl.net/c/6942/cc.js?ns=_cc6942" id="LOTCC_6942" async></script>
 
 
@@ -1356,7 +1364,7 @@ window.BF_Scout.adBlocked = true;
 </script>
 
   
-   <script src="https://webappstatic.buzzfeed.com/static/js/General_concat_header.js?v=1460491838" type="text/javascript" ref:jsconf="true"></script>
+   <script src="https://webappstatic.buzzfeed.com/static/js/General_concat_header.js?v=1460575329" type="text/javascript" ref:jsconf="true"></script>
   
 
   
@@ -1369,7 +1377,7 @@ window.BF_Scout.adBlocked = true;
 
   
    
-    <script src="https://webappstatic.buzzfeed.com/static/js/User_and_Buzz_concat_header.js?v=1460491838" type="text/javascript" ref:jsconf="true"></script>
+    <script src="https://webappstatic.buzzfeed.com/static/js/User_and_Buzz_concat_header.js?v=1460575329" type="text/javascript" ref:jsconf="true"></script>
    
   
 
@@ -1521,7 +1529,7 @@ BuzzLoader.register(
 })();
 </script>
 
-<!-- UNIT:Acllookup generated on 20: 0:0,  4/12/2016 -->
+<!-- UNIT:Acllookup generated on 16:10:10,  4/13/2016 -->
 
 
 
@@ -1534,7 +1542,7 @@ BuzzLoader.register(
 
 	
 
-    <script src="https://webappstatic.buzzfeed.com/static/js/public/mpulse.min.js?v=1460491838"></script> 
+    <script src="https://webappstatic.buzzfeed.com/static/js/public/mpulse.min.js?v=1460575329"></script> 
 
 <script>
 
@@ -3203,7 +3211,7 @@ BuzzLoader.register(
 
 <script type="text/javascript">
 	if (typeof(window.BF_NO_DUPES) == 'undefined') window.BF_NO_DUPES = {};
-	window.BF_NO_DUPES[4207986] = true;window.BF_NO_DUPES[4206137] = true;window.BF_NO_DUPES[4202306] = true;window.BF_NO_DUPES[4206380] = true;window.BF_NO_DUPES[4207613] = true;window.BF_NO_DUPES[4203927] = true;window.BF_NO_DUPES[4206947] = true;window.BF_NO_DUPES[4206100] = true;window.BF_NO_DUPES[4207759] = true;
+	window.BF_NO_DUPES[4200620] = true;window.BF_NO_DUPES[4210348] = true;window.BF_NO_DUPES[4207809] = true;window.BF_NO_DUPES[4210371] = true;window.BF_NO_DUPES[4207771] = true;window.BF_NO_DUPES[4210172] = true;window.BF_NO_DUPES[4198699] = true;window.BF_NO_DUPES[4206947] = true;window.BF_NO_DUPES[4207839] = true;
 	
 	BF_STATIC.ctr_tracking = BF_STATIC.ctr_tracking || {};
 </script>
@@ -3220,20 +3228,20 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4207986_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4207986_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"802491","probability":1,"image":"/static/2016-04/12/10/campaign_images/webdr07/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-mo-2-22180-1460471220-3.jpg","title":"Lea Michele Has Revealed A New Tattoo In Tribute To Late Boyfriend Cory Monteith"}];
+				var imp_attr_4200620_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4200620_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"791985","probability":1,"image":"/static/2016-04/5/17/campaign_images/webdr07/oh-that-looks-cute-wanna-go-in-2-14718-1459890918-12.jpg","title":"30 Things You See In Every Hipster Gift Shop"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4207986_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4207986_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4200620_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4200620_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4207986 ] = {						
+				BF_STATIC.ctr_tracking[ 4200620 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 1,					
-					post_category: 'UK', // we need to figure out how we can get this
+					post_category: 'Culture', // we need to figure out how we can get this
 					unit: 'thumbstrips',
 					events: 'load|mousedown',
 					objectType: 'post',
@@ -3242,10 +3250,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb1  c4207986 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJCCV7&quot;,&quot;u&quot;:&quot;740GF77&quot;,&quot;buzz&quot;:&quot;lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith&quot;,&quot;user&quot;:&quot;kimberleydadds&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4207986_8" track_mousedown="click_attr_4207986_8" data-ctr-campaign-id="4207986">
+			<div class="unit abtrack bf_dom thumb1  c4200620 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HI8KL7&quot;,&quot;u&quot;:&quot;71F9CC7&quot;,&quot;buzz&quot;:&quot;oh-that-looks-cute-wanna-go-in&quot;,&quot;user&quot;:&quot;jessicamisener&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4200620_8" track_mousedown="click_attr_4200620_8" data-ctr-campaign-id="4200620">
 			
 			
-			<a rel:gt_act="post/thumb:1" rel:gt_label="editor/kimberleydadds" rel:buzz_id="4207986" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/kimberleydadds/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" data-bfa="@a:Thumb; @d:1;">
+			<a rel:gt_act="post/thumb:1" rel:gt_label="editor/jessicamisener" rel:buzz_id="4200620" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/jessicamisener/oh-that-looks-cute-wanna-go-in" data-bfa="@a:Thumb; @d:1;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3279,6 +3287,8 @@ BuzzLoader.register(
       loadGPTAd({"wid":10,"pos":"header","size":[3,3]});
   }
 </script>
+
+
 
 
 
@@ -3319,16 +3329,16 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4206137_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4206137_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"800096","probability":1,"image":"/static/2016-04/11/8/campaign_images/webdr09/secrets-girls-with-tall-boyfriends-wont-tell-you-2-30083-1460377528-8.jpg","title":"23 Little Things Girls With Tall Boyfriends Learn"}];
+				var imp_attr_4210348_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4210348_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"804918","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now"},{"id":"804914","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s"},{"id":"804916","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now"},{"id":"804911","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now"},{"id":"804910","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now"},{"id":"804915","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s"},{"id":"804919","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now"},{"id":"804917","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now"},{"id":"804912","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s"},{"id":"804913","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s"},{"id":"804909","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now"},{"id":"804908","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4206137_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4206137_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4210348_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4210348_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4206137 ] = {						
+				BF_STATIC.ctr_tracking[ 4210348 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 2,					
@@ -3341,10 +3351,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb2  c4206137 js-backfill" onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ2DC7&quot;,&quot;u&quot;:&quot;72SSBT7&quot;,&quot;buzz&quot;:&quot;secrets-girls-with-tall-boyfriends-wont-tell-you&quot;,&quot;user&quot;:&quot;tabathaleggett&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4206137_8" track_mousedown="click_attr_4206137_8" data-ctr-campaign-id="4206137">
+			<div class="unit abtrack bf_dom thumb2  c4210348 js-backfill" onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJP457&quot;,&quot;u&quot;:&quot;7DPQU47&quot;,&quot;buzz&quot;:&quot;makeup-struggles-when-you-were-a-teen-vs-makeup-s&quot;,&quot;user&quot;:&quot;genamourbarrett&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4210348_8" track_mousedown="click_attr_4210348_8" data-ctr-campaign-id="4210348">
 			
 			
-			<a rel:gt_act="post/thumb:2" rel:gt_label="editor/tabathaleggett" rel:buzz_id="4206137" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/tabathaleggett/secrets-girls-with-tall-boyfriends-wont-tell-you" data-bfa="@a:Thumb; @d:2;">
+			<a rel:gt_act="post/thumb:2" rel:gt_label="editor/genamourbarrett" rel:buzz_id="4210348" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/genamourbarrett/makeup-struggles-when-you-were-a-teen-vs-makeup-s" data-bfa="@a:Thumb; @d:2;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3364,20 +3374,20 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4202306_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4202306_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"795686","probability":"0.317130212004887","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050465-3.jpg","title":"28 Sex Toy Tips That Will Make You Say \"Oh Yes\""},{"id":"795683","probability":"4.07568666745097e-05","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050471-5.jpg","title":"28 Mindblowing Tips For Using Sex Toys"},{"id":"795684","probability":"5.17514498462565e-06","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050475-7.jpg","title":"28 Mindblowing Tips For Using Sex Toys"},{"id":"803161","probability":"0.0824574575785187","image":"/static/2016-04/12/14/campaign_images/webdr08/28-sex-toy-tips-that-will-change-the-way-you-orga-2-10256-1460485945-1.jpg","title":"28 Sex Toy Tips That Will Make You Say \"Oh Yes\""},{"id":"803162","probability":"0.0322071616143005","image":"/static/2016-04/12/14/campaign_images/webdr08/28-sex-toy-tips-that-will-change-the-way-you-orga-2-10256-1460485945-1.jpg","title":"28 Sex Toy Tips That Will Change The Way You Orgasm"},{"id":"795692","probability":"2.62452247930991e-05","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050475-7.jpg","title":"28 Sex Toy Tips That Will Change The Way You Orgasm"},{"id":"795682","probability":"0.406068725156242","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050465-3.jpg","title":"28 Mindblowing Tips For Using Sex Toys"},{"id":"795691","probability":"1.03227069234476e-05","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050471-5.jpg","title":"28 Sex Toy Tips That Will Change The Way You Orgasm"},{"id":"795688","probability":"3.53921529185656e-06","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050475-7.jpg","title":"28 Sex Toy Tips That Will Make You Say \"Oh Yes\""},{"id":"795690","probability":"0.162034522772594","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050465-3.jpg","title":"28 Sex Toy Tips That Will Change The Way You Orgasm"},{"id":"795687","probability":"1.58817147912598e-05","image":"/static/2016-04/7/13/campaign_images/webdr04/28-sex-toy-tips-that-will-change-the-way-you-orga-2-25486-1460050471-5.jpg","title":"28 Sex Toy Tips That Will Make You Say \"Oh Yes\""}];
+				var imp_attr_4207809_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4207809_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"802339","probability":"0.000523383715764868","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices"},{"id":"802336","probability":"0.000193195124663158","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices"},{"id":"802332","probability":"0.00311900748265348","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?"},{"id":"802333","probability":"0.00590560706075569","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?"},{"id":"802337","probability":"0.000505414664226342","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices"},{"id":"802331","probability":"0.00813238831095902","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices"},{"id":"802335","probability":"0.95887209269349","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?"},{"id":"802334","probability":"0.0135344203150899","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?"},{"id":"802338","probability":"0.000176391854796721","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices"},{"id":"802328","probability":"0.000548438811883916","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices"},{"id":"802329","probability":"0.00827833341822838","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices"},{"id":"802330","probability":"0.000211326547488802","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4202306_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4202306_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4207809_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4207809_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4202306 ] = {						
+				BF_STATIC.ctr_tracking[ 4207809 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 3,					
-					post_category: 'Health', // we need to figure out how we can get this
+					post_category: 'UK', // we need to figure out how we can get this
 					unit: 'thumbstrips',
 					events: 'load|mousedown',
 					objectType: 'post',
@@ -3386,10 +3396,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb3  c4202306 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIHOF7&quot;,&quot;u&quot;:&quot;786YZF7&quot;,&quot;buzz&quot;:&quot;28-sex-toy-tips-that-will-change-the-way-you-orgasm&quot;,&quot;user&quot;:&quot;sallytamarkin&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4202306_8" track_mousedown="click_attr_4202306_8" data-ctr-campaign-id="4202306">
+			<div class="unit abtrack bf_dom thumb3  c4207809 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJBEG7&quot;,&quot;u&quot;:&quot;72YLJF7&quot;,&quot;buzz&quot;:&quot;australians-we-need-to-talk-about-your-food-choices&quot;,&quot;user&quot;:&quot;hilarywardle&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4207809_8" track_mousedown="click_attr_4207809_8" data-ctr-campaign-id="4207809">
 			
 			
-			<a rel:gt_act="post/thumb:3" rel:gt_label="editor/sallytamarkin" rel:buzz_id="4202306" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/sallytamarkin/28-sex-toy-tips-that-will-change-the-way-you-orgasm" data-bfa="@a:Thumb; @d:3;">
+			<a rel:gt_act="post/thumb:3" rel:gt_label="editor/hilarywardle" rel:buzz_id="4207809" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/hilarywardle/australians-we-need-to-talk-about-your-food-choices" data-bfa="@a:Thumb; @d:3;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3409,16 +3419,16 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4206380_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4206380_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"802430","probability":"0.00636412798939772","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468198-4.jpg","title":"What Per Cent Jeremy Corbyn Are You?"},{"id":"802436","probability":"0.0112193707093975","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468198-4.jpg","title":"What Percentage Jeremy Corbyn Are You?"},{"id":"802435","probability":"0.00251144989337787","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468193-2.jpg","title":"What Percentage Jeremy Corbyn Are You?"},{"id":"802431","probability":"0.0239808143854647","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468193-2.jpg","title":"How Jeremy Corbyn Are You?"},{"id":"802433","probability":"0.00530998497526729","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468193-2.jpg","title":"What Is Your Jeremy Corbyn Percentage?"},{"id":"802434","probability":"0.0116968209065825","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468198-4.jpg","title":"What Is Your Jeremy Corbyn Percentage?"},{"id":"802429","probability":"0.00500856105134478","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468193-2.jpg","title":"What Per Cent Jeremy Corbyn Are You?"},{"id":"802432","probability":"0.933908870089168","image":"/static/2016-04/12/9/campaign_images/webdr05/what-percentage-jeremy-corbyn-are-you-2-9547-1460468198-4.jpg","title":"How Jeremy Corbyn Are You?"}];
+				var imp_attr_4210371_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4210371_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"804767","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561062-3.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today"},{"id":"804775","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561079-9.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now"},{"id":"804771","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561056-1.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now"},{"id":"804770","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561079-9.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today"},{"id":"804769","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561073-7.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today"},{"id":"804773","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561068-5.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now"},{"id":"804768","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561068-5.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today"},{"id":"804774","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561073-7.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now"},{"id":"804772","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561062-3.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now"},{"id":"804766","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561056-1.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4206380_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4206380_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4210371_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4210371_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4206380 ] = {						
+				BF_STATIC.ctr_tracking[ 4210371 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 4,					
@@ -3431,10 +3441,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb4  c4206380 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ3OL7&quot;,&quot;u&quot;:&quot;7MFJ7&quot;,&quot;buzz&quot;:&quot;what-percentage-jeremy-corbyn-are-you&quot;,&quot;user&quot;:&quot;tomphillips&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4206380_8" track_mousedown="click_attr_4206380_8" data-ctr-campaign-id="4206380">
+			<div class="unit abtrack bf_dom thumb4  c4210371 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJP8M7&quot;,&quot;u&quot;:&quot;74HIBY7&quot;,&quot;buzz&quot;:&quot;things-cool-in-the-00s-that-definitely-arent-now&quot;,&quot;user&quot;:&quot;alexfinnis&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4210371_8" track_mousedown="click_attr_4210371_8" data-ctr-campaign-id="4210371">
 			
 			
-			<a rel:gt_act="post/thumb:4" rel:gt_label="editor/tomphillips" rel:buzz_id="4206380" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/tomphillips/what-percentage-jeremy-corbyn-are-you" data-bfa="@a:Thumb; @d:4;">
+			<a rel:gt_act="post/thumb:4" rel:gt_label="editor/alexfinnis" rel:buzz_id="4210371" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/alexfinnis/things-cool-in-the-00s-that-definitely-arent-now" data-bfa="@a:Thumb; @d:4;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3454,20 +3464,20 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4207613_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4207613_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"801910","probability":1,"image":"/static/2016-04/12/4/campaign_images/webdr10/f-o-r-e-v-e-r-2-4779-1460450283-6.jpg","title":"Here's How To Get This Snapchat Filter On Your Face IRL"}];
+				var imp_attr_4207771_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4207771_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"802404","probability":1,"image":"/static/2016-04/12/9/campaign_images/webdr11/the-outdoors-in-us-vs-the-outdoors-in-the-uk-2-2690-1460467130-5.jpg","title":"The Outdoors In The US Vs The Outdoors In The UK"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4207613_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4207613_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4207771_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4207771_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4207613 ] = {						
+				BF_STATIC.ctr_tracking[ 4207771 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 5,					
-					post_category: 'India', // we need to figure out how we can get this
+					post_category: 'UK', // we need to figure out how we can get this
 					unit: 'thumbstrips',
 					events: 'load|mousedown',
 					objectType: 'post',
@@ -3476,10 +3486,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb5  c4207613 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJACC7&quot;,&quot;u&quot;:&quot;77L1DE7&quot;,&quot;buzz&quot;:&quot;f-o-r-e-v-e-r&quot;,&quot;user&quot;:&quot;niralishah&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4207613_8" track_mousedown="click_attr_4207613_8" data-ctr-campaign-id="4207613">
+			<div class="unit abtrack bf_dom thumb5  c4207771 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJB727&quot;,&quot;u&quot;:&quot;7D1ETR7&quot;,&quot;buzz&quot;:&quot;the-outdoors-in-the-us-vs-the-outdoors-in-the-uk&quot;,&quot;user&quot;:&quot;sophiegadd&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4207771_8" track_mousedown="click_attr_4207771_8" data-ctr-campaign-id="4207771">
 			
 			
-			<a rel:gt_act="post/thumb:5" rel:gt_label="editor/niralishah" rel:buzz_id="4207613" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/niralishah/f-o-r-e-v-e-r" data-bfa="@a:Thumb; @d:5;">
+			<a rel:gt_act="post/thumb:5" rel:gt_label="editor/sophiegadd" rel:buzz_id="4207771" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/sophiegadd/the-outdoors-in-the-us-vs-the-outdoors-in-the-uk" data-bfa="@a:Thumb; @d:5;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3499,20 +3509,20 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4203927_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4203927_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"801750","probability":1,"image":"/static/2016-04/12/0/campaign_images/webdr04/i-would-never-2-26031-1460434729-7.jpg","title":"27 Things All Makeup Addicts Secretly Do But Won't Admit"}];
+				var imp_attr_4210172_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4210172_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"804139","probability":1,"image":"/static/2016-04/13/6/campaign_images/webdr05/khloe-kardashian-is-annoyed-by-the-image-a-magazi-2-18891-1460544684-1.jpg","title":"Khloé Kardashian Is Annoyed By The Image A Magazine Used Of Her On Their Cover"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4203927_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4203927_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4210172_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4210172_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4203927 ] = {						
+				BF_STATIC.ctr_tracking[ 4210172 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 6,					
-					post_category: 'Australia', // we need to figure out how we can get this
+					post_category: 'UK', // we need to figure out how we can get this
 					unit: 'thumbstrips',
 					events: 'load|mousedown',
 					objectType: 'post',
@@ -3521,10 +3531,55 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb6  c4203927 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIQFM7&quot;,&quot;u&quot;:&quot;7DPTPD7&quot;,&quot;buzz&quot;:&quot;i-would-never&quot;,&quot;user&quot;:&quot;michellerennex&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4203927_8" track_mousedown="click_attr_4203927_8" data-ctr-campaign-id="4203927">
+			<div class="unit abtrack bf_dom thumb6  c4210172 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJO5X7&quot;,&quot;u&quot;:&quot;75B14Z7&quot;,&quot;buzz&quot;:&quot;khloe-kardashian-is-annoyed-by-the-image-a-magazine-used-of&quot;,&quot;user&quot;:&quot;elliewoodward&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4210172_8" track_mousedown="click_attr_4210172_8" data-ctr-campaign-id="4210172">
 			
 			
-			<a rel:gt_act="post/thumb:6" rel:gt_label="editor/michellerennex" rel:buzz_id="4203927" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/michellerennex/i-would-never" data-bfa="@a:Thumb; @d:6;">
+			<a rel:gt_act="post/thumb:6" rel:gt_label="editor/elliewoodward" rel:buzz_id="4210172" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/elliewoodward/khloe-kardashian-is-annoyed-by-the-image-a-magazine-used-of" data-bfa="@a:Thumb; @d:6;">
+							<script type="text/javascript">
+					document.write('<span class="title">' + sel_promo.title + '</span>');
+					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
+				</script>
+				
+						</a>
+
+			
+
+		</div>
+		
+		
+		
+			
+		
+		
+		
+			
+			<script type="text/javascript">
+				var imp_attr_4198699_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4198699_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"794357","probability":1,"image":"/static/2016-04/6/20/campaign_images/webdr13/these-7-androgynous-models-are-so-freaking-beauti-2-20691-1459987534-1.jpg","title":"These 7 Androgynous Models Are So Freaking Beautiful"}];
+				var opts = [];
+				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+				imp_attr_4198699_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4198699_8.FLEX_PRO_CLICK = sel_promo.id;
+				
+				BF_STATIC.ctr_tracking[ 4198699 ] = {						
+					variations: promotions,
+					selectedVariationId: sel_promo.id,
+					position: 7,					
+					post_category: 'Videos', // we need to figure out how we can get this
+					unit: 'thumbstrips',
+					events: 'load|mousedown',
+					objectType: 'post',
+					unitClientId: '4ldqpi4'
+				};
+				
+			</script>
+
+			<div class="unit abtrack bf_dom thumb7  c4198699 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HHY727&quot;,&quot;u&quot;:&quot;73OBFV7&quot;,&quot;buzz&quot;:&quot;these-7-androgynous-models-are-so-freaking-beautiful&quot;,&quot;user&quot;:&quot;beckycatherineharris&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4198699_8" track_mousedown="click_attr_4198699_8" data-ctr-campaign-id="4198699">
+			
+			
+			<a rel:gt_act="post/thumb:7" rel:gt_label="editor/beckycatherineharris" rel:buzz_id="4198699" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/beckycatherineharris/these-7-androgynous-models-are-so-freaking-beautiful" data-bfa="@a:Thumb; @d:7;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3556,7 +3611,7 @@ BuzzLoader.register(
 				BF_STATIC.ctr_tracking[ 4206947 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
-					position: 7,					
+					position: 8,					
 					post_category: 'DIY', // we need to figure out how we can get this
 					unit: 'thumbstrips',
 					events: 'load|mousedown',
@@ -3566,10 +3621,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb7  c4206947 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ6QU7&quot;,&quot;u&quot;:&quot;7BFA9I7&quot;,&quot;buzz&quot;:&quot;one-emoji-font-to-rule-them-all&quot;,&quot;user&quot;:&quot;nicolenguyen&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4206947_8" track_mousedown="click_attr_4206947_8" data-ctr-campaign-id="4206947">
+			<div class="unit abtrack bf_dom thumb8  c4206947 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ6QU7&quot;,&quot;u&quot;:&quot;7BFA9I7&quot;,&quot;buzz&quot;:&quot;one-emoji-font-to-rule-them-all&quot;,&quot;user&quot;:&quot;nicolenguyen&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4206947_8" track_mousedown="click_attr_4206947_8" data-ctr-campaign-id="4206947">
 			
 			
-			<a rel:gt_act="post/thumb:7" rel:gt_label="editor/nicolenguyen" rel:buzz_id="4206947" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/nicolenguyen/one-emoji-font-to-rule-them-all" data-bfa="@a:Thumb; @d:7;">
+			<a rel:gt_act="post/thumb:8" rel:gt_label="editor/nicolenguyen" rel:buzz_id="4206947" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/nicolenguyen/one-emoji-font-to-rule-them-all" data-bfa="@a:Thumb; @d:8;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3589,61 +3644,16 @@ BuzzLoader.register(
 		
 			
 			<script type="text/javascript">
-				var imp_attr_4206100_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4206100_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"800295","probability":1,"image":"/static/2016-04/11/10/campaign_images/webdr14/only-a-true-friends-fan-can-get-more-than-75-2-26048-1460385079-19.jpg","title":"Only A True \"Friends\" Fan Can Get More Than 15/20 In This Quiz"}];
+				var imp_attr_4207839_8 = {"PROMO_IMPRESSION":"8"};
+				var click_attr_4207839_8 = {"PROMO_CLICK":"8"};
+				var promotions = [{"id":"802583","probability":1,"image":"/static/2016-04/12/11/campaign_images/webdr11/your-meals-on-instagram-vs-your-meals-in-real-life-2-19101-1460473555-6.jpg","title":"Meals On Instagram Vs. Your Meals In Real Life"}];
 				var opts = [];
 				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4206100_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4206100_8.FLEX_PRO_CLICK = sel_promo.id;
+				imp_attr_4207839_8.FLEX_PRO_IMP = sel_promo.id;
+				click_attr_4207839_8.FLEX_PRO_CLICK = sel_promo.id;
 				
-				BF_STATIC.ctr_tracking[ 4206100 ] = {						
-					variations: promotions,
-					selectedVariationId: sel_promo.id,
-					position: 8,					
-					post_category: 'UK', // we need to figure out how we can get this
-					unit: 'thumbstrips',
-					events: 'load|mousedown',
-					objectType: 'post',
-					unitClientId: '4ldqpi4'
-				};
-				
-			</script>
-
-			<div class="unit abtrack bf_dom thumb8  c4206100 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ2657&quot;,&quot;u&quot;:&quot;74HIBY7&quot;,&quot;buzz&quot;:&quot;only-a-true-friends-fan-can-get-more-than-75&quot;,&quot;user&quot;:&quot;alexfinnis&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4206100_8" track_mousedown="click_attr_4206100_8" data-ctr-campaign-id="4206100">
-			
-			
-			<a rel:gt_act="post/thumb:8" rel:gt_label="editor/alexfinnis" rel:buzz_id="4206100" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/alexfinnis/only-a-true-friends-fan-can-get-more-than-75" data-bfa="@a:Thumb; @d:8;">
-							<script type="text/javascript">
-					document.write('<span class="title">' + sel_promo.title + '</span>');
-					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
-				</script>
-				
-						</a>
-
-			
-
-		</div>
-		
-		
-		
-			
-		
-		
-		
-			
-			<script type="text/javascript">
-				var imp_attr_4207759_8 = {"PROMO_IMPRESSION":"8"};
-				var click_attr_4207759_8 = {"PROMO_CLICK":"8"};
-				var promotions = [{"id":"802189","probability":1,"image":"/static/2016-04/12/7/campaign_images/webdr05/british-breakfast-foods-america-is-seriously-miss-2-15955-1460459073-9.jpg","title":"12 British Breakfast Foods You Can't Get In America That Will Make You Never Want To Leave The UK"}];
-				var opts = [];
-				for (var i=0; i<promotions.length; i++)	for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-				var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-				imp_attr_4207759_8.FLEX_PRO_IMP = sel_promo.id;
-				click_attr_4207759_8.FLEX_PRO_CLICK = sel_promo.id;
-				
-				BF_STATIC.ctr_tracking[ 4207759 ] = {						
+				BF_STATIC.ctr_tracking[ 4207839 ] = {						
 					variations: promotions,
 					selectedVariationId: sel_promo.id,
 					position: 9,					
@@ -3656,10 +3666,10 @@ BuzzLoader.register(
 				
 			</script>
 
-			<div class="unit abtrack bf_dom thumb9  c4207759 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJB4Q7&quot;,&quot;u&quot;:&quot;74N9GW7&quot;,&quot;buzz&quot;:&quot;british-breakfast-foods-america-is-seriously-missing-out&quot;,&quot;user&quot;:&quot;floperry&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4207759_8" track_mousedown="click_attr_4207759_8" data-ctr-campaign-id="4207759">
+			<div class="unit abtrack bf_dom thumb9  c4207839 " onmouseover="header && header.fix_length(event);" rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJBKA7&quot;,&quot;u&quot;:&quot;7DPQU47&quot;,&quot;buzz&quot;:&quot;your-meals-on-instagram-vs-your-meals-in-real-life&quot;,&quot;user&quot;:&quot;genamourbarrett&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="imp_attr_4207839_8" track_mousedown="click_attr_4207839_8" data-ctr-campaign-id="4207839">
 			
 			
-			<a rel:gt_act="post/thumb:9" rel:gt_label="editor/floperry" rel:buzz_id="4207759" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/floperry/british-breakfast-foods-america-is-seriously-missing-out" data-bfa="@a:Thumb; @d:9;">
+			<a rel:gt_act="post/thumb:9" rel:gt_label="editor/genamourbarrett" rel:buzz_id="4207839" class="thumbbb bf_dom" rel:bf_bucket="abtrack" href="/genamourbarrett/your-meals-on-instagram-vs-your-meals-in-real-life" data-bfa="@a:Thumb; @d:9;">
 							<script type="text/javascript">
 					document.write('<span class="title">' + sel_promo.title + '</span>');
 					document.write('<img src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image +'" width="119" height="79" alt="" />');
@@ -3686,15 +3696,15 @@ BuzzLoader.register(
 <script type="text/javascript">
 	if('undefined' !== typeof BF_STATIC) {
 		BF_STATIC.thumbstrip_initial_buzzes = [
-   "4207986",
-   "4206137",
-   "4202306",
-   "4206380",
-   "4207613",
-   "4203927",
+   "4200620",
+   "4210348",
+   "4207809",
+   "4210371",
+   "4207771",
+   "4210172",
+   "4198699",
    "4206947",
-   "4206100",
-   "4207759"
+   "4207839"
 ]
 ;
 	}
@@ -3702,7 +3712,7 @@ BuzzLoader.register(
 
 <!-- END OF public/includes/header/_header_buzz_hoton.tt -->
 
-<!-- UNIT:Headerstrip generated on 20: 0:0,  4/12/2016 -->        </div>
+<!-- UNIT:Headerstrip generated on 16:10:10,  4/13/2016 -->        </div>
         <script type="text/javascript">
         $$('.not_clickable').each(function(el){el.observe('click', function(e){e.stop();});});
         </script>
@@ -9346,42 +9356,42 @@ BuzzLoader.register(
 		<div id="next_on" class='next_on_uk'  rel:gt_cat="[ttp]:next-on-uk"  data-bfa="@l:Bottom-Promo;">
 			<ul>
 			
-				<li id="next_on_ab_1"  rel:buzz_id="4202194">
+				<li id="next_on_ab_1"  rel:buzz_id="4203129">
 					<div class='leftPage'>
-						<a href="/hilarywardle/what-a-million-pounds-will-buy-you-in-london-vs-scotland"  rel:gt_act="post/thumb" rel:gt_label="user/hilarywardle"  data-bfa="@a:Thumb; @d:Next-On;">
-							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/8/5/campaign_images/webdr13/this-is-what-million-pound-houses-look-like-in-lo-2-20763-1460108495-0_wide.jpg" alt="" />
+						<a href="/emilynorval/life-struggles-when-youre-from-the-wirral"  rel:gt_act="post/thumb" rel:gt_label="user/emilynorval"  data-bfa="@a:Thumb; @d:Next-On;">
+							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/13/6/campaign_images/webdr07/life-struggles-when-youre-from-the-wirral-2-11593-1460541750-9_wide.jpg" alt="" />
 						</a>
 						
 						<a rel:gt_act="vertical/logo" href="/uk" class="vertical_title_sprite">&nbsp;</a>
 						
 					</div>
-					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HIH2N7&quot;,&quot;u&quot;:&quot;72YLJF7&quot;,&quot;buzz&quot;:&quot;what-a-million-pounds-will-buy-you-in-london-vs-scotland&quot;,&quot;user&quot;:&quot;hilarywardle&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
+					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HIM4G7&quot;,&quot;u&quot;:&quot;7J2RPP7&quot;,&quot;buzz&quot;:&quot;life-struggles-when-youre-from-the-wirral&quot;,&quot;user&quot;:&quot;emilynorval&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
 
-						<a href="/hilarywardle/what-a-million-pounds-will-buy-you-in-london-vs-scotland"  rel:gt_act="post/title" rel:gt_label="user/hilarywardle"  data-bfa="@a:Title; @d:Next-On;">
+						<a href="/emilynorval/life-struggles-when-youre-from-the-wirral"  rel:gt_act="post/title" rel:gt_label="user/emilynorval"  data-bfa="@a:Title; @d:Next-On;">
 							<span> Next On BuzzFeed uk<span class="next_arrow">&rsaquo;</span></span>
 						</a>
-						<a id="next_on_buzz_link" href="/hilarywardle/what-a-million-pounds-will-buy-you-in-london-vs-scotland"  rel:gt_act="post/title" rel:gt_label="user/hilarywardle"  data-bfa="@a:Title; @d:Next-On;">
-							<h3>This Is What Million-Pound Houses Look Like In London...</h3>
+						<a id="next_on_buzz_link" href="/emilynorval/life-struggles-when-youre-from-the-wirral"  rel:gt_act="post/title" rel:gt_label="user/emilynorval"  data-bfa="@a:Title; @d:Next-On;">
+							<h3>21 Life Struggles That Are All Too Real When You're...</h3>
 						</a>
 					</div>
 				</li>
 			
-				<li id="next_on_ab_2" style="display:none;" rel:buzz_id="4207759">
+				<li id="next_on_ab_2" style="display:none;" rel:buzz_id="4204148">
 					<div class='leftPage'>
-						<a href="/floperry/british-breakfast-foods-america-is-seriously-missing-out"  rel:gt_act="post/thumb" rel:gt_label="user/floperry"  data-bfa="@a:Thumb; @d:Next-On;">
-							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/12/7/campaign_images/webdr05/british-breakfast-foods-america-is-seriously-miss-2-15955-1460459073-9_wide.jpg" alt="" />
+						<a href="/tabathaleggett/secrets-all-close-mums-and-daughters-share"  rel:gt_act="post/thumb" rel:gt_label="user/tabathaleggett"  data-bfa="@a:Thumb; @d:Next-On;">
+							<img class="bf_dom" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/8/8/campaign_images/webdr14/secrets-all-close-mums-and-daughters-share-2-30976-1460119829-1_wide.jpg" alt="" />
 						</a>
 						
 						<a rel:gt_act="vertical/logo" href="/uk" class="vertical_title_sprite">&nbsp;</a>
 						
 					</div>
-					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJB4Q7&quot;,&quot;u&quot;:&quot;74N9GW7&quot;,&quot;buzz&quot;:&quot;british-breakfast-foods-america-is-seriously-missing-out&quot;,&quot;user&quot;:&quot;floperry&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
+					<div class="track bf_dom rightPage" rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HIRML7&quot;,&quot;u&quot;:&quot;72SSBT7&quot;,&quot;buzz&quot;:&quot;secrets-all-close-mums-and-daughters-share&quot;,&quot;user&quot;:&quot;tabathaleggett&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
 
-						<a href="/floperry/british-breakfast-foods-america-is-seriously-missing-out"  rel:gt_act="post/title" rel:gt_label="user/floperry"  data-bfa="@a:Title; @d:Next-On;">
+						<a href="/tabathaleggett/secrets-all-close-mums-and-daughters-share"  rel:gt_act="post/title" rel:gt_label="user/tabathaleggett"  data-bfa="@a:Title; @d:Next-On;">
 							<span> Next On BuzzFeed uk<span class="next_arrow">&rsaquo;</span></span>
 						</a>
-						<a id="next_on_buzz_link" href="/floperry/british-breakfast-foods-america-is-seriously-missing-out"  rel:gt_act="post/title" rel:gt_label="user/floperry"  data-bfa="@a:Title; @d:Next-On;">
-							<h3>12 British Breakfast Foods You Can't Get In America...</h3>
+						<a id="next_on_buzz_link" href="/tabathaleggett/secrets-all-close-mums-and-daughters-share"  rel:gt_act="post/title" rel:gt_label="user/tabathaleggett"  data-bfa="@a:Title; @d:Next-On;">
+							<h3>18 Things All Close Mothers And Daughters Secretly...</h3>
 						</a>
 					</div>
 				</li>
@@ -9391,7 +9401,7 @@ BuzzLoader.register(
 	
 
 
-<!-- UNIT:Nexton generated on 20: 0:0,  4/12/2016 -->
+<!-- UNIT:Nexton generated on 16:10:10,  4/13/2016 -->
 		
 	
 	
@@ -9905,6 +9915,8 @@ BuzzLoader.register(
       loadGPTAd({"wid":9});
   }
 </script>
+
+
 
 
 
@@ -10534,6 +10546,8 @@ BuzzLoader.register(
 
 
 
+
+
 		<a data-bfa="@a:Thumb-dfp;@o:{ignore:[bfaBinder]};" rel:gt_act="dfp/thumb" href="" class="bf-url lede__link">
 			<div class="lede__media">
 				<img class="flex-wide-thumb bf-image-bigstory media__object" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="300">
@@ -10588,17 +10602,17 @@ BuzzLoader.register(
 	
 	
 	
-	  <div class="indepth-module bf_dom" rel:bf_bucket_data='{"indepth_buzz":{"indepth_buzz_id":4194364}}'>
+	  <div class="indepth-module bf_dom" rel:bf_bucket_data='{"indepth_buzz":{"indepth_buzz_id":4204178}}'>
 	    <div class="indepth-module__logo-wrap">
 	      <a href="/news" class="indepth-module__logo-wrap__logo-image" rel:gt_act="indepth-module:buzzfeed-news-logo"></a>
 	    </div>
 	
-	    <a class="indepth-module__thumbnail" href="/esmewwang/who-gets-to-be-the-good-schizophrenic" rel:gt_label="4194364" rel:gt_act="indepth-module:image"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/7/14/campaign_images/webdr02/who-gets-to-be-the-good-schizophrenic-2-14416-1460054210-0_wide.jpg" width="336" height="118"  /></a>
+	    <a class="indepth-module__thumbnail" href="/simonneville/it-could-cost-the-government-up-to-ps2-billion-to-sell-uk-st" rel:gt_label="4204178" rel:gt_act="indepth-module:image"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-04/8/8/campaign_images/webdr04/it-could-cost-the-government-up-to-2-billion-to-s-2-9652-1460119190-1_wide.jpg" width="336" height="118"  /></a>
 	
 	    <div class="indepth-module__text">
-	      <a class="indepth-module__title" href="/esmewwang/who-gets-to-be-the-good-schizophrenic" rel:gt_label="4194364" rel:gt_act="indepth-module:title">Who Gets To Be The "Good Schizophrenic"?</a>
+	      <a class="indepth-module__title" href="/simonneville/it-could-cost-the-government-up-to-ps2-billion-to-sell-uk-st" rel:gt_label="4204178" rel:gt_act="indepth-module:title">It Could Cost The Government Up To £2 Billion To Sell UK Steel</a>
 	      <p class="indepth-module__subtitle">
-	        by <a href="/esmewwang" rel:gt_act="indepth-module:author">Esm&eacute; Weijun Wang</a>
+	        by <a href="/simonneville" rel:gt_act="indepth-module:author">Simon Neville</a>
 	      </p>
 	    </div>
 	  </div>
@@ -10606,7 +10620,7 @@ BuzzLoader.register(
 	
 
 
-<!-- UNIT:Indepth generated on 20: 0:0,  4/12/2016 -->
+<!-- UNIT:Indepth generated on 16:10:10,  4/13/2016 -->
 <!-- \in_depth -->
 
 
@@ -10674,7 +10688,6 @@ BuzzLoader.register(
 
   
 
-
   
 
   </div>
@@ -10737,25 +10750,57 @@ BuzzLoader.register(
 	
 
 	
-<li class="small-posts bf_dom ukpolitics-buzz" rel:buzz_id="4208743" rel:data='{"buzz_id":"4208743","position":"1"}'  >
+<li class="small-posts bf_dom uknews-buzz" rel:buzz_id="4210100" rel:data='{"buzz_id":"4210100","position":"1"}'  >
 	
 
 	<script type="text/javascript">
-		var title = "Culture Secetary Confirms He Had A Relationship With A Sex Worker";
-		var image_wide = "/static/2016-04/12/18/campaign_images/webdr10/culture-secetary-confirms-he-had-a-relationship-w-2-22931-1460500679-0_wide.jpg";
+		var title = "Netflix Is Really Quite Unapologetic For Blocking Your VPN";
+		var image_wide = "/static/2016-04/13/8/campaign_images/webdr06/netflix-vpn-2-25484-1460549951-1_wide.jpg";
 	</script>
 	
 
-	<div class="track bf_dom " rel:data='{"buzz_id":"4208743"}' rel:owner="jimwaterson"  rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJGG27&quot;,&quot;u&quot;:&quot;746IXU7&quot;,&quot;buzz&quot;:&quot;culture-secetary-confirms-he-had-a-relationship-with-a-sex-w&quot;,&quot;user&quot;:&quot;jimwaterson&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
-		<a href="/jimwaterson/culture-secetary-confirms-he-had-a-relationship-with-a-sex-w" rel:gt_act="post/thumb" rel:gt_label="editor/jimwaterson"  data-bfa="@a:Thumb; @d:Featured;">
+	
+	<script type="text/javascript">
+		var total_probability = 0;
+		var promos = [{"width":"125","extra_fields":{"small":{"width":941,"left":0,"top":165,"height":624},"big":{"width":925,"left":0,"top":135,"height":614},"wide":{"width":1138,"left":0,"top":283,"height":400}},"image_dblwide":"/static/2016-04/13/8/campaign_images/webdr06/netflix-vpn-2-25484-1460549951-1_dblwide.jpg","clicks":"137","dud":"0","added":"2016-04-13 08:19:29","campaign_id":"4210100","rate":0.00937970696973846,"impressions":"14606","image_id":"519417","original_image_width":"1515","promoter":"736840","updated":"2016-04-13 12:41:32","id":"804328","image_dblbig":"/static/2016-04/13/8/campaign_images/webdr06/netflix-vpn-2-25484-1460549951-1_dblbig.jpg","is_default":"1","promotion_image_id":"519417","sub_buzz_id":"0","image_big":"/static/2016-04/13/8/campaign_images/webdr06/netflix-vpn-2-25484-1460549951-1_big.jpg","probability":1,"active":"1","original_image_height":"814","height":"83","description":"\"It’s always been a violation of terms of use to use them,\" Ted Sarandos, the company's chief content officer, told BuzzFeed News.","image":"/static/2016-04/13/8/campaign_images/webdr06/netflix-vpn-2-25484-1460549951-1.jpg","old":"0","promotion_medium_id":"1","flexpro_recipients":"","title":"Netflix Is Really Quite Unapologetic For Blocking Your VPN","image_wide":"/static/2016-04/13/8/campaign_images/webdr06/netflix-vpn-2-25484-1460549951-1_wide.jpg","original_image":"/static/2016-04/13/7/enhanced/webdr08/original-5382-1460546393-16.jpg"}];
+		$(promos).each(function(promo) {
+			if(typeof promo.probability == 'number'){
+				total_probability += promo.probability;
+			}
+		});
+		var rand = Math.random() * total_probability;
+		var i = 0;
+		var probability_sum = 0;
+		var chosen;
+		while ( i <= promos.length - 1 && probability_sum < rand ) {
+			chosen = promos[i];
+			if( typeof chosen !== 'undefined' && typeof chosen.probability == 'number' ) {
+				probability_sum += chosen.probability;
+			}
+			i++;
+		}
+		if ( typeof chosen !== 'undefined' && typeof chosen.probability == 'number' ) {
+			if(typeof chosen.title !== 'undefined' ){
+				title = chosen.title;
+			}
+			if(typeof chosen.image_wide !== 'undefined' ){
+				image_wide = chosen.image_wide;
+			}
+		}
+	</script>
+
+	
+
+	<div class="track bf_dom " rel:data='{"buzz_id":"4210100"}' rel:owner="scottybryan"  rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJNRX7&quot;,&quot;u&quot;:&quot;732JVT7&quot;,&quot;buzz&quot;:&quot;netflix-vpn&quot;,&quot;user&quot;:&quot;scottybryan&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
+		<a href="/scottybryan/netflix-vpn" rel:gt_act="post/thumb" rel:gt_label="editor/scottybryan"  data-bfa="@a:Thumb; @d:Featured;">
 			
-			<script type="text/javascript">document.write('<img class="bf_dom pinned-image" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + image_wide + '" alt="Culture Secetary Confirms He Had A Relationship With A Sex Worker" />')</script>
+			<script type="text/javascript">document.write('<img class="bf_dom pinned-image" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + image_wide + '" alt="Netflix Is Really Quite Unapologetic For Blocking Your VPN" />')</script>
 			
 
 		</a>
 
 		<h3>
-			<a href="/jimwaterson/culture-secetary-confirms-he-had-a-relationship-with-a-sex-w" rel:gt_act="post/title" rel:gt_label="editor/jimwaterson"  data-bfa="@a:Title; @d:Featured;"><span><script type="text/javascript">document.write(title)</script></span></a>
+			<a href="/scottybryan/netflix-vpn" rel:gt_act="post/title" rel:gt_label="editor/scottybryan"  data-bfa="@a:Title; @d:Featured;"><span><script type="text/javascript">document.write(title)</script></span></a>
 		</h3>
 		
 
@@ -10780,25 +10825,25 @@ BuzzLoader.register(
 	
 
 	
-<li class="small-posts bf_dom uknews-buzz" rel:buzz_id="4208182" rel:data='{"buzz_id":"4208182","position":"2"}'  >
+<li class="small-posts bf_dom ukpolitics-buzz" rel:buzz_id="4210796" rel:data='{"buzz_id":"4210796","position":"2"}'  >
 	
 
 	<script type="text/javascript">
-		var title = "National Crime Agency Used Hundreds Of Flawed Warrants, Official Review Finds";
-		var image_wide = "/static/2016-04/12/14/campaign_images/webdr10/national-crime-agency-used-hundreds-of-flawed-war-2-4917-1460484397-8_wide.jpg";
+		var title = "David Cameron Indicates UK Could Support EU Blacklist Of Tax Havens";
+		var image_wide = "/static/2016-04/13/13/campaign_images/webdr07/david-cameron-indicates-uk-could-support-eu-black-2-21944-1460568398-20_wide.jpg";
 	</script>
 	
 
-	<div class="track bf_dom " rel:data='{"buzz_id":"4208182"}' rel:owner="tomwarren"  rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJDEZ7&quot;,&quot;u&quot;:&quot;7CZYXC7&quot;,&quot;buzz&quot;:&quot;national-crime-agency-used-hundreds-of-flawed-search-warrant&quot;,&quot;user&quot;:&quot;tomwarren&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
-		<a href="/tomwarren/national-crime-agency-used-hundreds-of-flawed-search-warrant" rel:gt_act="post/thumb" rel:gt_label="editor/tomwarren"  data-bfa="@a:Thumb; @d:Featured;">
+	<div class="track bf_dom " rel:data='{"buzz_id":"4210796"}' rel:owner="albertonardelli"  rel:bf_bucket="track" track="{&quot;c&quot;:&quot;7HJRJ97&quot;,&quot;u&quot;:&quot;7IU6817&quot;,&quot;buzz&quot;:&quot;eu-blacklist-eu-turn&quot;,&quot;user&quot;:&quot;albertonardelli&quot;,&quot;types&quot;:[],&quot;queries&quot;:[]}">
+		<a href="/albertonardelli/eu-blacklist-eu-turn" rel:gt_act="post/thumb" rel:gt_label="editor/albertonardelli"  data-bfa="@a:Thumb; @d:Featured;">
 			
-			<script type="text/javascript">document.write('<img class="bf_dom pinned-image" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + image_wide + '" alt="National Crime Agency Used Hundreds Of Flawed Warrants, Official Review Finds" />')</script>
+			<script type="text/javascript">document.write('<img class="bf_dom pinned-image" rel:bf_bucket="progload" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + image_wide + '" alt="David Cameron Indicates UK Could Support EU Blacklist Of Tax Havens" />')</script>
 			
 
 		</a>
 
 		<h3>
-			<a href="/tomwarren/national-crime-agency-used-hundreds-of-flawed-search-warrant" rel:gt_act="post/title" rel:gt_label="editor/tomwarren"  data-bfa="@a:Title; @d:Featured;"><span><script type="text/javascript">document.write(title)</script></span></a>
+			<a href="/albertonardelli/eu-blacklist-eu-turn" rel:gt_act="post/title" rel:gt_label="editor/albertonardelli"  data-bfa="@a:Title; @d:Featured;"><span><script type="text/javascript">document.write(title)</script></span></a>
 		</h3>
 		
 
@@ -10842,6 +10887,8 @@ BuzzLoader.register(
 
 
 
+
+
 			<a rel:gt_act="dfp/thumb" data-bfa="@a:Thumb-dfp;@d:;@o:{ignore:[bfaBinder]};"  rel:gt_label="partner" href="" class="bf-url lede__media" rel:gtrack_id="dfp_ad"><img class="bf-image-widestory lede__image" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="338" height="119" /></a>
 		<h2 class="bf-item-title lede__title"><a data-bfa="@a:Title-dfp;@d:;@o:{ignore:[bfaBinder]};" href="" class="bf-url bf-name lede__link" rel:gtrack_id="dfp_ad" rel:bf_truncate="100" rel:gt_act="dfp/title" rel:gt_label="partner"></a></h2>
 	</div>
@@ -10867,7 +10914,7 @@ BuzzLoader.register(
 
 
 
-<!-- UNIT:Verticalunit generated on 19:53:53,  4/12/2016 -->
+<!-- UNIT:Verticalunit generated on 16:13:13,  4/13/2016 -->
 <!-- \verticalfeatured --><div>
 
 	
@@ -10907,42 +10954,42 @@ BuzzLoader.register(
             <ul>
 
 						<script type="text/javascript">
-							var imp_attr_4206947_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4206947_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4198699_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4198699_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"801789","probability":1,"image":"/static/2016-04/12/1/campaign_images/webdr05/one-emoji-font-to-rule-them-all-2-22501-1460437500-25.jpg","title":"This Is What iPhone Emojis Look Like On Android","image_wide":"/static/2016-04/12/1/campaign_images/webdr05/one-emoji-font-to-rule-them-all-2-22501-1460437500-25_wide.jpg"}];
+								promotions = [{"id":"794357","probability":1,"image":"/static/2016-04/6/20/campaign_images/webdr13/these-7-androgynous-models-are-so-freaking-beauti-2-20691-1459987534-1.jpg","title":"These 7 Androgynous Models Are So Freaking Beautiful","image_wide":"/static/2016-04/6/20/campaign_images/webdr13/these-7-androgynous-models-are-so-freaking-beauti-2-20691-1459987534-1_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4206947_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4206947_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4198699_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4198699_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4206947 ] = {						
+							BF_STATIC.ctr_tracking[ 4198699 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 1,
-								post_category: 'DIY', // we need to figure out how we can get this
+								post_category: 'Videos', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
 								objectType: 'post',
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  top bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ6QU7&quot;,&quot;u&quot;:&quot;7BFA9I7&quot;,&quot;buzz&quot;:&quot;one-emoji-font-to-rule-them-all&quot;,&quot;user&quot;:&quot;nicolenguyen&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-one-emoji-font-to-rule-them-all" data-ctr-campaign-id="4206947">
+            <li class="post sidebar-post  top bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HHY727&quot;,&quot;u&quot;:&quot;73OBFV7&quot;,&quot;buzz&quot;:&quot;these-7-androgynous-models-are-so-freaking-beautiful&quot;,&quot;user&quot;:&quot;beckycatherineharris&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-these-7-androgynous-models-are-so-freaking-beautiful" data-ctr-campaign-id="4198699">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/nicolenguyen/one-emoji-font-to-rule-them-all" rel:gt_act="buzzing/thumb" rel:buzz_id="4206947" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/beckycatherineharris/these-7-androgynous-models-are-so-freaking-beautiful" rel:gt_act="buzzing/thumb" rel:buzz_id="4198699" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4206947"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4198699"}\'></a>\
 								<h2>\
-									<a href="/nicolenguyen/one-emoji-font-to-rule-them-all" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/beckycatherineharris/these-7-androgynous-models-are-so-freaking-beautiful" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -10950,42 +10997,85 @@ BuzzLoader.register(
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4201712_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4201712_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4210371_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210371_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"801521","probability":1,"image":"/static/2016-04/11/19/campaign_images/webdr05/trottla-aus-2-32322-1460415932-2.jpg","title":"This Japanese Businessman Wants To Sell Childlike Sex Dolls To \"Help\" Paedophiles","image_wide":"/static/2016-04/11/19/campaign_images/webdr05/trottla-aus-2-32322-1460415932-2_wide.jpg"}];
+								promotions = [{"id":"804771","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561056-1.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561056-1_wide.jpg"},{"id":"804769","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561073-7.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561073-7_wide.jpg"},{"id":"804766","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561056-1.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561056-1_wide.jpg"},{"id":"804772","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561062-3.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561062-3_wide.jpg"},{"id":"804773","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561068-5.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561068-5_wide.jpg"},{"id":"804767","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561062-3.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561062-3_wide.jpg"},{"id":"804770","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561079-9.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561079-9_wide.jpg"},{"id":"804774","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561073-7.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561073-7_wide.jpg"},{"id":"804775","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561079-9.jpg","title":"24 Things That Were Cool In The '00s But Definitely Aren't Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561079-9_wide.jpg"},{"id":"804768","probability":"0.1","image":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561068-5.jpg","title":"24 Things That Were Cool In The '00s But Really, Really Aren't Today","image_wide":"/static/2016-04/13/11/campaign_images/webdr04/things-cool-in-the-00s-that-definitely-arent-now-2-8656-1460561068-5_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4201712_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4201712_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4210371_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4210371_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4201712 ] = {						
+							BF_STATIC.ctr_tracking[ 4210371 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 2,
-								post_category: 'AUNews', // we need to figure out how we can get this
+								post_category: 'UK', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
 								objectType: 'post',
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIEGX7&quot;,&quot;u&quot;:&quot;74CDP97&quot;,&quot;buzz&quot;:&quot;trottla-aus&quot;,&quot;user&quot;:&quot;bradesposito&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-trottla-aus" data-ctr-campaign-id="4201712">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJP8M7&quot;,&quot;u&quot;:&quot;74HIBY7&quot;,&quot;buzz&quot;:&quot;things-cool-in-the-00s-that-definitely-arent-now&quot;,&quot;user&quot;:&quot;alexfinnis&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-things-cool-in-the-00s-that-definitely-arent-now" data-ctr-campaign-id="4210371">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/bradesposito/trottla-aus" rel:gt_act="buzzing/thumb" rel:buzz_id="4201712" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/alexfinnis/things-cool-in-the-00s-that-definitely-arent-now" rel:gt_act="buzzing/thumb" rel:buzz_id="4210371" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4201712"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210371"}\'></a>\
 								<h2>\
-									<a href="/bradesposito/trottla-aus" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/alexfinnis/things-cool-in-the-00s-that-definitely-arent-now" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4210348_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4210348_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"804911","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7_wide.jpg"},{"id":"804917","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3_wide.jpg"},{"id":"804912","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1_wide.jpg"},{"id":"804909","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3_wide.jpg"},{"id":"804908","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1_wide.jpg"},{"id":"804919","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7_wide.jpg"},{"id":"804910","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"Makeup Struggles As A Teen In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5_wide.jpg"},{"id":"804916","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562724-1_wide.jpg"},{"id":"804914","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5_wide.jpg"},{"id":"804913","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562729-3_wide.jpg"},{"id":"804915","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7.jpg","title":"11 Ways Makeup Has Changed Tremendously Since The '00s","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562738-7_wide.jpg"},{"id":"804918","probability":"0.0833333333333333","image":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5.jpg","title":"Makeup Struggles In The '00s Vs. Makeup Struggles Now","image_wide":"/static/2016-04/13/11/campaign_images/webdr07/makeup-struggles-when-you-were-a-teen-vs-makeup-s-2-5871-1460562733-5_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4210348_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4210348_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4210348 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 3,
+								post_category: 'UK', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJP457&quot;,&quot;u&quot;:&quot;7DPQU47&quot;,&quot;buzz&quot;:&quot;makeup-struggles-when-you-were-a-teen-vs-makeup-s&quot;,&quot;user&quot;:&quot;genamourbarrett&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-makeup-struggles-when-you-were-a-teen-vs-makeup-s" data-ctr-campaign-id="4210348">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/genamourbarrett/makeup-struggles-when-you-were-a-teen-vs-makeup-s" rel:gt_act="buzzing/thumb" rel:buzz_id="4210348" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4210348"}\'></a>\
+								<h2>\
+									<a href="/genamourbarrett/makeup-struggles-when-you-were-a-teen-vs-makeup-s" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -11013,6 +11103,8 @@ BuzzLoader.register(
 
 
 
+
+
 			<a rel:gt_act="dfp/thumb" data-bfa="@a:Thumb-dfp;@d:Now-Buzzing;@o:{ignore:[bfaBinder]};"  rel:gt_label="partner" href="" class="bf-url lede__media" rel:gtrack_id="dfp_ad"><img class="bf-image-widestory lede__image" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="338" height="119" /></a>
 		<h2 class="bf-item-title lede__title"><a data-bfa="@a:Title-dfp;@d:Now-Buzzing;@o:{ignore:[bfaBinder]};" href="" class="bf-url bf-name lede__link" rel:gtrack_id="dfp_ad" rel:bf_truncate="100" rel:gt_act="dfp/title" rel:gt_label="partner"></a></h2>
 	</div>
@@ -11030,62 +11122,19 @@ BuzzLoader.register(
 
 
 						<script type="text/javascript">
-							var imp_attr_4206137_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4206137_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4207809_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4207809_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"800096","probability":1,"image":"/static/2016-04/11/8/campaign_images/webdr09/secrets-girls-with-tall-boyfriends-wont-tell-you-2-30083-1460377528-8.jpg","title":"23 Little Things Girls With Tall Boyfriends Learn","image_wide":"/static/2016-04/11/8/campaign_images/webdr09/secrets-girls-with-tall-boyfriends-wont-tell-you-2-30083-1460377528-8_wide.jpg"}];
+								promotions = [{"id":"802328","probability":"0.000548438811883916","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1_wide.jpg"},{"id":"802330","probability":"0.000211326547488802","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5_wide.jpg"},{"id":"802335","probability":"0.95887209269349","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7_wide.jpg"},{"id":"802331","probability":"0.00813238831095902","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7_wide.jpg"},{"id":"802337","probability":"0.000505414664226342","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3_wide.jpg"},{"id":"802329","probability":"0.00827833341822838","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3.jpg","title":"Australians, We Really Need To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3_wide.jpg"},{"id":"802339","probability":"0.000523383715764868","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463011-7_wide.jpg"},{"id":"802336","probability":"0.000193195124663158","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1_wide.jpg"},{"id":"802333","probability":"0.00590560706075569","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463001-3_wide.jpg"},{"id":"802338","probability":"0.000176391854796721","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5.jpg","title":"Australia, Britain Needs To Talk To You About Your Food Choices","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5_wide.jpg"},{"id":"802334","probability":"0.0135344203150899","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460463006-5_wide.jpg"},{"id":"802332","probability":"0.00311900748265348","image":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1.jpg","title":"Seriously Australia, What The Fuck Is Going On With Your Food?","image_wide":"/static/2016-04/12/8/campaign_images/webdr01/australians-we-need-to-talk-about-your-food-choic-2-16123-1460462994-1_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4206137_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4206137_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4207809_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4207809_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4206137 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 3,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ2DC7&quot;,&quot;u&quot;:&quot;72SSBT7&quot;,&quot;buzz&quot;:&quot;secrets-girls-with-tall-boyfriends-wont-tell-you&quot;,&quot;user&quot;:&quot;tabathaleggett&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-secrets-girls-with-tall-boyfriends-wont-tell-you" data-ctr-campaign-id="4206137">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/tabathaleggett/secrets-girls-with-tall-boyfriends-wont-tell-you" rel:gt_act="buzzing/thumb" rel:buzz_id="4206137" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4206137"}\'></a>\
-								<h2>\
-									<a href="/tabathaleggett/secrets-girls-with-tall-boyfriends-wont-tell-you" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4207986_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4207986_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"802491","probability":1,"image":"/static/2016-04/12/10/campaign_images/webdr07/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-mo-2-22180-1460471220-3.jpg","title":"Lea Michele Has Revealed A New Tattoo In Tribute To Late Boyfriend Cory Monteith","image_wide":"/static/2016-04/12/10/campaign_images/webdr07/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-mo-2-22180-1460471220-3_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4207986_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4207986_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4207986 ] = {						
+							BF_STATIC.ctr_tracking[ 4207809 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
 								position: 4,
@@ -11096,228 +11145,19 @@ BuzzLoader.register(
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJCCV7&quot;,&quot;u&quot;:&quot;740GF77&quot;,&quot;buzz&quot;:&quot;lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith&quot;,&quot;user&quot;:&quot;kimberleydadds&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" data-ctr-campaign-id="4207986">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJBEG7&quot;,&quot;u&quot;:&quot;72YLJF7&quot;,&quot;buzz&quot;:&quot;australians-we-need-to-talk-about-your-food-choices&quot;,&quot;user&quot;:&quot;hilarywardle&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-australians-we-need-to-talk-about-your-food-choices" data-ctr-campaign-id="4207809">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/kimberleydadds/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" rel:gt_act="buzzing/thumb" rel:buzz_id="4207986" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/hilarywardle/australians-we-need-to-talk-about-your-food-choices" rel:gt_act="buzzing/thumb" rel:buzz_id="4207809" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4207986"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4207809"}\'></a>\
 								<h2>\
-									<a href="/kimberleydadds/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4206190_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4206190_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"800245","probability":1,"image":"/static/2016-04/11/10/campaign_images/webdr11/stepping-up-a-notch-2-2305-1460383935-8.jpg","title":"24 Things That Got Really Fucking Out Of Hand, Fast","image_wide":"/static/2016-04/11/10/campaign_images/webdr11/stepping-up-a-notch-2-2305-1460383935-8_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4206190_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4206190_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4206190 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 5,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ2NN7&quot;,&quot;u&quot;:&quot;75PENH7&quot;,&quot;buzz&quot;:&quot;stepping-up-a-notch&quot;,&quot;user&quot;:&quot;lukebailey&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-stepping-up-a-notch" data-ctr-campaign-id="4206190">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/lukebailey/stepping-up-a-notch" rel:gt_act="buzzing/thumb" rel:buzz_id="4206190" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4206190"}\'></a>\
-								<h2>\
-									<a href="/lukebailey/stepping-up-a-notch" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-<li class="bf-widget dd post sidebar-post  bf_dom lede--stacked"   style="display:none;" id="BF_WIDGET_7" rel:bf_ad_position="6">
-	<div id="bf-item-7-1" class="bf-item lede">
-		<div class="partner-sash">Promoted</div>
-		<div class="sponsor-sash">Sponsored</div>
-			
-
-<div id="div-gpt-ad-7" style="position:absolute;overflow:hidden;z-index:-1"></div>
-
-
-
-
-<script type='text/javascript'>
-  var load_ad = true && (AD_DESIGN == 'gpt') && !BF_STATIC.buzz_wide;
-  if( typeof acl != 'undefined' ) load_ad &= !acl.user_can('edit_hidden_ads');
-  
-  if (load_ad) {
-      loadGPTAd({"wid":7,"sidebar":1});
-  }
-</script>
-
-
-
-			<a rel:gt_act="dfp/thumb" data-bfa="@a:Thumb-dfp;@d:Now-Buzzing;@o:{ignore:[bfaBinder]};"  rel:gt_label="partner" href="" class="bf-url lede__media" rel:gtrack_id="dfp_ad"><img class="bf-image-widestory lede__image" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="338" height="119" /></a>
-		<h2 class="bf-item-title lede__title"><a data-bfa="@a:Title-dfp;@d:Now-Buzzing;@o:{ignore:[bfaBinder]};" href="" class="bf-url bf-name lede__link" rel:gtrack_id="dfp_ad" rel:bf_truncate="100" rel:gt_act="dfp/title" rel:gt_label="partner"></a></h2>
-	</div>
-</li>
-	<script type="text/javascript">
-		(function() {
-			var AD = document.getElementById('BF_WIDGET_' + 7) || document.getElementById('BF_IFRAME_' + 7);
-			if (AB_AD_TEST && AD && AD_DESIGN) {
-				AD.className = AD.className + " " + AD_DESIGN;
-			}
-		})()
-	</script>
-
-
-
-
-						<script type="text/javascript">
-							var imp_attr_4206328_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4206328_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"802020","probability":1,"image":"/static/2016-04/12/6/campaign_images/webdr05/xx-things-youll-understand-if-youre-an-extremely--2-5962-1460455865-25.jpg","title":"21 Things All Lazy Cooks Will Understand","image_wide":"/static/2016-04/12/6/campaign_images/webdr05/xx-things-youll-understand-if-youre-an-extremely--2-5962-1460455865-25_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4206328_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4206328_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4206328 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 6,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ3EH7&quot;,&quot;u&quot;:&quot;7794D97&quot;,&quot;buzz&quot;:&quot;thank-you-jack-and-sam-and-roz-and-emily&quot;,&quot;user&quot;:&quot;hannahjewell&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-thank-you-jack-and-sam-and-roz-and-emily" data-ctr-campaign-id="4206328">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/hannahjewell/thank-you-jack-and-sam-and-roz-and-emily" rel:gt_act="buzzing/thumb" rel:buzz_id="4206328" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4206328"}\'></a>\
-								<h2>\
-									<a href="/hannahjewell/thank-you-jack-and-sam-and-roz-and-emily" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4203927_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4203927_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"801750","probability":1,"image":"/static/2016-04/12/0/campaign_images/webdr04/i-would-never-2-26031-1460434729-7.jpg","title":"27 Things All Makeup Addicts Secretly Do But Won't Admit","image_wide":"/static/2016-04/12/0/campaign_images/webdr04/i-would-never-2-26031-1460434729-7_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4203927_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4203927_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4203927 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 7,
-								post_category: 'Australia', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIQFM7&quot;,&quot;u&quot;:&quot;7DPTPD7&quot;,&quot;buzz&quot;:&quot;i-would-never&quot;,&quot;user&quot;:&quot;michellerennex&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-i-would-never" data-ctr-campaign-id="4203927">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/michellerennex/i-would-never" rel:gt_act="buzzing/thumb" rel:buzz_id="4203927" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4203927"}\'></a>\
-								<h2>\
-									<a href="/michellerennex/i-would-never" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
-								</h2>\
-								');
-						</script>
-						            </li>
-	            
-
-						<script type="text/javascript">
-							var imp_attr_4207759_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4207759_13 = {"PROMO_CLICK":"13"};
-							var promotions = [];
-							
-								promotions = [{"id":"802189","probability":1,"image":"/static/2016-04/12/7/campaign_images/webdr05/british-breakfast-foods-america-is-seriously-miss-2-15955-1460459073-9.jpg","title":"12 British Breakfast Foods You Can't Get In America That Will Make You Never Want To Leave The UK","image_wide":"/static/2016-04/12/7/campaign_images/webdr05/british-breakfast-foods-america-is-seriously-miss-2-15955-1460459073-9_wide.jpg"}];
-								var opts = [];
-								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
-								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4207759_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4207759_13.FLEX_PRO_CLICK = sel_promo.id;
-							
-							
-							BF_STATIC.ctr_tracking[ 4207759 ] = {						
-								variations: promotions || [],
-								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 8,
-								post_category: 'UK', // we need to figure out how we can get this
-								unit: 'nowbuzzing',
-								events: 'load|mousedown',
-								objectType: 'post',
-								unitClientId: '4ldqpjc'
-							};
-						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJB4Q7&quot;,&quot;u&quot;:&quot;74N9GW7&quot;,&quot;buzz&quot;:&quot;british-breakfast-foods-america-is-seriously-missing-out&quot;,&quot;user&quot;:&quot;floperry&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-british-breakfast-foods-america-is-seriously-missing-out" data-ctr-campaign-id="4207759">
-												<script type="text/javascript">
-							document.write('\
-								<a href="/floperry/british-breakfast-foods-america-is-seriously-missing-out" rel:gt_act="buzzing/thumb" rel:buzz_id="4207759" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
-									<div style="float:left; position:relative;">\
-										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
-										\
-									</div>\
-								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4207759"}\'></a>\
-								<h2>\
-									<a href="/floperry/british-breakfast-foods-america-is-seriously-missing-out" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/hilarywardle/australians-we-need-to-talk-about-your-food-choices" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -11340,7 +11180,7 @@ BuzzLoader.register(
 							BF_STATIC.ctr_tracking[ 4207969 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 9,
+								position: 5,
 								post_category: 'UK', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
@@ -11368,22 +11208,22 @@ BuzzLoader.register(
 	            
 
 						<script type="text/javascript">
-							var imp_attr_4206301_13 = {"PROMO_IMPRESSION":"13"};
-							var click_attr_4206301_13 = {"PROMO_CLICK":"13"};
+							var imp_attr_4207986_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4207986_13 = {"PROMO_CLICK":"13"};
 							var promotions = [];
 							
-								promotions = [{"id":"800633","probability":1,"image":"/static/2016-04/11/12/campaign_images/webdr15/things-youll-know-if-you-love-to-annoy-your-best--2-23628-1460392381-7.jpg","title":"18 Things That Only Make Sense If You And Your Best Friend Love To Annoy Each Other","image_wide":"/static/2016-04/11/12/campaign_images/webdr15/things-youll-know-if-you-love-to-annoy-your-best--2-23628-1460392381-7_wide.jpg"}];
+								promotions = [{"id":"802491","probability":1,"image":"/static/2016-04/12/10/campaign_images/webdr07/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-mo-2-22180-1460471220-3.jpg","title":"Lea Michele Has Revealed A New Tattoo In Tribute To Late Boyfriend Cory Monteith","image_wide":"/static/2016-04/12/10/campaign_images/webdr07/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-mo-2-22180-1460471220-3_wide.jpg"}];
 								var opts = [];
 								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
 								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
-								imp_attr_4206301_13.FLEX_PRO_IMP = sel_promo.id;
-								click_attr_4206301_13.FLEX_PRO_CLICK = sel_promo.id;
+								imp_attr_4207986_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4207986_13.FLEX_PRO_CLICK = sel_promo.id;
 							
 							
-							BF_STATIC.ctr_tracking[ 4206301 ] = {						
+							BF_STATIC.ctr_tracking[ 4207986 ] = {						
 								variations: promotions || [],
 								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
-								position: 10,
+								position: 6,
 								post_category: 'UK', // we need to figure out how we can get this
 								unit: 'nowbuzzing',
 								events: 'load|mousedown',
@@ -11391,19 +11231,230 @@ BuzzLoader.register(
 								unitClientId: '4ldqpjc'
 							};
 						</script>
-            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ3987&quot;,&quot;u&quot;:&quot;7FOSUT7&quot;,&quot;buzz&quot;:&quot;things-youll-know-if-you-love-to-annoy-your-best-friend&quot;,&quot;user&quot;:&quot;jasminnahar&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
-            id="promoted-things-youll-know-if-you-love-to-annoy-your-best-friend" data-ctr-campaign-id="4206301">
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJCCV7&quot;,&quot;u&quot;:&quot;740GF77&quot;,&quot;buzz&quot;:&quot;lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith&quot;,&quot;user&quot;:&quot;kimberleydadds&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" data-ctr-campaign-id="4207986">
 												<script type="text/javascript">
 							document.write('\
-								<a href="/jasminnahar/things-youll-know-if-you-love-to-annoy-your-best-friend" rel:gt_act="buzzing/thumb" rel:buzz_id="4206301" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+								<a href="/kimberleydadds/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" rel:gt_act="buzzing/thumb" rel:buzz_id="4207986" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
 									<div style="float:left; position:relative;">\
 										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
 										\
 									</div>\
 								</a>\
-								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4206301"}\'></a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4207986"}\'></a>\
 								<h2>\
-									<a href="/jasminnahar/things-youll-know-if-you-love-to-annoy-your-best-friend" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+									<a href="/kimberleydadds/lea-michele-gets-a-5-tattoo-in-tribute-to-cory-monteith" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4201360_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4201360_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"795534","probability":1,"image":"/static/2016-04/7/10/campaign_images/webdr12/xx-cats-of-instagram-2-8210-1460040448-5.jpg","title":"27 Cats Pictures That Are Never Not Funny","image_wide":"/static/2016-04/7/10/campaign_images/webdr12/xx-cats-of-instagram-2-8210-1460040448-5_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4201360_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4201360_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4201360 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 7,
+								post_category: 'Animals', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HICKH7&quot;,&quot;u&quot;:&quot;72SK947&quot;,&quot;buzz&quot;:&quot;lol-cats&quot;,&quot;user&quot;:&quot;erinchack&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-lol-cats" data-ctr-campaign-id="4201360">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/erinchack/lol-cats" rel:gt_act="buzzing/thumb" rel:buzz_id="4201360" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4201360"}\'></a>\
+								<h2>\
+									<a href="/erinchack/lol-cats" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+<li class="bf-widget dd post sidebar-post  bf_dom lede--stacked"   style="display:none;" id="BF_WIDGET_7" rel:bf_ad_position="6">
+	<div id="bf-item-7-1" class="bf-item lede">
+		<div class="partner-sash">Promoted</div>
+		<div class="sponsor-sash">Sponsored</div>
+			
+
+<div id="div-gpt-ad-7" style="position:absolute;overflow:hidden;z-index:-1"></div>
+
+
+
+
+<script type='text/javascript'>
+  var load_ad = true && (AD_DESIGN == 'gpt') && !BF_STATIC.buzz_wide;
+  if( typeof acl != 'undefined' ) load_ad &= !acl.user_can('edit_hidden_ads');
+  
+  if (load_ad) {
+      loadGPTAd({"wid":7,"sidebar":1});
+  }
+</script>
+
+
+
+
+
+			<a rel:gt_act="dfp/thumb" data-bfa="@a:Thumb-dfp;@d:Now-Buzzing;@o:{ignore:[bfaBinder]};"  rel:gt_label="partner" href="" class="bf-url lede__media" rel:gtrack_id="dfp_ad"><img class="bf-image-widestory lede__image" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="338" height="119" /></a>
+		<h2 class="bf-item-title lede__title"><a data-bfa="@a:Title-dfp;@d:Now-Buzzing;@o:{ignore:[bfaBinder]};" href="" class="bf-url bf-name lede__link" rel:gtrack_id="dfp_ad" rel:bf_truncate="100" rel:gt_act="dfp/title" rel:gt_label="partner"></a></h2>
+	</div>
+</li>
+	<script type="text/javascript">
+		(function() {
+			var AD = document.getElementById('BF_WIDGET_' + 7) || document.getElementById('BF_IFRAME_' + 7);
+			if (AB_AD_TEST && AD && AD_DESIGN) {
+				AD.className = AD.className + " " + AD_DESIGN;
+			}
+		})()
+	</script>
+
+
+
+
+						<script type="text/javascript">
+							var imp_attr_4207981_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4207981_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"802821","probability":1,"image":"/static/2016-04/12/12/campaign_images/webdr14/the-walking-dentist-2-27142-1460477957-1.jpg","title":"These Brothers Played The Most Elaborate Prank On Their Sister After She Had Her Wisdom Teeth Removed","image_wide":"/static/2016-04/12/12/campaign_images/webdr14/the-walking-dentist-2-27142-1460477957-1_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4207981_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4207981_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4207981 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 8,
+								post_category: 'USNews', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJCBW7&quot;,&quot;u&quot;:&quot;764NN7&quot;,&quot;buzz&quot;:&quot;the-walking-dentist&quot;,&quot;user&quot;:&quot;juliegerstein&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-the-walking-dentist" data-ctr-campaign-id="4207981">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/juliegerstein/the-walking-dentist" rel:gt_act="buzzing/thumb" rel:buzz_id="4207981" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4207981"}\'></a>\
+								<h2>\
+									<a href="/juliegerstein/the-walking-dentist" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4203129_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4203129_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"804078","probability":1,"image":"/static/2016-04/13/6/campaign_images/webdr07/life-struggles-when-youre-from-the-wirral-2-11593-1460541750-9.jpg","title":"21 Life Struggles That Are All Too Real When You're From The Wirral","image_wide":"/static/2016-04/13/6/campaign_images/webdr07/life-struggles-when-youre-from-the-wirral-2-11593-1460541750-9_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4203129_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4203129_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4203129 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 9,
+								post_category: 'UK', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HIM4G7&quot;,&quot;u&quot;:&quot;7J2RPP7&quot;,&quot;buzz&quot;:&quot;life-struggles-when-youre-from-the-wirral&quot;,&quot;user&quot;:&quot;emilynorval&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-life-struggles-when-youre-from-the-wirral" data-ctr-campaign-id="4203129">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/emilynorval/life-struggles-when-youre-from-the-wirral" rel:gt_act="buzzing/thumb" rel:buzz_id="4203129" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4203129"}\'></a>\
+								<h2>\
+									<a href="/emilynorval/life-struggles-when-youre-from-the-wirral" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
+								</h2>\
+								');
+						</script>
+						            </li>
+	            
+
+						<script type="text/javascript">
+							var imp_attr_4206947_13 = {"PROMO_IMPRESSION":"13"};
+							var click_attr_4206947_13 = {"PROMO_CLICK":"13"};
+							var promotions = [];
+							
+								promotions = [{"id":"801789","probability":1,"image":"/static/2016-04/12/1/campaign_images/webdr05/one-emoji-font-to-rule-them-all-2-22501-1460437500-25.jpg","title":"This Is What iPhone Emojis Look Like On Android","image_wide":"/static/2016-04/12/1/campaign_images/webdr05/one-emoji-font-to-rule-them-all-2-22501-1460437500-25_wide.jpg"}];
+								var opts = [];
+								for (var i=0; i< promotions.length; i++) for (var j=0; j<(promotions[i].probability * 100); j++) opts.push(promotions[i]);
+								var sel_promo = opts[Math.floor(Math.random() * opts.length)];
+								imp_attr_4206947_13.FLEX_PRO_IMP = sel_promo.id;
+								click_attr_4206947_13.FLEX_PRO_CLICK = sel_promo.id;
+							
+							
+							BF_STATIC.ctr_tracking[ 4206947 ] = {						
+								variations: promotions || [],
+								selectedVariationId: typeof sel_promo !== 'undefined' ? sel_promo.id : null,
+								position: 10,
+								post_category: 'DIY', // we need to figure out how we can get this
+								unit: 'nowbuzzing',
+								events: 'load|mousedown',
+								objectType: 'post',
+								unitClientId: '4ldqpjc'
+							};
+						</script>
+            <li class="post sidebar-post  bf_dom  sidebar-post-wide " rel:bf_bucket="track ctr-track" track="{&quot;c&quot;:&quot;7HJ6QU7&quot;,&quot;u&quot;:&quot;7BFA9I7&quot;,&quot;buzz&quot;:&quot;one-emoji-font-to-rule-them-all&quot;,&quot;user&quot;:&quot;nicolenguyen&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}"
+            id="promoted-one-emoji-font-to-rule-them-all" data-ctr-campaign-id="4206947">
+												<script type="text/javascript">
+							document.write('\
+								<a href="/nicolenguyen/one-emoji-font-to-rule-them-all" rel:gt_act="buzzing/thumb" rel:buzz_id="4206947" data-bfa="@a:Thumb; @d:Now-Buzzing;">\
+									<div style="float:left; position:relative;">\
+										<img src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" rel:bf_image_src="https://img.buzzfeed.com/buzzfeed-static' + sel_promo.image_wide + '" class="bf_dom thumb" rel:bf_bucket="progload" alt="" />\
+										\
+									</div>\
+								</a>\
+								<a class="qe editor-admin" style="display:none"  rel:data=\'{"buzz_id":"4206947"}\'></a>\
+								<h2>\
+									<a href="/nicolenguyen/one-emoji-font-to-rule-them-all" rel:gt_act="buzzing/title" data-bfa="@a:Title; @d:Now-Buzzing;">' + sel_promo.title + '</a>\
 								</h2>\
 								');
 						</script>
@@ -11427,7 +11478,7 @@ BuzzLoader.register(
 	</script>
 </div>
 
-<!-- UNIT:Nowbuzzing generated on 19:52:52,  4/12/2016 -->
+<!-- UNIT:Nowbuzzing generated on 16:12:12,  4/13/2016 -->
 </div>
 
 <!-- \nowbuzzing -->
@@ -11841,13 +11892,13 @@ BuzzLoader.register(
  
   
 
-    <script src="https://webappstatic.buzzfeed.com/static/js/User_and_Buzz_concat_footer.js?v=1460491838" type="text/javascript" ref:jsconf="true"></script>
+    <script src="https://webappstatic.buzzfeed.com/static/js/User_and_Buzz_concat_footer.js?v=1460575329" type="text/javascript" ref:jsconf="true"></script>
      
  
  
   
 
-    <script src="https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1460491838" type="text/javascript" ref:jsconf="true"></script>
+    <script src="https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1460575329" type="text/javascript" ref:jsconf="true"></script>
      
     <script type="text/javascript">
     Box.Application.init({
@@ -11886,11 +11937,11 @@ EventManager.observe_once(
             if (acl.user_can('feedback_tool')) {
                 Q.all([
                   loadScript('https://webappstatic.buzzfeed.com/static/js/html2canvas/html2canvas.js'),
-                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/services/user.js?v=1460491838'),
-                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/services/image-proxier.js?v=1460491838'),
-                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/feedback-widget-trigger.js?v=1460491838'),
-                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/feedback-widget.js?v=1460491838'),
-                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/screenshot-canvas.js?v=1460491838'),
+                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/services/user.js?v=1460575329'),
+                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/services/image-proxier.js?v=1460575329'),
+                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/feedback-widget-trigger.js?v=1460575329'),
+                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/feedback-widget.js?v=1460575329'),
+                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/screenshot-canvas.js?v=1460575329'),
                 ])
                 .then(function() {
                   var triggerEl = document.querySelector('.js-usernav-feedback');
@@ -11908,7 +11959,7 @@ EventManager.observe_once(
             }
             if (acl.user_can('duplicate_post')) {
               Q.all([
-                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/superduper.js?v=1460491838')
+                  loadScript('https://webappstatic.buzzfeed.com/static/js/t3/modules/superduper.js?v=1460575329')
                 ])
                 .then(function() {
                   var triggerEl = document.querySelector('[data-module="superduper"]');
@@ -11927,7 +11978,7 @@ EventManager.observe_once(
  
 
 
-<script src="https://webappstatic.buzzfeed.com/static/js/public/bpage-pinterest-nopin.js?v=1460491838" type="text/javascript"></script>
+<script src="https://webappstatic.buzzfeed.com/static/js/public/bpage-pinterest-nopin.js?v=1460575329" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -12128,7 +12179,7 @@ EventManager.observe_once(
 })();
 </script>
 
-<!-- UNIT:Badgeheaderflight generated on 20: 0:0,  4/12/2016 -->
+<!-- UNIT:Badgeheaderflight generated on 16:10:10,  4/13/2016 -->
 
 
 
@@ -12136,5 +12187,3 @@ EventManager.observe_once(
  </body>
 </html>
 
-
-<!-- 19:41:41,  4/12/2016 -->

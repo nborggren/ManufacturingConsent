@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=windows-1250">
+		<link rel="stylesheet" href="http://local.dailynews.com/common/dfm/assets/css/style.css" media="screen"/>
+		<link rel="stylesheet" href="http://extras.mnginteractive.com/live/partners/MediaCenter/embedded_galleries/mc_embed_styles_1.0.3.css" type="text/css" />
+		<title></title>
+  	</head>
+  	<body> 
+		<div class="photo-gallery" id="the-mc-gallery-embed"><span style="color:black">Loading</span> <a href="/apps/pbcs.dll/gallery?Site=LA&Date=20160413&Category=&ArtNo=-1&Ref=PH"></a></div>
+   	<script type="text/javascript" src="http://local.dailynews.com/common/dfm/assets/js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="http://local.dailynews.com/common/dfm/assets/js/dfm-core-level1.min.js"></script>
+		<script>window.jQuery.support.transition || document.write('<script src="http://twitter.github.io/bootstrap/assets/js/bootstrap-transition.js">\x3C/script>')</script>
+		<script>window.handlebars || document.write('<script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0-rc.3/handlebars.min.js">\x3C/script>')</script>
+		<script type="text/javascript">
+        dfm.api("data","galleryUrl", "/apps/pbcs.dll/gallery?Site=LA&Date=20160413&Category=&ArtNo=-1&Ref=PH");
+      // 	var mc_embed_options = { url : dfm.api("data", "galleryUrl") };
+      </script>
+		<script type="text/javascript">
+     		$(document).ready(function(){
+       		$.ajax({async:true, 
+       			type: "GET",
+            	url:"http://extras.mnginteractive.com/live/partners/MediaCenter/embedded_galleries/mc_embed_1.0.8.1.js", 
+            	dataType:'script'
+            })
+            .done(function() { 
+            	mc_embed_gallery = new MCGallery({
+               	url : dfm.api("data", "galleryUrl"),
+                  parentContainer: 'the-mc-gallery-embed',
+                  promotionMessage: 'See larger or additional photos here',
+                  numItems:false
+                  //fluid: true,
+                  //tracking: false,
+               });
+    				//mc_embed_gallery.initWidget();
+         	})
+         	.fail(function() { console.log(" gallery software load error"); }) 
+        });
+		</script>
+  </body>
+</html>

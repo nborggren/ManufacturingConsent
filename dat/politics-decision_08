@@ -1,0 +1,2173 @@
+<meta http-equiv="X-UA-Compatible" content="IE=5"><html><head><title>Hillary Clinton News| NBC News</title><link rel="stylesheet" type="text/css" href="/css/html40.css" /><link rel="stylesheet" type="text/css" href="/default.ashx/id/21589549/" /><link rel="stylesheet" type="text/css" href="/default.ashx/id/21728419/" /><script type="text/javascript" src="/js/std.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.5.2.min.js"></script><script type="text/javascript" src="/id/37631270/"></script><script type="text/javascript" src="/id/28644474?agency "></script><script type="text/javascript" src="http://assets.nbcnews.com/rendering/msnbc/html40/assets/Js/xfinity.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://assets.nbcnews.com/rendering/msnbc/html40/assets/Js/Analytics.js?v=04142016"></script><script type="text/javascript">gEnabled=false;</script><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="description" content="Complete political coverage of Hillary Clinton's campaign."><meta name="Search.Document" content="front"><meta name="Search.Updated" content="Sun, 01 Jun 2008 20:22:32 GMT"><meta name="Search.Section" content="Hillary Clinton News"><meta name="Search.Category" content="Decision '08"><link rel="alternate" type="application/rss+xml" title="MSNBC - Hillary Clinton News" href="http://www.nbcnews.com/id/16123862/device/rss/rss.xml" xmlns:media="http://search.yahoo.com/mrss/" /><link rel="alternate" type="application/rss+xml" title="NBCNEWS - Top Stories" href="http://feeds.nbcnews.com/feeds/topstories"><script type="text/javascript" src="http://ads1.msads.net/library/dapmsn.js"></script><script type="text/javascript" language="javascript" src="/id/30848600"></script><script language="javascript" type="text/javascript">
+this.nm_bo = function (o) 
+{
+    //newsmenu delay
+    if (nm_Enter) 
+    {
+        window.clearTimeout(nm_Enter);
+        nm_Enter = 0;
+    }
+    // Get initiating button
+    if (o) 
+    {
+    o2 = o.relatedTarget;
+    o = o.target;
+    } 
+    else 
+    {
+    o = window.event.srcElement;
+    o2 = window.event.toElement;
+    }
+    
+    // Force to our object; ignore if internal
+    o = nm_ne(o, 'onmouseout');
+    o2 = nm_ne(o2, 'onmouseout');
+    if (o == o2)
+    return;
+    
+    // Turn off active color
+    nm_mo(o);
+}
+
+this.nm_mo = function (o) 
+{
+    //newsmenu delay
+	if (nm_Enter) 
+	{
+        window.clearTimeout(nm_Enter);
+        nm_Enter = 0;
+    }
+    
+	// Check if we opened a menu
+	if ((nm_nNew == 1) && (nm_nD)) 
+	{
+        // Just opened the menu, so set the new menu protection timeout
+		nm_nNew = 2;
+        nm_tNew = window.setTimeout('nm_mt();', 250);
+        
+		// Remember to turn off highlight later
+		document.getElementById('nm_c' + nm_nD).nm_aOff = new Array(o);
+    } 
+	else 
+	{
+        // Turn off the highlight style for this item
+		if (nm_sx(o.className) == 'H') {
+            o.className = o.className.slice(0, -1);
+            if (o.firstChild.className) {
+                o.firstChild.className = o.firstChild.className.slice(0, -1);
+            }
+        }
+    }
+    
+	// Clear deferred arguments
+	nm_aDef = 0;
+    
+	// Set dismiss timer
+	nm_tDis = window.setTimeout('nm_mx(0,0)', 500);
+}
+</script><meta content="width = 1030" name="viewport"><link rel="apple-touch-icon" href="http://media1.s-nbcnews.com/i/msnbc/Components/ArtAndPhoto-Fronts/SITEWIDE/apple-touch-icon.png"/><script type="text/javascript">
+var mp={};
+mp.marketplaceMenuItem='161';
+mp.marketplaceParams='2065,43' ;
+</script><script type="text/javascript" language="javascript" src="/js/LaunchCanonicalPlayers.js">
+</script><script src="//www.nbcnews.com/id/51832828" type="text/javascript"></script>
+
+<script src="//www.nbcnews.com/id/51836893" type="text/javascript"></script></head><body><a href="#skipnav" style="display:none;visibility:hidden">Skip navigation</a>
+<!-- SiteCatalyst code version: H.15.1.Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript">s_account="msnbcom";if (typeof(readCookie)==="function" && readCookie("o.sv2") === "true"){s_account = "msnbcom,msnbcstorytest";}
+    </script>
+<script language="JavaScript" type="text/javascript" src="http://www.nbcnews.com/js/s_code.js"></script>
+<script>pd_top('Front','html40','16123860','','','politics','Decision \'08','Hillary Clinton News','','','21:07, 28/01/14','','subsection','','','16123862','69718','', '1',0,
+		{AdBanner:{},AdBannerFront:{AdGroup:'*customTag',AdSizeCode:'1390',Width:'728',Height:'90'},AdSponsor:{},AdOverThePage:{}}
+	,'MSNBC','true','','','');pd_me.ads = {'adShowcaseJson':{'adCallString':'','adWidth':'300','adHeight':'250'}};pd_om('msnbcom','100');</script>
+<script language="JavaScript" type="text/javascript">
+if(eventTrackerParams && ((pd_me.id!=3053415)||(checkTime()==true && pd_me.id==3053415)))
+{   
+  EventTracker().track(eventTrackerParams);  
+}</script>
+
+<div id="nm_c1" class="nmX"> </div><div id="nm_c2" class="nmX"> </div><div id="nm_c3" class="nmX"> </div><div id="nm_c4" class="nmX"> </div><script src="//www.nbcnews.com/id/51738311"></script><div style="display:none;">
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<img src="http://ad.doubleclick.net/activity;src=2183402;type=count651;cat=msnbc778;ord=1;num=' + a + '?" width="1" height="1" alt=""/>');
+</script>
+<noscript>
+<img src="http://ad.doubleclick.net/activity;src=2183402;type=count651;cat=msnbc778;ord=1;num=1?" width="1" height="1" alt="">
+</noscript>
+</div><style># {display:none;}</style><style># {display:none;}</style><style type="text/css">/*________temp styles________*/
+.IE  #siteHeader .main #upscroll-grid .grid h6 {font-size:14px !important;}
+.IE  #siteHeader ul.breadcrumbs {padding-top:3px;}
+#sliderAdHolder, body #AdBanner_S {background:#ddd;z-index:1;}
+#siteHeader .grid h6 .media {display:none;}
+#siteHeader #msn-more {z-index:9999;}
+#siteHeader .grid .img img {background:none !important;}
+#siteHeader .grid .label {color:#fff;}
+#siteHeader #breadcrumbs {width:auto;}
+#todayShow #siteHeader #breadcrumbs {width:50%;}
+#siteHeader #site #breadcrumbs #timeStamp, #siteHeader #site #breadcrumbs #udtD {display:none;}
+ 
+#siteHeader.cover #site #breadcrumbs #coverLogo,
+#siteHeader.cover #site #breadcrumbs #timeStamp {display:block;float:left;text-align:left;}
+ .IE .cover #site #breadcrumbs #timeStamp, .IE .cover #site #breadcrumbs #udtD {display:block;}
+#siteHeader.cover #site #breadcrumbs #udtD {visibility:hidden;display:block;font-size:10px;line-height:1.2;padding-top:15px;padding-left:10px;width:86px;}
+#siteHeader.cover #site #breadcrumbs #udtD .date {display:block;}
+/*___________________________*/
+
+
+/*________overwriting current styles________*/
+/*msn network header*/
+#siteHeader #msn ul {text-align: left; margin: 0;}
+#siteHeader #msn li {display: inherit; font:inherit; color:inherit; margin: 0;}
+#siteHeader #msn li a {color:inherit; text-decoration:inherit; font-weight:inherit;}
+#siteHeader #msn ul img {border: none; padding-bottom: 0; vertical-align: middle;}
+#siteHeader #msn .link a:hover {color: inherit; text-decoration: underline;}
+#siteHeader #msn .more a {margin: 0; padding: 0; width: auto; height: auto; background: none;}
+#siteHeader #msn .more a:hover {text-decoration: inherit;}
+
+#siteHeader .grid .w0-5, #siteHeader .grid .w1, #siteHeader .grid .w1-5, #siteHeader .grid .w1, #siteHeader .grid .w2, #siteHeader .grid .w2-5, #siteHeader .grid .w3, #siteHeader .grid .w4, 
+
+#siteHeader .grid .w5, #siteHeader .grid .x1, #siteHeader .grid .x2, #siteHeader .grid .x2-5, #siteHeader .grid .x3, #siteHeader .grid .x4, #siteHeader .grid .x5, #siteHeader .grid .y1, 
+
+#siteHeader .grid .y2, #siteHeader .grid .y3, #siteHeader .grid .y4, #siteHeader .grid .y5 {position: static; left: auto; top: auto;}
+
+#siteHeader .grid h6 {font-size: inherit;}
+
+#siteHeader #upscroll-grid .grid .label {border: 0;color:#fff;color:rgba(255, 255, 255, 0.5);}
+
+#siteHeader #marqueeContainer #marquee-site, #siteHeader #marqueeContainer #marquee-section {height:auto !important; background:inherit; border-bottom: inherit;}
+.IE #siteHeader #marqueeContainer #marquee-site, .IE #siteHeader #marqueeContainer #marquee-section {height: auto; background: inherit; border-bottom: none;}
+.Firefox #siteHeader #marqueeContainer #marquee-site, .Firefox #siteHeader #marqueeContainer #marquee-section {height:auto !important; min-height: auto;}
+#siteHeader #marqueeContainer #marquee .breaking {background:none !important; border-top: inherit;}
+#siteHeader #marqueeContainer #marquee .developing {background:none !important; border-top: inherit;}
+#siteHeader #marqueeContainer #marquee .breakingupdated {background:none !important; border-top: inherit;}
+#siteHeader #marqueeContainer #marquee .comingup {background:none !important; border-top: inherit;}
+#siteHeader #marqueeContainer #marquee .continuing {background:none !important; border-top: inherit;}
+#siteHeader #marqueeContainer #marquee .ticker {background:none !important; border-top: inherit; height: auto;}
+#siteHeader #marqueeContainer #marquee .ticker h1 {font-family:inherit; font-weight:inherit; font-size:inherit; color: inherit; margin-top:inherit;}
+#siteHeader #marqueeContainer #marquee .ticker h1 a, #siteHeader #marqueeContainer #marquee .ticker h1 a:visited {text-transform: none; font-weight: normal; text-decoration: none; color: #FFF; border-bottom: 1px dotted #FFF;}
+#siteHeader #marqueeContainer #marquee .ticker h1 a:hover {text-decoration: none; border-bottom: 1px solid #FFF;}
+
+#siteHeader #marqueeContainer #marquee h1{text-align:inherit !important; font-family: inherit !important; font-weight:inherit; font-size:inherit !important; color: inherit; padding-left: inherit 
+
+!important;}
+#siteHeader #marqueeContainer #marquee h1 a, #siteHeader #marqueeContainer #marquee h1 a:visited {text-transform: inherit; font-weight: normal !important; text-decoration:inherit; color: 
+
+inherit; border-bottom: inherit;}
+#siteHeader #marqueeContainer #marquee h1 a:hover{border-bottom: inherit; text-decoration: inherit;}
+  .IE-6 #siteHeader #marqueeContainer #marquee h1 a {border-bottom: inherit; background: inherit; padding-bottom: inherit;}
+  .IE-6 #siteHeader #marqueeContainer #marquee h1 a:hover {background: inherit; padding-bottom: inherit;}
+#todayShow #siteHeader #marqueeContainer #marquee h1 a {color: #b00;}
+
+.cover #breadcrumbs, #coverbadge .front #breadcrumbs, .business-front #breadcrumbs {width:auto !important;}
+
+#siteHeader .grid #cell2.content {border:0;}
+#siteHeader .Firefox .grid .img div, #siteHeader .Safari .grid .img div, .grid .img {display:block;}
+/*#siteHeader #cell2 .story{margin-top:10px;margin-bottom:0;clear:inherit;}*/
+#siteHeader .grid .img {margin-bottom: 0px;}
+
+.IE #siteHeader .grid #cell2,
+.IE #siteHeader .grid #cell3 {padding-top:0;}
+
+
+/*________/overwriting current styles________*/
+
+#siteHeader .focus {position: relative;}
+#siteHeader .focus span {display: none; cursor: pointer;}
+#siteHeader .focus:focus span {display: inline; text-decoration: underline;}
+#siteHeader #network .focus {left: 5px; position: absolute; top: 5px;}
+
+#siteHeader .grid h4, #siteHeader .grid h5 {padding-bottom:0;}
+#siteHeader .grid .img img {border: 0;}
+
+/*________msnbc baseline________*/
+#siteHeader p, #siteHeader ul, #siteHeader ol {padding: 0.8em 0;}
+
+ /* fixes for ie centering */
+ #siteHeader #site, #siteHeader #network {text-align:center;}
+ #siteHeader .content {text-align:left;}
+
+#siteHeader .content {margin:0 auto;width:996px;*position: relative;}
+#siteHeader .grid .content {height: auto; width: auto; float: left; background: none; margin: 0;}
+
+
+/*Site-wide*/
+ #siteHeader #navigation:after {content: "."; clear: both; display: block; height: 0; visibility: hidden;}
+ #siteHeader #network:after {content: "."; clear: both; display: block; height: 0; visibility: hidden;}
+
+ 
+/*_______adapted widths_______*/
+ #siteHeader .std {width: 996px;}
+ #siteHeader .grid .w0-5 {width: 82px;}
+.IE #siteHeader .grid .w0-5 {width: 83px;}
+ #siteHeader .grid .w1 {width: 166px;}
+ #siteHeader .grid .w1-5 {width: 248px;}
+ #siteHeader .grid .w2 {width: 332px;}
+
+ 
+/*_______Lists_______*/
+ /*horiz list*/
+ #siteHeader .hlist li,
+     #siteHeader #brands li,
+     #siteHeader #sitemap li,
+     /*#sections li,*/
+     #siteHeader #msn li,
+     #siteHeader #sites-shows li,
+     #siteHeader #today-sites li {list-style: none; float: left; padding-right: 6px;}
+
+/*_______layout rules_______*/
+ /*site header*/
+ #siteHeader {position: relative; z-index: 1300;}
+ #siteHeader #site {height: 47px;position: relative;/*overflow:hidden;*/}
+     #siteHeader #site .main {position: relative; /*margin-top: -3px;*/}
+/*     #siteHeader #site .search {margin-right: -6px;}*/
+ #siteHeader #breadcrumbs, .cover #siteHeader #topsearch {float: left; margin: 15px 0 0 9px;}
+ #siteHeader.cover #breadcrumbs, .cover #siteHeader #topsearch {float: left; margin: 3px 0 0 9px;}
+     #siteHeader #breadcrumbs a {margin: 0px 2px;font-size: 28px !important;}
+     #siteHeader #breadcrumbs .badge {margin-left: 0px;}
+     #siteHeader #breadcrumbs .logo {margin-right: 0px;}
+     .IE-6 #siteHeader #breadcrumbs {margin-left:0;}
+     .IE-6#todayShow #siteHeader #breadcrumbs {margin-left:5px;}
+     
+ #siteHeader #sections {
+  margin:0px 0px 0px -3px;
+  padding:7px 0px 0px;
+     position: relative; 
+     width: 996px; 
+  height:34px;
+     background: transparent;
+ }
+
+
+
+
+   .IE #site #sections {padding-bottom:2px !important;margin-bottom:10px;}
+   .IE .cover #site #sections {margin-bottom:0 !important;}
+   
+     #siteHeader #sections li {margin: 0 11px 0; padding:5px 0 10px 1px;}
+         #siteHeader #sections li.i1 {margin-left: 0px; padding-left: 7px;}
+         #siteHeader #sections li.i12 {margin-right: 0px;}
+         /*UpScroll selection persistance*/
+         #siteHeader .s1 #sections li.i1,
+         #siteHeader .s2 #sections li.i2,
+         #siteHeader .s3 #sections li.i3,
+         #siteHeader .s4 #sections li.i4,
+         #siteHeader .s5 #sections li.i5,
+         #siteHeader .s6 #sections li.i6,
+         #siteHeader .s7 #sections li.i7,
+         #siteHeader .s8 #sections li.i8,
+         #siteHeader .s9 #sections li.i9,
+         #siteHeader .s10 #sections li.i10,
+         #siteHeader .s11 #sections li.i11,
+         #siteHeader .s12 #sections li.i12,
+         #siteHeader .s13 #sections li.i13,
+         #siteHeader .s14 #sections li.i14
+             {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/sectionArrow.png') no-repeat center top;} 
+        
+        #siteHeader #sections li.i11, #siteHeader #sections li.i12 {background: none;}  
+        #siteHeader #sections li.i11 a:hover, #siteHeader #sections li.i12 a:hover {background: none; color: #FC3; border-bottom: 1px dotted;}
+        #siteHeader #sections li a:hover {background: none; color: #FC3}
+/*        #todayShow #siteHeader #sections li.i11 a:hover, #todayShow #siteHeader #sections li.i12 a:hover {color: #FFF; background: transparent 
+
+url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/20p.png') repeat; background: rgba(205,205,205,0.4); border-bottom:0;}
+*/        
+        #todayShow #siteHeader #sections li.i15 {background:none;}  
+        #todayShow #siteHeader #sections li.i15 a:hover {background: none; color: #FC3; border-bottom: 1px dotted;}
+         #todayShow #siteHeader #sections li.i11 a:hover,
+   #todayShow #siteHeader #sections li.i12 a:hover {
+   border:none; 
+  }
+ #siteHeader #network {height: 24px; position: relative; width: 100%; z-index: 1200;}
+  .IE #siteHeader #network {height:30px;padding-top:5px;}
+     #siteHeader #sites-shows {float: right; margin: 8px 10px 0px 0px; padding: 0px;}
+     #siteHeader #msn {float: left; height: auto; margin: 8px 0px 0px 10px; padding: 0px; width: auto; z-index: 1100;}
+     #siteHeader #msn-more {display: none;}
+     #siteHeader #msn li {margin-right: 7px; padding-right:6px;}
+     #siteHeader #msn li.more:hover #msn-more, .IE #siteHeader #msn li.moreOut #msn-more {display: block; float: left; position: absolute; height: auto; top: 20px; *left: 110px; width: 465px; 
+
+padding: 25px 21px 20px 20px; z-index: 1000;}
+
+
+/*_______presentation rules_______*/
+.cover #site .content #breadcrumbs .logo {
+background:url("http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/nbcnews-cover-logo-top.png") no-repeat scroll 0 8px transparent;
+padding-right:0;
+width:245px;
+height:41px;
+display:block;
+}
+ .IE-6 .cover #site .content #breadcrumbs .logo {
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/nbcnews-cover-logo-top.png', sizingMethod='crop'); 
+  background-image: none;
+ }
+
+ .IE-6 #siteHeader #breadcrumbs .logo {
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/nbcnews.png', sizingMethod='crop'); 
+  background-image: none; zoom: 1;
+ }
+
+/*#siteHeader.cover #sections {margin-bottom:16px;}*/
+/*#siteHeader.cover #site .search {margin-top:11px;}*/
+#breadcrumbs, #site .search {
+ float:left;
+ margin:5px 0 0 9px;
+}
+#site .search { margin-top:10px !important;}
+
+/*site header*/
+#siteHeader #site {border-bottom: 1px solid #000; border-top: 0px; color: #000;}
+#siteHeader #breadcrumbs .logo span {visibility: hidden;}
+#siteHeader #network {background: transparent; border-bottom: 1px solid #CCC; border-bottom: 1px solid rgba(205,205,205,0.5);}
+    #siteHeader #msn li.msnLogo a {width: 37px; height: 17px; margin-top: -7px; background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msnLogo.png') left top 
+
+no-repeat; text-indent: -5000px; float: left;}
+        .IE-6 #siteHeader #msn li.msnLogo a {
+   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msnLogo.png', sizingMethod='crop'); 
+   background-image: none;
+  }
+    #siteHeader #msn li.msnLogo a:hover, #siteHeader #msn li.msnLogo a:focus {background-position: left bottom;}
+        #siteHeader #msn li.more {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msndn.gif') right no-repeat; *background-position: right 53%; 
+
+padding: 0 9px 0 3px;}
+         .IE-6 #siteHeader #msn li.more {display:none;}
+            #siteHeader #msn li.more:hover #msn-more, .IE #siteHeader #msn li.moreOut #msn-more {margin-left: -19px; background: transparent 
+
+url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msn-rolloverBgd.png') no-repeat  left -2px;}
+            #siteHeader #msn-more li {display: inline-block; float:left; line-height: 18px; width: 135px;}
+            #siteHeader #msn-more li a {font-size: 11px; color: #147;}
+            #siteHeader #msn-more li a:hover, #siteHeader #msn-more li a:focus {color: #147; text-decoration: underline;}
+            
+        .IE #siteHeader #msn {margin-top:0 !important;}
+         .IE #siteHeader #msn li.hotmail, .IE #siteHeader #msn li.more {margin-top:8px;}
+         .IE #siteHeader #msn li.bing {margin-top:10px;}
+          .IE #siteHeader #msn li.bing a {height:10px; overflow:hidden;}
+        .IE #siteHeader #msn, .IE #siteHeader #msn li {overflow:visible;}
+      .IE #siteHeader #msn li a {margin-top:0;}
+      .IE #siteHeader #msn .more a {top: auto !important;}
+      .IE #siteHeader #msn li.msnLogo {margin-top:2px !important;}
+            
+        #siteHeader .bing a {margin: 3px 0 0 7px; width: 30px; height: 10px; background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/bing.png');text-indent: 
+
+-5000px; float: left;}
+        .IE-6 #siteHeader .bing a {
+   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/bing.png', sizingMethod='crop'); 
+   background-image: none;
+  }
+            #siteHeader .bing a:hover {background-position: left bottom; text-decoration: none;}
+             .IE #siteHeader .bing a:hover {background-position:0 10px;}
+             #siteHeader #shows {border-left: 1px dotted #CCC;}
+    #siteHeader #sections li a {padding: 2px 4px; border-bottom: 0px;}
+    #siteHeader #sections  li a:hover, #siteHeader #sections li.parent a {
+/*  background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/20p.png') repeat; 
+  background:rgba(205,205,205,0.4); 
+  border-radius: 2px; 
+  -moz-border-radius: 2px; 
+  -webkit-border-radius: 2px; 
+*/  padding: 2px 4px;}
+/*     .IE #siteHeader #sections li a:hover, .IE #siteHeader #sections .parent a {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/20p.png') repeat !important;}
+*/     .IE-6 #siteHeader #sections li a:hover, .IE-6 #siteHeader #sections .parent a {background:none !important;}
+    
+#siteHeader #sites-shows li {padding: 0 8px;}
+    #siteHeader #sites-shows .i1 a {text-indent: -5000px; float: left;}
+/*    #siteHeader #sites-shows li.i10 {padding-right: 0;}*/
+    
+
+/*_______typography_______*/
+ /*site header*/
+ #siteHeader #sections li a {color: #DEF;}
+ #siteHeader #sections li.parent a {color: #FFF !important; display: block; font-size: 16px; font-weight: bold; margin: -4px 2px; padding: 1px 5px;} 
+/* #siteHeader #sections li a:hover {color: #FFF;}*/
+ #siteHeader a {color: #FFF; text-decoration: none; font-weight: normal;}
+ #siteHeader a:hover, #siteHeader a:focus {color: #FC3; text-decoration: none;}
+   #siteHeader #upscroll-grid a:hover, #siteHeader #upscroll-grid a:focus {color: #CC0000 !important;}
+  #siteHeader #upscroll-grid #cell1 .story a:hover font, #siteHeader #upscroll-grid #cell2 .story a:hover font, #siteHeader #upscroll-grid #cell1 .story a:focus font, #siteHeader #upscroll-grid #cell2 .story a:focus font {color: #FC3 !important;}
+ #siteHeader #navigation li {font-size: 14px; font-weight: bold;}
+     #siteHeader #navigation #shows li li {font-size: 8px; font-weight: normal; white-space: nowrap;}
+ #siteHeader #sections li {color: #999; font-size: 15px;}
+ #todayShow #siteHeader #sections li {font-size: 14px;}
+     #siteHeader #sections li a:hover, #siteHeader #sections li a:hover {color: #FFF; text-decoration: none;}
+ #siteHeader #network li {color: #FFF; font-size: 10px;}
+ #siteHeader #breadcrumbs {font: normal 10px/28px Arial, sans-serif; color: #EEE;}
+  #siteHeader ul.breadcrumbs {padding-top:0;width:auto;}
+     #siteHeader #breadcrumbs .badge, #siteHeader #breadcrumbs .logo {font-size: 28px;}
+     #siteHeader #breadcrumbs a {color: #FFF; text-decoration: none;}
+  #siteHeader #upscroll-grid #cell1 .story a font, #siteHeader #upscroll-grid #cell2 .story a font {color: #FFF; text-decoration: none;}
+#siteHeader .grid h5 a { font-weight:bold;}
+
+/*_______GRIDS_______*/
+ #siteHeader .cf:after {/*add clearfix*/ content: "."; clear: both; display: block; height: 0; visibility: hidden;}
+ #siteHeader .grid:after {/*add clearfix*/ content: "."; clear: both; display: block; height: 0; visibility: hidden;}
+ #siteHeader .nowrap:after {/*add clearfix*/ content: "."; clear: both; display: block; height: 0; visibility: hidden;}
+ #siteHeader .grid .col ol:after {/*add clearfix*/ content: "."; clear: both; display: block; height: 0; visibility: hidden;}
+ 
+ /*grids in general*/
+ #siteHeader .grid {font-size: 14px; height: auto; list-style: none; margin: 0px;}
+     #siteHeader .grid .col {float: left; height: 100%; list-style: none; margin: 0px 0px 0px -1px; padding: 0px;}
+     #siteHeader .grid li {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/fade-vr.gif') bottom right no-repeat;}
+         #siteHeader .grid li li {background: transparent url(''); float: none;} /*negate border/float for inner stories*/
+         /*column/item layout*/
+         #siteHeader .col ol li {margin: 10px; padding: 0px;}
+         #siteHeader .grid ol {padding: 1px 0px;} /*counters reset.css padding*/
+         #siteHeader .grid .art {margin: 0px; padding: 0px;}
+         #siteHeader .grid .art img {background: none;}
+             #siteHeader .grid .media .left {margin: 0px 14px 1px 0px;}
+             #siteHeader .grid .media .right {margin: 0px 0px 1px 10px;}
+             #siteHeader .grid .media .top {margin: 0 auto;}
+             #siteHeader .grid .none {display: none;} /*insurance from server-side check*/
+             #siteHeader .grid .art .credit {font-size: 9px; line-height: 9px; margin-top: 0;}
+             #siteHeader .grid .img a {border-bottom: none;}
+             #siteHeader .grid .tease .credit {display: none;}
+             #siteHeader .grid .tease {color: #999; font: bold Tahoma,'Lucida Grande',sans-serif; letter-spacing: 0.2em; margin: 4px 0px; padding-top: 2px;}
+             #siteHeader .grid .source a {color: #69C; font-size: 100%; font-weight: bold; margin: 3px 0px;}
+         #siteHeader .grid .abstr {font: normal 1.0em Arial, sans-serif; margin: 5px 0px 5px 0px; padding: 0px;}
+         /*column/item effects*/
+         #siteHeader .grid li.last, #siteHeader .grid li.no-border, #siteHeader .grid li.inner-div {background-color: lime; background: transparent url('');}
+         #siteHeader .grid li.inner-rule {background-position: top right; border-bottom: 1px solid pink;}
+         #siteHeader .grid .stories {background: transparent url('');}
+         #siteHeader .grid li.inner-div .stories {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/dash-vr.gif') right -20px no-repeat;}
+         #siteHeader .grid .rule {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/dash-hr.gif') bottom 80% repeat-x; margin-bottom: 8px; 
+
+padding-bottom: 8px;}
+         #siteHeader .grid .nowrap {clear: both;}
+
+         #siteHeader .grid .remove-border .art .img, #siteHeader .grid .remove-border img, 
+         #siteHeader .grid .flat .art .img, #siteHeader .grid .flat img {border: none;}
+         
+ /*basic grid library from old site, minor modifications*/
+ /*grid globals*/
+ #siteHeader .grid .h1, #siteHeader .grid .h2, #siteHeader .grid .h3, #siteHeader .grid .h4, #siteHeader .grid .h5, #siteHeader .grid .h6, #siteHeader .grid p, #siteHeader .grid cite {color: 
+
+#aaa; font-family: Arial, Helvetica, sans-serif; margin: 7px 0px;}
+  #siteHeader .grid cite {font-size:9px;margin:2px 0;}
+  #todayShow #siteHeader .grid cite {color: #ECB;}
+     #siteHeader .grid a, .page #siteHeader .grid a, #siteHeader .grid .h1, #siteHeader .grid .h2, #siteHeader .grid .h3, #siteHeader .grid .h4, #siteHeader .grid .h5, #siteHeader .grid .h6 
+
+{color: #147; text-decoration: none;} /*must come after non-a-tag declaration */
+     #siteHeader .grid .caption {letter-spacing: 0; color: #999; text-align: right; margin-top: 3px; margin-bottom: 3px; font-size: 9px;}
+ #siteHeader .grid .abstr, #siteHeader .grid .source {font-size: 80%; line-height: 135%;}
+     #siteHeader .grid .abstr a, #siteHeader .grid .abstr .readmore {font-size: 100%; font-weight: normal; white-space: nowrap;}
+ #siteHeader .grid .flag, #siteHeader .grid .icon {display: inline-block; border: none; vertical-align: baseline;}
+#siteHeader .grid .w0-5 .flag, #siteHeader .grid .w0-5 .icon, #siteHeader .grid .img-left .flag, #siteHeader .grid .img-left .icon {display: none;}
+
+ #siteHeader .grid .tease .icon span {height: 12px;}
+ 
+ /*grid labels*/
+ #siteHeader .grid .title {visibility: hidden;}
+ #siteHeader .grid span.label {
+     background: #E8E8E8;
+     background: rgba(0, 0, 0, 0.08);
+     color:#fff;
+     color:rgba(255, 255, 255, 0.5);
+     font: bold 10px/180% 'Lucida Grande', Tahoma, sans-serif; 
+     height: 20px; 
+     padding: 0 10px 0 10px;
+     visibility: visible;
+ }
+     #siteHeader .grid span.label a {font: bold 10px/180% 'Lucida Grande', Tahoma, sans-serif;}
+     #siteHeader .grid .breaking .title {color: #C44; border-bottom: 1px solid #C44;}
+         #siteHeader .grid .breaking .title a, #siteHeader .grid .breaking .title a:visited {color:#C44; border-bottom: 1px dotted #C44;}
+         #siteHeader .grid .breaking .title a:hover {text-decoration: none; border-bottom: 1px solid #C44;}
+     #siteHeader .grid .sublabel, #siteHeader .grid li li.label {border-bottom: 1px solid #CCC; clear: left; margin: 2px 0px; padding: 3px 10px;}
+     #siteHeader .grid .sublabel {border-top: 1px solid #CCC; font-size: 75%; margin: 10px 0px;}
+         #siteHeader .grid .sublabel a {font-size: 105%;}
+     #siteHeader .grid .tease .label {color: #999; font-weight: bold; font-size: 60%; font-family: Tahoma, 'Lucida Grande', sans-serif; letter-spacing: .2em;}
+     /*not used?*/ #siteHeader .grid .sublabel-small .title {background: none; margin: 10px 0 -10px 0;}
+ /*label-forced widths*/
+ #siteHeader .grid .lbl-2col .title {background-color: lime;}
+ #siteHeader .grid .label-an-3 {width: 498px;}/*x3*/
+ 
+ /*grid headlines*/
+ #siteHeader .grid h1 {font-size: 210%; font-weight: bold; text-transform:uppercase; border-bottom: none;}
+ #siteHeader .grid h2 {font-size: 190%; border-bottom: none;}
+ #siteHeader .grid h3 {font-size: 170%; line-height: 1.2em; *line-height: 1.0em; border-bottom: none;}
+ #siteHeader .grid h4 {font-size: 143%; font-weight: normal; line-height: 1.10em; border-bottom: none;}
+ #siteHeader .grid h5 {font-size: 80%; font-weight: normal; line-height: 1.25em; border-bottom: none;}
+     #siteHeader .grid h4, #siteHeader .grid h5 {font-family: Georgia, serif; margin-bottom: 5px;}
+#siteHeader .grid h5 {font-family: Arial,Helvetica,sans-serif;}
+ #siteHeader .grid h6 a {font-size: 95%; font-weight: bold; margin-bottom: 1px; /* line-height: 1.0em; */ display: block;}
+
+ #siteHeader .grid h1:hover, #siteHeader .grid h1:visited:hover, #siteHeader .grid h2:hover, #siteHeader .grid h2:visited:hover {text-decoration: none;}
+ #siteHeader .grid h6 {}
+ #siteHeader .grid h6:hover, #siteHeader .grid h6:visited:hover {text-decoration:none;}
+ #siteHeader .grid h6:hover, #siteHeader .grid h6:visited:hover {text-decoration:none;}
+ 
+ /* icon styles */
+ #siteHeader .grid h6 .video, #siteHeader .grid h6 .photos, #siteHeader .grid h6 .photo, #siteHeader .grid h6 .data, 
+ #siteHeader .grid p .video, #siteHeader .grid p .photos, #siteHeader .grid p .photo, #siteHeader .grid p .data
+ #siteHeader .grid .tease .video, #siteHeader .grid .tease .photos, #siteHeader .grid .tease .photo, #siteHeader .grid .tease .data,
+ #siteHeader .grid .new .timestamp, #siteHeader .grid .updated .timestamp
+         {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/story-chrome.gif') top left no-repeat; display: inline; padding-left: 20px;}
+
+.IE #siteHeader .grid h6 .video, .IE #siteHeader .grid h6 .photos, .IE #siteHeader .grid h6 .photo, .IE #siteHeader .grid h6 .data, 
+ .IE #siteHeader .grid p .video, .IE #siteHeader .grid p .photos, .IE #siteHeader .grid p .photo, .IE #siteHeader .grid p .data
+ .IE #siteHeader .grid .tease .video, .IE #siteHeader .grid .tease .photos, .IE #siteHeader .grid .tease .photo, .IE #siteHeader .grid .tease .data,
+ .IE #siteHeader .grid .new .timestamp, .IE #siteHeader .grid .updated .timestamp
+         {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/story-chrome.gif') top left no-repeat; display: inline-block;}
+
+ #siteHeader .grid h6 .video, #siteHeader .grid p .video, #siteHeader .grid .tease .video {background-position: -701px -92px;}
+ #siteHeader .grid h6 .photos, #siteHeader .grid p .photos, #siteHeader .grid h6 .photo, #siteHeader .grid p .photo, #siteHeader .grid .tease .photos, #siteHeader .grid .tease .photo 
+
+{background-position: -701px -130px}
+ #siteHeader .grid h6 .data, #siteHeader .grid p .data, #siteHeader .grid .tease .data {background-position: -702px -206px;}  
+ #siteHeader .grid .timestamp {display: inline; border-bottom: 0px}
+     #siteHeader .grid .timestamp:hover {text-decoration: none;}
+ #siteHeader .grid .timestamp abbr, #siteHeader .grid time, #siteHeader .grid .time {display: none;}
+ #siteHeader .grid .new .timestamp, #siteHeader .grid .new p .timestamp {background-position: -619px -3px; padding-left: 27px;}
+ #siteHeader .grid .updated .timestamp, #siteHeader .grid .updated p .timestamp {background-position: -570px -3px; padding-left: 43px;}
+     #siteHeader .grid .new .timestamp:hover, #siteHeader .grid .updated .timestamp:hover {border-bottom: 0px; text-decoration: none;}
+     
+     
+ /*upscroll icon styles*/
+ #siteHeader .main .grid h5 .video {background-position:-702px -108px; height:12px; width:16px; top:0;}
+ #siteHeader .main .grid h5 .photos {background-position:-702px -146px; height:12px; width:16px; top:0;}
+ #siteHeader .main .grid h5 .data {background-position:-702px -224px; height:12px; width:16px; top:0;}  
+ #siteHeader .main .grid h6 .video, #siteHeader .main .grid p .video, #siteHeader .main .grid .tease .video {background-position: -702px -91px; padding-bottom: 1px; top:0px;}
+ #siteHeader .main .grid h6 .photos, #siteHeader .main .grid p .photos, #siteHeader .main .grid h6 .photo, #siteHeader .main .grid p .photo, #siteHeader .main .grid .tease .photos, #siteHeader 
+
+.main .grid .tease .photo {background-position: -702px -129px; position:inherit;}
+ #siteHeader .main .grid h6 .data, #siteHeader .grid p .data, #siteHeader .grid .tease .data {background-position: -702px -224px; position:inherit;}
+ #siteHeader .main .grid .new .timestamp, #siteHeader .main .grid .new p .timestamp {background-position: -619px -22px; padding-left: 27px;}
+ #siteHeader .main .grid .updated .timestamp, #siteHeader .main .grid .updated p .timestamp {background-position: -570px -22px; padding-left: 43px;}
+ 
+ /*grid text effects*/
+ #siteHeader .grid .textFX-center h1, #siteHeader .grid .textFX-center h2, #siteHeader .grid .textFX-center h3, #siteHeader .grid .textFX-center h4, #siteHeader .grid .textFX-center h5, 
+
+#siteHeader .grid .textFX-center h6 {text-align: center;}
+ #siteHeader .grid .textFX-up1 h6 {font-size: 80%;}
+ #siteHeader .grid .textFX-up2 .h6 {font-size: 90%;}
+ #siteHeader .grid .textFX-up1 .h5 {font-size: 110%;}
+ #siteHeader .grid .textFX-up2 .h5 {font-size: 120%;}
+ #siteHeader .grid .textFX-up1 .h4 {font-size: 135%;}
+ #siteHeader .grid .textFX-up2 .h4 {font-size: 145%;}
+ #siteHeader .grid .textFX-up1 .h3 {font-size: 160%;}
+ #siteHeader .grid .textFX-up2 .h3 {font-size: 165%;}
+ #siteHeader .grid .textFX-up1 .h2 {font-size: 185%;}
+ #siteHeader .grid .textFX-up2 .h2 {font-size: 220%;}
+ #siteHeader .grid .textFX-up1 .h1 {font-size: 225%;}
+ #siteHeader .grid .textFX-up2 .h1 {font-size: 250%;}
+ #siteHeader .grid .textFX-up3 .h1 {font-size: 300%;}
+ #siteHeader .grid .textFX-up4 .h1 {font-size:425%;}
+ 
+ /*grid layout effects*/
+ #siteHeader .grid .sideBySide, #siteHeader .grid .layoutFX-1col, #siteHeader .grid .layoutFX-1col-thumb-s {float: left; width: 144px;padding:0;}
+ #siteHeader .grid .layoutFX-1col-thumb-m {float: left; width: 96px;}
+ #siteHeader .grid .sideBySide #siteHeader .grid-2x2, #siteHeader .grid .layoutFX-1col #siteHeader .grid-2x2 {height: 122px;}
+ #siteHeader .grid .thumbs-m-rows .stories li {float: left; height: 160px; text-align: center;}
+     #siteHeader .grid .thumbs-m-rows .stories .icon {display: none;}
+ 
+ 
+ /*UpScroll Grids (behind .main)*/
+ #siteHeader .main .grid { font-size: 14px; margin-left: 0; padding: 5px 0px 0px 10px;}
+
+ #siteHeader .main .grid .title {border: 0px;}
+
+/* #siteHeader .main .grid div.w2, #todayShow #siteHeader .main #upscroll-grid .grid div.x3-5 {background: url("http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/fade-hdr-vr.png") */
+
+no-repeat scroll right top transparent; margin: 0;}
+     #siteHeader .main .grid .last {background: transparent url('');} /*kill border for columns*/
+     #siteHeader .main .w0-5 {width: 82px;} /*fixes last column overlap*/
+     #todayShow #siteHeader .main #upscroll-grid .grid div.x4 {background:none;}
+ #siteHeader .main .grid li li {height: auto;}
+ #siteHeader .main .grid a, #siteHeader .main .grid a:visited {color: #114477; border-bottom: none; }
+  #siteHeader .grid a:hover {color: #CC0000; text-decoration: none;}
+#todayShow #siteHeader .grid a:hover { /*color:#FC3 !important; */text-decoration: none;}
+ #siteHeader .main .grid p {color: #444; padding-top: 4px;}
+ #siteHeader .main .grid .art img {border-color: #FFF; border: 1px solid rgba(255,255,255,0.7); *background-color: transparent; *border: 1px solid #FFF; *padding: 0px;}
+ #siteHeader.main .art .credit {color: #999; margin: 2px -2px 4px;}
+ #siteHeader .main .grid .art .img {border: 0px; vertical-align: top; margin-left: -2px;}
+ #siteHeader .main .grid .remove-border .art .img, #siteHeader .main .grid .remove-border img, 
+         #siteHeader .main .grid .flat .art .img, #siteHeader .main .grid .flat img 
+             {border: none;}
+ #siteHeader .main .grid span.label {
+     background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/20p.png') top left repeat;
+     color:rgba(255,255,255, 0.5);
+ }
+  .IE #todayShow  #siteHeader .main .grid span.label, .IE #todayShow  #siteHeader .main .grid cite {color: #ECB;}
+ #siteHeader .main .grid .inner-div, #todayShow #siteHeader .main #upscroll-grid div.inner-div {background: transparent 
+
+url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/dash-hdr-vr.png') right top no-repeat;}
+ #siteHeader .main .grid .inner-div .stories {background: transparent url('');}
+ 
+ 
+/*________BRANDING________*/
+#siteHeader {background: black url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msnbc-hdr-bg.jpg') bottom no-repeat;}
+ #todayShow #siteHeader {background:url("http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-hdr-bg2.jpg") repeat-y scroll center bottom #901810;}
+#siteHeader #article {background: white url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msnbc-article-bg.jpg') top repeat-x;}
+#siteHeader #sites-shows .site-msnbc {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/peacock.png') left 1px no-repeat; padding-right: 16px; 
+
+cursor:pointer;}
+ .IE #siteHeader #sites-shows .site-msnbc {width:18px;height:12px;}
+ .IE-6 #siteHeader #sites-shows .site-msnbc {filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/peacock.png', 
+
+sizingMethod='crop');background-image: none;}
+#todayShow #siteHeader #sites-shows .i1 a {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/sites-shows-msnbc.png') no-repeat scroll left 0; 
+
+padding-right: 79px; text-indent: -5000px; float: left;}
+ #todayShow.IE #siteHeader #sites-shows .i1 a {width:80px;height:12px;}
+ .IE-6#todayShow #siteHeader #sites-shows .i1 a {filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/sites-shows-msnbc.png', 
+
+sizingMethod='crop');background-image: none !important;}
+
+#siteHeader #sites-shows .sitesShows {display: none;}
+ #todayShow #siteHeader #sites-shows .sitesShows {display:block;float:left;}
+
+#siteHeader #breadcrumbs .logo {
+    padding-right: 41px;
+     background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/nbcnews.png') no-repeat -4px 6px;
+}
+#todayShow #siteHeader #breadcrumbs .logo {background: url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-hdr-logo3.png') 0 0 no-repeat; display:inline-block; padding-right:10px; position:absolute;left:10px; }
+#todayShow #siteHeader ul.breadcrumbs {position:relative; left:160px;}
+ .IE-6#todayShow #siteHeader #breadcrumbs .logo {
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-hdr-logo3.png', sizingMethod='crop'); 
+  background-image: none !important; zoom: 1;
+ }
+
+.IE#todayShow #siteHeader #breadcrumbs .logo {top:4px; left:0px;}
+
+.IE-6#todayShow #siteHeader ul.breadcrumbs {left:165px;}
+
+#todayShow #siteHeader #breadcrumbs #coverLogo {margin-top:5px;}
+ .IE#todayShow #siteHeader #breadcrumbs #coverLogo {position:relative !important;}
+
+ .IE-6 .todayCover #site #breadcrumbs #coverLogo {background-image: none;}
+ .IE-6 .todayCover #site .content #breadcrumbs .logo  {filter: 
+progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-hdr-logo.png', sizingMethod='crop');background-image: none;}
+ .IE-6 .todayCover #site .content #breadcrumbs .logo {position:relative !important;margin-top:10px;left:-15px;}
+
+#siteHeader #breadcrumbs a {text-decoration: none;}
+#siteHeader #breadcrumbs a:hover, #siteHeader #breadcrumbs a:focus {color: #FC3;}
+#siteHeader #legal {background: black url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msnbc-ftr-bg.jpg') top no-repeat; height: 81px;}
+#siteHeader #footer {height: 2em;}
+#siteHeader #legal {background: black url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/msnbc-ftr-bg.jpg') top no-repeat; height: 119px;}
+#siteHeader #brands .brand, #siteHeader #brands .rel {display: none;}
+
+#siteHeader #breadcrumbs .breadcrumbs li.item2, #siteHeader #breadcrumbs .breadcrumbs li.item3 {display:none;}
+#siteHeader #breadcrumbs .breadcrumbs li.item2 a, #siteHeader #breadcrumbs .breadcrumbs li.item3 a {background:none;padding-left:0;}
+ 
+ 
+ 
+/**********
+* Search boxes [widen to search results?]
+***********/
+
+/*_______layout rules_______*/
+#siteHeader .search {float: left; position: relative !important; width:305px; left:1px; *position: static; *top: -3px /*IE*/;}
+#siteHeader .search fieldset {padding: 0; height: 26px;line-height: 1.4;text-align: left; overflow:hidden;}
+.IE #siteHeader .search fieldset {height: 28px;}
+#siteHeader .search input, #siteHeader .search button {margin: 0px; padding: 0px;}
+ #siteHeader .search input.q {color: #aaa; font-size: 14px; width: 177px; vertical-align: middle; padding-top: 2px; margin-top: -3px;}
+#siteHeader .search input.q {color: #aaa; font-size: 14px; width: 177px; vertical-align: middle; padding-top: 2px; margin-top: -3px;}
+ #siteHeader .search input:focus {color:666 !important;}
+.IE #siteHeader .search input.q {padding-left: 5px; margin-top: -12px;
+} 
+#siteHeader .search .bing{
+ margin:0;
+ position:relative;
+ left:1px;
+ color:#FFF;
+ font-size:12px;
+ font-weight:bold;
+ padding-left:55px;
+ }
+.Firefox #siteheader .search .bing {
+ padding-bottom:5px; 
+}
+
+ 
+/*_______presentation rules_______*/
+#siteHeader .search fieldset {background: #FFF; border: 1px solid #AAA;}
+ #siteHeader .search input, .search button {border: 0px; padding: 4px;}
+ #siteHeader .search input.bing {
+background: url('http://media1.s-nbcnews.com/j/MSNBC/Components/CSS/img/bing_color_web_51.standard.png') no-repeat right top transparent;
+ width:123px;
+ height:26px;
+  cursor: pointer;
+ }
+ 
+/*_______typography rules_______*/
+#siteHeader .search .likeinput a {font-size: 12px; text-decoration: none;}
+
+
+
+
+
+/*_______marquee_______*/
+#siteHeader #marqueeContainer {width:100%;}
+#siteHeader #marqueeContainer #marquee {position: relative; width: 100%; height: 36px;}
+ .IE #siteHeader #marqueeContainer #marquee, .IE #siteHeader #marqueeContainer #marquee h1 {position:static !important;}
+#siteHeader #marqueeContainer #marquee h1 {background-color: #b00; color: #FFF; font: bold 20px/18px Arial, sans-serif; padding: 8px 7px 7px 7px; width: 972px; text-align: center;margin:0 
+
+auto;font-size:20px !important;padding-left: 7px !important;}
+ #siteHeader #marqueeContainer #marquee-section {border-bottom:0 !important;}
+ #siteHeader #marqueeContainer #marquee span {text-align: center;display:block;margin-right:10px;}
+#siteHeader #marqueeContainer h1 a {font-size: 20px; font-weight: normal; color: inherit;border-bottom:0;color:#fff;}
+#siteHeader #marqueeContainer h1 a:hover {text-decoration: underline !important; color: inherit !important;}
+
+
+#siteHeader #marqueeContainer #marquee .breaking,
+#siteHeader #marqueeContainer #marquee .breakingupdated {border-top: 1px solid #B00; color:#fff;}
+    #siteHeader #marqueeContainer #marquee .breaking h1,
+    #siteHeader #marqueeContainer #marquee .breakingupdated h1 {background-color: #B00;color:#fff;}
+
+#siteHeader #marqueeContainer #marquee .comingup,
+#siteHeader #marqueeContainer #marquee .continuing,
+#siteHeader #marqueeContainer #marquee .ticker,
+#siteHeader #marqueeContainer #marquee .developing {border-top: 1px solid #59D;}
+    #siteHeader #marqueeContainer #marquee .comingup h1,
+    #siteHeader #marqueeContainer #marquee .continuing h1,
+    #siteHeader #marqueeContainer #marquee .developing h1 {background-color: #59D;}
+    
+    
+#todayShow #siteHeader #marqueeContainer #marquee {color: #B00;}
+#todayShow #siteHeader #marqueeContainer #marquee h1, #todayShow #siteHeader #marquee h1 a {background-color: #FFF;}
+
+#todayShow #siteHeader #marqueeContainer #marquee .breaking,
+#todayShow #siteHeader #marqueeContainer #marquee .breakingupdated {border-top: 1px solid #FFF;}
+    #todayShow #siteHeader #marqueeContainer #marquee .breaking h1,
+    #todayShow #siteHeader #marqueeContainer #marquee .breakingupdated h1 {background-color: #FFF;color:#B00 !important;}
+
+#todayShow #siteHeader #marqueeContainer #marquee .comingup,
+#todayShow #siteHeader #marqueeContainer #marquee .continuing,
+#todayShow #siteHeader #marqueeContainer #marquee .ticker,
+#todayShow #siteHeader #marqueeContainer #marquee .developing {border-top: 1px solid #FFF;}
+    #todayShow #siteHeader #marqueeContainer #marquee .comingup h1,
+    #todayShow #siteHeader #marqueeContainer #marquee .continuing h1,
+    #todayShow #siteHeader #marqueeContainer #marquee .developing h1 {background-color: #FFF;}
+
+#todayShow #siteHeader #marqueeContainer #marquee .comingup h1,
+#todayShow #siteHeader #marqueeContainer #marquee .continuing h1,
+#todayShow #siteHeader #marqueeContainer #marquee .ticker h1,
+#todayShow #siteHeader #marqueeContainer #marquee .developing h1 {color: #59D !important;} 
+#todayShow #siteHeader #marqueeContainer #marquee .comingup h1 a,
+#todayShow #siteHeader #marqueeContainer #marquee .continuing h1 a,
+#todayShow #siteHeader #marqueeContainer #marquee .developing h1 a {color: #59D !important;}
+
+
+/*________weather widget________*/
+#siteHeader #coverbadge {float:left;width:335px;display:block;}
+#siteHeader #coverbadge #wx-badge, #siteHeader #coverbadge div.weatherbadge {display:block;height:50px;top:auto;padding:0 0 0 170px;text-align:left;}
+ .IE #siteHeader #site .main #coverbadge #wx-badge, .IE #siteHeader #site .main #coverbadge div.weatherbadge {padding-top:0 !important;}
+ .IE #siteHeader #site .main #coverbadge #wx-badge, .IE #siteHeader #site .main #coverbadge div.weatherbadge, .IE #siteHeader #site .main #coverbadge {width:335px !important;height:50px 
+
+!important;}
+ #siteHeader #coverbadge div.weatherbadger span.loc {display:block;margin:0;width:auto !important;text-align:left !important;padding-top:10px;}
+  #siteHeader #coverbadge div.weatherbadger span.loc a {font-weight:bold;font-size:12px;text-decoration:none;border-bottom:0;}
+   #siteHeader #coverbadge div.weatherbadger span.loc a:hover {text-decoration:none;}
+  #siteHeader #coverbadge div.weatherbadger span.forecast, #siteHeader #coverbadge div.weatherbadger span.edit {font-weight:normal;font-size:12px;color:#fff;}
+   #siteHeader #coverbadge div.weatherbadger span.edit {font-size:10px;}
+   #siteHeader #coverbadge div.weatherbadger span.edit a, #siteHeader #coverbadge div.weatherbadger span.edit a:link {padding-left:5px;padding-right:0;font-size:100%;}
+  #siteHeader #coverbadge div.weatherbadger .forecast span.img {padding:0;}
+   .IE #siteHeader #coverbadge div.weatherbadger .forecast span.img {position:static;top:auto;}
+  
+ .IE #siteHeader #coverbadge div.weatherbadger {padding: inherit; width:inherit; z-index:inherit;}
+ .IE-6 #siteHeader #coverbadge div.weatherbadger {margin-top: inherit; padding-top: inherit; font-size:inherit;}
+ .IE #siteHeader #coverbadge div.weatherbadger .forecast span.img {position:inherit; top:inherit; white-space:inherit;}
+ .IE-6 #siteHeader #coverbadge div.weatherbadger .forecast span.img {padding-top:inherit; top:inherit;}
+ 
+ /*Local hub fixes*/
+ .IE #siteHeader #coverbadge div#bantopBadge div.weatherbadger {padding-top: inherit;}
+ .IE-7  #siteHeader #coverbadge div#bantopBadge div.weatherbadger {top: inherit;}
+ .IE #siteHeader #coverbadge div#bantopBadge div.weatherbadger span.loc {display:inherit;}
+ 
+ .IE #siteHeader #coverbadge div.weatherbadger span.forecast {float:left !important;}
+ .IE #siteHeader #coverbadge div.weatherbadger span.edit {float:left !important;}
+ 
+/*________stock widget________*/
+body.business-sub #siteHeader #site #breadcrumbs, body.business-sub #siteHeader #site #breadcrumbs ul.breadcrumbs, body.business-sub #siteHeader #site #bantopBadge div.marketticker form, 
+
+body.business-sub #siteHeader #site #bantopBadge div#mkt-tickr, body.business-front #siteHeader #site #breadcrumbs, body.business-front #siteHeader #site #breadcrumbs ul.breadcrumbs, 
+
+body.business-front #siteHeader #site #bantopBadge div.marketticker form, body.business-front #siteHeader #site #bantopBadge div#mkt-tickr {width:auto !important;}
+body.business-sub #siteHeader #site #bantopBadge, body.business-front #siteHeader #site #bantopBadge {width:312px !important;float:right;}
+body.business-sub #siteHeader #site #bantopBadge div#mkt-quote, body.business-front #siteHeader #site #bantopBadge div#mkt-quote {padding-top:2px;}
+ body.IE #site #bantopBadge div#mkt-quote {line-height:60px !important;}
+ body.IE #site #bantopBadge div.marketbadge {margin-top:-30px !important;}
+ 
+#siteHeader #site #bantopBadge div.marketbadge .mktup, #siteHeader #site #bantopBadge div.marketbadge .mktdown, #siteHeader #site #bantopBadge div.marketbadge .mktunch {color:#fff;}
+
+
+/**********
+* TODAY show branding -- don't preface these rules with 'body.'
+***********/
+/*________BRANDING________*/
+#todayShow #siteHeader #upscroll-grid .grid .label .title, #todayShow #siteHeader #upscroll-grid .grid p {color: #ECB; color: rgba(255, 255, 255, 0.65);}
+ .IE #todayShow #siteHeader #upscroll-grid .grid .art .credit, .IE #todayShow #siteHeader #upscroll-grid .grid cite {color: #ECB !important;}
+#todayShow #siteHeader #siteheader {background: #901810 url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-hdr-bg2.jpg') center top repeat-y;}
+#todayShow #siteHeader #article {background: #FFF url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-article-bg.jpg') top repeat-x;}
+#todayShow #siteHeader #sites-shows .show-today {display: none;}
+#todayShow #siteHeader #sites-shows .i1 a:hover, #todayShow #siteHeader #sites-shows .i1 a:focus {background-position: 0px -14px;}
+#todayShow #siteHeader #network {border-bottom: 1px solid #C97;}
+#todayShow #siteHeader #sections {border-top: 0 none; margin-left: -2px;}
+#todayShow #siteHeader #sections li {margin: 0 8px 0 8px; padding: 7px 0 10px; /*_padding: 22px 5px 2px 5px;*/}
+#todayShow #siteHeader #sections li a, #todayShow #siteHeader #brands li a, #todayShow #siteHeader #today-sites li a {color: #FFC; text-shadow: 1px 1px 1px #888; text-shadow: 1px 1px 1px 
+
+rgba(0,0,0,0.1);}
+#todayShow #siteHeader #sitemap li a {color: #FFF;}
+#todayShow #siteHeader #sitemap li a:hover, #todayShow #siteHeader #brands li a:hover, #todayShow #siteHeader #today-sites li a:hover {color: #FC3;}
+#todayShow #siteHeader #sections li a:hover, #todayShow #siteHeader #sections li a:focus {color: #FFF; background: rgba(255, 255, 255, 0.2) none url('') repeat scroll 0 0;}
+#todayShow #siteHeader #legal {background: #86150D url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-ftr-bg.jpg') top no-repeat; height: 98px;}
+#todayShow #siteHeader .logo span {padding-right: 60px; visibility: hidden; font-weight: bold;}
+
+#todayShow #siteHeader #today-sites {font-size: 13px; padding-top: 5px; margin: 13px auto; width: 710px;}
+#todayShow #siteHeader #today-sites li a {padding: 0 15px 0 0;}
+#todayShow #siteHeader #today-sites li.i1 a {background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/today-ftr-logo.png') no-repeat 0 2px; padding:0 69px 0 0; 
+
+display: inline-block; text-indent: -5000px;}
+#todayShow #siteHeader #today-sites li.i1 {padding-right: 19px;}
+
+
+/* UPSCROLL - MORE GRID*/
+#todayShow #siteHeader .todayMore h4, #todayShow #siteHeader .todayMore h5 {font-family:Arial,Helvetica,sans-serif; font-size: 17px; font-weight: bold; display:inline; padding-right:5px;}
+#todayShow #siteHeader .todayMore .abstr {display: inline; color:#444 !important;}
+#todayShow #siteHeader .todayMore h5 {line-height: 19px;}
+#todayShow #siteHeader .todayMore .i2 .stories a, #todayShow #siteHeader .todayMore .i3 .stories a {color: #FFC;}
+    #todayShow #siteHeader .todayMore .i2 .stories a:hover, #todayShow #siteHeader .todayMore .i3 .stories a:hover { color: #FC3;}
+#todayShow #siteHeader .todayMore .i4 .stories li, #todayShow #siteHeader .todayMore #cell4 .host h5 {display: inline; margin: 0px; padding-left: 30px; float:left;}
+ #todayShow #siteHeader .todayMore .grid .sR .story {display:inline;}
+#todayShow #siteHeader .todayMore .i4 .stories .i1 {padding-left: 0px; float: none;}
+    #todayShow #siteHeader .todayMore .i4 .stories li a, #todayShow #siteHeader .todayMore #cell4 .host h5 a {font-size: 13px;}
+    #todayShow #siteHeader .todayMore .i4 .stories .art {margin: 13px 0 0 24px;}
+
+
+/*________show styles________*/
+#dateline_nbc #front .container, #dateline_nbc #story .container, #dateline_nbc #subSectionFront .container {background:none;}
+#dateline_nbc #siteHeader {background-image:url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/Dateline-hdr-bg.jpg');}
+#dateline_nbc #footer {background-image:url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/Dateline-ftrLOGO-bg.jpg');}
+#dateline_nbc #siteHeader #breadcrumbs .logo 
+
+{background-image:url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/Dateline-badgeHDR.png');padding-bottom:8px;padding-right:98px;display:inline-block;}
+ .IE-6 #dateline_nbc #siteHeader #breadcrumbs .logo {filter: 
+
+progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/Dateline-badgeHDR.png', sizingMethod='crop') !important ;background-image: none !important;}
+#dateline_nbc #front {background-image:url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/dateline-grid-bkg.jpg');}
+
+#dateline_nbc #subSectionFront {background-image:url('http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/Dateline-article-bg.jpg');background-repeat:repeat-x;}
+#dateline_nbc #siteHeader ul.breadcrumbs {padding-top:4px;}
+ #dateline_nbc.IE #siteHeader ul.breadcrumbs {padding-top:8px;}
+
+
+
+ /*NEW upscroll grid*/
+
+#siteHeader .main .grid .source {display: none;}
+#todayShow #siteHeader .main .grid .source {display: block;}
+
+#siteHeader #upscroll-grid .grid .label {display: none;}
+#todayShow #siteHeader #upscroll-grid .grid .label {display: none;}
+
+#siteHeader .main .grid .sublabel-tease {padding: 0; color: #999; margin-top:0px; margin-bottom:4px; font-size:65%;}
+#todayShow #siteHeader .main .grid .sublabel-tease {padding:0 0; margin: 0 0 5px;}
+
+/*#siteHeader .grid #cell4 h6 a {font-size: 90%;}*/
+
+#siteHeader #grid_36812195 #cell4 h6 a {font-size: 80%;}
+#todayShow #siteHeader .grid #cell4 h6 a {font-size: 80%;}
+
+/*#siteHeader .main .grid div.w2, #siteHeader .main .grid div.w1-5 {background:url("http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/fade-hdr-vr.png") no-repeat scroll right 10px transparent;}*/
+#todayShow #siteHeader .main .grid div.w2 {background:url("http://media1.s-nbcnews.com/i/MSNBC/Templates/z_Story_Hybrid/img/fade-hdr-vr.png") no-repeat scroll right top transparent;}
+
+#siteHeader .main #upscroll-grid .grid .inner-div {background: url("http://media1.s-nbcnews.com/i/MSNBC/Templates/cccTemplatesHeaderUpscroll/upscroll/upscroll/img/dottedLine.png") no-repeat scroll right -5px transparent;}
+#todayShow #siteHeader .main #upscroll-grid .grid .inner-div {background: url("http://media1.s-nbcnews.com/i/MSNBC/Templates/cccTemplatesHeaderUpscroll/upscroll/upscroll/img/dottedLine.png") no-repeat scroll right -5px transparent !important;}
+/*#todayShow #siteHeader .main #upscroll-grid .grid div.x4 {background:none;}*/
+#todayShow #siteHeader .grid .sideBySide .img {height:125px;}
+#todayShow #siteHeader .grid .img div {border:1px solid #CC9977;}
+#todayShow #siteHeader .grid .remove-border .img div {border:none;}
+#todayShow #siteHeader #breadcrumbs {width:656px !important;}
+.IE #siteHeader .grid .w1-5 .img-thumb-m .text {width:215px;}
+
+ #siteHeader .main .grid div.content {height: 185px;overflow:hidden;}
+#todayShow #siteHeader .main .grid div.content {height: 185px;overflow:hidden;}
+
+/* .IE #siteHeader .main .grid {padding-top: 0px;}*/
+/* .IE#todayShow #siteHeader .main .grid {padding-top: 0px;}*/
+.Safari #siteHeader .grid .nowrap, .Mozilla #siteHeader .grid .nowrap {margin-bottom: -5px;}
+
+#coverbadge .weatherbadger .error {color: white; display: block; margin-left: -80px; margin-top: 20px;}
+
+#siteHeader #upscroll-grid .grid #cell2 p, #todayShow #siteHeader #upscroll-grid .grid #cell3 p {display: none;} 
+
+.main .main-grid {
+ background:none repeat scroll 0 0 transparent;
+ margin-bottom:0px;
+ /*visibility:hidden;*/
+}
+
+.main .active {
+ background: transparent url('http://media1.s-nbcnews.com/i/MSNBC/Templates/cccTemplatesHeaderUpscroll/upscroll/upscroll/img/background.png') no-repeat;
+ margin-bottom:5px;
+}
+
+
+#sections .selected {background:none;}
+
+
+.IE #mainNav {
+ text-align: center; 
+ width: 100%; 
+ zoom: 1; 
+ position: static; 
+ clear: both;
+}
+
+
+.IE-6 #bantopBadge #mkt-tickr {
+ margin-top:65px !important;
+}
+
+#breadcrumbs { height:37px;}
+.IE-7 #breadcrumbs { height:42px;}
+
+
+#siteHeader #breadcrumbs { width:656px;}
+.cover #breadcrumbs { width:330px !important;}
+.IE .cover #breadcrumbs { width:333px !important; zoom:1}
+
+.IE #siteHeader #sections { margin-bottom:-5px;}
+
+#siteHeader .grid .w2-5 {
+ width: 400px !important;
+}
+#siteHeader .grid .sublabel-tease { display:block !important;}
+#siteHeader #cell2 h6 a { font-size:80%; }
+#siteHeader #cell3 h6 a,
+#siteHeader #cell4 h6 a { font-weight:normal; } 
+#siteHeader .grid .story {margin-top:9px;}
+
+#todayShow #siteHeader #upscroll-grid .grid .sublabel-tease {color:#666 !important;}
+
+.IE.#todayShow #site { margin-top:-1px;}
+
+#siteHeader #sections li a:hover {
+ color:#FFCC33;
+}
+
+.IE-6 #siteHeader #breadcrumbs a.logo { margin-top:5px;}
+
+#todayShow #siteHeader #cell3 h6 a { font-weight:bold; font-size:80%;}
+
+#siteHeader .main .grid p.abstr { padding-top:0px;}
+
+#siteHeader .story.img-left {
+ margin-bottom:0px !important;
+}
+
+/*.Mozilla #siteHeader .story.img-left {
+ margin-bottom:-5px !important;
+}
+
+.Safari #siteHeader .story.img-left {
+ margin-bottom:0px !important;
+}
+
+.Firefox #siteHeader .story.img-left {margin-bottom:0px !important;}
+*/ 
+.IE #siteHeader .main .grid { padding-top:10px; margin-bottom:-10px;}
+
+.IE-8 #breadcrumbs { height:40px;}
+
+.IE #siteHeader .todayMore #cell1 {
+ width:322px !important;
+}
+
+#todayShow #siteHeader .todayMore h5 a {
+ font-weight:normal;
+}
+
+#siteHeader .main .grid #cell1 .story {
+ height:19px;
+ overflow:hidden;
+}
+
+.IE #siteHeader .main .grid #cell1 .story {
+ height:17px;
+}
+
+#siteHeader .grid .layoutFX-1col cite { 
+ display:none;
+}
+
+#siteHeader .grid .layoutFX-1col {
+ margin-top:11px;
+}
+
+#siteHeader .grid .layoutFX-1col .img {
+ margin-bottom:6px;
+}
+
+#siteHeader .grid .img-thumb-m {
+ display:block !important; 
+ height:73px;
+ overflow:hidden;
+}
+
+.IE #siteHeader .grid .img-thumb-m {
+ display:block !important; 
+}
+
+.IE #siteHeader .grid .img-thumb-m .text {
+ display:block !important; 
+ margin-top:0px !important;
+ position:relative;
+ top:-70px;
+ left:104px;
+}
+
+.IE #siteHeader .grid .img-thumb-m .text div{
+ position:static !important;
+ top:0px !important;
+}
+
+#siteHeader #timeStamp {
+ width:70px;
+}
+
+#siteHeader #cell2 .story {
+ clear:none;
+}
+/*___________________________*/
+/* FIX FOR WEATHER BADGE HEADER ISSUE */
+
+body.Firefox #siteHeader #coverbadge {  height: 46px; }
+body#todayShow.Firefox #siteHeader #breadcrumbs { margin-bottom:-4px; }
+
+/* Marqueelette ads */
+/*bnm*/
+
+#AdBnmLeft, #AdBnmRight {display:none;position:absolute;top:3px;}
+ .adBnm #AdBnmLeft, .adBnm #AdBnmRight {display:block;}
+#AdBnmLeft {left:-130px;}
+#AdBnmRight {right:-130px;}
+
+#siteHeader #marqueeContainer {text-align:center;}
+
+#siteHeader #marqueeContainer #marquee {position:relative !important;margin:0 auto;width:986px !important;}
+#siteHeader #marqueeContainer #marquee #marquee-site,
+#siteHeader #marqueeContainer #marquee .breaking,
+#siteHeader #marqueeContainer #marquee .developing,
+#siteHeader #marqueeContainer #marquee .breakingupdated,
+#siteHeader #marqueeContainer #marquee .comingup,
+#siteHeader #marqueeContainer #marquee .continuing,
+#siteHeader #marqueeContainer #marquee .ticker {border-top:0 !important;}
+ .IE #siteHeader #marqueeContainer #marquee #marquee-site {float:none !important;}
+
+.IE-6 #siteHeader #marqueeContainer #marquee.adBnm,
+
+.IE-7 #siteHeader #marqueeContainer #marquee.adBnm,
+.IE-8 #siteHeader #marqueeContainer #marquee.adBnm {width:1158px !important;top:auto;}
+
+.IE-6 #AdBnmLeft, .IE-7 #AdBnmLeft, .IE-8 #AdBnmLeft {left:auto;margin-left:-630px;}
+.IE-6 #AdBnmRight, .IE-7 #AdBnmRight, .IE-8 #AdBnmRight {right:auto;margin-left:500px;}
+.IE-6 #AdBnmLeft, .IE-6 #AdBnmRight {top:33px;}
+
+.IE-9 #AdBnmLeft {
+left: auto !important;
+top: 3px !important;
+margin-top: 0px !important;
+margin-left: -630px !important;
+float: none !important;
+position: absolute !important;
+}
+
+.IE-9 #AdBnmRight {
+top: 3px !important;
+right: auto !important;
+margin-top: 0px !important;
+margin-left: 500px !important;
+float: none !important;
+position: absolute !important;
+}
+
+
+#siteHeader #marqueeContainer #marquee span {margin-right:0 !important;}
+
+#siteHeader #marqueeContainer #marquee .comingup, #siteHeader #marqueeContainer #marquee .continuing, #siteHeader #marqueeContainer #marquee .ticker, #siteHeader #marqueeContainer #marquee .developing {border-top:0;}
+
+
+.ie#todayshow #siteHeader { text-align: center; width: 100%;}
+
+#todayshow #siteHeader #site {width: 996px; margin: 0px auto; text-align:center; border-bottom: none; }
+
+.ie#todayshow #siteheader{ margin-top: -8px;}
+
+.ie#todayshow #siteheader #site{ margin-top: -12px;}
+
+.ie#todayshow #siteheader #mainNav{ margin-top: -10px;}
+
+/*bnm*/</style><script type="text/javascript">/*
+if (!("console" in window) || !("firebug" in console)) {
+    var names = ["log", "debug", "info", "warn", "error", "assert", "dir", "dirxml", "group", "groupEnd", "time", "timeEnd", "count", "trace", "profile", "profileEnd"];
+    window.console = {};
+    for (var i = 0; i < names.length; ++i) window.console[names[i]] = function () {};
+}
+*/
+var IS_IE = $.browser.msie;
+var IEdebug = false;
+if (IS_IE && IEdebug) {
+    $('body').append("<div id='IEconsole' style='position:absolute; z-index: 1000; top:580px; right:0; width:200px; background:#EECCCC;'>IE Debug Console -v " + IEdebug + "<\/div>");
+}
+this.echo = function (msg, clear) {
+    var curContent = $('#IEconsole').html() + "<br />";
+    if (clear) {
+        curContent = '';
+    }
+    $('#IEconsole').html(curContent + msg);
+}
+/**********************************/
+/* upscroll code disabled */
+
+/*jQuery.fn.extend({
+    isAboveViewport: function (offset) {
+        var t = $(window).scrollTop();
+        return t >= this.offset().top + this.height() + (offset || 0);
+    },
+    isBelowViewport: function (offset) {
+        var b = $(window).height() + $(window).scrollTop();
+        return b <= this.offset().top + (-offset || 0);
+    },
+    isInViewport: function (padding) {
+        return !this.isAboveViewport(padding) && !this.isBelowViewport(padding);
+    }
+});*/
+
+/**********************************/
+/* gridswitcher code disabled */
+
+/*var gridswitcher = (function (root, hoverLi) {
+    var LOADING_TEXT = "loading latest headlines ...";
+    var CLASS_LOADING = "loading";
+    var HOVER_DELAY = 250;
+    var currGridId = 0;
+    var gridSlot = $("#upscroll-grid");
+    var sections = $('#sections');
+    var loaded = false;
+    var loadingIndicator = null;
+    var data = null;
+    var currentIndex = 1;
+    var videoIconHtml = '<span class="icon"><span class="video"></span></span>';
+    var photoIconHtml = '<span class="icon"><span class="photo"></span></span>';
+
+    function init() {
+        if (!gridSlot.length) {
+            return;
+        }
+        currGridId = 0;
+        if (hoverLi) {
+            currGridId = getGridId($(hoverLi));
+        }
+        if (currGridId == 0) {
+            currGridId = getGridId(sections.find("li:first"));
+        }
+        getData(currGridId, function (d) {
+            data = d;
+            gridSlot.html(data);
+            addMultimediaIcon();
+            loaded = true;
+        });
+        setupBehavior();
+    };
+
+    function setupBehavior() {
+        sections.find("li").each(function (index) {
+            var li = $(this);
+            var gid = getGridId(li);
+            var delay;
+            $(this).bind("mouseover", function () {
+                delay = setTimeout(function () {
+                    root.removeClass('s' + currentIndex);
+                    handleSectionTrigger(li, gid, index);
+                }, HOVER_DELAY);
+            }).bind("mouseout", function () {
+                clearTimeout(delay);
+            });
+        });
+    };
+
+    function handleSectionTrigger(li, gridId, index) {
+        if (!gridId || gridId === currGridId) {
+            return;
+        }
+        index = index + 1;
+        currGridId = gridId;
+        root.addClass('s' + index);
+        currentIndex = index;
+        getData(gridId, function (d) {
+            data = d;
+            gridSlot.html(data);
+            addMultimediaIcon();
+        });
+    };
+
+    function addMultimediaIcon() {
+        var upscrollGrid = $('#upscroll-grid');
+        var videoLinks = $('.story h6 a[href*="vPlayer"], .story h6 a[href*="/vp/"]', upscrollGrid);
+        for (var i = 0; i < videoLinks.length; i++) {
+            $(videoLinks[i]).prepend(videoIconHtml);
+        };
+        var videoLinksH4 = $('.story h4 a[href*="vPlayer"], .story h4 a[href*="/vp/"]', upscrollGrid);
+        for (var i = 0; i < videoLinksH4.length; i++) {
+            $(videoLinksH4[i]).parent().next().prepend(videoIconHtml);
+        };
+        var slideShowLinks = $('.story h6 a[href*="SSOpen"]', upscrollGrid);
+        for (var i = 0; i < slideShowLinks.length; i++) {
+            $(slideShowLinks[i]).prepend(photoIconHtml);
+        };
+        var slideShowLinksH4 = $('.story h4 a[href*="SSOpen"]', upscrollGrid);
+        for (var i = 0; i < slideShowLinksH4.length; i++) {
+            $(slideShowLinksH4[i]).parent().next().prepend(photoIconHtml);
+        };
+    }
+
+    function getGridId(el) {
+        return parseInt(el.attr('grid'), 10);
+    };
+
+    function getData(gridId, callback) {
+        var self = this;
+        var url = String(window.location.href).split(".com/")[0] + ".com/id/" + gridId;
+        jQuery.ajax({
+            "dataType": "html",
+            "url": url,
+            "success": function (data) {
+                if (data && callback) {
+                    callback.call(self, data);
+                }
+            }
+        });
+    };
+    init();
+    return {};
+});*/
+
+/*************************/
+var upscroll = (function () {
+    var ID_NET = "network";
+    var ID_SITEHEADER = "siteHeader";
+    var ID_NAV = "site";
+    var ID_MARQUEE = "marqueeContainer";
+    var CLASS_MAIN = ".main";
+    var ACTION_HOVER = "hover";
+    var ACTION_SCROLL = "scroll";
+    var CLASS_SELECTED = "selected";
+    var GRID_HEIGHT = 185;
+    var TODAY_GRID_HEIGHT = 210;
+    var HOVER_ON_NAV_ITEM = 500;
+    var HOVER_OPEN_SPEED = 300;
+    var SCROLLTOP_WHERE_75_PERCENT_IN_VIEW = 100;
+    var ID_LIST = "sections";
+    var IS_TODAY_SHOW = false;
+    var ATTR_GRID_ID = "data-grid-id";
+    var ID_COMCAST = "xfinity";
+    var MY = {};
+    MY.init = function (jq_rootElement, type, data) {
+        var breadcrumb = $("#breadcrumbs .breadcrumbs li");
+        for (var i = 0; i < breadcrumb.length; i++) {
+            if (i == breadcrumb.length - 1) {
+                $(breadcrumb[i]).css({
+                    "display": "inline"
+                });
+            } else {
+                $(breadcrumb[i]).css({
+                    "display": "none"
+                });
+            }
+        };
+        $('#todayShow #breadcrumbs').contents().filter(function () {
+            return this.nodeType == 3;
+        }).remove();
+        if ("undefined" === typeof document.body.style.maxHeight) {
+            return;
+        }
+
+        this.cookie = readCookie('P7');
+        if (this.cookie != null && this.cookie === 'X') {
+            this.isComcast = true;
+            this.comcastHeight = 44;
+        }
+        else {
+            this.isComcast = false;
+            this.comcastHeight = 0;
+        }
+
+       // var NAV_CONTENT_ADDITIONAL_HEIGHT = 63 + 212;
+        this.root = $(jq_rootElement);
+        this.net = $("#" + ID_NET);
+        this.nav = $("#" + ID_NAV);
+        this.list = $("#" + ID_LIST);
+        this.siteHeader = $("#" + ID_SITEHEADER);
+        this.marquee = $("#" + ID_MARQUEE);
+        this.sections = $("#sections li");
+        this.relLayers = this.root.find(".layer");
+        this.navContent = this.nav.find(CLASS_MAIN);
+        this.grid = this.navContent.find("#upscroll-grid");
+        this.netHeight = this.net.height() + 1;
+        this.navHeight = this.nav.height();
+        this.listHeight = this.list.height();
+        this.marqueeHeight = this.marquee.height();
+        this.navContentHeight = this.navContent.height();
+        this.fixedElems = this.netHeight + this.marqueeHeight + this.listHeight;
+        /**** commented out to disable upscroll ****/
+        /*this.hdrHeight = this.navContentHeight + this.fixedElems + NAV_CONTENT_ADDITIONAL_HEIGHT - 35;
+        this.defHeight = this.navHeight + this.fixedElems;
+        this.upHeight = this.hdrHeight - this.defHeight;
+        this.netIsFixed = false;
+        this.hasExtendedOnce = false;
+        this.notFullyExtended = false;
+        this.isUpscrollOpen = false;
+        this.switcher = null;
+        this.currLi = null;
+        if (this.isComcast == true) {
+            this.comcast = $("#" + ID_COMCAST);
+        }
+  this.checkComcast();*/
+ };
+ MY.isComcastLoaded = function(){
+   var self = this;
+         setTimeout(function () {
+             self.comcast = $("#xfinity");
+             self.checkComcast();
+         }, 500);
+  };
+  MY.checkComcast = function(){
+   if (this.isComcast === true) {
+          if (this.comcast.length === 0) {
+              this.isComcastLoaded();
+          }
+          else {
+    //faking bg for quirks
+
+   if(IS_IE){
+        this.comcast.wrap('<div id="xfinity_bg"/>');
+     }
+              var self = this;
+              $(window).resize(function () {
+                  self.sizeXfinity();
+              });
+
+              this.sizeXfinity();
+              this.start();
+          }
+      }
+      else {
+          this.start();
+      }
+
+  };
+  MY.sizeXfinity = function(){
+ //faking bg for quirks
+
+   if(IS_IE){
+  var margin = ($(window).width()-1100)/2;
+  this.comcast.css({'width':'1100px', 'margin-left': margin});
+ }
+ else{
+  this.comcast.css({ 'width': $(window).width() });  
+ }
+
+  };
+ MY.start = function(){
+        this.reset();
+        if (!IS_IE) {
+            $("#siteHeader .main #upscroll-grid").css({
+                "height": "185px"
+            });
+            this.reset();
+            if (this.root.isInViewport()) {
+                $("html,body").scrollTop(this.upHeight);
+            }
+            this.bindEvents();
+        } else {
+            var self = this;
+            $(window).scrollTop(5);
+            $(window).scroll(function (e) {
+                if ($(window).scrollTop() == 0 && !this.hasExtendedOnce) {
+                    self.siteHeader.css({
+                        "height": "307px"
+                    });
+                    self.nav.css({
+                        "height": "250px"
+                    });
+                    $("#siteHeader .main #upscroll-grid").css({
+                        "height": "185px",
+                        "margin-bottom": "10px"
+                    });
+                    $("#tbx-37650045").css({
+                        "zoom": "1"
+                    });
+                    $("#siteHeader #coverbadge #wx-badge").css({
+                        "margin": "10px 0 -10px",
+                        "zoom": "1",
+                        "clear": "both"
+                    });
+                    this.hasExtendedOnce = true;
+                    if (!self.isUpscrollOpen) {
+                        self.isUpscrollOpen = true;
+                        if (!self.currLi) {
+                            self.currLi = self.sections[0];
+                        }
+                        $(self.currLi).addClass(CLASS_SELECTED);
+                    }
+                    var switcher = gridswitcher(self.navContent, self.currLi);
+                    self.grid.addClass('active');
+                }
+            });
+            this.bindEventsForIE();
+            $("#msn .more").mouseover(function (e) {
+                $(this).addClass("moreOut");
+            });
+            $("#msn .more").mouseout(function (e) {
+                $(this).removeClass("moreOut");
+            });
+        }
+    };
+    MY.reset = function () {
+        if (this.isComcast === true) {
+            this.comcast.css({ "top": this.upHeight, "position": "absolute" }); //new line
+            this.sizeXfinity();
+        } 
+        this.root.height(this.hdrHeight + 8);
+        this.nav.css({
+            "top": this.upHeight,
+            "height": this.navHeight,
+            "overflow": "visible"
+        });
+        this.relLayers.css({
+            "top": this.upHeight,
+            "position": "relative",
+            "z-index": 1200
+        });
+    this.net.css({
+     "position": "relative",
+     "z-index": 1300
+    });
+        this.navContent.css("top", this.upHeight * -1);
+        this.grid.find('.grid').css({
+            "display": "none"
+        });
+        this.netIsFixed = false;
+        if (IS_IE) {
+         if (this.isComcast === true) {
+             this.comcast.css({ "top": 0, "position": "relative" }); //new line
+             this.sizeXfinity();
+         }
+            this.root.height(this.hdrHeight - 250);
+            this.net.css({
+                "top": 0,
+                "position": "relative",
+                "left": 0
+            });
+            this.marquee.css({
+                "top": 0,
+                "position": "relative",
+                "left": 0
+            });
+            this.list.css({
+                "top": 0,
+                "position": "relative"
+            });
+            this.navContent.css("top", 0);
+            this.nav.css("top", 0);
+            echo("reset()");
+        } else {
+            this.grid.css({
+                "height": GRID_HEIGHT
+            });
+        }
+        if (this.isUpscrollOpen) {
+            this.isUpscrollOpen = false;
+        }
+    };
+    MY.update = function (action_type, li) {
+        var scrollTop = $(window).scrollTop();
+        if (scrollTop > this.upHeight) {
+            if (this.netIsFixed) {
+                this.reset();
+                this.grid.css({
+                    "visibility": "hidden"
+                });
+            }
+            return;
+        }
+        if (scrollTop != 0) {
+            this.sections.removeClass(CLASS_SELECTED);
+        } else if (this.currLi) {
+            $(this.currLi).addClass(CLASS_SELECTED);
+        }
+        if (this.netIsFixed == false || !this.hasExtendedOnce) {
+            if (this.isComcast === true) {
+                this.root.css({ "top": this.comcastHeight, "margin-bottom": this.comcastHeight });
+                this.comcast.css({ "top": 0, "position": "fixed", "left": 0, "z-index": 1500 }); //new line
+            }
+   this.net.css({
+                "top": this.comcastHeight,
+                "position": "fixed",
+                "left": 0
+            });
+            this.marquee.css({
+                "top": this.netHeight + this.comcastHeight,
+                "position": "fixed"
+            });
+            this.list.css({
+                "top": this.netHeight + this.marqueeHeight + this.comcastHeight,
+                "position": "fixed"
+            });
+            this.nav.css({
+                "overflow": "hidden"
+            });
+            this.root.height(this.hdrHeight);
+            if (!this.hasExtendedOnce) {
+                this.grid.addClass('active');
+            } else {
+                this.grid.css({
+                    "visibility": "visible"
+                });
+            }
+            this.grid.find(".grid").css({
+                "display": "block"
+            });
+            this.netIsFixed = true;
+        }
+        this.nav.css({
+            "height": this.hdrHeight - scrollTop - this.fixedElems,
+            "top": scrollTop + this.fixedElems
+        });
+        this.navContent.css("top", scrollTop * -1);
+        if (action_type == ACTION_HOVER) {
+            this.navContent.css("top", 0);
+            $("html, body").animate({
+                scrollTop: 0
+            }, HOVER_OPEN_SPEED);
+        }
+        if (scrollTop < SCROLLTOP_WHERE_75_PERCENT_IN_VIEW || action_type == ACTION_HOVER) {
+            if (!this.isUpscrollOpen) {
+                this.isUpscrollOpen = true;
+                if (!this.currLi) {
+                    this.currLi = this.sections[0];
+                }
+                $(this.currLi).addClass(CLASS_SELECTED);
+            }
+            if (!this.hasExtendedOnce) {
+                this.initialUpdate(action_type, this.currLi);
+            }
+        }
+    };
+    MY.initialUpdate = function (action_type, li) {
+        var self = this;
+        var scrollTop = $(window).scrollTop();
+        this.hasExtendedOnce = true;
+        this.grid.css({
+            "visibility": "visible"
+        });
+        this.switcher = gridswitcher(this.navContent, li);
+    };
+    MY.bindEvents = function () {
+        var self = this;
+        var doCheck = true;
+        var delay;
+        var exposedHover = HOVER_ON_NAV_ITEM;
+        this.list.find("a").bind("mouseover", function () {
+            var hoverLi = $(this).parent();
+            var currGridID = self.getGridID(hoverLi);
+            if (currGridID == 0) {
+                return;
+            }
+            if (hoverLi != self.currLi) {
+                self.sections.removeClass(CLASS_SELECTED);
+                self.currLi = hoverLi;
+            }
+            if ($(window).scrollTop() == 0) {
+                hoverLi.addClass(CLASS_SELECTED);
+            }
+            delay = setTimeout(function () {
+                if (!self.hasExtendedOnce) {
+                    self.update(ACTION_HOVER, hoverLi);
+                }
+                if ($(window).scrollTop() < self.upHeight) {
+                    exposedHover = 100;
+                    self.update(ACTION_HOVER, hoverLi);
+                }
+            }, exposedHover);
+        }).bind("mouseout", function () {
+            clearTimeout(delay);
+        });
+        $(window).scroll(function (e) {
+            self.update(ACTION_SCROLL);
+            doCheck = false;
+        });
+        setTimeout(function () {
+            self.update(ACTION_SCROLL);
+            if (self.root.isInViewport()) {
+                $("html,body").scrollTop(self.upHeight);
+            }
+        }, 500);
+    };
+    MY.bindEventsForIE = function () {
+        var self = this;
+        var doCheck = true;
+        var delay;
+        var exposedHover = HOVER_ON_NAV_ITEM;
+        this.list.find("a").bind("mouseover", function () {
+            var hoverLi = $(this).parent();
+            var currGridID = self.getGridID(hoverLi);
+            if (currGridID == 0) {
+                return;
+            }
+            if (hoverLi != self.currLi) {
+                self.sections.removeClass(CLASS_SELECTED);
+                self.currLi = hoverLi;
+            }
+            if ($(window).scrollTop() == 0) {
+                hoverLi.addClass(CLASS_SELECTED);
+            }
+            delay = setTimeout(function () {
+                $(window).scrollTop(0);
+            }, exposedHover);
+        }).bind("mouseout", function () {
+            clearTimeout(delay);
+        });
+    };
+    MY.getGridID = function (el) {
+        return parseInt(el.attr('grid'), 10);
+    };
+    return MY;
+})();
+$(document).ready(function () {
+ upscroll.init($("#siteHeader"));
+});
+try {
+    var AdBreakingNews = {};
+    AdBreakingNews.Render = function () {
+        try {
+            if (AdBreakingNews.Enable ) {
+    var marqueeColor = $('#marquee H1').css('backgroundColor');
+    $('div#marquee:first').addClass('adBnm');
+    $('div#marquee:first').prepend('<div id="AdBnmLeft"></div>').append('<div id="AdBnmRight"></div>');
+    $('div#marqueeContainer').width('100%').css('background-color', marqueeColor);
+    $('div#marquee').eq(1).empty().remove();
+                if (AdBreakingNews.Left && AdBreakingNews.Left != "") {
+                    dapMgr.enableACB("AdBnmLeft", false);
+                    dapMgr.renderAd("AdBnmLeft", AdBreakingNews.Left, 120, 30);
+                    AdBreakingNews.Rendered = true
+                }
+                if (AdBreakingNews.Right && AdBreakingNews.Right != "") {
+                    dapMgr.enableACB("AdBnmRight", false);
+                    dapMgr.renderAd("AdBnmRight", AdBreakingNews.Right, 120, 30);
+                    AdBreakingNews.Rendered = true
+                }
+                $(window).resize(function () {
+                    $(window).width() > 1158 ? $("div#marquee").addClass("adBnm") : $("div#marquee").removeClass("adBnm")
+                })
+            }
+        } catch (a) {}
+    };
+    AdBreakingNews.InitAds = function () {
+        AdBreakingNews.Left = "";
+        AdBreakingNews.Right = "";
+        AdBreakingNews.Width = 1024;
+        AdBreakingNews.Enable = false;
+        AdBreakingNews.Rendered = false;
+        AdBreakingNews.Url = "/xml.aspx?id=39654701";
+        $.get(AdBreakingNews.Url, function (a) {
+            $(a).find("DisplayAd").each(function () {
+                if ($(this).find("Enabled").text().toLowerCase() === "true") {
+                    var d = $(this).find("AdLocation").text(),
+                        b = $(this).find("Content").text(),
+                        c = $(this).find("AdPlacementCode").text();
+                    switch (d) {
+                    case "AdBreakingNewsMarqueeLeft":
+                        AdBreakingNews.Left = "&PG=" + b + "&AP=" + c;
+                        AdBreakingNews.Enable = true;
+                        break;
+                    case "AdBreakingNewsMarqueeRight":
+                        AdBreakingNews.Right = "&PG=" + b + "&AP=" + c;
+                        AdBreakingNews.Enable = true
+                    }
+                }
+            });
+            if (AdBreakingNews.Enable && $(window).width() > AdBreakingNews.Width) AdBreakingNews.Render();
+            else AdBreakingNews.Enable && $(window).resize(function () {
+                AdBreakingNews.Enable && AdBreakingNews.Rendered === false && $(window).width() > AdBreakingNews.Width && AdBreakingNews.Render()
+            })
+        })
+    }
+} catch (ex$$1) {};</script><div id="siteHeader"><div id="network" class="layer"><!-- ID# 37786762 -->
+<a class="focus" href="#headline"><span>Jump to story headline</span></a>
+<div class="content" style="display:block">
+ <ul id="msn">
+  <li class="msnLogo">
+  <a href="http://www.msn.com/">MSN</a>
+  </li>
+  <li class="i1 hotmail">
+  <a href="http://www.outlook.com/">Outlook.com</a>
+  </li>
+  <li class="i2 more">
+  <a href="http://www.msn.com/">More</a>
+  <ul id="msn-more">
+    <li class="i1">
+   <a href="http://autos.msn.com/">Autos</a>
+   </li>
+   <li class="i2">
+   <a href="http://my.msn.com/">My MSN</a>   
+   </li>
+   <li class="i3">
+  <a href="http://video.msn.com/video.aspx?mkt=en-us&amp;from=MSNHP">Video</a>
+   </li>
+   <li class="i4">
+    <a href="http://careers.msn.com/">Careers &amp; Jobs</a>  
+   </li>
+   <li class="i5">
+   <a href="http://now.msn.com">msnNOW</a>
+   </li>
+   <li class="i6">
+   <a href="http://local.msn.com/weather.aspx">Weather</a>
+   </li>
+   <li class="i7">
+   <a href="http://www.delish.com/">Delish</a>
+   </li>
+   <li class="i8">
+   <a href="http://moneycentral.msn.com/detail/stock_quote">Quotes</a>
+   </li>
+   <li class="i9">
+   <a href="http://msn.whitepages.com/">White Pages</a>
+   </li>
+   <li class="i10">
+   <a href="http://zone.msn.com/en-us/home">Games</a>
+   </li>
+   <li class="i11">
+   <a href="http://realestate.msn.com/">Real Estate</a>
+   </li>
+   <li class="i12">
+   <a href="http://wonderwall.msn.com/">Wonderwall</a>
+   </li>
+   <li class="i13">
+   <a href="http://astrocenter.astrology.msn.com/">Horoscopes</a>
+   </li>
+   <li class="i14">
+   <a href="http://www.bing.com/shopping?FORM=SHOPH2">Shopping</a>
+   </li>
+   <li class="i15">
+   <a href="http://yellowpages.msn.com/">Yellow Pages</a>
+   </li>
+   <li class="i16">
+   <a href="http://local.msn.com/news.aspx">Local Edition</a>
+   </li>
+   <li class="i17">
+   <a href="http://local.msn.com/gas-traffic.aspx">Traffic</a>
+   </li>
+   <li class="i18">
+   <a target="_blank" href="https://secure.opinionlab.com/ccc01/o.asp?ID=WpkpVtTB">Feedback</a>
+   </li>
+   <li class="i19">
+   <a href="http://www.bing.com/maps/default.aspx?FORM=MSNNAV">Maps &amp; Directions</a>
+   </li>
+   <li class="i20">
+   <a href="http://www.bing.com/travel/?cid=msn_nav_more&amp;FORM=MSNNAV">Travel</a>
+   </li>
+   <li class="i21">
+   <a href="http://specials.msn.com/alphabet.aspx">Full MSN Index</a>
+   </li>
+  </ul>
+  </li>
+  <li class="i3 bing" id="bing">
+  <a href="http://bing.com/?FORM=MSNBCN"><span>Bing</span></a>
+  </li>
+ </ul>
+ <ul id="sites-shows">
+  <li class="i1">
+  <a class="site-msnbc" href="http://www.nbcnews.com/">NBCNews.com</a><span class="sitesShows">sites &amp; shows:</span>
+  </li>
+  <li class="i2 show-today">
+  <a href="HTTP://www.today.com/">TODAY</a>
+  </li>
+  <li class="i3 show-nightly">
+  <a href="http://nightly.nbcnews.com/">Nightly News</a>
+  </li>
+  <li class="i4 show-mtp">
+  <a href="http://mtp.nbcnews.com/">Meet the Press</a>
+  </li>
+  <li class="i5 show-dateline">
+  <a href="http://dateline.nbcnews.com/">Dateline</a>
+  </li>
+  <li class="i6 show-morningjoe">
+  <a href="http://www.msnbc.com/morning-joe">Morning Joe</a>
+  </li>
+  <li class="i7 show-hardball">
+  <a href="http://www.msnbc.com/hardball ">Hardball</a>
+  </li>
+  <li class="i8 show-allin">
+  <a href="http://www.msnbc.com/all-in">All In</a>
+  </li>
+  <li class="i9 show-maddow">
+  <a href="http://www.msnbc.com/rachel-maddow-show">Maddow</a>
+  </li>
+  <li class="i10 show-lastword">
+  <a href="http://www.msnbc.com/the-last-word">Last Word</a>
+  </li>
+  <li class="i11 show-msnbc">
+  <a href="http://tv.msnbc.com/">msnbc</a>
+  </li>
+  <li class="i12 zinger-login-widget">
+  <div id="zinger_network_nav" class="zinger_login_nav"></div>
+  </li>
+ </ul>
+</div>
+
+
+<!-- 
+- the scripts and style included below adds in the universal login functionality
+- we are targeting the div with the class zinger_login_nav in the network nav strip
+- contained in wbid 37786762
+-->
+
+<link rel="stylesheet" type="text/css" href="http://www.nbcnews.com/id/46330550/?name=networknav_universal_login_style"/>
+
+<!-- disabling the scripts below because of a facebook code error -->
+<!-- to re-enable, remove comment marks -->
+
+<script type="text/javascript" src="http://www.polls.newsvine.com/_elliott/jenga?name=jenga"></script>
+<script type="text/javascript" src="http://www.nbcnews.com/id/46330567/?name=networknav_universal_login_script_blue"></script></div><div id="marqueeContainer" class="layer"></div><div id="mainNav" class="content"><style>
+#siteHeader #sections li {
+  margin-right:8px;
+}
+</style>
+<ul class="navigation hlist layer" id="sections">
+ <li grid="40441910" class="i1">
+  <a href="http://www.nbcnews.com/">Home</a>
+ </li>
+ <li grid="40436557" class="i2">
+  <a href="http://www.nbcnews.com/id/3032525/ns/us_news/">US</a>
+ </li>
+ <li grid="40439315" class="i3">
+  <a href="http://www.nbcnews.com/id/3032507/ns/world_news/">World</a>
+ </li>
+ <li grid="40440165" class="i4">
+  <a href="http://www.nbcnews.com/id/3032553/ns/politics/">Politics</a>
+ </li>
+ <li grid="40440468" class="i5">
+  <a href="http://www.nbcnews.com/business/">Business</a>
+ </li>
+ <li grid="40440113" class="i6">
+  <a href="http://nbcsports.nbcnews.com/">Sports</a>
+ </li>
+ <li grid="40440385" class="i7">
+  <a href="http://www.today.com/entertainment">Entertainment</a>
+ </li>
+ <li grid="40440359" class="i8">
+  <a href="http://www.nbcnews.com/health/">Health</a>
+ </li>
+ <li grid="40439692" class="i9">
+  <a href="http://www.nbcnews.com/technology">Tech</a>
+ </li>
+  <li grid="51691672" class="i10">
+  <a href="http://www.nbcnews.com/science">Science</a>
+ </li>
+ <li grid="40439628" class="i10a">
+  <a href="http://www.nbcnews.com/travel/">Travel</a>
+ </li>
+ <li grid="0" class="i11">
+  <a href="http://www.nbcnews.com/id/3948437/">Local</a>
+ </li>
+ <li grid="0" class="i12">
+  <a href="http://www.nbcnews.com/id/3032128/ns/weather/">Weather</a>
+</li>
+</ul></div> <div id="site">
+  <div class="content main s1">
+   <div id="upscroll-grid" class="main-grid">
+   </div><div class="x4" id="breadcrumbs"><ul class="breadcrumbs"><li class="item1"><a href="/id/3032553/">Politics</a></li><li class="item2"><a href="/id/18970417/ns/politics-decision_08/">Decision '08 archive</a></li><li class="item3"><a href="/id/16123860/ns/politics-decision_08/">Hillary Clinton News</a></li></ul>on
+<a class="logo" href="http://www.nbcnews.com"><span>NBCNews.com</span></a> </div>   <form method="get" action="/" class="search">
+    <fieldset>
+     <input name="id" id="id" value="11881780" type="hidden"> <input id="q" value="Search NBCNews.com" name="q" class="q" type="type" maxlength="2000" onfocus="if(this.value=='Search NBCNews.com')this.value='';" onblur="if(this.value=='')this.value='Search NBCNews.com';"> <input value="" class="bing" name="search" type="submit"> <input name="p" value="1" type="hidden"> <input name="st" value="1" type="hidden"> <input name="sm" value="user" type="hidden">
+    </fieldset>
+   </form>
+  </div>
+ </div></div><script type="text/javascript">//bnmInit   
+try{AdBreakingNews.Init=function(){$("#marquee").length>0&&AdBreakingNews.InitAds()}()}catch(ex){};//bnmInit
+</script></script><div id="AdBanner_S"><table width="779" height="105" cellpadding="0" cellspacing="0" class="adbar" id="AdBannerSubSectionFront_F1">
+<tr>
+<td align="center" valign="top"><style>#AdBanner_S {display:none;}</style></td>
+</tr>
+</table></div><div id="subSectionFront"><div class="container"><div id="nav-left"><div id="newsMAIN">
+<style media="screen" type="text/css">
+ #newsMAIN .hottopics a:hover,
+ #nav-left #newsMAIN .relatedBreadcrumbs a:hover {
+ background: none;
+ }
+
+ #nav-left #newsMAIN .hottopics,
+ #nav-left #newsMAIN .relatedBreadcrumbs,
+ #nav-left #newsMAIN .hottopics ul.section,
+ #nav-left #newsMAIN .relatedBreadcrumbs ul.section {
+ margin-bottom: 2em;
+ }
+
+#nav-left #newsMAIN ul.section li,
+#nav-left #newsMAIN ul.relatedBreadcrumbs li {
+ height:17px;
+ padding: 0;
+}
+
+ #nav-left #newsMAIN .hottopics ul.section li.label,
+#nav-left #newsMAIN ul.relatedBreadcrumbs .title,
+ #nav-left #newsMAIN .label {
+ border-bottom:medium none;
+ color:#999999;
+ font-size:14px;
+ font-weight: bold;
+ height:17px;
+ padding-top: 20px;
+ }
+
+#nav-left #newsMAIN ul.section li p,
+#nav-left #newsMAIN ul.relatedBreadcrumbs li p {
+ font-size: 11px;
+ font-weight: normal;
+}
+
+
+#nav-left #newsMAIN .firstlabel {
+ padding-top:5px !important;
+}
+
+#nav-left #newsMAIN .hottopics ul.section li,
+#nav-left #newsMAIN ul.relatedBreadcrumbs li {
+ min-height:17px;
+ height: auto;
+ padding: 0;
+ }
+
+ .IE #nav-left #newsMAIN .hottopics ul.section li,
+.IE #nav-left #newsMAIN ul.relatedBreadcrumbs li {
+ height: 17px;
+width: 110px;
+ }
+
+
+#nav-left #newsMAIN ul.relatedBreadcrumbs li {
+ padding-bottom:2px;
+}
+
+ #nav-left #newsMAIN .hottopics ul.section li a,
+#nav-left #newsMAIN ul.relatedBreadcrumbs li a,
+ #nav-left #newsMAIN .hottopics ul.section li a:visited,
+#nav-left #newsMAIN ul.relatedBreadcrumbs li a:visited  {
+ color:#147;
+ display:inline-block;
+ font-size:12px;
+ margin:10px 0 0;
+ width:100% !important;
+font-weight: normal;
+ }
+
+#nav-left #newsMAIN .upscroll-type {
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+line-height:15px;
+display: block;
+padding: 8px 0 20px 25px;
+width: 110px;
+background:url('http://media1.s-nbcnews.com/i/MSNBC/SiteManagement/Topics/Cover/upscrollTease_icon.gif') no-repeat 0 12px;
+}
+ #nav-left #newsMAIN .first-label {padding-top: 0;}
+ #nav-left #newsMAIN .label {width: 110px;}
+ 
+#nav-left #newsMAIN .homelink {
+ margin: -17px 0;
+}
+
+#more_headlines h3 {
+padding-top: 0;
+}
+
+</style><div class="hottopics"><ul class="section"><li class="label">Trending</li><li class="hottopics"><!--endpoint: http://10.40.22.155:8083/sunbowservice/topics.svc/one--><!--SunbowError:Error calling wcf service:Object reference not set to an instance of an object.--></li><li class="homelink"><a href="http://www.nbcnews.com/">NBCNews.com home</a></li></ul><ul class="section"><li class="label">Browse</li><li><ol><li><a href="http://www.nbcnews.com/id/8004316/ns/video/">Video</a></li><li><a href="http://www.nbcnews.com/id/4999736/ns/multimedia/">Photos</a></li></ol></li></ul></div ><style type="text/css" media="screen">#newsMAIN div.bak { display: none; }</style>
+<!-- <style type="text/css" media="screen">
+ #newsMAIN div.hottopics { display: none; }
+ #nav-left #newsMAIN .sub, #nav-left #newsMAIN div.bak { display: block; }
+</style>
+<div class="hottopics bak"><ul class="section"><li class="label firstlabel">Hot topics</li>
+<li class="hottopics">
+ <ol class="stories">
+  <li class="i1"><a title="Ted Stevens" href="http://www.nbcnews.com/id/34993957">Ted Stevens</a></li>
+  <li class="i2"><a title="Afghanistan" href="http://www.nbcnews.com/id/35463609">Afghanistan</a></li>
+  <li class="i3"><a title="Federal Reserve System" href="http://www.nbcnews.com/id/33645392">Federal Reserve System</a></li>
+  <li class="i4"><a title="China" href="http://www.nbcnews.com/id/33095852">China</a></li>
+  <li class="i5"><a title="Gulf of Mexico" href="http://www.nbcnews.com/id/34704541">Gulf of Mexico</a></li>
+  <li class="i6"><a title="U.S. House of Representatives" href="http://www.nbcnews.com/id/34698478">U.S. House of Representatives</a></li>
+  <li class="i7"><a title="Pakistan" href="http://www.nbcnews.com/id/33097505">Pakistan</a></li>
+  <li class="i0"><a title="Net neutrality" href="http://www.nbcnews.com/id/34656800/ns/technology_and_science">Net neutrality</a></li>
+ </ol>
+</li></ul><ul class="section"><li class="label">Browse</li><li><ol><li><a href="http://www.nbcnews.com/id/8004316/ns/video">Video</a></li><li><a href="http://www.nbcnews.com/id/4999736/ns/multimedia">Photos</a></li></ol></li></ul></div> --><ul id="marketplace" class="nav-menu">
+<li class="label">Marketplace</li>
+<li><script type="text/javascript">dap("&PG=NBCML3&AP=1402",1,1)</script></li>
+<li><script type="text/javascript">dap("&PG=NBCML5&AP=1402",1,1)</script></li>
+<li id="pg-menu" class="noshow"></li>
+<li id="pg-featured" class="noshow"></li>
+</ul><script type="text/javascript">
+       /* Pierre.util.FBClient.headlessInit(); */
+</script></div></div><div id="contents"><div id="columnsContainer"><div id="graphic-header"></div><div id="contentsLeft"><div class="tsm" ct="snv" style="width:320" cn="Hillary Clinton News" pn=""><div align="center"><a href="/id/25026451/ns/politics-the_new_york_times/"><img src="http://media3.s-nbcnews.com/j/msnbc/Components/ArtAndPhoto-Fronts/SPORTS/080607/g-080607-cvr-clinton-10a.ss_h.jpg" border="0" style="border:1px solid #000000;" vspace="0" hspace="0" title="Image: Hillary Rodham Clinton" alt="Image: Hillary Rodham Clinton"></a></div><div class="tsmTeaseBody"><div class="tsmHeadlineMedium"><a href="/id/25026451/ns/politics-the_new_york_times/">NYT: The long road to a Clinton exit   </a></div><span class="tsmDeck"><a href="/id/25026451/ns/politics-the_new_york_times/">NYT: Hillary Rodham Clinton's campaign of destiny that fell achingly short. She and her husband struggled to adapt their successful formula to a new era against a new kind of opponent.  </a></span> <nobr><span class="tsmFullStoryLink"><a href="/id/25026451/ns/politics-the_new_york_times/">Full story</a></span></nobr></div><div style="padding-left:10px;padding-right:10px;padding-top:0px;padding-bottom:5px;"><span class="tsmCredit">Ron Edmonds / AP</span></div></div><div style="width:320"><div class="tsmHighlight" ct="snv" cn="Hillary Clinton News" pn=""><table cellspacing="1" cellpadding="0" border="0" style="padding-bottom:2px;"><tr><td><div class="textHang"><span class="tsmHighlightLinkHeadline"><a href="/id/25004343/ns/politics-decision_08/">Todd: Clinton's couldas, shouldas, wouldas</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmHighlightLinkHeadline"><a href="http://www.newsweek.com/id/140314">Newsweek: A postmortem on the Clinton campaign</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmHighlightLinkHeadline"><a href="/id/24993082/ns/politics-decision_08/">Clinton ends historic bid, endorses Obama</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmHighlightLinkHeadline"><a href="/id/25002392/ns/politics-decision_08/">Clinton camp accused of dividing Jews, blacks</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmHighlightLinkHeadline"><a href="/id/24990229/ns/politics-decision_08/">Clinton backers begin to move to Barack Obama</a></span></div></td></tr></table></div></div><div style="width:320"><div class="tsmRemaining" ct="snv" cn="Hillary Clinton News" pn=""><table cellspacing="1" cellpadding="0" border="0" style="padding-bottom:2px;"><tr><td><div class="tsmRemainingTitle">More news and other features</div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24997461/ns/politics-decision_08/">Clinton sexism debate persists</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24980329/ns/politics-the_new_york_times/">NYT: For Clinton, a key group didn’t hold</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24980375/ns/politics-decision_08/">Clinton as a running mate: Pros and cons</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24974674/ns/politics-decision_08/">Clinton to suspend campaign Saturday</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="http://www.newsweek.com/id/139908">Newsweek: Clinton, Obama in VP dance</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24958591/ns/politics-decision_08/">What does Clinton want? Respect and more</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24953561/ns/politics-decision_08/">Clinton refuses to concede nomination</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24951668/ns/politics-national_journal/">Cook: Clinton's exit strategy</a></span></div></td></tr><tr><td><div class="textHang"><span class="tsmRemainingLinkHeadline"><a href="/id/24955831/ns/politics-the_new_york_times/">NYT: Obama looks to tap Clinton fundraisers</a></span></div></td></tr></table></div></div><div id="AdSubsectionShowcase_F"><!-- ------------- PageFragmentCDATA (for subsection showcase ad) ------------ -->
+<div class="w300 aC textSmallGrey p7" id="AdSubsectionShowcase_F1"><style>#AdSubsectionShowcase_F {display:none;}</style><br/><br/><script type="text/javascript">document.write('<script type="text/javascript">\n    try {\n        (function () {\n\n            var networkId = 2620;\n            var adUnit = "nbcnews/politics";\n            var height = 60;\n            var width = 300;\n\n            _gpt_simpleUrl.CreateTag(networkId, adUnit, width, height);\n        } ());\n    } catch (e) { }\n</scr'+'ipt>');</script><style>
+#AdSubsectionShowcase_F{display:block;}
+</style><div id="AdSecondaryPromo_F"></div></div></div><div id="AdContentModule_F"><hr size="2" noshade="true" id="AdContentModule_F1"/>
+<div class="w320 textSmallGrey aC p7" id="AdContentModule_F2">
+<div class="ad-label"><a href="http://www.nbcnews.com/id/31066137/media-kit/" class="mediakit" target="_blank">Advertise</a> | <a href="http://g.msn.com/AIPRIV/en-us" class="adchoices" target="_blank">AdChoices</a></div><style>#AdContentModule_F {display:none;}</style></div>
+<hr size="2" noshade="true" id="AdContentModule_F3"/></div><span CM="AutoBox"><script>
+					getCSS("3089180")
+				</script><div style="width:320;" class="&#xA;			box_3089180 cbx cbx-auto" ct="abx" cn="More politics" pn=""><script></script><table width="320" cellspacing="0" cellpadding="0" class="boxH_3089180 cbx-header"><tr><td width="*" nowrap class="boxHC_3089180"><div class="hauto textSmallBold">  More politics  </div></td><td width="80%" class="boxH2C_3089180"><div class="textSmall">  <a href="http://rss.msnbc.msn.com/id/3032552/device/rss/rss.xml" target="_blank"><img src="http://media2.s-nbcnews.com/i/msnbc/Sections/zNews Tools/Newstools/RSS/rss_icon.gif" border="0" height="11" width="29" vspace="0" hspace="0"></a></div></td></tr></table><table width="320" cellspacing="0" cellpadding="0" class="boxB_3089180 cbx-content"><tr valign="top"><td class="boxBI_3089180"><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://nbcpolitics.nbcnews.com/_news/2014/02/04/22571137-animated-boehner-theres-nothing-complex-about-the-keystone-pipeline?lite">Animated Boehner: 'There's nothing complex about the Keystone Pipeline!'</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://nbcpolitics.nbcnews.com/_news/2014/02/04/22570900-budget-deficits-shrinking-but-set-to-grow-after-2015?lite">Budget deficits shrinking but set to grow after 2015</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://firstread.nbcnews.com/_news/2014/02/04/22573805-senate-readies-another-volley-on-unemployment-aid?lite">Senate readies another volley on unemployment aid</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://firstread.nbcnews.com/_news/2014/02/04/22570519-first-thoughts-obama-administration-divided-over-syria?lite">Obama faces Syria standstill</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://nbcpolitics.nbcnews.com/_news/2014/02/04/22570127-fluke-files-to-run-in-california?lite">Fluke files to run in California</a></span></div></td></tr></table></div></span><script>
+					getCSS("3053751")
+				</script><div style="width:320;" class="&#xA;			box_3053751 sitewrapperbox cbx" ct="cbx" cn="Burning questions for the candidates" pn=""><script></script><table width="320" cellspacing="0" cellpadding="0" class="boxH_3053751 cbx-header"><tr><td width="*" nowrap class="boxHC_3053751"><div class="hauto textSmallBold">  Burning questions for the candidates</div></td></tr></table><table width="320" cellspacing="0" cellpadding="0" class="boxB_3053751 cbx-content"><tr valign="top"><td><table cellspacing="0" cellpadding="0" align="left" style="padding-right:18px;padding-bottom:5px;"><tr><td><a href="/id/18574959/ns/politics/" id="gted" CE="Link-1"><img src="http://media2.s-nbcnews.com/j/msnbc/Components/Art/BLOG_OPINION/EVERGREEN/TEASES/tz_BurningQuestions.thumb.gif" border="0" vspace="0" hspace="0"></a></td></tr></table><div class="boxBI_3053751"><p class="textMed"><a href="/id/18574959/ns/politics/">What's your candidate's hidden talent? How about the last book they read? Click here for the answers.</a></p></div></td></tr></table></div><script>
+					getCSS("14383019")
+				</script><div style="width:320;" class="&#xA;			box_14383019 sitewrapperbox cbx" ct="cbx" cn="Message board" pn=""><script></script><table width="320" cellspacing="0" cellpadding="0" class="boxH_14383019 cbx-header"><tr><td width="1%" class="boxHI_14383019"><img src="http://media4.s-nbcnews.com/i/MSNBC/Components/ColorBoxes/Styles/img/discuss_icon_v3.gif" border="0" height="14" width="28" vspace="0" hspace="0"></td><td width="*" nowrap class="boxHC_14383019"><div class="hauto textSmallBold">Message board</div></td></tr></table><table width="320" cellspacing="0" cellpadding="0" class="boxB_14383019 cbx-content"><tr valign="top"><td class="boxBI_14383019"><div class="textHang"><div style="padding-bottom:3px"><span class="textMed"><a href="http://boards.msn.com/MSNBCboards/thread.aspx?BoardID=780&amp;ThreadID=174296" target="_blank">What do you think of Clinton's candidacy?</a></span></div></div></td></tr></table></div><script>
+					getCSS("3053751")
+				</script><div style="width:320;" class="&#xA;			box_3053751 sitewrapperbox cbx" ct="cbx" cn="Picking the president: The candidates" pn=""><script></script><table width="320" cellspacing="0" cellpadding="0" class="boxH_3053751 cbx-header"><tr><td width="*" nowrap class="boxHC_3053751"><div class="hauto textSmallBold">  Picking the president: The candidates</div></td></tr></table><table width="320" cellspacing="0" cellpadding="0" class="boxB_3053751 cbx-content"><tr valign="top"><td></td></tr><tr valign="top"><td class="boxBI_3053751"><div class="textMed mgbtm"><b>Click to visit that candidate’s msnbc.com page or click the XML symbol for an RSS feed.</b></div><p class="textMed"><br><a href="/id/16438320/ns/politics-decision_08/">John McCain</a> <a href="http://rss.msnbc.msn.com/id/16438323/device/rss/rss.xml"><img src="http://media2.s-nbcnews.com/i/msnbc/Sections/zNews Tools/Newstools/RSS/rss_icon.gif" border="0" height="11" width="29" vspace="0" hspace="0"></a><br>   <br><a href="/id/16438329/ns/politics-decision_08/">Barack Obama</a> <a href="http://rss.msnbc.msn.com/id/16438332/device/rss/rss.xml"><img src="http://media2.s-nbcnews.com/i/msnbc/Sections/zNews Tools/Newstools/RSS/rss_icon.gif" border="0" height="11" width="29" vspace="0" hspace="0"></a></p></td></tr></table><table width="320" cellspacing="0" cellpadding="0" class="boxF_3053751"><tr><td class="boxFI_3053751"><div class="textSmall"></div></td></tr></table></div></div><div id="contentsRight"><span CM="AutoBox"><script>
+					getCSS("3053751")
+				</script><div style="width:300;" class="&#xA;			box_3053751 cbx cbx-auto" ct="abx" cn="NBC Video: Hillary Clinton" pn=""><script></script><table width="300" cellspacing="0" cellpadding="0" class="boxH_3053751 cbx-header"><tr><td width="1%" class="boxHI_3053751"><img src="http://media2.s-nbcnews.com/i/MSNBC/Components/ColorBoxes/Styles/img/video_icon_v3b.gif" border="0" height="14" width="28" vspace="0" hspace="0"></td><td width="*" nowrap class="boxHC_3053751"><div class="hauto textSmallBold">NBC Video: Hillary Clinton</div></td></tr></table><table width="300" cellspacing="0" cellpadding="0" class="boxB_3053751 cbx-content"><tr valign="top"><td><div style="float:right;margin-left:10px;text-align:right;"><a href="http://video.msnbc.msn.com/documentaries/23278156/"><img src="http://media3.s-nbcnews.com/j/msnbc/Components/Video/080221/X_docs_DECISION_CLINTON_pic.thumb.jpg" border="0" style="border:1px solid #000000;" vspace="0" hspace="0"></a></div><div><div class="textHang" style="padding:5px;"><span class="textMed"><b><a href="http://video.msnbc.msn.com/documentaries/23278156/">Clinton learns from public pain, private crisis</a></b></span><br><span class="textMed">Feb. 21: A profile of Sen. Hillary Clinton, D-N.Y., as a part of the Decision 2008 series, “The Candidates”.</span></div></div><hr size="1" width="95%" align="center" color="#cccccc" style="clear:all"></td></tr><tr valign="top"><td class="boxBI_3053751"><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/msnbc-news/24952083/">Bill Clinton calls reporter 'a scumbag'</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://www.nbcnews.com/video/1600-pa.-avenue/24938465/">The Bill Clinton factor</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/msnbc-news/24845078/">Clinton parties in Puerto Rico</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/morning-joe/24540519/">McAuliffe speaks about the Clinton campaign</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/msnbc-news/24493686/">Clinton: ‘We must win in November’</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/morning-joe/24467240/">‘John Wayne's got nothin' on you!’</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://www.today.com/video/today/24462821/">Clinton discusses fuel policy, Obama</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/msnbc-news/24405789/">Clinton vs. coffee maker</a></span></div><div class="textHang" style="padding-bottom:3px;"><span class="headlineList2"><a href="http://video.msnbc.msn.com/msnbc-news/24372156/">Clinton touts gas price plan</a></span></div></td></tr></table></div></span><div id="AdShowcase_F"><div class="w300 aC textSmallGrey p7" id="AdShowcase_F1">
+<div class="ad-label"><a href="http://www.nbcnews.com/id/31066137/media-kit/" class="mediakit" target="_blank">Advertise</a> | <a href="http://g.msn.com/AIPRIV/en-us" class="adchoices" target="_blank">AdChoices</a></div><script type="text/javascript">
+    try {
+        (function () {
+
+            var networkId = 2620;
+            var adUnit = "nbcnews/politics/front";
+            var height = 250;
+            var width = 300;
+
+            _gpt_simpleUrl.CreateTag(networkId, adUnit, width, height);
+        } ());
+    } catch (e) { }
+</script></div></div><div id="ybFront"><style>#ybFront {display:none;}</style></div><script>
+					getCSS("3053751")
+				</script><span CM="CB" class="cbx cbx-multi"><div class="box_3053751 sitewrapperbox" style="width:300px;overflow:hidden;" ct="mtc" cn="" pn=""><script></script><table width="300" cellspacing="0" cellpadding="0" class="boxH_3053751 cbx-header"><tr><td width="*" nowrap class="boxHC_3053751"><div class="hauto textSmallBold"><img src="http://media4.s-nbcnews.com/j/msnbc/Components/Art/POLITICS/Projects/CandidateChronicles/CandChron-Bluei-TZ-Wide-Txt.standard.jpg" border="0" vspace="0" hspace="0"></div></td></tr></table><table width="300" cellspacing="0" cellpadding="0" class="boxB_3053751"><tr valign="top"><td style="padding:10px;"><a href="http://www.nbcnews.com/video/nbc-news/18276043/"><a href="http://www.nbcnews.com/video/nbc-news/18276043/" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><img src="http://media3.s-nbcnews.com/j/msnbc/Components/ArtAndPhoto-Fronts/POLITICS/071112/grid_071112_clinton_12p.thumb.jpg" border="0" style="border:1px solid #000000;" vspace="0" hspace="0" title="Image: Hillary Clinton" alt="Image: Hillary Clinton"></a></a><div class="credit" style="text-align:right;">AP</div></td><td class="boxBI_3053751"><div class="textHang"><div><span class="textMed"><b><a href="http://www.nbcnews.com/video/nbc-news/18276043/">Video: In her own words</a></b><br>Sen. Hillary Clinton, D-N.Y., speaks to the primary themes of her presidential campaign.</span></div></div></td></tr><tr valign="top"><td style="padding:10px;"><a href="javascript:SSOpen('20202692/ns/news-picture_stories','0');"><a href="javascript:SSOpen('20202692/ns/news-picture_stories','0');" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><img src="http://media4.s-nbcnews.com/j/msnbc/Components/Slideshows/_production/ss_070809_ClintonToons/CLINTON_TEASE.thumb.jpg" border="0" style="border:1px solid #000000;" vspace="0" hspace="0"></a></a></td><td class="boxBI_3053751"><div class="textHang"><div><span class="textMed"><b><a href="javascript:SSOpen('20202692/ns/news-picture_stories','0');">Cartoons: Clinton</a></b><br>MSNBC.com's editorial cartoonists weigh in on Hillary Clinton's candidacy.</span></div></div></td></tr><tr valign="top"><td style="padding:10px;"><a href="http://www.nbcnews.com/slideshow/politics/hillary-clinton-42343773/"><a href="http://www.nbcnews.com/slideshow/politics/hillary-clinton-42343773/" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><img src="http://media4.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/_archive/News/_Politics/Bio-slideshows/ss_070109_hillary_clinton/ss_070109_hillary-hs-tease.thumb.jpg" border="0" style="border:1px solid #000000;" vspace="0" hspace="0" title="Hillary Rodham" alt="Hillary Rodham"></a></a><div class="credit" style="text-align:right;">AP</div></td><td class="boxBI_3053751"><div class="textHang"><div><span class="textMed"><b><a href="http://www.nbcnews.com/slideshow/politics/hillary-clinton-42343773/">Slide show: A political life</a></b><br>From Watergate to Whitewater, politics has played a major role in Hillary Clinton’s life.</span></div></div></td></tr></table></div></span><script>
+					getCSS("3053751")
+				</script><div style="width:300;" class="&#xA;			box_3053751 sitewrapperbox cbx" ct="cbx" cn="18703202" pn=""><table width="300" cellspacing="0" cellpadding="0" class="boxB_3053751 cbx-content"><tr valign="top"><td><img src="http://media4.s-nbcnews.com/i/msnbc/Components/Art/MSNBC_TV/070516/TZ300_MEET_THE_CANDIDATES.jpg" border="0" height="38" width="298" vspace="0" hspace="0"></td></tr><tr valign="top"><td class="boxBI_3053751"><p class="textMed">• Oct. 7: John Edwards (D): <a href="javascript:msnvDwd('00','c82e75b1-5749-465c-bd87-85e1512e378d','us','Source_Meet the Press','','msnbc','','21179622','\u2018Meet the Press\u2018: John Edwards')">Netcast</a> | <a href="/id/21180419/ns/meet_the_press/">Transcript</a><br>• Sept. 23: Hillary Clinton (D): <a href="http://www.nbcnews.com/video/meet-the-press/20941288/">Netcast</a> | <a href="/id/20941413/ns/meet_the_press/">Transcript</a><br>• May 27: Bill Richardson (D): <a href="javascript:msnvDwd('00','89a0c54e-0226-489c-bf8b-8f11c004a627','us','Source_Meet%20the%20Press','c26','msnbc','','18893211','\u2018Meet%20the%20Candidate\u2018:%20Bill%20Richardson')">Netcast</a> | <a href="/id/18818527/ns/meet_the_press/">Transcript</a><br>• May 13: John McCain (R): <a href="javascript:msnvDwd('00','34bacd60-d50c-4a02-9667-20a21a601b26','us','Source_Meet%20the%20Press','c26','msnbc','','18641044','\u2018Meet%20the%20Candidate:\u2018%20John%20McCain')">Netcast</a> | <a href="/id/18573163/ns/meet_the_press/">Transcript</a><br>• April 29: Joe Biden (D): <a href="javascript:msnvDwd('00','83c971f0-1350-4a34-b830-88485f08b759','us','Source_Meet%20the%20Press','c26','msnbc','','18380698','\u2018Meet%20the%20Candidate\u2018:%20Joe%20Biden')">Netcast</a> | <a href="/id/18381961/ns/meet_the_press/">Transcript</a><br>• Feb. 4: John Edwards (D): <a href="javascript:msnvDwd('00','b057d2e7-a4cd-4bb0-bb70-3e663685a42e','us','Source_Meet%20the%20Press','c26','msnbc','','16974434','Former%20Sen.%20John%20Edwards')">Netcast</a> | <a href="/id/16903253/ns/meet_the_press/">Transcript</a></p></td></tr></table></div></div></div><div id="Dcolumn"><div id="dcol-sponsored"><p class="dcol-hed">Sponsored links</p> </div><div id="dcol-skyscraper"><style>#dcol-skyscraper {display:none;}</style></div><div id="dcol-resourceguide"><p class="dcol-hed">Resource guide</p> <div id="AdBrokerButton1_F1"><style>#AdBrokerButton1_F1 {display:none;}</style><p><script type="text/javascript">dap("&PG=NBCRD1&AP=1402",1,1)</script><p></div><div id="AdBrokerButton2_F1"><style>#AdBrokerButton2_F1 {display:none;}</style><p><script type="text/javascript">dap("&PG=NBCRD2&AP=1402",1,1)</script><p></div><div id="AdBrokerButton3_F1"><style>#AdBrokerButton3_F1 {display:none;}</style><p><script type="text/javascript">dap("&PG=NBCRD3&AP=1402",1,1)</script><p></div><div id="AdSmallShowcase_S"><style>#AdSmallShowcase_S {display:none;}</style></div></div></div></div></div></div><div id="bottomGradientIE" class="gradOff"></div><div id="footer"><div class="container"><div class="logo"><a href="/" title="NBCNews.com home"><img src="http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/spacer.gif" alt="" height="75" width="140"></a></div><div class="links"><div class="listheader">Featuring</div><ul>
+<li><a href="http://www.today.com/">TODAY</a></li>
+<li><a href="http://nightly.nbcnews.com">Nightly News</a></li>
+<li><a href="http://dateline.nbcnews.com">Dateline</a></li>
+<li><a href="http://mtp.nbcnews.com/">Meet the Press</a></li>
+<li><a href="http://tv.msnbc.com/">msnbc tv</a></li>
+<li><a href="http://www.breakingnews.com">Breaking News</a></li>
+<li><a href="http://www.newsvine.com/">Newsvine</a></li>
+</ul><div class="listheader">Categories</div><ul>
+<li><a href="/">Top stories</a></li>
+<li><a href="http://www.nbcnews.com/id/3098358/ns/local_news-local_news/">Local news</a></li>
+<li><a href="http://www.nbcnews.com/id/3032525/ns/us_news/">US</a></li>
+<li><a href="http://www.nbcnews.com/id/3032507/ns/world_news">World</a></li>
+<li><a href="http://www.nbcnews.com/id/3032553/ns/politics">Politics</a></li>
+<li><a href="http://www.nbcnews.com/business">Business</a></li>
+<li><a href="http://www.nbcsports.com/">Sports</a></li>
+<li><a href="http://www.today.com/entertainment">Entertainment</a></li>
+<li><a href="http://www.nbcnews.com/health">Health</a></li>
+<li><a href="http://www.nbcnews.com/technology">Tech</a></li>
+<li><a href="http://www.nbcnews.com/science">Science</a></li>
+<br />
+<li><a href="http://www.nbcnews.com/travel">Travel</a></li>
+<li><a href="http://www.nbcnews.com/id/3032128/ns/weather">Weather</a></li>
+</ul></div><div class="divider"></div><div class="buttons"><style>
+#footer .buttons {
+top:5px;
+}
+
+#footer .buttons ul.buttons {
+  left: 0;
+}
+
+#footer .buttons .link {
+float:left;
+width: 195px;
+margin-bottom:7px;
+padding-bottom:2px;
+text-align:left;
+height:18px
+}
+
+#footer .buttons .link a{
+padding:3px 0 0 25px;
+font-size: 11px;
+font-weight: normal;
+color: #DEF;
+text-decoration:none;
+display:inline-block;
+}
+
+#footer .buttons .link a:hover {
+color:#FC6;
+border-bottom:none;
+}
+
+#footer .ftr-mobile {
+background: transparent url("http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/ftr-buttons-20px/ftr-btn-phone.gif") no-repeat left top;
+}
+
+#footer .ftr-alerts {
+background: transparent url("http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/ftr-buttons-20px/ftr-btn-mail.gif") no-repeat left top;
+}
+
+#footer .ftr-newstools {
+background: transparent url("http://media1.s-nbcnews.com/i/msnbc/Components/CSS/img/ftr-buttons-20px/ftr-btn-widget.gif") no-repeat left top;
+}
+
+#footer .ftr-rss {
+background: transparent url("http://media3.s-nbcnews.com/i/msnbc/Components/CSS/img/ftr-buttons-20px/ftr-btn-RSS.gif") no-repeat left top;
+}
+
+#footer .ftr-podcast { 
+background: transparent url("http://media2.s-nbcnews.com/i/msnbc/Components/CSS/img/ftr-buttons-20px/ftr-btn-podcast.gif") no-repeat left top;
+}
+
+#footer .ftr-connect {
+background: transparent url("http://media1.s-nbcnews.com/i/MSNBC/Components/CSS/img/ftr-buttons-20px/ftr-button-share_01.gif") no-repeat left top;
+}
+</style>
+<ul class="buttons">
+<li class="ftr-connect link"><a href="http://www.nbcnews.com/connect">Connect with NBC News</a>
+</li>
+<li class="ftr-mobile link"><a href="/id/39538918/">NBCNews.com on your phone</a>
+</li>
+<li class="ftr-alerts link"><a href="https://secure.nbcnews.com/_tps/_accounts/msnbc/newsletters">Sign up for newsletters &amp; alerts</a>
+</li>
+<li class="ftr-rss link"><a href="/id/5216556/">Subscribe to our RSS feeds</a>
+</li>
+<li class="ftr-podcast link"><a href="/id/8132577/">Subscribe to our podcasts</a>
+</li>
+<li class="ftr-newstools link"><a href="/id/23781733/">NewsTools from NBCNews.com</a>
+</li>
+</ul></div></div></div><div id="msnfooter"><div class="container"><ul><li>© 2013 NBCNews.com</li></ul>
+<ul id="leftlinks">
+<li><a href="/id/32027560/">About us</a></li>
+<li><a href="/id/32359544/">Contact</a></li>
+<li><a href="/html/msnbc/HtmlSitemap0.html">Site map</a></li>
+<li><a href="/id/27365695/">Careers</a></li> 
+<li><a href="/id/32556806/">Stock data</a></li>
+<li><a href="/id/3303540/">Terms &amp; conditions</a></li>
+<li><a href="/id/49418540/">Closed captioning</a></li>
+
+</ul>
+<ul id="rightlinks">
+<li><a href="http://www.nbcnews.com/id/48150786">Privacy policy</a></li>
+<li>
+<style> 
+#msnfooter #leftlinks {
+    padding-left: 22px;
+}
+
+#msnfooter ul {
+    float: left;
+    padding: 5px 0px 5px 15px;
+}
+</style>
+
+<!--NBCNews-->
+<!--
+  Evidon tag
+  cid: 908
+  pid: 1195
+-->
+<a style="" target="_blank" href="#" id="_bapw-link"><img style="border:0 !important;display:inline-block !important; margin-top: -2px;vertical-align:middle !important;padding-right:2px !important; width: 9px;" id="_bapw-icon" src="http://c.betrad.com/pub/icon1.png"><span style="vertical-align:middle !important">AdChoices</span></a>
+
+<script type="text/javascript">    (function () { var k = 1195, m = 908, n = 1, b = false, l = document, p = l.getElementById("_bapw-link"), h = (l.location.protocol == "https:"), i = (h ? "https" : "http") + "://", g = i + "c.betrad.com/pub/", r = window._bap_p_overrides, e = 0, a = 0, f = 560, q = 720, o = h || (r && r.hasOwnProperty(k) && r[k].new_window); function c(s) { var d = new Image(); d.src = i + "l.betrad.com/pub/p.gif?pid=" + k + "&ocid=" + m + "&i" + s + "=1&r=" + Math.random() } function j() { if (typeof (window.innerWidth) == "number" && typeof (window.innerHeight) == "number") { e = window.innerWidth; a = window.innerHeight } else { if (document.documentElement && document.documentElement.clientWidth && document.documentElement.clientHeight) { e = document.documentElement.clientWidth; a = document.documentElement.clientHeight } else { if (document.body && document.body.clientWidth && document.body.clientHeight) { e = document.body.clientWidth; a = document.body.clientHeight } } } return (a <= f) || (e <= q) } l.getElementById("_bapw-icon").src = g + "icon1.png"; p.onmouseover = function () { p.href = "http://info.evidon.com/pub_info/" + k + "?v=1&nt=" + n + "&nw=" + ((o || j()) ? "true" : "false") }; p.onclick = function () { if (o || j()) { c("c"); return true } function d(u, x) { var v = l.getElementsByTagName("head")[0] || l.documentElement, t = b, s = l.createElement("script"); function w() { s.onload = s.onreadystatechange = null; v.removeChild(s); x() } s.src = u; s.onreadystatechange = function () { if (!t && (this.readyState == "loaded" || this.readyState == "complete")) { t = true; w() } }; s.onload = w; v.insertBefore(s, v.firstChild) } this.onclick = "return " + b; d(i + "ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js", function () { d(g + "pub2.js", function () { BAPW.i(p, { pid: k, ocid: m }) }) }); return b }; c("i") } ());</script>
+
+<script type="text/javascript">
+    (function () {
+        $('div.ad-label').empty().append('<a href="http://www.nbcnews.com/id/31066137/media-kit/" class="mediakit" target="_blank">Advertise</a>');
+    } ());
+</script>
+</li>
+<li><a href="/id/3303511/">Help</a></li>
+</ul></div></div><div id="bottomGradient" class="gradOff"></div><script src="//www.nbcnews.com/id/51579771"></script></body></html>

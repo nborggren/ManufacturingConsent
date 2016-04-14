@@ -78,7 +78,14 @@
 
 <script> FOX.site.topInit(); </script><link rel="apple-touch-icon" href="http://global.fncstatic.com/static/v/fn2/img/transcript/72x72-foxnews-transcript.png"> 	
 			<meta name="apple-mobile-web-app-title" content="Transcript">	
-		</head>
+		
+                  <script type="text/javascript">
+                    var w=window;
+                    if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"218742",ustr:"cs",originlat:0,clientrtt:23,ghostip:"23.204.109.36",
+                    ipv6:false,pct:10,xhrtest:false,clientip:"107.218.152.93",requestid:"3b880ab5",protocol:"",blver:5,akM:"g",akN:"",akTT:"O",akTX:"1",akTI:"3b880ab5",ai:"177077"};(function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,
+                    a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                  </script>
+                  </head>
 	<body class="transcript fn2">
 		<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/"> 
 <link rel="schema.dcterms" href="http://purl.org/dc/terms/"> 
@@ -811,8 +818,8 @@
 	</div>
 <script type="text/javascript"> jQuery.ad.pre(); FOX.site.bottomInit();</script>
 			<noscript>
- <img src="http://metrics.foxnews.com/b/ss/foxnews/1/H22.1--NS/1458625556740?pageName=noscript:transcript:front:article&g=http://www.foxnews.com/transcript/2016/02/14/marco-rubio-and-bernie-sanders-react-to-death-justice-scalia-talk-2016-race/" style="display:none;" width="0" height="0" border="0" alt="">
- <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-801796h&amp;cg=0&amp;cc=1&amp;si=http://www.foxnews.com/transcript/2016/02/14/marco-rubio-and-bernie-sanders-react-to-death-justice-scalia-talk-2016-race/&amp;ts=noscript&amp;rnd=1458625556740" style="display:none;" width="0" height="0" border="0" alt="">
+ <img src="http://metrics.foxnews.com/b/ss/foxnews/1/H22.1--NS/1460580391740?pageName=noscript:transcript:front:article&g=http://www.foxnews.com/transcript/2016/02/14/marco-rubio-and-bernie-sanders-react-to-death-justice-scalia-talk-2016-race/" style="display:none;" width="0" height="0" border="0" alt="">
+ <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-801796h&amp;cg=0&amp;cc=1&amp;si=http://www.foxnews.com/transcript/2016/02/14/marco-rubio-and-bernie-sanders-react-to-death-justice-scalia-talk-2016-race/&amp;ts=noscript&amp;rnd=1460580391740" style="display:none;" width="0" height="0" border="0" alt="">
  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9013181&c3=&c4=http://www.foxnews.com/transcript/2016/02/14/marco-rubio-and-bernie-sanders-react-to-death-justice-scalia-talk-2016-race/&c5=&c6=&c15=&cv=2.2&cj=1" style="display:none;" width="0" height="0" border="0" alt="">
 </noscript> 	
 </body>

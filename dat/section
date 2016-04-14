@@ -424,49 +424,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="row-fluid">
 				 <section class="left-column span2">
 					      <!-- In Other News -->
-    <!-- exec custom.dbo.GetStoriesForTopPrio_zeta_MY @Sites='LA,ZZ', @DataSite='LA', @Count=10, @Days=30, @ExcludeGUIDS = '{304D2F43-E8CF-7415-E053-0100007FC3D3},{30536785-B38A-0B83-E053-0100007F5341},{3060A42F-85F5-3B80-E053-0100007F6C62},{3060CC9E-566C-37EB-E053-0100007FC9F6},{3060CC9E-5678-37EB-E053-0100007FC9F6}', @Position='sectionothernews', @DynamicRootProfile = 1000010, @PublicationTaxonomy = 20811, @GeoTaxonomy = 'N/A', @Frontpage = 0; -->
+    <!-- exec custom.dbo.GetStoriesForTopPrio_zeta_MY @Sites='LA,ZZ', @DataSite='LA', @Count=10, @Days=30, @ExcludeGUIDS = '{30536785-B38A-0B83-E053-0100007F5341},{3060A42F-85F5-3B80-E053-0100007F6C62},{3060CC9E-568D-37EB-E053-0100007FC9F6},{3063535E-6741-407B-E053-0100007F367D},{30686962-B3C7-57A1-E053-0100007FEF24}', @Position='sectionothernews', @DynamicRootProfile = 1000010, @PublicationTaxonomy = 20811, @GeoTaxonomy = 'N/A', @Frontpage = 0; -->
 <div id="other-news" class="story-feed">
 <h4> In Other News</h4>	<ul>
 <li>
-    <h5><a href="/sports">Sports</a></h5>
-    <h3><a href="/sports/20160413/arrest-warrant-issued-for-rams-tre-mason-after-he-misses-court-date">Arrest warrant issued for Rams&#x2019; Tre Mason after he misses court date</a></h3>
-	<div class="meta no-border"><p class="timestamp">1 hr ago</p></div>
+    <h5><a href="/soccer">Soccer</a></h5>
+    <h3><a href="/sports/20160413/former-soccer-star-abby-wambach-pleads-guilty-in-dui-case">Former soccer star Abby Wambach pleads guilty in DUI case</a></h3>
+	<div class="meta no-border"><p class="timestamp">10 hrs ago</p></div>
 </li><li>
     <h5><a href="/los-angeles-angels">Angels</a></h5>
     <h3><a href="/sports/20160412/angels-rally-past-as-for-third-win-in-a-row">Angels rally past A&#x2019;s for third win in a row</a></h3>
-	<div class="meta no-border"><p class="timestamp">11 hrs ago</p></div>
+	<div class="meta no-border"><p class="timestamp">19 hrs ago</p></div>
 </li><li>
     <h5><a href="/motorsports">Motorsports</a></h5>
     <h3><a href="/sports/20160412/it-may-look-like-all-the-others-but-kimballs-indycar-is-a-different">It may look like all the others, but Kimball&#x2019;s IndyCar is a different</a></h3>
-	<div class="meta no-border"><p class="timestamp">11 hrs ago</p></div>
+	<div class="meta no-border"><p class="timestamp">20 hrs ago</p></div>
 </li><li>
     <h5><a href="/anaheim-ducks">Anaheim Ducks</a></h5>
     <h3><a href="/sports/20160412/ducks-gm-never-considered-firing-coach-boudreau">Ducks GM never considered firing coach Boudreau</a></h3>
-	<div class="meta no-border"><p class="timestamp">13 hrs ago</p></div>
-</li><li>
-    <h5><a href="/opinion">Opinion</a></h5>
-    <h3><a href="/opinion/20160412/conflict-laws-must-be-stronger-for-california-politicians">Conflict laws must be stronger for California politicians</a></h3>
-	<div class="meta no-border"><p class="timestamp">18 hrs ago</p></div>
-</li><li>
-    <h5><a href="/business">Business</a></h5>
-    <h3><a href="/business/20160412/your-rent-is-going-up-wherever-you-live-in-southern-california">Your rent is going up wherever you live in Southern California</a></h3>
-	<div class="meta no-border"><p class="timestamp">19 hrs ago</p></div>
-</li><li>
-    <h5><a href="/sports">Sports</a></h5>
-    <h3><a href="/sports/20160412/dodgers-2016-home-opener-vs-diamondbacks-live-updates">Dodgers 2016 home opener vs. Diamondbacks: live updates</a></h3>
 	<div class="meta no-border"><p class="timestamp">21 hrs ago</p></div>
 </li><li>
     <h5><a href="/sports">Sports</a></h5>
     <h3><a href="/sports/20160412/whicker-kobe-bryant-captivates-us-because-we-watched-him-grow-up-as-a-laker">Whicker: Kobe Bryant captivates us because we watched him grow up as a Laker</a></h3>
 	<div class="meta no-border"><p class="timestamp">1 day ago</p></div>
 </li><li>
-    <h5>Basketball</h5>
-    <h3><a href="/sports/20160411/lakers-embrace-kobe-bryants-farewell-tour-even-through-the-constant-losing">Lakers embrace Kobe Bryant&#x2019;s farewell tour even through the constant losing</a></h3>
-	<div class="meta no-border"><p class="timestamp">1 day ago</p></div>
+    <h5><a href="/sports">Sports</a></h5>
+    <h3><a href="/sports/20160413/real-recognizes-real-yasiel-puig-magic-johnson-tiger-woods-serena-williams-and-others-help-celebrate-mambaday">Real recognizes real: Yasiel Puig, Magic Johnson, Tiger Woods, Serena Williams and others help celebrate #MambaDay</a></h3>
+	<div class="meta no-border"><p class="timestamp">1 hr ago</p></div>
 </li><li>
-    <h5><a href="/professional-basketball">NBA</a></h5>
-    <h3><a href="/sports/20160411/russell-westbrook-kevin-durant-spoil-kobe-bryants-final-game-in-oklahoma-city">Russell Westbrook, Kevin Durant spoil Kobe Bryant&#x2019;s final game in Oklahoma City</a></h3>
-	<div class="meta no-border"><p class="timestamp">1 day ago</p></div>
+    <h5>High school softball</h5>
+    <h3><a href="/sports/20160412/oaks-christian-softball-tops-newbury-park-with-walk-off-hit">Oaks Christian softball tops Newbury Park with walk-off hit</a></h3>
+	<div class="meta no-border"><p class="timestamp">8 hrs ago</p></div>
+</li><li>
+    <h5><a href="/los-angeles-clippers">Clippers</a></h5>
+    <h3><a href="/sports/20160412/la-clippers-playing-well-down-regular-season-stretch">LA Clippers playing well down regular-season stretch</a></h3>
+	<div class="meta no-border"><p class="timestamp">21 hrs ago</p></div>
+</li><li>
+    <h5><a href="/los-angeles-angels">Angels</a></h5>
+    <h3><a href="/sports/20160412/angels-reliever-joe-smith-beats-steph-curry">Angels reliever Joe Smith beats Steph Curry</a></h3>
+	<div class="meta no-border"><p class="timestamp">21 hrs ago</p></div>
+</li><li>
+    <h5><a href="/soccer">Soccer</a></h5>
+    <h3><a href="/sports/20160413/champions-league-bayern-gets-past-benfica-to-reach-semifinal">Champions League: Bayern gets past Benfica to reach semifinal</a></h3>
+	<div class="meta no-border"><p class="timestamp">4 hrs ago</p></div>
 </li>	</ul>
 </div>
 <!-- PromoJobWallWidget -->
@@ -474,25 +474,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					  <div id="columnists" class="top-border fat">
 	<h4>Opinion</h4>
 	<figure>
-	<a href="/sports/20160413/usc-names-lynn-swann-as-new-athletic-director"><img src="http://image.dailynews.com/apps/pbcsi.dll/persbilde?Avis=LA&ID=39" alt="" width="150" height="90" >
-<hgroup>
-	<h5><a href="/Staff/39">Scott Wolf</a></h5>
-</a>
-		<h3><a href="/sports/20160413/usc-names-lynn-swann-as-new-athletic-director"> USC names Lynn Swann as new athletic director </a></h3>
-	</hgroup>
-</figure><figure>
-	<a href="/general-news/20160413/mother-and-daughter-killed-in-west-hills-intersection-are-identified"><img src="http://image.dailynews.com/apps/pbcsi.dll/persbilde?Avis=LA&ID=24" alt="" width="150" height="90" >
+	<a href="/general-news/20160413/mother-daughter-killed-in-west-hills-intersection-identified"><img src="http://image.dailynews.com/apps/pbcsi.dll/persbilde?Avis=LA&ID=24" alt="" width="150" height="90" >
 <hgroup>
 	<h5><a href="/Staff/24">Gregory J. Wilcox</a></h5>
 </a>
-		<h3><a href="/general-news/20160413/mother-and-daughter-killed-in-west-hills-intersection-are-identified"> Mother and daughter killed in West Hills intersection are identified </a></h3>
+		<h3><a href="/general-news/20160413/mother-daughter-killed-in-west-hills-intersection-identified"> Mother, daughter killed in West Hills intersection identified </a></h3>
 	</hgroup>
 </figure><figure>
-	<a href="/sports/20160412/whicker-kobe-bryant-captivates-us-because-we-watched-him-grow-up-as-a-laker"><img src="http://image.dailynews.com/apps/pbcsi.dll/persbilde?Avis=LA&ID=522" alt="" width="150" height="90" >
+	<a href="/arts-and-entertainment/20160413/las-freeway-lady-mural-to-be-retired-in-san-fernando-valley"><img src="" alt="" width="150" height="90" >
 <hgroup>
-	<h5><a href="/Staff/522">Mark Whicker</a></h5>
+	<h5><a href="/Staff/13">Dana Bartholomew</a></h5>
 </a>
-		<h3><a href="/sports/20160412/whicker-kobe-bryant-captivates-us-because-we-watched-him-grow-up-as-a-laker"> Whicker: Kobe Bryant captivates us because we watched him grow up as a Laker </a></h3>
+		<h3><a href="/arts-and-entertainment/20160413/las-freeway-lady-mural-to-be-retired-in-san-fernando-valley"> LA&#x2019;s Freeway Lady mural to be retired in San Fernando Valley </a></h3>
+	</hgroup>
+</figure><figure>
+	<a href="/sports/20160413/ucla-starting-to-grasp-new-offense-playbook-and-all"><img src="http://image.dailynews.com/apps/pbcsi.dll/persbilde?Avis=LA&ID=518" alt="" width="150" height="90" >
+<hgroup>
+	<h5><a href="/Staff/518">Thuc Nhi Nguyen</a></h5>
+</a>
+		<h3><a href="/sports/20160413/ucla-starting-to-grasp-new-offense-playbook-and-all"> UCLA starting to grasp new offense, playbook and all </a></h3>
 	</hgroup>
 </figure>
 </div>
@@ -517,15 +517,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div class="meta">
         <p class="source"><span class="divider">|</span></p>
-        <p class="timestamp"><time datetime="2016-13-04PDT9:11:53103">1 hr ago</time></p>
+        <p class="timestamp"><time datetime="2016-13-04PDT9:11:53103">10 hrs ago</time></p>
     </div>
 </div> <!-- #top-story -->
 <div id="second-lead-story">
-	<h3><a href="/opinion/20160412/after-brussels-attack-its-time-to-re-evaluate-airport-security-janice-hahn">After Brussels attack, it&#x2019;s time to re-evaluate airport security: Janice Hahn</a></h3>
-	<p class="excerpt">Because of nature of the 9/11 attacks, we focused our nation&#x2019;s efforts on strengthening security on aircraft and preventing terrorists from getting on planes.  Since 2001, we have strengthened cockpit doors, improved passenger screening, screen...</p>
+	<h3><a href="/opinion/20160413/you-shouldnt-lose-your-job-over-a-traffic-ticket">You shouldn&#x2019;t lose your job over a traffic ticket</a></h3>
+	<p class="excerpt">For most people, flashing police lights in the rearview mirror mean an unwanted traffic ticket and fine. But if you can barely pay the rent, or the baby sitter or even the light bill, that ticket has another meaning. It could cost you your...</p>
 	<div class="meta">
-		<p class="source">By Janice Hahn<span class="divider">|</span></p>
-		<p class="timestamp"><time datetime="2016-12-04PDT13:18:33102">21 hrs ago</time></p>
+		<p class="source">By The Editorial Board<span class="divider">|</span></p>
+		<p class="timestamp"><time datetime="2016-13-04PDT18:00:43103">1 hr ago</time></p>
 	</div>
 </div> <!-- .second-lead-story -->
 <div id="secondary" class="secondary-stories">
@@ -533,11 +533,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="span2">
 	<h5><a href="/sports">Sports</a></h5>
 	<figure>
-		<a href="/sports/20160413/usc-names-lynn-swann-as-new-athletic-director"><img src="/storyimage/LA/20160413/SPORTS/160419797/AR/0/AR-160419797.jpg&exactW=144&exactH=83&exactFit=crop&imageversion=Skybox" alt="USC names Lynn Swann as new athletic director" /></a>
+		<a href="/sports/20160413/live-updates-kobe-bryants-last-game-with-lakers"><img src="/storyimage/LA/20160413/SPORTS/160419779/AR/0/AR-160419779.jpg&exactW=144&exactH=83&exactFit=crop&imageversion=Skybox" alt="Live updates: Kobe Bryant&#x2019;s last game with Lakers" /></a>
 	</figure>
 	<h3>
-	 	<a href="/sports/20160413/usc-names-lynn-swann-as-new-athletic-director">
-			USC names Lynn Swann as new athletic director
+	 	<a href="/sports/20160413/live-updates-kobe-bryants-last-game-with-lakers">
+			Live updates: Kobe Bryant&#x2019;s last game with Lakers
+		</a>
+	</h3>
+</li><li class="span2">
+	<h5><a href="/ucla-sports">UCLA</a></h5>
+	<figure>
+		<a href="/sports/20160413/ucla-starting-to-grasp-new-offense-playbook-and-all"><img src="/storyimage/LA/20160413/SPORTS/160419786/AR/0/AR-160419786.jpg&exactW=144&exactH=83&exactFit=crop&imageversion=Skybox" alt="UCLA starting to grasp new offense, playbook and all" /></a>
+	</figure>
+	<h3>
+	 	<a href="/sports/20160413/ucla-starting-to-grasp-new-offense-playbook-and-all">
+			UCLA starting to grasp new offense, playbook and all
 		</a>
 	</h3>
 </li><li class="span2">
@@ -550,16 +560,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			Lakers&#x2019; Kobe Bryant recalls embarrassing J.R. Rider in practice
 		</a>
 	</h3>
-</li><li class="span2">
-	<h5><a href="/soccer">Soccer</a></h5>
-	<figure>
-		<a href="/sports/20160413/former-soccer-star-abby-wambach-pleads-guilty-in-dui-case"><img src="/storyimage/LA/20160413/SPORTS/160419804/AR/0/AR-160419804.jpg&exactW=144&exactH=83&exactFit=crop&imageversion=Skybox" alt="Former soccer star Abby Wambach pleads guilty in DUI case" /></a>
-	</figure>
-	<h3>
-	 	<a href="/sports/20160413/former-soccer-star-abby-wambach-pleads-guilty-in-dui-case">
-			Former soccer star Abby Wambach pleads guilty in DUI case
-		</a>
-	</h3>
 </li>	</ul>
 </div> <!-- .secondary-stories -->
 
@@ -568,76 +568,76 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <h4>MOST RECENT STORIES</h4>
     <ul id="most-recent-stories" class="unstyled">
     <li>
-	<h5>College basketball</h5>	
-	<h3 class="title"><a href="/sports/20160413/utah-center-jakob-poeltl-declares-for-nba-draft">Utah center Jakob Poeltl declares for NBA draft</a></h3>
-	<p class="excerpt">SALT LAKE CITY &#x2014; Utah center Jakob Poeltl is leaving school to enter the NBA draft.  He made his plans known Wednesday during a news conference at the Utah basketball practice facility. Poeltl was named a second-team All-American and was the Pac-12 Player of the Year. He ranked No. 2 in the Pac-12 with 17.2 points per game, No. 4 with 9.1 rebounds per game and No. 1 with a 64.6 shooting percentage.  Poeltl almost left after his freshman year, but said he has no...</p>
+	<h5>Arrests</h5>	
+	<h3 class="title"><a href="/general-news/20160413/police-quickly-arrest-transient-who-slipped-onto-airfield-at-lax">Police quickly arrest transient who slipped onto airfield at LAX</a></h3>
+	<p class="excerpt">A woman who appeared to be a transient walked onto the airfield at Los Angeles International Airport on Wednesday and was quickly taken into custody by police. The woman walked through an access gate near Aviation Boulevard and 111th Street that was open to allow a vehicle in about 3:45 p.m., said Officer Rob Pedregon of the Los Angeles Airport Police Department. The woman was arrested on suspicion of trespassing and taken to the Los Angeles Police Department&#x2019;s Pacific...</p>
 	<div class="meta">
-	 	<p class="source">By Kareem Copeland
-The Associated Press<span class="divider">|</span><time datetime="2016-13-04PDT10:40:21103">9 mins ago</time></p>
-	</div>
-</li><li>
-	<h5>Dodgers</h5>	
-	<h3 class="title"><a href="/sports/20160413/braves-of-former-dodger-hector-olivera-held-for-assault">Braves OF, former Dodger Hector Olivera held for assault</a></h3>
-	<p class="excerpt">ARLINGTON, Va. &#x2014; Major League Baseball has placed Atlanta Braves outfielder Hector Olivera on administrative leave after he was arrested when a woman accused him of assault at a hotel outside Washington. The Braves announced the change in a statement Wednesday, saying the team is &#x201c;extremely disappointed and troubled.&#x201d; Arlington Police spokeswoman Ashley Savage says officers were called earlier Wednesday to the Ritz-Carlton Hotel in Pentagon City, where a...</p>
-	<div class="meta">
-	 	<p class="source">By The Associated Press<span class="divider">|</span><time datetime="2016-13-04PDT10:33:25103">16 mins ago</time></p>
-	</div>
-</li><li>
-	<h5>Sports</h5>	
-	<h3 class="title"><a href="/sports/20160413/see-what-it-is-like-to-be-at-kobes-last-game-on-ladailynews-snapchat">See what it is like to be at Kobe&#x2019;s last game on ladailynews Snapchat</a></h3>
-	<p class="excerpt">Tonight, one of the greatest players in basketball history takes the floor for the final time as a player. After at 20-year NBA career, Kobe Bryant will play his last game at a sold-out Staples Center in front of a crowd of his biggest fans.  They&#x2019;re playing the Utah Jazz at 7:30 p.m. but we&#x2019;ll be Snapchatting the crowds, the stadium and the tearful tributes throughout the evening.  Join us by opening the app and searching for ladailynews or by pointing your camera...</p>
-	<div class="meta">
-	 	<p class="source">Samantha Valtierr Bush
-Los Angeles Daily News<span class="divider">|</span><time datetime="2016-13-04PDT10:09:13103">40 mins ago</time></p>
+	 	<p class="source"><span class="divider">|</span><time datetime="2016-13-04PDT19:07:47103">7 mins ago</time></p>
 	</div>
 </li><li>
 	<h5>Accidents</h5>	
-	<h3 class="title"><a href="/general-news/20160413/mother-and-daughter-killed-in-west-hills-intersection-are-identified">Mother and daughter killed in West Hills intersection are identified</a></h3>
-	<p class="excerpt">Authorities on Wednesday identified a mother and daughter who were struck and killed Monday night in a West Hills intersection. The daughter was Erica Franncemarie Botz and her mother was Pia Botz, said Ed Winter, assistant chief of Operations an Investigations for the Los Angeles County Department of Medical Examiner-Coroner. The daughter was 31 and the mother 69, and...</p>
+	<h3 class="title"><a href="/general-news/20160413/mother-daughter-killed-in-west-hills-intersection-identified">Mother, daughter killed in West Hills intersection identified</a></h3>
+	<p class="excerpt">Authorities on Wednesday identified a mother and daughter who were struck and killed Monday night in a West Hills intersection. The daughter was Erica Botz, 31, and her mother was identified as 69-year-old Pia Botz, said Ed Winter, assistant chief of Operations and Investigations for the Los Angeles County Department of Medical Examiner-Coroner. &#x2022;RELATED...</p>
 	<div class="meta">
-	 	<p class="source"><a href="mailto:greg.wilcox@dailynews.com">Gregory J. Wilcox</a><br><span class="divider">|</span><time datetime="2016-13-04PDT9:53:13103">56 mins ago</time></p>
+	 	<p class="source"><a href="mailto:greg.wilcox@dailynews.com">Gregory J. Wilcox</a><br><span class="divider">|</span><time datetime="2016-13-04PDT19:01:39103">14 mins ago</time></p>
 	</div>
 </li><li>
-	<h5>Shootings</h5>	
-	<h3 class="title"><a href="/general-news/20160413/man-killed-outside-downtown-la-liquor-store-gunman-at-large">Man killed outside downtown LA liquor store, gunman at large</a></h3>
-	<p class="excerpt">LOS ANGELES &#x2014;  A man who might have been drinking and arguing with people outside a liquor store in downtown Los Angeles was fatally shot and the gunman remained at large this morning, Los Angeles police said. The shooting happened outside a liquor store near a Shell gas station at the intersection of Central Avenue and Washington Boulevard about 10:25 p.m. Tuesday, said LAPD Lt. Ellis Imaizumi, watch commander at Newton Division. &#x201c;There were reports the man may...</p>
+	<h5>Visual arts</h5>	
+	<h3 class="title"><a href="/arts-and-entertainment/20160413/las-freeway-lady-mural-to-be-retired-in-san-fernando-valley">LA&#x2019;s Freeway Lady mural to be retired in San Fernando Valley</a></h3>
+	<p class="excerpt">For years, a Los Angeles septuagenarian cast a comforting gaze upon millions of 101 Freeway commuters downtown.  Now the beloved Freeway Lady mural by artist Kent Twitchell &#x2014; twice obliterated from its original location &#x2014; has been recreated in the car-crazed San Fernando Valley. The 30-by-22-foot mural will be dedicated Thursday at a new home at Los Angeles Valley College. &#x201c;Every time I was going to try to put her some place it would fall through,&#x201d;...</p>
 	<div class="meta">
-	 	<p class="source">City News Service<span class="divider">|</span><time datetime="2016-13-04PDT9:50:55103">58 mins ago</time></p>
+	 	<p class="source"><a href="mailto:dana.bartholomew@dailynews.com">Dana Bartholomew</a><br><span class="divider">|</span><time datetime="2016-13-04PDT18:39:31103">36 mins ago</time></p>
+	</div>
+</li><li>
+	<h5>Public health</h5>	
+	<h3 class="title"><a href="/health/20160413/cockroaches-rodent-droppings-lack-of-hot-water-shut-down-these-7-los-angeles-restaurants">Cockroaches, rodent droppings, lack of hot water shut down these 7 Los Angeles restaurants</a></h3>
+	<p class="excerpt">Seven restaurants in Los Angeles were temporarily closed last week due to major public health hazards. Between April 4 and April 10, those facilities had their health permits suspended for cockroach and rodent infestations and a lack of hot water, according to a report from the Los Angeles County Public Health Department. Restaurants and markets whose permits are suspended must close until another inspection determines the problems have been fixed. Closures can occur during...</p>
+	<div class="meta">
+	 	<p class="source"><a href="mailto:stephanie.baer@langnews.com">Stephanie K. Baer</a><br><span class="divider">|</span><time datetime="2016-13-04PDT18:23:17103">52 mins ago</time></p>
 	</div>
 </li><li>
 	<h5>Coachella</h5>	
-	<h3 class="title"><a href="/events/20160413/coachella-2016-five-things-that-would-make-the-festival-epic">Coachella 2016: Five Things That Would Make the Festival Epic</a></h3>
-	<p class="excerpt">The Coachella Valley Music and Arts Festival ushers in music festival season and brings the eyes of the world to the Empire Polo Club in Indio for two weekends each year. With the fest kicking off April 15-17 and coming back for an encore April 22-24, here&#x2019;s what could happen to make this year the most talked-about yet. 1. The biggest reunion of the year No, not that headliner. Nope, not that other headliner either. Rumors have been flying from before the lineup...</p>
+	<h3 class="title"><a href="/events/20160413/coachella-2016-whats-new-at-the-festival">Coachella 2016: What&#x2019;s new at the festival</a></h3>
+	<p class="excerpt">Cool bands? Check. Crazy fashions? Sure. Exhausting amounts of fun? Let&#x2019;s hope. But as much as some expected elements are fairly sure to occur again this year at the Coachella Valley Music and Arts Festival, there are some new ones, too. &#x201c;The constant tinkering is the key to vitality,&#x201d; said Kenneth Lopez, chairman of the Music Industry Program at the USC Thornton School of Music about the festival changes.  Previously, the festival has made changes such...</p>
 	<div class="meta">
-	 	<p class="source"><a href="mailto:vfranko@pe.com">Vanessa Franko</a><br><span class="divider">|</span><time datetime="2016-13-04PDT9:41:36103">1 hr ago</time></p>
+	 	<p class="source"><a href="mailto:wes.woods@langnews.com">Wes Woods</a><br><span class="divider">|</span><time datetime="2016-13-04PDT18:13:09103">1 hr ago</time></p>
 	</div>
 </li><li>
-	<h5>Columns</h5>	
-	<h3 class="title"><a href="/opinion/20160413/editorial-cartoon-of-the-day">Editorial cartoon of the day</a></h3>
-	<p class="excerpt"> </p>
+	<h5>Entertainment</h5>	
+	<h3 class="title"><a href="/arts-and-entertainment/20160413/grand-prix-concerts-bring-cheap-trick-and-nortec-collective">Grand Prix concerts bring Cheap Trick and Nortec Collective</a></h3>
+	<p class="excerpt">When the racing comes to a close at the Toyota Grand Prix of Long Beach, the music will start revving up with a pair of weekend concerts. The Grand Prix&#x2019;s Tecate Light Fiesta Friday Concert will be headlined this year by Tijuana-based Nortec Collective Presents: Bostich and Fussible, an electronic fusion group made up of DJs Ramon Amezcua (Bostich) and Pepe Mogt (Fussible), co-founders of...</p>
 	<div class="meta">
-	 	<p class="source"><span class="divider">|</span><time datetime="2016-13-04PDT9:29:41103">1 hr ago</time></p>
+	 	<p class="source"><a href="mailto:Richard.Guzman@presstelegram.com">Richard Guzman</a><br><span class="divider">|</span><time datetime="2016-13-04PDT18:02:36103">1 hr ago</time></p>
 	</div>
 </li><li>
-	<h5>Columns</h5>	
-	<h3 class="title"><a href="/opinion/20160413/california-kids-need-more-dangerous-playgrounds-joe-mathews">California kids need more dangerous playgrounds: Joe Mathews</a></h3>
-	<p class="excerpt">California doesn&#x2019;t make playgrounds like it used to. Fifteen years after the state legislated compliance with national safety standards for new and renovated public playgrounds, I can take the Three Stooges &#x2014; my three sons under age 8 &#x2014; to parks around California confident I&#x2019;ll see the same safe equipment: low swings, low slides, ubiquitous guardrails and rubbery mats to cushion falls. But all that safe sameness is boring. And safer playgrounds carry...</p>
+	<h5>War and unrest</h5>	
+	<h3 class="title"><a href="/general-news/20160413/document-leak-in-syria-enough-to-convict-assad-of-war-crimes">Document leak in Syria &#x2018;enough to convict Assad of war crimes&#x2019;</a></h3>
+	<p class="excerpt">Syrian President Bashar al-Assad can be successfully prosecuted for war crimes. That&#x2019;s the conclusion of a group of independent lawyers who have obtained top-secret documents from the highest levels of the Syrian government. All they need to put Assad behind bars, they say, is a court. The work of the lawyers is detailed by Ben Taub in an article for the latest edition of the New...</p>
 	<div class="meta">
-	 	<p class="source"><a href="mailto:">Joe Mathews</a><br><span class="divider">|</span><time datetime="2016-13-04PDT8:43:18103">2 hrs ago</time></p>
+	 	<p class="source">By Christopher Woolf
+GlobalPost<span class="divider">|</span><time datetime="2016-13-04PDT18:00:00103">1 hr ago</time></p>
 	</div>
 </li><li>
-	<h5>Music festivals</h5>	
-	<h3 class="title"><a href="/arts-and-entertainment/20160413/conservation-groups-cry-foul-over-planned-sepulveda-basin-music-festival">Conservation groups cry foul over planned Sepulveda Basin music festival</a></h3>
-	<p class="excerpt">LAKE BALBOA &gt;&gt; It would be a three-day music festival to rival Coachella, only this one would be staged in the heart of the San&#x2009;Fernando Valley. But the proposed AngelFest &#x2014; a family music extravaganza that could draw up to 65,000&#x2009;concertgoers per day this fall to the Sepulveda Basin Recreation Area &#x2014; has run afoul of bird watchers and conservation groups. &#x201c;It&#x2019;s absolutely inappropriate, adjacent to the Wildlife Reserve, without a...</p>
+	<h5>Education</h5>	
+	<h3 class="title"><a href="/social-affairs/20160413/12-year-olds-death-after-altercation-at-colton-elementary-school-prompts-memorial">12-year-old&#x2019;s death after altercation at Colton elementary school prompts memorial</a></h3>
+	<p class="excerpt">COLTON &gt;&gt; No evidence has been found that the death of a 12-year-old elementary school student Tuesday afternoon is trauma-related, according to a Colton Joint Unified spokeswoman. &#x201c;The particulars of this situation are being investigated by law enforcement at this time,&#x201d; district spokeswoman Katie Orloff said Wednesday. Colton Police Department officers and staff from the San Bernardino County Coroner&#x2019;s Office responded to Ulysses S. Grant Elementary...</p>
 	<div class="meta">
-	 	<p class="source"><a href="mailto:dana.bartholomew@dailynews.com">Dana Bartholomew</a><br><span class="divider">|</span><time datetime="2016-13-04PDT8:18:24103">2 hrs ago</time></p>
+	 	<p class="source"><a href="mailto:Beau.Yarbrough@langnews.com">Beau Yarbrough</a><br><a href="mailto:nereida.moreno@langnews.com">Nereida Moreno</a><br><span class="divider">|</span><time datetime="2016-13-04PDT17:58:01103">1 hr ago</time></p>
 	</div>
 </li><li>
-	<h5>Airport operation</h5>	
-	<h3 class="title"><a href="/business/20160413/500-to-stage-lax-airplane-accident-drill">500 to stage LAX airplane-accident drill</a></h3>
-	<p class="excerpt">LOS ANGELES &#x2014; More than 500 emergency-response personnel will take part in a drill at Los Angeles International Airport today simulating an airplane accident on the tarmac. About 150 volunteers will take part in the drill posing as victims, complete with makeup and molds to simulate injuries. &#x2022; PHOTOS: A closer look at the new LAX firefighting vehicles The...</p>
+	<h5>Recreational surfing</h5>	
+	<h3 class="title"><a href="/lifestyle/20160413/arrests-elusive-for-surfing-localism-at-lunada-bay-in-palos-verdes-estates">Arrests elusive for surfing localism at Lunada Bay in Palos Verdes Estates</a></h3>
+	<p class="excerpt">The Palos Verdes Estates Police Department, accused in a class-action lawsuit of protecting a band of territorial surfers, recorded more than a dozen incidents of surf-related localism since January 2015, none of which resulted in arrests, according to a review of public records. About 14 reports detail physical violence as well as several threats and a vandalized car. </p>
 	<div class="meta">
-	 	<p class="source">City News Service<span class="divider">|</span><time datetime="2016-13-04PDT7:38:00103">3 hrs ago</time></p>
+	 	<p class="source"><a href="mailto:ed.pilolla@pvnews.com">Ed Pilolla</a><br><span class="divider">|</span><time datetime="2016-13-04PDT17:51:03103">1 hr ago</time></p>
+	</div>
+</li><li>
+	<h5>Disease outbreaks</h5>	
+	<h3 class="title"><a href="/health/20160413/cdc-zika-definitely-causes-severe-birth-defects">CDC: Zika definitely causes severe birth defects</a></h3>
+	<p class="excerpt">NEW YORK &gt;&gt; Confirming the worst fears of many pregnant women in the United States and Latin America, U.S. health officials said Wednesday there is no longer any doubt the Zika virus causes babies to be born with abnormally small heads and other severe brain defects. Since last year, doctors in Brazil have been linking Zika infections in pregnant women to a rise in newborns with microcephaly, or an unusually small skull. Most outside experts were cautious about drawing such a...</p>
+	<div class="meta">
+	 	<p class="source">By Mike Stobbe
+AP Medical Writer<span class="divider">|</span><time datetime="2016-13-04PDT17:11:44103">2 hrs ago</time></p>
 	</div>
 </li>
     </ul>
@@ -1256,4 +1256,4 @@ var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.i
     </body>
 </html>
 
-<!--Updated: 2016/04/13 10:49:30-->
+<!--Updated: 2016/04/13 19:15:44-->
