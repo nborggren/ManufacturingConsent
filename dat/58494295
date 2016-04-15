@@ -1,0 +1,235 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+<head prefix="og:http://ogp.me/ns# fb:http://ogp.me/ns/fb#  video:http://ogp.me/ns/video#">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+    
+    <!-- RA:340008084 -->
+    <title>Hillary Clinton Addresses Voters After Nevada Caucus - Video on NBCNews.com</title>
+    <meta name="title" content="Hillary Clinton Addresses Voters After Nevada Caucus" />
+    <meta name="description" content="Video on NBCNews.com: Hillary Clinton addresses poverty issues, systemic racism, gender pay, education and Flint&#39;s water crisis during a speech to Nevada supporters." />
+    <link rel="canonical" href="http://www.nbcnews.com/video/msnbc-quick-cuts/58494295" />
+    <meta property="fb:app_id" content="10150138890205613" />
+    <meta property="og:site_name" content="NBCNews.com" />
+    <meta property="og:description" name="description" content="Video on msnbc.com: Hillary Clinton addresses poverty issues, systemic racism, gender pay, education and Flint&#39;s water crisis during a speech to Nevada supporters." />
+    <meta property="og:video" content="http://www.nbcnews.com/id/32545640/?launch=58494295%26autoplay=true%26omid=facebook" />
+    <link rel="video_src" href="http://www.nbcnews.com/id/32545640/?launch=58494295%26autoplay=true%26omid=facebook"/>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js" type="text/javascript"></script>
+
+    
+    <meta property="og:title" name="title"  content="Hillary Clinton Addresses Voters After Nevada Caucus" />
+    <meta property="og:url" content="http://www.nbcnews.com/video/msnbc-quick-cuts/58494295" />
+    <meta property="og:type" content="video.other" />
+
+    <meta property="og:image" content="http://media4.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_qc_1_sanderslasvegas_160220.blocks_desktop_large.jpg" />
+    <link rel="image_src" href="http://media4.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_qc_1_sanderslasvegas_160220.blocks_desktop_large.jpg" /> 
+    <meta name="video_height" content="250" />
+    <meta name="video_width" content="425" />
+    <meta name="video_type" content="application/x-shockwave-flash" />
+    <meta property="og:video:height" content="250" />
+    <meta property="og:video:width" content="425" />
+    <meta property="og:video:type" content="application/x-shockwave-flash" />
+
+
+<link rel="stylesheet" type="text/css" href="http://assets2a.nbcnews.com/Rendering/msnbc/html40/assets/Css/VideoCanonical.css?h=B7AE9F49CB64B727E30AE3625B57C162"/>
+
+<script type="text/javascript" src="http://assets4a.nbcnews.com/Rendering/msnbc/html40/assets/Js/Analytics.js?h=1FBB7689FCCCD8067EF2D2E9D089DCE2"></script>
+
+<script type="text/javascript" src="http://assets4a.nbcnews.com/Rendering/msnbc/html40/assets/Js/xfinity.js?h=76BD1653EC3E090C95AE8FF747C56DFA"></script>
+
+
+     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <script type="text/javascript" src="http://www.polls.newsvine.com/_elliott/jenga"></script>
+
+    <script type="text/javascript">
+
+        var currentVideoId;
+        var currentSource;
+
+        var videoPlayerParameters =
+    {
+        workbenchId: "58494295",
+        settings: "21438819",
+        flashRenderDiv: "VPFlash",
+        domain: "www.nbcnews.com",
+        noFlashRenderDiv: "VPNoFlash",
+        showMSNLogo: true,
+        showMSNBCLogo: true,
+        isLive: false
+    };
+
+    $j.session.ready(function(user) {
+
+	    $('.demo_activity').fb_activity({
+		    edition: 'video',
+		    title : 'What my friends are viewing',
+		    activity_feed : {
+			    // actions : 'watch' // actions defaults to like, recommend but i'm wondering if we want this to be a video-specific action e.g. "watch" if it even exists...?
+			    width: 300,
+			    toggle : true
+		    },
+		    sharing_message : 'You\'re sharing this video on Facebook',
+		    confirm_message : 'This video has been removed from your Facebook profile.',
+		    share_prompt_message : 'Share what you\'re watching & see what your friends are viewing',
+		    onAllow : function(user) { // or set a url instead of using onAllow
+			    updateOpenGraph(currentVideoId, currentSource);
+		    }
+	    });
+
+    });
+
+    </script>  
+    
+
+
+<script src="//www.nbcnews.com/id/51832828" type="text/javascript"></script>
+ 
+</head>
+<body class="default">
+    
+   
+<script src="//www.nbcnews.com/id/51738311" type="text/javascript"></script>
+
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+     (function(d, s, id) {
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) return;
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=10150138890205613";
+         fjs.parentNode.insertBefore(js, fjs);
+     } (document, 'script', 'facebook-jssdk'));
+     </script>
+    <script type="text/javascript">
+         FB.init({
+             appId: '10150138890205613', 
+             cookie:true,
+             status: true,
+             xfbml: true, 
+             oauth:true
+         });
+     </script>
+     
+    
+    <div id="flash_container">
+        <div id="VpFlash">
+            <div id="VPFlash">
+                <object width="996" height="600" id="flashPlayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+                    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0">
+                    <param name="movie" value="http://www.nbcnews.com/id/32213513" />
+                    <param name="FlashVars" value="launch=58494295&amp;domain=www.nbcnews.com&amp;EID=oVPEFC&amp;playerid=21134540&amp;settings=21438819&amp;sh=1600&amp;showMSNLogo=true&amp;showMSNBCLogo=true&amp;sw=2560&amp;useProxy=true&amp;wbDomain=www.nbcnews.com" />
+                    <param name="allowScriptAccess" value="always" />
+                    <param name="allowFullScreen" value="true" />
+                    <param name="wmode" value="transparent" />
+                    <embed name="flashPlayer" src="http://www.nbcnews.com/id/32213513" width="996" height="600" 
+                        flashvars="launch=58494295&amp;domain=www.nbcnews.com&amp;EID=oVPEFC&amp;playerid=21134540&amp;settings=21438819&amp;sh=1600&amp;showMSNLogo=true&amp;showMSNBCLogo=true&amp;sw=2560&amp;useProxy=true&amp;wbDomain=www.nbcnews.com"
+                        allowscriptaccess="always" allowfullscreen="true" wmode="transparent" type="application/x-shockwave-flash"
+                        pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+                </object>
+            </div>
+        </div>
+        <div id="reportDiv" style="display: none;">
+        </div>
+        <div id="surveyDiv" style="display: none;">
+        </div>
+    </div>
+
+<div class="container">
+    <div class="row rowtop35">
+       
+
+     <div class="cell1">
+        
+<div class="art standard hmedia default" >
+	<div class="img thumbnail" rel="media:image">
+	    <img alt="" src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_qc_1_sanderslasvegas_160220.video-260x195.jpg" >
+	</div>
+	<span class="credit contributor">
+		
+	</span>
+</div>
+     </div>
+     <div class="cell2">
+         <p>
+              <span class="videosource">msnbc quick cuts</span>
+                &nbsp;&nbsp;|&nbsp;&nbsp;<strong>February 20, 2016</strong>
+         </p>
+        <h1>Hillary Clinton Addresses Voters After Nevada Caucus</h1>
+        <h2 class="description">Hillary Clinton addresses poverty issues, systemic racism, gender pay, education and Flint's water crisis during a speech to Nevada supporters.</h2>
+         
+<div class="tags-share">
+    <div>
+        <p>Share This:</p>
+        <a class="social-link social-link-facebook" data-name="facebook" data-width="550" data-height="400" href="http://www.facebook.com/share.php?u=http://www.nbcnews.com/video/msnbc-quick-cuts/58494295">
+            <img src="http://assets1a.nbcnews.com/rendering/msnbc/html40/assets/Video/img/facebook.png" alt="facebook"/>
+        </a>
+        <a class="social-link social-link-twitter" data-name="twitter" data-width="550" data-height="420" href="https://twitter.com/share?original_referer=http://www.nbcnews.com/video/msnbc-quick-cuts/58494295&source=custom_tweetbutton&text=Hillary Clinton Addresses Voters After Nevada Caucus&url=http://www.nbcnews.com/video/msnbc-quick-cuts/58494295&via=msnbc quick cuts">
+                   <img src="http://assets1a.nbcnews.com/rendering/msnbc/html40/assets/Video/img/twitter.png" alt="twitter"/>
+        </a>
+        <a class="social-link social-link-googleplus" data-name="googleplus" data-width="450" data-height="500" href="https://plusone.google.com/_/+1/confirm?hl=en&url=http://www.nbcnews.com/video/msnbc-quick-cuts/58494295">
+            <img src="http://assets1a.nbcnews.com/rendering/msnbc/html40/assets/Video/img/googleplus.png" alt="googleplus"/>
+        </a>
+    </div>
+ </div>
+
+
+    </div>
+
+    </div>
+    <div class="row rowtop50">
+        <div class="span12">
+             <ul class="nav nav-tabs">
+              <li class="active"><a href="#related-videos" data-toggle="tab"><strong>Related Videos</strong></a></li>
+              <li><a href="#transcript" data-toggle="tab"><strong>Transcript of this video</strong></a></li>
+            </ul>
+            <div class="tab-content">
+              <!--// first tab for associated playlist showing 12 videos by default //-->
+              <div class="tab-pane active" id="related-videos">
+                  
+
+    <h4>msnbc</h4>
+    <ul class="thumbnails">
+        
+    </ul>
+
+              </div>
+              <!--// second tab for transcript //-->
+              <div class="tab-pane" id="transcript">
+                <h4>Sorry, we do not have a transcript available for this video at this time.</h4>
+                <div class="transcript">
+                    
+                </div>
+              </div>
+             </div>
+        </div>
+     </div>
+ </div>
+
+
+
+
+
+    <!-- this empty div required in order to attach the Xfinity footer -->
+    <div id="footer" class="placeholder"></div>
+
+    
+<script type="text/javascript" src="http://assets1a.nbcnews.com/Rendering/msnbc/html40/assets/Js/VideoCanonical.js?h=40854B1B05C3FDF30EBFBF17BE25FC3A"></script>
+
+    <script type="text/javascript">
+      ijv.model = {"headline":"Hillary Clinton Addresses Voters After Nevada Caucus","siteName":"msnbc","section":"","subSection":"","sourceName":"","sitePageId":"58494295"} ;
+    </script>
+    <script type="text/javascript">
+      videoLandingPageAnalytics().trackInitialPageView();
+    </script>
+
+
+<script src="//www.nbcnews.com/id/51579771" type="text/javascript"></script> 
+</body>
+</html>

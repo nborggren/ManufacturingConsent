@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+  <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+  <html class="no-js lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+  <html class="no-js lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <html class="no-js">
+<!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="http://www.bloomberg.com/graphics/assets/img/favicon.png" type="image/x-icon">
+
+        <!-- meta tags for this project -->
+        <!-- Create an SEO version of your headline -->
+        <title>Hillary Clinton's Drop in the Polls</title>
+
+        <!-- What flavor of Bloomberg will this graphic be on? -->
+        <meta property="og:site_name" content="Bloomberg.com"/>
+        <!-- What is the main headline? -->
+        <meta property="og:title" content="Is Hillary Clinton Likable Enough?">
+        <!-- What is the tweet / share statement? -->
+        <meta property="og:longTitle" content="Hillary Clinton's drop in the polls is precipitous, but it may not be fatal. Here's why.">
+        <!-- What is the share-able image -->
+        <!-- Image aspect ratio: 1.91:1 Image Dimensions: 1200x630px -->
+        <meta property="og:image" content="http://www.bloomberg.com/politics/graphics/2015-hillary-clinton-poll-drop/img/share-image.jpg"/>
+        <!-- These two can be the dek text -->
+        <meta property="og:description" content="Hillary Clinton's drop in the polls is precipitous, but it may not be fatal. Here's why."/>
+        <meta name="description" content="Hillary Clinton's drop in the polls is precipitous, but it may not be fatal. Here's why.">
+        <!-- Some keywords if you want -->
+        <meta name="keywords" content="Bloomberg Graphics"/>
+        <!-- The full link to this graphic -->
+        <meta property="og:url" content="http://www.bloomberg.com/politics/graphics/2015-hillary-clinton-poll-drop/"/>
+
+        <!-- Parsely tracking -->
+        <meta name="parsely-type" content="post" data-ephemeral="true">
+        <meta name="parsely-section" content="graphics" data-ephemeral="true">
+
+        <meta property="og:type" content="article"/>
+        <meta name="twitter:card" content="summary"/>
+        <!-- @bbgvisualdata is Bloomberg Graphics -->
+        <meta name="twitter:site" content="@bbgvisualdata"/>
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/fonts.css"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/business.css?"/>
+        <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/bpol-override.css?"/>
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/head.js?'></script>
+
+
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="top-banner">
+          <div class="center">
+              <ul>
+                  <li>
+                      <a target="_blank" href="http://www.bloomberg.com/company/">Bloomberg the Company & its Products
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="https://bba.bloomberg.net/">Bloomberg Anywhere <span class="hide-tablet">Remote</span> Login
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="http://www.bloomberg.com/professional/request-demo/?utm_source=bbgmenu-demo&bbgsum=DG-WS-CORE-bbgmenu-demo">Bloomberg Terminal Request a Demo
+                      </a>
+                  </li>
+              </ul>
+              <div class="clear"></div>
+          </div>
+        </div>
+
+        <div id='full-header-space'></div>
+
+        <div id="full-header" class='sticky-header'>
+           <a href="http://www.bloomberg.com/politics/">
+            <span class="colorwhite">Bloomberg</span><span class="breaker"><br></span><span class="tighten">P</span>o<span class="loosen">lit</span>i<span class="loosen">c</span>s
+          </a>
+
+          <div class="container bannerad"></div>
+          <div id="hidden-banner-ad"></div>
+
+          <div id="header-sharing">
+          <div class="header-icon" id="header-icon-twitter"><img class="blue" src="http://www.bloomberg.com/graphics/assets/img/twitter.png"><img class="white" src="http://www.bloomberg.com/graphics/assets/img/twitter_w.png"></div>
+          <div class="header-icon" id="header-icon-fb"><img class="blue" src="http://www.bloomberg.com/graphics/assets/img/facebook.png"><img class="white" src="http://www.bloomberg.com/graphics/assets/img/facebook_w.png"></div>
+          </div>
+        </div>
+
+        <div class="clearboth"></div>
+
+
+        <div id="inner-content">
+
+          <div class="article-title copywidth">Is Hillary Clinton Likable Enough?</div>
+          <div class="bydek copywidth">
+            By 
+            <a href="https://twitter.com/merrill_dave" alt="@merrill_dave" target="blank" class="t-hide">
+              Dave Merrill
+            </a>
+            <span class="t-show t-inline-block">
+              Dave Merrill
+            </span>
+            <div>October 8, 2015</div>
+          </div>
+          <div class="clearboth"></div>
+
+
+          <section class="copyblock copywidth">
+            <p>According to Gallup, Hillary Clinton's net favorability rating (favorable ratings minus unfavorable ratings) is hovering at -8%. No recent successful candidate for the White House has recovered from a number that low, except one: Bill Clinton in 1992. Her drop may not be fatal, though, as comebacks are a Clinton-family distinction.</p>
+          </section>
+
+          <section class="chartmargin">
+            <section class="copyblock copywidth">
+                <h2>Falling Behind</h2>
+                <p>Hillary Clinton’s net favorability rating, compared with ratings of successful presidential candidates prior to election.</p>
+              </section>
+              <section class="chartwidth">
+                <div class="chartDesktop">
+                  <img src="img/880-chart-1.jpg" width="880" />
+                </div>
+                <div class="chartMobile">
+                  <img src="img/568-chart-1.jpg" width="568" />
+                </div>
+              </section>
+              
+              <section class="copyblock copywidth">
+                <h2>Down This Road Before</h2>
+                <p>Clinton's rough start mirrors her ratings from the 2007-08 campaign.</p>
+              </section>
+              <section class="chartwidth">
+                <div class="chartDesktop">
+                  <img src="img/880-chart-2.jpg" width="880" />
+                </div>
+                <div class="chartMobile">
+                  <img src="img/568-chart-2.jpg" width="568" />
+                </div>
+              </section>
+
+              <section class="copyblock copywidth">
+                <h2>Comeback Time?</h2>
+                <p>Bill Clinton experienced low poll ratings in both campaigns and recovered.</p>
+              </section>
+              <section class="chartwidth">
+                <div class="chartDesktop">
+                  <img src="img/880-chart-3.jpg" width="880" />
+                </div>
+                <div class="chartMobile">
+                  <img src="img/568-chart-3.jpg" width="568" />
+                </div>
+              </section>
+
+              <section class="copyblock copywidth">
+                <h2>Favorability Relative to the Field</h2>
+                <p>Here's how Hillary Clinton's ratings stack up against the contenders.</p>
+              </section>
+              <section class="chartwidth">
+                <div class="chartDesktop">
+                  <img src="img/880-chart-4.jpg" width="880" />
+                </div>
+                <div class="chartMobile">
+                  <img src="img/568-chart-4.jpg" width="568" />
+                </div>
+              </section>
+          </section>
+
+          <div id="footer">
+            <div class="container">
+              <div class="left"></div>
+              <div class="source">SOURCE: Gallup data as of Sept. 14–17</div>
+              <div class="clearboth">&nbsp;</div>
+            </div>
+          </div>
+
+        </div><!-- id="inner-content" -->
+
+        <ul class="t-hide bbg-recirculator index-page__items index-page__top-items"></ul>
+
+
+        <!-- Required Scripts-->
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/lodash.underscore.min.js?"></script>
+        <script src="http://www.bloomberg.com/graphics/assets/js/vendor/d3.v3.min.js?"></script>
+
+        <script type="text/javascript">
+
+          // //Required: Uncomment config block and fill this out
+          // //bb_brand will always have bbiz and optionally one of the following: bpol, bmkt, bpur, btech, bview
+          var config = {
+            'name': 'blp.visual-data:graphics-2015-hillary-clinton-poll-drop',
+            'bb_brand': 'bbiz bpol',
+            'bb_slug': '2015-hillary-clinton-poll-drop',
+            'bb_author': 'Dave Merrill',
+            'bb_cg_3': "Hillary Clinton's drop in the polls is precipitous, but it may not be fatal. Here's why.",
+            'bb_groupId': 'visual-data/2015-hillary-clinton-poll-drop',
+            'bb_pub_d': '2015-01-01T00:15:00+04:00',
+            'ad_code': '', //don't forget leading '/5262' - /5262/business/insights/focus_on_mba
+            'num_ad_scroll_refesh': 3
+          };
+
+          var _sf_async_config = {
+            domain: 'bloomberg.com'
+          }
+        </script>
+
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/share.js?'></script>
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/tracker.js?'></script>
+        <script src='http://www.bloomberg.com/graphics/assets/js/lib/recirculator.js?'></script>
+
+        <script type="text/javascript">
+          initShare()
+
+          //stick header to top of page
+          var fixedHeader = null
+          d3.select(window).on('scroll.sticky', function(){
+            var fixedHeader1 = pageYOffset > 120
+            if (fixedHeader != fixedHeader1){
+              fixedHeader = fixedHeader1
+
+              d3.select('#full-header').classed('stuck', fixedHeader)
+              d3.select('#full-header-space').classed('stuck', fixedHeader)
+            }
+          });
+
+          (function(){
+
+
+          })()
+          
+          var oldWidth = window.innerWidth;
+          window.onresize = _.debounce(function(){
+          if (oldWidth === window.innerWidth){ return; }
+          oldWidth = window.innerWidth;
+
+          broadcastResize()
+          }, 50);
+
+          (function(){
+          window.onresize()
+
+          })()
+
+        </script>
+    </body>
+</html>

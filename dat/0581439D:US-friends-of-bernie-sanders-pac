@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang='en' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://opengraphprotocol.org/schema/' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Friends of Bernie Sanders PAC: Company Profile - Bloomberg
+</title>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="b3I6t2VdSIeEiB8A277ud/WKQy9iyee3BGijn5wFee8=" name="csrf-token" />
+<meta charset='utf-8'>
+<meta content='IE=10; IE=9; IE=8' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"32a39e099b","applicationID":"2021368","transactionName":"JVwPEhAJDlRSQ0tUBxRYBBIRSQFXWkEFVx85QxMJBA8OXUQeF1EJEQ==","queueTime":4,"applicationTime":1541,"ttGuid":"","agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMEUVZACgMCVVJUDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content="21600;URL='http://www.bloomberg.com/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac'" http-equiv='refresh'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<meta content='false' name='preview-mode'>
+<meta content='false' name='from-dash'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='1502271052,1617206,500566238,616620419,18776,1396618572,501161086,100001111898866,1223836' property='fb:admins'>
+<meta content='Bloomberg' property='og:site_name'>
+<meta content='//cdn.gotraffic.net/assets/markets/marketdata-quoteshare-image-64adfee0da43ceecb54bf2883036abc6.png' property='og:image'>
+<meta content='@business' name='twitter:creator'>
+<meta content='summary' name='twitter:card'>
+<meta content='@business' name='twitter:site'>
+<meta content='jbkKc37cWTAF9H98nMRpsGyKakTnLBDhPnHzQZV5' name='readability-verification'>
+<meta content='mid:155509691' name='linkedin:owner'>
+<meta content='C963C19A805867EAF6818CA38D8484E8' name='msvalidate.01'>
+<meta content='Bloomberg - Business, Financial &amp; Economic News, Stock Quotes' name='application-name'>
+<meta content='#FF6D22' name='msapplication-TileColor'>
+<meta content='/images/icons/iepromo_144.png' name='msapplication-TileImage'>
+<meta content='Company profile &amp; key executives for Friends of Bernie Sanders PAC (0581439D:-) including description, corporate address, management team and contact info.' name='description'>
+<meta content='Friends of Bernie Sanders PAC, Friends of Bernie Sanders PAC address, Friends of Bernie Sanders PAC information, Friends of Bernie Sanders PAC description, Friends of Bernie Sanders PAC management, 0581439D executives, 0581439D address, 0581439D management, 0581439D contact info' name='keywords'>
+<meta content='Friends of Bernie Sanders PAC: Company Profile - Bloomberg' property='og:title'>
+<meta content='Company profile &amp; key executives for Friends of Bernie Sanders PAC (0581439D:-) including description, corporate address, management team and contact info.' property='og:description'>
+<meta content='http://www.bloomberg.com/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac' property='og:url'>
+<meta content='0581439D:US' property='og:company:ticker'>
+<meta content='Company' property='og:type'>
+<meta content='Company' property='bb:resource_type'>
+<meta content='0581439D:US' property='bb:resource_id'>
+<link href='http://www.bloomberg.com/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac' rel='canonical'>
+
+<!--[if lt IE 9]>
+<link href="//cdn.gotraffic.net/assets/adaptive/full/global/global_dark-5dbf9099f76d54ef34f3301bd3934485.css" media="all" rel="stylesheet" />
+<link href="//cdn.gotraffic.net/assets/adaptive/full/controller/company_profile-3622f3653e921328cf31c90823f0fd71.css" media="all" rel="stylesheet" />
+<link href="//cdn.gotraffic.net/assets/site_ie8-7f77501a3ed2f12e1b279ced5bfaeae2.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link href="//cdn.gotraffic.net/assets/site_ie7-24b11cf97229175c38a5914db9517b6c.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if lte IE 9]>
+<link href="//cdn.gotraffic.net/assets/site_ie9-8ce0d2f06a073d7360626efd1e536503.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if gte IE 9]>
+<link href="//cdn.gotraffic.net/assets/adaptive/desktop/global/global_dark-9df61c9cde9bada22100d80ad1f04b2b.css" media="all" rel="stylesheet" />
+<link href="//cdn.gotraffic.net/assets/adaptive/desktop/controller/company_profile-f4179a3ee76b32d17b6ad5fb7b86afcb.css" media="all" rel="stylesheet" />
+
+<script src="//fonts.gotraffic.net/bnj8lwv.js"></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+
+<link href="//cdn.gotraffic.net/assets/adaptive/desktop/global/global/ie_drop_nav-a928ba40e2d7fe9bc3151d7f35461d45.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if !IE]> -->
+<link href="//cdn.gotraffic.net/assets/adaptive/desktop/global/global_dark-9df61c9cde9bada22100d80ad1f04b2b.css" media="all" rel="stylesheet" />
+<link href="//cdn.gotraffic.net/assets/adaptive/desktop/controller/company_profile-f4179a3ee76b32d17b6ad5fb7b86afcb.css" media="all" rel="stylesheet" />
+
+<script src="//fonts.gotraffic.net/bnj8lwv.js"></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+
+<!-- <![endif]-->
+
+<link href="http://fonts.gotraffic.net/k/bnj8lwv-d.css?3bb2a6e53c9684ffdc9a9bf4135b2a625d2f4b913c6083f29a411497d8b4eac39ad4819781f1eca20753dbd17073ba609b8e0f1a465859937e32d67cedf7f7dcf30a1f705d91f3da53fc6487d459dc3be571c10d1f0a4df5e89172ff28d158d59a1a457f5d36f64eb37907cfa914606662a47a9f90bc066eb670e86d96dd857c5e" media="screen" rel="stylesheet" />
+<link href="//cdn.gotraffic.net/assets/application-a41491a1ab1a418403e139dd10b9c18b.css" media="all" rel="stylesheet" />
+<link href="https://nav.bloomberg.com/public/stylesheets/bb-global-nav-9a47c35b10.css" media="all" rel="stylesheet" />
+<link href="https://nav.bloomberg.com/public/stylesheets/bb-global-footer-a141107103.css" media="all" rel="stylesheet" />
+<noscript>
+<style>
+  #bcom_homepage_headlines_top_news {
+    display: block;
+    margin-top: 12px;
+  }
+  .article_content .container {
+    margin-top: 0;
+  }
+  
+  .adsense,
+  .advertisements,
+  .article_interaction .save,
+  .footer_nav_toggle,
+  .headlines .filter,
+  .related_links,
+  .search_container,
+  .sidebar_panel_trigger {
+    display: none;
+  }
+  .b_nav {
+    cursor: default;
+  }
+  .footer_nav_contain {
+    max-height: none;
+  }
+  .homepage_content {
+    overflow: visible;
+  }
+  .mini_player,
+  .on_btv_now {
+    display: none;
+  }
+  .top_nav .drop_arrow {
+    display: none !important;
+  }
+  .quick_view nav .change_menu {
+    cursor: default;
+  }
+  .quick_view nav .change_menu h2:after {
+    content: '';
+  }
+  .quick_view nav .change_menu h2:hover {
+    color: #0c0c0c;
+  }
+  
+  @media screen and (min-width: 600px) {
+    .related_links {
+      display: block;
+    }
+  
+    .footer_nav .mobile_apps .mobile_icon {
+      background-image: url("//cdn.gotraffic.net/assets/mobile-sprites-73f04a8b5972b9923667de547cd51344.png");
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .article_interaction .save {
+      display: block;
+    }
+    .article_interaction .save .icon {
+      color: transparent;
+      cursor: default;
+    }
+    .article_interaction .save .icon:after {
+      background: none;
+    }
+    .article_interaction .save:hover .icon {
+      background-color: #545454;
+    }
+  }
+  
+  @media screen and (min-width: 970px) {
+    .section_nav ul.top_level li a {
+      font-size: 13.4px;
+    }
+  }
+  
+  @media screen and (min-width: 1366px) {
+    .section_nav ul.top_level li a {
+      font-size: 16px;
+    }
+  }
+</style>
+</noscript>
+
+<script>
+  var _sf_startpt=(new Date()).getTime();
+</script>
+
+<script src="//cdn.gotraffic.net/assets/tile/page_layout-3d0e6545dadbea1a59e8b7b2914b8f1a.js"></script>
+<script src="https://nav.bloomberg.com/public/javascripts/bb-global-nav-9b568db3c4.js"></script>
+</head>
+<body class='quote_page page_markets'>
+<div class='content_disable'>
+<div class='content_contain'>
+<div class="bb-nav-root"><link rel="import" href="https://nav.bloomberg.com/public/vendor/polymer/polymer.html"/><link rel="import" href="https://nav.bloomberg.com/public/components/bb_ad-421ac31a5c.html"/><nav is="bb-nav" class="bb-nav" id="bb-nav" data-nav-version="1.4.0" data-theme="default" data-mode="index" data-progress="0" data-headline="" data-base="https://nav.bloomberg.com" data-tracker-category="nav" data-tracker-events="click" data-tracker-label="header" data-site="global"><div class="bb-nav__container"><div class="bb-nav__content"><h1 class="bb-nav-logo" is="bb-nav-logo"><div class="bb-nav-logo__rubix" data-tracker-label="bomb.open.rubix_button" data-tracker-action="click"></div><div class="bb-nav-logo__menu" data-tracker-label="bomb.open.menu_button" data-tracker-action="click"><div class="bb-nav-logo__menu-link">MENU</div></div><a href="//www.bloomberg.com" class="bb-nav-logo__link" data-tracker-label="logo" data-tracker-action="click"></a><div class="bb-nav-logo__arrow"></div></h1><div class="bb-nav-content-logo" is="bb-nav-content-logo"><h1 class="bb-nav-content-logo__headline" data-tracker-label="content"><a href="//www.bloomberg.com" class="bb-nav-content-logo__site" data-tracker-label="logo" data-tracker-action="click"></a></h1><div class="bb-nav-content-logo__down-arrow" data-tracker-label="expand" data-tracker-action="click"></div></div><h2 class="bb-nav-headline"></h2><link rel="import" href="https://nav.bloomberg.com/public/components/bb_experience_select-b508856dc1.html"/><bb-experience-select class="bb-nav-experience-select"></bb-experience-select><div class="bb-nav-categories"><ul class="bb-nav-categories__container"><li class="bb-nav-categories__home"><a href="//www.bloomberg.com" class="bb-nav-categories__home-link">Homepage</a></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="markets" data-vertical="markets"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><a href="http://www.bloomberg.com/markets" class="bb-nav-categories__link" data-category-path="/markets" data-category-vertical="markets" target="_self" data-tracker-action="click">Markets</a></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_stocks" href="http://www.bloomberg.com/markets/stocks/" data-tracker-label="stocks" data-tracker-action="click">Stocks</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_currencies" href="http://www.bloomberg.com/markets/currencies/" data-tracker-label="currencies" data-tracker-action="click">Currencies</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_commodities" href="http://www.bloomberg.com/markets/commodities" data-tracker-label="commodities" data-tracker-action="click">Commodities</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_rates_bonds" href="http://www.bloomberg.com/markets/rates-bonds/" data-tracker-label="rates_plus_bonds" data-tracker-action="click">Rates + Bonds</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_magazine" href="http://www.bloomberg.com/markets/markets-magazine" data-tracker-label="magazine" data-tracker-action="click">Magazine</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_benchmark" href="http://www.bloomberg.com/markets/benchmark" data-tracker-label="benchmark" data-tracker-action="click">Benchmark</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_watchlist" href="http://www.bloomberg.com/markets/watchlist" data-tracker-label="watchlist" data-tracker-action="click">Watchlist</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economic_calendar" href="http://www.bloomberg.com/markets/economic-calendar" data-tracker-label="economic_calendar" data-tracker-action="click">Economic Calendar</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="marketsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="technology" data-vertical="technology"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><a href="http://www.bloomberg.com/technology" class="bb-nav-categories__link" data-category-path="/technology" data-category-vertical="technology" target="_self" data-tracker-action="click">Tech</a></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_companies" href="http://www.bloomberg.com/topics/silicon-valley" data-tracker-label="silicon_valley" data-tracker-action="click">Silicon Valley</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_gadgets" href="http://www.bloomberg.com/topics/global-tech" data-tracker-label="global_tech" data-tracker-action="click">Global Tech</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_start_ups" href="http://www.bloomberg.com/topics/startups" data-tracker-label="venture_capital" data-tracker-action="click">Venture Capital</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_security" href="http://www.bloomberg.com/topics/cybersecurity" data-tracker-label="hacking" data-tracker-action="click">Hacking</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_gaming" href="http://www.bloomberg.com/topics/entertainment" data-tracker-label="digital_media" data-tracker-action="click">Digital Media</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="technav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="pursuits" data-vertical="pursuits"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><a href="http://www.bloomberg.com/pursuits" class="bb-nav-categories__link" data-category-path="/pursuits" data-category-vertical="pursuits" target="_self" data-tracker-action="click">Pursuits</a></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_autos" href="http://www.bloomberg.com/topics/luxury-autos" data-tracker-label="autos" data-tracker-action="click">Autos</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_food" href="http://www.bloomberg.com/topics/pursuits-food" data-tracker-label="food" data-tracker-action="click">Food</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_timepieces" href="http://www.bloomberg.com/topics/watches" data-tracker-label="timepieces" data-tracker-action="click">Timepieces</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_style" href="http://www.bloomberg.com/topics/style" data-tracker-label="style" data-tracker-action="click">Style</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_travel" href="http://www.bloomberg.com/topics/travel" data-tracker-label="travel" data-tracker-action="click">Travel</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_property" href="http://www.bloomberg.com/topics/property" data-tracker-label="property" data-tracker-action="click">Property</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_art" href="http://www.bloomberg.com/topics/art" data-tracker-label="art" data-tracker-action="click">Art</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_scene" href="http://www.bloomberg.com/authors/APmzLbYuvGk/amanda-l-gordon" data-tracker-label="scene" data-tracker-action="click">Scene</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="pursuitsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="politics" data-vertical="politics"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><a href="http://www.bloomberg.com/politics" class="bb-nav-categories__link" data-category-path="/politics" data-category-vertical="politics" target="_self" data-tracker-action="click">Politics</a></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_with_all_due_respect" href="http://www.bloomberg.com/politics/topics/wadr-full-episode" data-tracker-label="with_all_due_respect" data-tracker-action="click">With All Due Respect</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_delegate_tracker" href="http://www.bloomberg.com/politics/graphics/2016-delegate-tracker/" data-tracker-label="delegate_tracker" data-tracker-action="click">Delegate Tracker</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_culture_caucus_podcast" href="http://www.bloomberg.com/podcasts/culture_caucus" data-tracker-label="culture_caucus_podcast" data-tracker-action="click">Culture Caucus Podcast</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_masters_in_politics_podcast" href="http://www.bloomberg.com/podcasts/masters_in_politics" data-tracker-label="masters_in_politics_podcast" data-tracker-action="click">Masters In Politics Podcast</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_what_the_voters_are_streaming" href="http://www.bloomberg.com/politics/graphics/2016-voter-spotify-listens/" data-tracker-label="what_the_voters_are_streaming" data-tracker-action="click">What The Voters Are Streaming</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/editors_picks" href="http://www.bloomberg.com/politics/topics/editors-picks" data-tracker-label="editors'_picks" data-tracker-action="click">Editors' Picks</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="politicsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="opinion" data-vertical="opinion"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><span class="bb-nav-categories__link" data-category-path="/opinion" data-category-vertical="opinion" target="_self" data-tracker-action="click">Opinion</span></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_view" href="http://www.bloombergview.com" data-tracker-label="view" data-tracker-action="click">View</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_gadfly" href="http://www.bloomberg.com/gadfly" data-tracker-label="gadfly" data-tracker-action="click">Gadfly</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="opinionnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="businessweek" data-vertical="businessweek"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><a href="http://www.bloomberg.com/businessweek" class="bb-nav-categories__link" data-category-path="/businessweek" data-category-vertical="businessweek" target="_self" data-tracker-action="click">Businessweek</a></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_subscribe" href="https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&cds_page_id=200920" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_cover_stories" href="http://www.bloomberg.com/topics/cover-story" data-tracker-label="cover_stories" data-tracker-action="click">Cover Stories</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_opening_remarks" href="http://www.bloomberg.com/topics/opening-remarks" data-tracker-label="opening_remarks" data-tracker-action="click">Opening Remarks</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_etc" href="http://www.bloomberg.com/topics/etc" data-tracker-label="etc" data-tracker-action="click">Etc</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_features" href="http://www.bloomberg.com/topics/features" data-tracker-label="features" data-tracker-action="click">Features</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_85th_anniversary_issue" href="http://www.businessweek.com/features/85ideas/" data-tracker-label="85th_anniversary_issue" data-tracker-action="click">85th Anniversary Issue</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_behind_the_cover" href="http://www.bloomberg.com/topics/behind-the-cover" data-tracker-label="behind_the_cover" data-tracker-action="click">Behind The Cover</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="bweeknav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category has-submenu " data-tracker-label="footer" data-vertical="footer"><div class="bb-nav-categories__category-container"><div class="bb-nav-categories__notch"></div><span class="bb-nav-categories__link" data-category-path="/footer" data-category-vertical="footer" target="_self" data-tracker-action="click">More</span></div><div class="bb-nav-submenu" is="bb-nav-submenu"><div class="bb-nav-submenu__content"><div class="bb-nav-submenu__inner"><ul class="bb-nav-submenu__categories"><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/news/industries" data-tracker-label="industries" data-tracker-action="click">Industries</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/news/science-energy" data-tracker-label="science_plus_energy" data-tracker-action="click">Science + Energy</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/graphics" data-tracker-label="graphics" data-tracker-action="click">Graphics</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/game-plan" data-tracker-label="game_plan" data-tracker-action="click">Game Plan</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/small-business" data-tracker-label="small_business" data-tracker-action="click">Small Business</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/personal-finance" data-tracker-label="personal_finance" data-tracker-action="click">Personal Finance</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/segments/inspire-go" data-tracker-label="inspire_go" data-tracker-action="click">Inspire GO</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/news/special-reports/bloomberg-board-directors-forum" data-tracker-label="board_directors_forum" data-tracker-action="click">Board Directors Forum</a></li><li class="bb-nav-submenu__category"><a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/sponsor/partnerships/" data-tracker-label="sponsored_content" data-tracker-action="click">Sponsored Content</a></li><li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="footernav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}'></bb-ad></li></ul><div class="bb-nav-submenu__cards" hidden></div></div></div></div></li><li class="bb-nav-categories__category bb-nav-categories__experience"><bb-experience-select class="bb-nav-mobile-experience-select"></bb-experience-select></li></ul></div><div class="bb-nav-touts" is="bb-nav-touts" data-tracker-label="tout"><a target="_self" class="bb-nav-touts__link" href="https://login.bloomberg.com/" data-tracker-label="sign_in" data-tracker-action="click">Sign In</a><a target="_blank" class="bb-nav-touts__subscribe-link" href="https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&cds_page_id=200920" data-vertical-target="businessweek" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a></div><link rel="import" href="https://nav.bloomberg.com/public/components/bb_social-f857cf4583.html"/><div class="bb-nav-social-container"><bb-social class="bb-nav-social"></bb-social></div><div class="bb-nav-search" is="bb-nav-search" data-tracker-label="search"><form class="bb-nav-search__form" action="/search" method="get" autocomplete="false"><input type="text" class="bb-nav-search__input" placeholder="What are you searching for?" name="query" autocomplete="off"/></form><link rel="import" href="https://nav.bloomberg.com/public/components/bb_quick_links-9234af6693.html"/><link rel="import" href="https://nav.bloomberg.com/public/components/bb_search_suggestions-3cab6c9184.html"/><div class="bb-search-drawer" tabindex="0"><div class="bb-search-drawer__content"><bb-quick-links></bb-quick-links><bb-search-suggestions></bb-search-suggestions></div></div></div><span class="bb-nav-search__icon" data-tracker-label="search.icon" data-tracker-action="click"></span></div></div><div class="bb-progress"><div class="bb-progress__status"></div></div><link rel="import" href="https://nav.bloomberg.com/bomb/bundle"/><bb-bomb></bb-bomb><script type="application/javascript" src="//cdn.gotraffic.net/projector/latest/bplayer.js" data-exclude="true"></script></nav><script type="text/javascript">(function(d) {var s = d.createElement("script");s.async = false;s.src = "https://nav.bloomberg.com/public/javascripts/webcomponents-lite-8ce9ae5fdd.js";s.type = "text/javascript";d.head.appendChild(s);})(document);</script></div>
+<script>
+  var bbNav = document.querySelector('nav');
+  bbNav.addEventListener('search', function(event) {
+    document.location = 'http://www.bloomberg.com/search?query=' + encodeURIComponent(event.detail.query);
+  });
+</script>
+
+<section class='leaderboard_ad hide_missing_ad'>
+<div class='large_ad'>
+<div class="bcom_ad top " lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-lazy_load="true" bcom-ad-position="top" bcom-ad-sizes="[[728, 90], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-top"></div></div>
+</div>
+</section>
+
+<div class='quotepage_content'>
+<div class='container markets_container'>
+<div class='feedback_button'>
+<a href="/feedback" target="_blank">Feedback</a>
+</div>
+
+<div class='isotope_container'>
+<div class='grid-sizer'></div>
+<div class='stamp quote_headersnapshot page_module clearfix' data-desktop='10' data-laptop='10' data-mobile='10' data-tablet='10'>
+<div class='quote-semantic-markup' itemscope='itemscope' itemtype='http://schema.org/Intangible/FinancialQuote'>
+<meta content='FRIENDS OF BERNIE SANDERS PA' itemprop='name'>
+<meta content='http://www.bloomberg.com/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac?ticker=0581439D%3AUS' itemprop='url'>
+<meta content='0581439D' itemprop='tickerSymbol'>
+<meta content='-' itemprop='exchange'>
+<meta content='-' itemprop='price'>
+<meta content='-' itemprop='priceChange'>
+<meta content='' itemprop='priceChangePercent'>
+<meta content='USD' itemprop='priceCurrency'>
+</div>
+
+<div class='equity markets_module quote_headersnapshot'>
+<h1 class='name'>friends of bernie sanders pac</h1>
+<div class='type'>Public Company</div>
+
+</div>
+</div>
+<div class='item company_profile_container page_module clearfix' data-desktop='20' data-laptop='20' data-mobile='20' data-tablet='20'>
+<div class='quote-profile-semantic-markup' itemscope='itemscope' itemtype='http://schema.org/Corporation'>
+<meta content='FRIENDS OF BERNIE SANDERS PA' itemprop='name'>
+<meta content='0581439D' itemprop='tickerSymbol'>
+<meta content='Friends Of Bernie Sanders is a United States Federal Political Committee. The Committee exists to elect a candidate of the  to the United States Senate.' itemprop='description'>
+</div>
+
+<div class='markets_module company_profile'>
+<h2 class='module_title'>Company Profile</h2>
+<div class='sector'>Sector: -</div>
+<div class='industry'>Industry: -</div>
+<div class='sub_industry'>Sub-Industry: -</div>
+<div class='description'>Friends Of Bernie Sanders is a United States Federal Political Committee. The Committee exists to elect a candidate of the  to the United States Senate.</div>
+</div>
+</div>
+<div class='item page_module clearfix' data-desktop='30' data-laptop='30' data-mobile='40' data-tablet='40'>
+<div class='markets_module corporate_info'>
+<h2 class='module_title'>Corporate Information</h2>
+<div>Address:</div>
+<div class='address'>
+<div>Po Box 391</div>
+<div>Burlington, VT 05402</div>
+<div>United States</div>
+</div>
+<div class='phone'>
+Phone:
+<a href="tel:-">-</a>
+</div>
+<div class='fax'>
+Fax:
+<a href="tel:-">-</a>
+</div>
+</div>
+</div>
+<div class='item ad_unit_container page_module clearfix' data-desktop='50' data-laptop='40' data-mobile='25' data-tablet='30'>
+<div class='markets_module broker_box_ad clearfix' id='broker_box_ad_837e1f17-28f9-412c-9215-039c1ee57b6e'>
+<div class='broker_group'>
+<div class="bcom_ad brokerbox1 broker_box" lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-current_resource="Company|0581439D--US" bcom-ad-el_classes="broker_box" bcom-ad-html_elem="div" bcom-ad-position="brokerbox1" bcom-ad-sizes="[[120, 60], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-brokerbox1"></div></div>
+<div class="bcom_ad brokerbox2 broker_box" lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-current_resource="Company|0581439D--US" bcom-ad-el_classes="broker_box" bcom-ad-html_elem="div" bcom-ad-position="brokerbox2" bcom-ad-sizes="[[120, 60], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-brokerbox2"></div></div>
+</div>
+<div class='broker_group'>
+<div class="bcom_ad brokerbox3 broker_box" lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-current_resource="Company|0581439D--US" bcom-ad-el_classes="broker_box" bcom-ad-html_elem="div" bcom-ad-position="brokerbox3" bcom-ad-sizes="[[120, 60], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-brokerbox3"></div></div>
+<div class="bcom_ad brokerbox4 broker_box" lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-current_resource="Company|0581439D--US" bcom-ad-el_classes="broker_box" bcom-ad-html_elem="div" bcom-ad-position="brokerbox4" bcom-ad-sizes="[[120, 60], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-brokerbox4"></div></div>
+</div>
+</div>
+</div>
+<div class='item right_rail_container hide_for_1_column page_module clearfix' data-desktop='50' data-laptop='40' data-mobile='30' data-tablet='30'>
+<div class='right_rail'>
+<div class='ad_unit_container hide_missing_ad  page_module clearfix'>
+<div class="bcom_ad right2 markets_ad" lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-current_resource="Company|0581439D--US" bcom-ad-el_classes="markets_ad" bcom-ad-html_elem="div" bcom-ad-position="right2" bcom-ad-sizes="[[300, 250], [300, 600], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-right2"></div></div>
+</div>
+<div class='taboola_container  page_module clearfix'>
+<div class='markets_module partner_module taboola_module'>
+<h2 class='module_title'>
+From The Web
+</h2>
+<div id='taboola-thumbs-2r-rr_bf94afee-dca4-463d-ad11-19572f6dce32'></div>
+</div>
+</div>
+<div class='ad_unit_container hide_missing_ad last page_module clearfix'>
+<div class="bcom_ad right3 markets_ad" lazy_load="true"><div bcom-ad-code="blp.persfin/research//profile" bcom-ad-current_resource="Company|0581439D--US" bcom-ad-el_classes="markets_ad" bcom-ad-html_elem="div" bcom-ad-position="right3" bcom-ad-sizes="[[300, 250], [1, 1]]" bcom-ad-ticker="0581439D-US" bcom-ad-url="/profiles/companies/0581439D:US-friends-of-bernie-sanders-pac" class="ad_inner_container" id="ad-right3"></div></div>
+</div>
+</div>
+</div>
+<div class='item hide_for_1_column page_module clearfix' data-desktop='100' data-laptop='100' data-mobile='100' data-tablet='100'>
+<div class='markets_module partner_module dianomi_module'>
+<h2 class='module_title'>
+Sponsored Financial Commentaries
+</h2>
+<div id='dianomi_00e77758-11ff-4eb5-a863-65edfb0bcc8a'></div>
+</div>
+</div>
+<div class='item hide_for_1_column taboola_container page_module clearfix' data-desktop='110' data-laptop='110' data-mobile='110' data-tablet='110'>
+<div class='markets_module partner_module taboola_module'>
+<h2 class='module_title'>
+More From The Web
+</h2>
+<div id='taboola-thumbs-3r_6b8ef186-3713-4bbe-bab5-59ac2f34f0e3'></div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+
+<div id='global-footer'>
+<footer class="bb-global-footer"><div class="bb-global-footer__content"><div class="bb-global-footer__group"><a class="bb-global-footer__link" href="http://www.bloomberg.com/tos">Terms of Service</a><a class="bb-global-footer__link" href="http://www.bloomberg.com/trademarks">Trademarks</a><a class="bb-global-footer__link" href="http://www.bloomberg.com/privacy">Privacy Policy</a><small class="bb-global-footer__copyright">©2016 Bloomberg L.P. All Rights Reserved</small></div><div class="bb-global-footer__group"><a class="bb-global-footer__link" href="http://www.bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer">Careers</a><a class="bb-global-footer__link" href="http://nytm.org/made-in-nyc">Made in NYC</a><a class="bb-global-footer__link" href="http://bloombergmedia.com/">Advertise</a><a class="bb-global-footer__link bb-global-footer__ad-choices" href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a><a class="bb-global-footer__link" href="http://www.bloomberg.com/feedback">Website Feedback</a><a class="bb-global-footer__link" href="http://www.bloomberg.com/help">Help</a></div></div></footer>
+</div>
+
+</div>
+<div class='ham_nav_container'>
+<div class='drop_nav_container' role='navigation'>
+<div class='logo_nav_contain'>
+<div class='region_menu'></div>
+<div class='nav_container'>
+<ul class='drop_nav'>
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a class="has_submenu" href="/news/">News</a>
+<ul class='news'>
+<li>
+<a class="" href="/news/">Top Headlines</a>
+<a class="" href="/popular/">Most Popular</a>
+<a class="" href="/news/exclusive/">Exclusive</a>
+<a class="" href="/news/law/">Law</a>
+<a class="" href="/entrepreneurs/">Entrepreneurs</a>
+<a class="" href="/leaders/">Leaders</a>
+<a class="" href="/news/economy/">Economy</a>
+<a class="" href="/news/environment/">Environment</a>
+<a class="" href="/news/science/">Science</a>
+<a class="" href="/sports/">Sports</a>
+<a class="" href="/markets-magazine/">Markets Magazine</a>
+<a class="" href="http://topics.bloomberg.com/bloomberg-pursuits/">Pursuits Magazine</a>
+<a class="" href="/visual-data/">Bloomberg Visual Data</a>
+<a class="" href="/visual-data/best-and-worst/">Bloomberg Best (and Worst)</a>
+<a class="" href="/help.html#contact-our-editors">For comments or complaints about news coverage click here</a>
+</li>
+<li>
+<a class="main" href="/news/regions/">Regions</a>
+<a href="/news/us/">U.S.</a>
+<a href="/news/china/">China</a>
+<a href="/news/europe/">Europe</a>
+<a href="/news/asia/">Asia</a>
+<a href="/news/uk-ireland/">U.K. &amp; Ireland</a>
+<a href="/news/australia-newzealand/">Australia &amp; New Zealand</a>
+<a href="/news/canada/">Canada</a>
+<a href="/news/india-pakistan/">India &amp; Pakistan</a>
+<a href="/news/japan/">Japan</a>
+<a href="/news/africa/">Africa</a>
+<a href="/news/eastern-europe/">Eastern Europe</a>
+<a href="/news/latin-america/">Latin America</a>
+<a href="/news/middle-east/">Middle East</a>
+<a class="main" href="/news/markets/">Markets</a>
+<a href="/news/commodities/">Commodities</a>
+<a href="/news/currencies/">Currencies</a>
+<a href="/news/bonds/">Bonds</a>
+<a href="/news/stocks/">Stocks</a>
+<a href="/news/energy-markets/">Energy Markets</a>
+<a href="/news/municipal-bonds/">Municipal Bonds</a>
+<a href="/news/emerging-markets/">Emerging Markets</a>
+<a href="/news/funds/">Funds</a>
+<a href="http://topics.bloomberg.com/islamic-finance/">Islamic Finance</a>
+<a class="main" href="/news/industries/">Industries</a>
+<a href="/news/energy/">Energy</a>
+<a href="/news/technology/">Technology</a>
+<a href="/news/real-estate/">Real Estate</a>
+<a href="/news/finance/">Finance</a>
+<a href="/news/health-care/">Health Care</a>
+<a href="/news/transportation/">Transportation</a>
+<a href="/news/insurance/">Insurance</a>
+<a href="/news/retail/">Retail</a>
+<a href="/news/media/">Media</a>
+<a href="/news/manufacturing/">Manufacturing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/quickview/">Quick</a>
+</li>
+<li>
+<a class="has_submenu" href="/markets/world/">Market Data</a>
+<ul class='market-data'>
+<li>
+<a class="main" href="/markets/stocks/">Stocks</a>
+<a href="/markets/stocks/futures/">Stock Futures</a>
+<a href="/markets/stocks/world-indexes/">World Indexes</a>
+<a href="/markets/stocks/world-indexes/americas">Americas</a>
+<a href="/markets/stocks/world-indexes/europe-africa-middle-east">Europe, Middle East, &amp; Africa</a>
+<a href="/markets/stocks/world-indexes/asia-pacific">Asia-Pacific</a>
+<a href="/markets/stocks/movers/dow/">Gainers &amp; Losers</a>
+<a href="/apps/ecal?c=US">Earnings Calendar</a>
+<a href="/visual-data/industries/">Industry Leaders</a>
+<a class="main" href="/markets/currencies/">Currencies</a>
+<a href="/markets/currencies/americas/">Americas</a>
+<a href="/markets/currencies/europe-africa-middle-east/">Europe, Middle East, &amp; Africa</a>
+<a href="/markets/currencies/asia-pacific/">Asia-Pacific</a>
+<a href="/markets/currencies/cross-rates/">Foreign Exchange Cross Rates</a>
+<a href="/markets/currencies/fx-fixings/">FX Fixings</a>
+<a href="/markets/currencies/currency-converter/">Currency Converter</a>
+<a href="/video/forex-trading">Forex Trading Videos</a>
+<a class="main" href="/markets/commodities/futures/">Commodities</a>
+<a href="/energy/">Energy Prices</a>
+<a href="/markets/commodities/futures/metals/">Metals Prices</a>
+<a href="/markets/commodities/futures/agriculture/">Agricultural Prices</a>
+</li>
+<li>
+<a class="main" href="/markets/rates-bonds/">Rates &amp; Bonds</a>
+<a href="/markets/rates-bonds/government-bonds/us/">US Treasuries</a>
+<a href="/markets/rates-bonds/government-bonds/uk/">UK Gilts</a>
+<a href="/markets/rates-bonds/government-bonds/germany/">Germany Bunds</a>
+<a href="/markets/rates-bonds/government-bonds/japan/">Japan Bonds</a>
+<a href="/markets/rates-bonds/government-bonds/australia/">Australia Bonds</a>
+<a href="/markets/rates-bonds/benchmark-bond-indexes/">Bloomberg Bond Indexes</a>
+<a href="/markets/rates-bonds/corporate-bonds/">Corporate Bonds</a>
+<a href="/markets/rates-bonds/consumer-interest-rates/">Consumer Rates</a>
+<a class="" href="/markets/economic-calendar/">Economic Calendar</a>
+<a class="" href="/markets/watchlist/">Watchlist</a>
+<a class="" href="/markets/european-debt-crisis/">European Debt Crisis</a>
+<a class="" href="/markets/symbolsearch/">Symbol Search</a>
+<a class="" href="http://go.bloomberg.com/market-now/">The Market Now</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/personal-finance/">Personal Finance</a>
+<ul class='personal-finance'>
+<li>
+<a class="" href="/personal-finance/">Top Headlines</a>
+<a class="" href="/personal-finance/saving-and-investing/">Saving &amp; Investing</a>
+<a class="" href="/personal-finance/real-estate/">Real Estate</a>
+<a class="" href="/personal-finance/retirement-planning/">Retirement Planning</a>
+<a class="" href="/personal-finance/financial-advisers/">Financial Advisers</a>
+<a class="" href="/personal-finance/taxes/">Taxes</a>
+<a class="" href="/blogs/personal_finance/ventured-gained/">Blog: Ventured &amp; Gained</a>
+<a class="" href="/personal-finance/consumer-spending/">Real Cost Of</a>
+<a class="" href="/personal-finance/money-gallery/">Money Gallery</a>
+<a class="" href="/personal-finance/calculators/">Calculators</a>
+<a class="" href="/markets/watchlist/">Watchlist (Portfolio Tracker)</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/technology/">Tech</a>
+<ul class='tech'>
+<li>
+<a class="" href="/technology/">Top Headlines</a>
+<a class="" href="/technology/social-media/">Social Media</a>
+<a class="" href="/technology/mobile-wireless/">Mobile &amp; Wireless</a>
+<a class="" href="/technology/web/">Web</a>
+<a class="" href="/technology/enterprise-tech/">Enterprise Tech</a>
+<a class="" href="/technology/tv-games-movies/">TV, Games &amp; Movies</a>
+<a class="" href="/technology/apple/">Apple</a>
+<a class="" href="http://go.bloomberg.com/tech-deals/">Tech Deals</a>
+<a class="" href="/blogs/technology/global-tech/">Global Tech</a>
+<a class="" href="/technology/slideshows/">Slideshows</a>
+<a class="" href="/video/technology/">Videos</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/politics/">U.S. Politics</a>
+</li>
+<li>
+<a class="has_submenu" href="/sustainability/">Sustainability</a>
+<ul class='sustainability'>
+<li>
+<a class="" href="/sustainability/">Top Headlines</a>
+<a class="" href="/sustainability/energy/">Energy</a>
+<a class="" href="/sustainability/corporate/">Corporate Sustainability</a>
+<a class="" href="/sustainability/policy/">Policy</a>
+<a class="" href="/sustainability/natural-resources/">Natural Resources</a>
+<a class="" href="/sustainability/health-population/">Health &amp; Population</a>
+<a class="" href="/sustainability/slideshows/">Slideshows</a>
+<a class="" href="/video/sustainability/">Videos</a>
+<a class="" href="/blogs/sustainability/the-grid/">Blog: The Grid</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/luxury/">Luxury</a>
+<ul class='luxury'>
+<li>
+<a class="" href="/luxury/">Top Headlines</a>
+<a class="" href="/luxury/autos/">Autos</a>
+<a class="" href="/billionaires/">Billionaires</a>
+<a class="" href="/luxury/living/">Living</a>
+<a class="" href="/luxury/property/">Property</a>
+<a class="" href="/luxury/travel/">Travel</a>
+<a class="" href="/luxury/well-spent/">Well Spent</a>
+<a class="" href="/blogs/luxury/loot/">Loot Blog</a>
+<a class="" href="http://topics.bloomberg.com/bloomberg-pursuits/">Pursuits Magazine</a>
+<a class="" href="/video/luxury/">Videos</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/tv/">TV</a>
+<ul class='tv'>
+<li>
+<a class="" href="/tv/">Live TV</a>
+<a class="" href="/tv/channel-finder/">Channel Finder</a>
+<a class="" href="/personalities/">Personalities</a>
+<a class="" href="/tv/appletv/">Apple TV</a>
+<a class="" href="/mobile/tv/">iPad App</a>
+<a class="main" href="/tv/schedule/">Schedule</a>
+<a href="/tv/schedule/">U.S.</a>
+<a href="/tv/schedule/asia/">Asia</a>
+<a href="/tv/schedule/europe/">Europe</a>
+</li>
+<li>
+<a class="main" href="/tv/shows/">Shows</a>
+<a href="/video/bloomberg-surveillance/">Surveillance</a>
+<a href="/video/market-makers/">Market Makers</a>
+<a href="/video/lunch-money">Lunch Money</a>
+<a href="/video/street-smart/">Street Smart</a>
+<a href="/video/bloomberg-west/">Bloomberg West</a>
+<a href="/video/game-changers/">Game Changers</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/video/">Video</a>
+<ul class='video'>
+<li>
+<a class="" href="/video/">Must See</a>
+<a class="" href="/video/latest/">Latest</a>
+<a class="" href="/tv/">Live TV</a>
+<a class="" href="/tv/shows/">Shows</a>
+<a class="" href="/playlist/">Playlist</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/radio/">Radio</a>
+<ul class='radio'>
+<li>
+<a class="" href="/radio/">Live Radio</a>
+<a class="" href="/radio/shows/">Shows</a>
+<a class="" href="/radio/schedule/">Schedule</a>
+<a class="" href="/personalities/">Personalities</a>
+<a class="main" href="/podcasts/">Podcasts</a>
+<a href="/podcasts/bloomberg-brief/">Bloomberg Brief</a>
+<a href="/podcasts/featured/">Featured Podcasts and New Shows</a>
+<a href="/podcasts/bloombergview/">Bloomberg View</a>
+<a href="/podcasts/masters-in-business/">Masters in Business</a>
+<a href="/podcasts/first-word/">First Word</a>
+<a href="/podcasts/surveillance/">Surveillance</a>
+<a href="/podcasts/hays-advantage/">Bloomberg Advantage</a>
+<a href="/podcasts/in_the_loop/">In the Loop</a>
+<a href="/podcasts/law/">Bloomberg Law</a>
+<a href="/podcasts/taking-stock/">Taking Stock</a>
+<a href="/podcasts/bloomberg-best/">Bloomberg Best</a>
+<a href="/podcasts/">More Podcasts</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="#">Blogs</a>
+<ul class='blogs'>
+<li>
+<a class="" href="/blogs/technology/global-tech/">Global Tech</a>
+<a class="" href="/blogs/sustainability/the-grid/">The Grid</a>
+<a class="" href="/blogs/luxury/loot/">Loot</a>
+<a class="" href="http://go.bloomberg.com/market-now/">The Market Now</a>
+<a class="" href="http://go.bloomberg.com/political-economy/">Political Capital</a>
+<a class="" href="http://go.bloomberg.com/tech-deals/">Tech Deals</a>
+<a class="" href="/blogs/personal_finance/ventured-gained/">Ventured and Gained</a>
+</li>
+</ul>
+</li>
+<li class='nav_view'>
+<a href="http://bloombergview.com/?cmpid=bb_primarynav">Opinion</a>
+</li>
+</ul>
+<ul class='sub_drop_nav'>
+<li class='my_saved'>
+<a href="/q">My Saved
+<span class='saved_count'></span>
+</a></li>
+<li>
+<a href="https://login.bloomberg.com/register">Registration
+
+</a></li>
+<li>
+<a href="https://login.bloomberg.com/login">Sign In
+
+</a></li>
+<li>
+<a href="http://www.bloomberg.com">Bloomberg.com
+
+</a></li>
+<li>
+<a href="http://www.businessweek.com">Businessweek.com
+
+</a></li>
+<li>
+<a class="has_submenu" href="http://www.bloomberg.com/company">Company
+
+</a><ul>
+<li>
+<a href="http://www.bloomberg.com/company/">About</a>
+<a href="http://www.bloomberg.com/now">Blog</a>
+<a href="http://jobs.bloomberg.com">Careers</a>
+<a href="http://www.bloomberg.com/diversity-inclusion">Diversity & Inclusion</a>
+<a href="http://www.bloomberg.com/now/bloomberg-news-mission-statement/">News Mission</a>
+<a href="http://www.bloomberg.com/philanthropy">Philanthropy & Engagement</a>
+<a href="http://www.bloomberg.com/now/press-releases/">Press Room</a>
+<a href="http://www.bloomberg.com/procurement/">Procurement</a>
+<a href="http://www.bloomberg.com/bsustainable/">Sustainability</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="http://www.bloomberg.com/professional/">Products
+
+</a><ul>
+<li>
+<a class="main no-link" href="javascript:void(0);">Financial Products</a>
+<a href="http://www.bloomberg.com/professional/">Bloomberg Professional Service</a>
+<a href="https://bba.bloomberg.net/">Bloomberg Anywhere</a>
+<a href="http://www.bloombergtradebook.com">Bloomberg Tradebook</a>
+<a href="http://www.bloombergbriefs.com">Bloomberg Briefs</a>
+<a href="http://www.bloombergindexes.com">Bloomberg Indexes</a>
+<a href="http://www.bloombergsef.com">Bloomberg SEF</a>
+<a href="https://service.bloomberg.com/">Service Center</a>
+<a href="http://www.bloomberg.com/professional/systems-support/customer-support/">Customer Support</a>
+<a class="main no-link" href="javascript:void(0);">Enterprise Products</a>
+<a href="http://www.bloomberg.com/enterprise/">Enterprise Solutions</a>
+<a href="http://www.bloomberg.com/trading-solutions/">Trading Solutions</a>
+<a class="main no-link" href="javascript:void(0);">Industry Products</a>
+<a href="http://www.bna.com/">Bloomberg BNA</a>
+<a href="http://about.bgov.com/">Bloomberg Government</a>
+<a href="http://about.bloomberglaw.com/">Bloomberg Law</a>
+<a href="http://www.bloomberglink.com/">Bloomberg Link</a>
+<a href="http://about.bnef.com">Bloomberg New Energy Finance</a>
+<a href="https://www.bloombergsports.com/">Bloomberg Sports</a>
+<a href="http://www.bloomberg.com/content-licensing">Content Licensing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://bba.bloomberg.net/">Bloomberg Anywhere
+
+</a></li>
+<li>
+<a href="http://www.bloomberg.com//mobile/">Mobile Apps
+
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/visual-data/">Bloomberg Visual Data
+
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<script>
+  Bcom.currentPageLayout = new Bcom.Tile.PageLayout().arrangeLayout();
+</script>
+<script>
+  window.BcomServerVars = window.BcomServerVars || {};
+  (function(h){
+    h.asset_host = "//cdn.gotraffic.net/";
+    h.ad_test_domain = "bb20ad";
+    h.bregUrl = "https://login.bloomberg.com";
+    h.chartCloseButton = "//cdn.gotraffic.net/assets/chart/x-button-d997ae74e8003908af3d15875678e794.png"
+    h.chartStoryMarker = "//cdn.gotraffic.net/assets/chart/story-marker-e34c6bbc097dcf31b343dd4f22ef38ea.png"
+    h.forceTrusteConsentBar = false;
+    h.pageName = "company_profile_page";
+    h.qRegCssJs = ["//cdn.gotraffic.net/q/v/20150819_165700/stylesheets/q_reskin-min.css"].concat(["//cdn.gotraffic.net/r/v/20160408_165705/javascripts/breg-min.js"], ["//cdn.gotraffic.net/q/v/20150819_165700/javascripts/q_reskin-min.js"]);
+    h.qUrl = "https://q.bloomberg.com";
+    h.symautocompleteUrl = "http://www.bloomberg.com/apps/data?pid=symautocomplete&Query=";
+    h.utcOffset = -14400000;
+    h.watchlistUrl = "http://www.bloomberg.com/markets/watchlist";
+    h.watchlistSslProxyUrl = "https://login.bloomberg.com/watchlist/markets/watchlist/proxy";
+    h.refreshIfOriginChanged = false;
+    h.bucketRange = {"start":0,"end":0};
+    h.update_api_version = "20160330_133141";
+    h.mediaVoicePropertyId = "NA-BLOOCOM-11236026";
+    h.mediaVoicePlacementSwitch = "nativewell1 nativewell2 nativedata nativelead";
+    h.contentSegment = "";
+  
+    if(false) {
+      h.disableAnalytics = false;
+      h.deviceType = "";
+      delete h.qRegCssJs;
+    }
+  })(window.BcomServerVars);
+  
+  window.mobileIOS = function(){
+    return (/(iPhone|iPad)/i).test(navigator.userAgent);
+  }
+</script>
+
+<script src="//cdn.gotraffic.net/assets/markets/main-447f18625aba4ecd8d518f171c89a3e5.js"></script>
+
+<!--[if lte IE 8]>
+<script src="//cdn.gotraffic.net/assets/chart/chart_wrapper_highcharts-927ead96c19c2cd8509800e420e1581c.js"></script>
+<script>
+  window.Oven = {};
+  window.Chart.CURRENT_CHART_RENDERER = Chart.Renderer.HIGHCHARTS;
+</script>
+<![endif]-->
+<!--[if gte IE 9]>
+<script src="//cdn.gotraffic.net/assets/chart/chart_wrapper-4699548d4f7e2db5e1d0038adcc67bd7.js"></script>
+<![endif]-->
+<!--[if !IE]> --><script src="//cdn.gotraffic.net/assets/chart/chart_wrapper-4699548d4f7e2db5e1d0038adcc67bd7.js"></script><!-- <![endif]-->
+
+<script>
+  PageApi = Bcom.Tracker.Page;
+  PageApi.setBBAttributor('profiles');
+  PageApi.setWebCategory('companies');
+  PageApi.setWebCategory2('public companies');
+  PageApi.setWebCategory3('Friends of Bernie Sanders PAC');
+</script>
+<script>
+  bloomberg.ready("bloomberg.common.markets.brokerbox.ad",
+      function () {
+          var brokerboxAdView = new bloomberg.common.markets.brokerbox.ad.View({ el: "#broker_box_ad_837e1f17-28f9-412c-9215-039c1ee57b6e" });
+          brokerboxAdView.onHideAds();
+      }
+  );
+</script>
+<script>
+  bloomberg.ready("bloomberg.common.markets.vendor.taboola",
+      function() {
+          var taboolaView = new bloomberg.common.markets.vendor.taboola.View({
+            $el: $("#taboola-thumbs-2r-rr_bf94afee-dca4-463d-ad11-19572f6dce32"),
+            mode: 'thumbs-2r-rr',
+            placement:'quote: 2x2-thumbs'
+          });
+          bloomberg.views.add(taboolaView);
+      }
+  );
+</script>
+<script>
+  bloomberg.ready("bloomberg.common.markets.vendor.dianomi",
+      function() {
+          var dianomiView = new bloomberg.common.markets.vendor.dianomi.View({ $el: $("#dianomi_00e77758-11ff-4eb5-a863-65edfb0bcc8a") });
+          bloomberg.views.add(dianomiView);
+      }
+  );
+</script>
+<script>
+  bloomberg.ready("bloomberg.common.markets.vendor.taboola",
+      function() {
+          var taboolaView = new bloomberg.common.markets.vendor.taboola.View({
+            $el: $("#taboola-thumbs-3r_6b8ef186-3713-4bbe-bab5-59ac2f34f0e3"),
+            mode: 'thumbs-3r',
+            placement:'quote: 1x3-thumbs'
+          });
+          bloomberg.views.add(taboolaView);
+      }
+  );
+</script>
+<script>
+  Bcom.currentPage = new Bcom.Pages.Quote("0581439D:US", Bcom.currentPageLayout);
+</script>
+
+<script>
+  $(Bcom.init);
+</script>
+<script>
+  <!-- Chartbeat -->
+  var _sf_async_config={};
+  _sf_async_config.uid = 15087;
+  _sf_async_config.domain = 'bloomberg.com';
+  _sf_async_config.useCanonical = true;
+  _sf_async_config.authors = '';
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement("script");
+      e.setAttribute("language", "javascript");
+      e.setAttribute("type", "text/javascript");
+      e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != "function") ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<script>
+  (function() {
+    // Native article pages don't have the correct tracking info until the contents are loaded through
+    // Polar's API call. The tracking is delayed here and will be fired on native article render event.
+    if(Bcom.global_var.IS_NATIVE) {
+      return;
+    }
+    Bcom.Tracker.Page.trackToComScore();
+  })();
+</script>
+<noscript>
+<p>
+<img alt="*" height="1" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005059" width="1" />
+</p>
+</noscript>
+<script>
+  window.Utils.AB.setExperimentsChosen();
+  
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11413116-1']);
+  Bcom.Tracker.Page.trackToGoogleAnalytics();
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+  $(document).ready(function () {
+    Bcom.Tracker.Events.setupTrackingExternalLinks();
+  });
+</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script>
+  $(window).load(function () {
+    Bcom.Tracker.Events.trackNielsenEvent('0');
+  });
+</script>
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-905417h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- BEGIN Krux Control Tag for "Bloomberg.com" -->
+<!-- Source: /snippet/controltag?confid=IDeZBlqQ&site=Bloomberg.com&edit=1 -->
+<script class='kxct' data-id='IDeZBlqQ' data-timing='async' data-version='1.9' type='text/javascript'>
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+(function(){
+  var k=document.createElement('script');k.type='text/javascript';k.async=true;
+  var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+  k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=IDeZBlqQ";
+  var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+</script>
+<!-- END Krux Controltag -->
+
+<script>
+  // iOS scaling fix
+  (function(e){var c="addEventListener",b="gesturestart",g="querySelectorAll",f=[1,1],d=g in e?e[g]("meta[name=viewport]"):[];function a(){d.content="width=device-width,minimum-scale="+f[0]+",maximum-scale="+f[1];e.removeEventListener(b,a,true)}if((d=d[d.length-1])&&c in e){a();f=[0.25,1.6];e[c](b,a,true)}}(document));
+</script>
+
+<script>
+  if (!Bcom.Ads.Interstitial.enabled) {
+    $.ajax( { dataType: "script",
+              cache: true,
+              url: "//cdn.gotraffic.net/vendor/foresee_v_1/javascripts/foresee-trigger.js"
+             });
+  }
+</script>
+
+<script>
+  (function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+      a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+      'radar.cedexis.com/') + '01-12403-radar10.min.js'; d.body.appendChild(a); };
+      if (w.addEventListener) { w.addEventListener('load', a, false); }
+      else if (w.attachEvent) { w.attachEvent('onload', a); }
+  }(window, document));
+</script>
+
+<!--
+Environment: production
+Server Time: 1535.117 ms
+Timestamp: 2016-04-15 08:30:41 -0400
+
+-->
+</body>
+</html>

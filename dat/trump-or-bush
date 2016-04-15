@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>    <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>     <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>     <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Can You Tell the Difference Between 90s Jeb Bush and Donald Trump?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Required -->
+      <!-- href to graphic -->
+      <link rel="iframely player" type="text/html" href="//www.bloomberg.com/politics/graphics/trump-or-bush" media="(min-width:100) and (min-height:100)" title="Can You Tell the Difference Between 90s Jeb Bush and Donald Trump?">
+      <!-- thumbnail image for graphic -->
+      <link rel="iframely thumbnail" size="800x600" type="image/png" href="//www.bloomberg.com/politics/graphics/trump-or-bush/img/trump-share.png">
+    <!-- End Required -->
+
+    <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/fonts.css"/>
+    <!-- use this css for normal article embeds -->
+    <link rel="stylesheet" type="text/css" href="http://www.bloomberg.com/graphics/assets/css/embed-article.css?"/>
+    <!-- use this css for feature template -->
+    <link rel="stylesheet" type="text/css" href="css/quiz-style.css"/>
+    
+    <script src='http://www.bloomberg.com/graphics/assets/js/lib/head.js?'></script>
+
+
+</head>
+<body class="quiz">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div class="container">
+
+        <div id="inner-content">
+            <!-- <div class="embed-rule">&nbsp;</div> -->
+            <div class="content-container">
+
+                <!-- <div class="article-title">Pop Quiz: How Well Do You Know Donald Trump?</div>
+                <div class="dek">Though he’s been a near-constant fixture on television screens, websites, and newsstands over the past several decades, many Americans know surprisingly little about Donald Trump outside of his reality television catch-phrase, “You’re fired!” Now that he has vaulted to the top of the Republican presidential primary field, Trump’s views and personal history are starting to come into focus. Still, many of Trump's political <a href="http://www.bloomberg.com/politics/articles/2015-07-30/new-hampshire-voters-explain-the-appeal-of-donald-trump" target="_blank">supporters have professed</a> that they are in the dark about some of the specifics regarding his candidacy, as well as his background. Are you among them? Here is a quiz to test your knowledge of the man they call “The Donald.”</div> -->
+
+                <!-- QUIZ START -->
+                <div id="quiz-container">
+
+                    <!-- Question Sections -->
+
+                    <section id="Q1" class="question">
+                        <div class="quiz-question">
+                            <p>“I’m a pretty conservative guy.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="none" class="disabled">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q2" class="question">
+                        <div class="quiz-question">
+                            <p>“I would abolish the Department of Education as it now exists, reducing the 2,000 person bureaucracy to about 50…”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q3" class="question">
+                        <div class="quiz-question">
+                            <p>“I learned the real estate business the hard way—on the job.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q4" class="question">
+                        <div class="quiz-question">
+                        <p>“Ronald Reagan, to me, was a great president. And, whether you are liberal or you’re conservative, people really view him as a great president. He’ll go down as a great president and not so much for the things he did, it’s just, there was a demeanor to him and a spirit that the country had under Ronald Reagan that was really phenomenal.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q5" class="question">
+                        <div class="quiz-question">
+                            <p>“Homosexuality is wrong, but it is also wrong to discriminate against homosexuals in employment, housing, etc., solely on the basis of sexual preference. I have employed homosexuals and continue to do so.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q6" class="question">
+                        <div class="quiz-question">
+                            <p>“I’m all for free trade, but it’s got to be fair trade … China has taken advantage of this country for a long time.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q7" class="question">
+                        <div class="quiz-question">
+                            <p>“The simple fact is we are not safe. Not in our homes … not anywhere.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Jeb Bush</span></li>
+                            <li data-answer-value="1"><span>Donald Trump</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="results">Get Results</li>
+                            </ul>
+                        </div>
+                    </section>
+
+
+
+
+                    <!-- -->
+
+                    <section id="Q8" class="question">
+                        <div class="quiz-question">
+                            <p>Which of the following words has Trump used to describe climate change?</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>“Top priority”</span></li>
+                            <li data-answer-value="1"><span>“Wait and see”</span></li>
+                            <li data-answer-value="2"><span>“Hoax”</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q9" class="question">
+                        <div class="quiz-question">
+                            <p>Has Trump said childhood vaccines can lead to autism?</p>
+                        </div>
+                            <ol class="quiz-answers">
+                                <li data-answer-value="0"><span>Yes</span></li>
+                                <li data-answer-value="1"><span>No</span></li>
+                            </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q10" class="question">
+                        <div class="quiz-question">
+                            <p>What professional football team did Trump purchase in 1983?</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><p>The Chicago Bears</p></li>
+                            <li data-answer-value="1"><p>The Washington Redskins</p></li>
+                            <li data-answer-value="2"><p>The New Jersey Generals</p></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q11" class="question">
+                        <div class="quiz-question">
+                            <p>True or false: Trump has expressed his support for a single-payer healthcare system similar to those used in Canada and Scotland.</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>True</span></li>
+                            <li data-answer-value="1"><span>False</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q12" class="question">
+                        <div class="quiz-question">
+                            <p>To which of his presidential rivals did Trump give $43,500?</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Hillary Clinton</span></li>
+                            <li data-answer-value="1"><span>Carly Fiorina</span></li>
+                            <li data-answer-value="2"><span>George Pataki</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q13" class="question">
+                        <div class="quiz-question">
+                            <p>True or false: Trump once described himself as being “pro-choice.”</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>True</span></li>
+                            <li data-answer-value="1"><span>False</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q14" class="question">
+                        <div class="quiz-question">
+                            <p>True or false: Since 1999, Trump has donated more money to Democrats running for office than Republicans.</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>True</span></li>
+                            <li data-answer-value="1"><span>False</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="next">Next Question</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="Q15" class="question">
+                        <!-- <h2>Finance:</h2> -->
+                        <div class="quiz-question">
+                            <p>Which of the following government programs has Trump not described as a “disaster”?</p>
+                        </div>
+                        <ol class="quiz-answers">
+                            <li data-answer-value="0"><span>Obamacare</span></li>
+                            <li data-answer-value="1"><span>Medicare</span></li>
+                            <li data-answer-value="2"><span>Common Core</span></li>
+                        </ol>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="prev">Previous Question</li>
+                                <li data-direction="results">Get Results</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <!-- End Questions -->
+
+
+                    <!-- Results Sections -->
+
+                    <section id="results">
+                        <h2>Your Results</h2>
+                        <div>
+                            <p>You got <span class='num-right'>0</span>% correct</p>
+                            <p class="snark"></p>
+                        </div>
+                        <div class="tweet"><a id='tweetLink' target="_new">Tweet this</a></div>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="Q7">Previous Question</li>
+                                <li data-direction="reset">Start Over</li>
+                                <li data-direction="answerkey">Answer Key</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section id="answerkey">
+                        <h2>The Answers</h2>
+                        <div>
+                            <p>Here are all the answers:</p>
+                        </div>
+                        <div id="answerBlock">
+                            <ol class="answer-column">
+                                <li>B: Donald Trump, <a href="http://www.cnn.com/ALLPOLITICS/stories/1999/10/08/trump.transcript/" target="_new">during</a> an interview with Larry King on CNN in 1999. He added that he’s also “somewhat liberal on social issues, especially health care.”</li>
+                                <li>A: Jeb Bush, <a href="http://articles.orlandosentinel.com/1994-11-06/news/9411070683_1_governor-office-florida-governor-duties/4" target="_new">during</a> the 1994 Florida Governor’s race.</li>
+                                <li>A: Jeb Bush, <a href="http://www.sptimes.com/State/92098/Make_The_Money_and_Ru.html" target="_new">during</a> a 1998 interview with the <em>St. Petersburg Times</em>.</li>
+                                <li>B: Donald Trump, <a href="http://www.cnn.com/ALLPOLITICS/stories/1999/10/08/trump.transcript/" target="_new">during</a> a 1999 interview with Larry King on CNN.</li>
+                                <li>A: Jeb Bush, in a 1994 op-ed in the <a href="http://www.buzzfeed.com/andrewkaczynski/jeb-bush-in-94-sodomy-shouldnt-be-given-same-protections-as#.kcyPZ4z5o" target="_new"><em>Miami Herald</em></a>.</li>
+                                <li>B: Donald Trump, <a href="http://blogs.wsj.com/washwire/2011/04/11/trump-will-probably-run-as-independent-if-he-doesnt-win-gop-nomination/?mod=e2tw&mg=id-wsj" target="_new">during</a> a 2011 interview with the <em>Wall Street Journal</em>.</li>
+                                <li>A: Jeb Bush, <a href="https://books.google.com/books?id=vUWJ1luD57cC&pg=PT99&lpg=PT99&dq=%22The+simple+fact+is+we+are+not+safe.+Not+in+our+homes.not+anywhere,%22&source=bl&ots=N7ilKV0d0e&sig=l4Ze4GfBrA_PLsWOJa2RbfkDpIo&hl=en&sa=X&ved=0CDMQ6AEwA2oVChMIqe2S3M_YxwIVyFweCh2PvgMJ#v=onepage&q=%22The%20simple%20fact%20is%20we%20are%20not%20safe.%20Not%20in%20our%20homes.not%20anywhere%2C%22&f=false" target="_new">during a speech</a> launching his 1994 gubernatorial campaign.</li>
+                            </ol>
+
+
+                        </div>
+                        <div class="navbuttons">
+                            <ul>
+                                <li data-direction="results">My Results</li>
+                                <li data-direction="reset">Start Over</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <!-- End Results -->
+
+                </div><!-- QUIZ END -->
+
+            </div> <!-- .content-container -->
+
+            
+        
+            <!-- <div class="embed-rule">&nbsp;</div> -->
+        </div><!-- id="inner-content" -->
+
+
+    </div>
+
+
+    <!-- Required Scripts-->
+    <script src="http://www.bloomberg.com/graphics/assets/js/vendor/lodash.underscore.min.js"></script>
+    <script src='http://www.bloomberg.com/graphics/assets/js/lib/broadcast-resize.js'></script>
+    <script src="http://www.bloomberg.com/graphics/assets/js/vendor/jquery.min.js"></script>
+    <script type="text/javascript">
+
+      var oldWidth = window.innerWidth;
+      window.onresize = _.debounce(function(){
+      if (oldWidth === window.innerWidth){ return; }
+      oldWidth = window.innerWidth;
+      //Call your resize JS here
+
+      //sends postMessages with height of page
+      broadcastResize()
+      }, 50);
+
+      (function(){
+      window.onresize()
+ 
+      // Quiz Code
+      var dSet = false;
+      function dlog (val) {
+        if (dSet) {
+          console.log(val);
+        }
+      };
+
+      var rightAnswers = [1,0,0,1,0,1,0];
+      var userAnswers = [];
+      $('.quiz-answers li').on('click', function () {
+        var parentID = $(this).closest('section').attr('id');
+        dlog(parentID);
+        var allChildren = '#' + parentID + ' li';
+        $(allChildren).removeClass('selected-answer');
+        $(this).addClass('selected-answer');
+        var selectedAnswer = $(this).attr('data-answer-value');
+        dlog(parentID + ' : ' + selectedAnswer);
+        userAnswers[parentID.slice(1)-1] = selectedAnswer;
+        dlog(userAnswers);
+        var userScore = getResults()
+        $('.num-right').html(userScore);
+        $('.snark').html(getResultStrings(userScore));
+        $('#tweetLink').attr('href',getTweet(userScore));
+      });
+
+      $('.get-results').on('click', function () {
+        $('.num-right').html(getResults());
+      })
+
+      function getResults () {
+        var correct = 0;
+        for (var i=0;i<userAnswers.length;i++) {
+          if (userAnswers[i]==rightAnswers[i]) {
+            correct++;
+            setAnswerPage(i,'correct');
+          } else setAnswerPage(i,'incorrect');
+        }
+        // dlog(correct);
+        var percentRight = parseInt((correct / rightAnswers.length) * 100);
+        // dlog(percentRight);
+        return percentRight;
+      }
+
+      function setAnswerPage (index, newClass) {
+        var listItem = '.answer-column li:nth-child(' + (index+1) + ')',
+            alphaAnswers = ['A','B','C','D'],
+            answerStr = 'You selected ' + alphaAnswers[userAnswers[index]];
+        if (!userAnswers[index]) {
+            answerStr = 'You skipped this';
+        }
+        if (newClass == 'correct') {
+            answerStr = "";
+        }
+        // dlog('listItem : ' + listItem);
+        // dlog('newClass : ' + newClass);
+        $(listItem).removeClass('correct').removeClass('incorrect').addClass(newClass);
+        $(listItem + ' .user-answer').html(answerStr);
+      }
+
+      $('.navbuttons li').on('click', function () {
+          var direction = $(this).attr('data-direction');
+          var parentID = $(this).closest('section').attr('id');
+          var newQuestionID;
+          // dlog(parseInt(parentID.slice(1))+1);
+          switch (direction) {
+            case 'next' : {
+              newQuestionID = 'Q' + (parseInt(parentID.slice(1))+1);
+              break;
+            }
+            case 'prev' : {
+              newQuestionID = 'Q' + (parseInt(parentID.slice(1))-1);
+              break;
+            }
+            case 'reset' : {
+              newQuestionID = 'Q1';
+              $('li').removeClass('selected-answer');
+              break;
+            }
+            case 'none' : {
+              newQuestionID = parentID;
+              break;
+            }
+            default : newQuestionID = direction;
+          }
+          dlog(newQuestionID);
+          $('#' + parentID).hide();
+          $('#' + newQuestionID).show();
+          broadcastResize();
+      });
+
+      var tweetTxt;
+
+      function getResultStrings (userScore) {
+        dlog('userScore : ' + userScore);
+        // var percentRight = parseInt((userScore / rightAnswers.length) * 100);
+        var byTens = Math.floor(userScore / 10);
+        // dlog(percentRight);
+        dlog('byTens : ' + byTens);
+        switch (byTens) {
+          case 0 :
+          case 1 :
+          case 2 :
+          case 3 : 
+                tweetTxt = "Oops. I can barely tell the difference between @realDonaldTrump and @JebBush";
+                return "You’re fired!"
+          case 4 :
+          case 5 :      
+          case 6 :
+          case 7 : 
+          case 8 :
+          case 9 :
+                tweetTxt = "So turns out it's pretty hard to guess who said it: @realDonaldTrump or @JebBush";
+                return "You’re a low-energy quiz taker."
+          case 10 : 
+                tweetTxt = "I don't want to brag but I can tell @realDonaldTrump from @JebBush";
+                return "The best, most intelligent, classiest score!"
+          default : break;
+        }
+      }
+
+
+      function getTweet (percentScore) {
+        var urlArticle = "http://www.bloomberg.com/politics/articles/2015-09-02/can-you-tell-the-difference-between-90s-jeb-bush-and-donald-trump-";
+        var txtTweet = (tweetTxt) ? tweetTxt : "My score was " + percentScore + " on the Trump or Bush quiz.  Can you do better?";
+        var urlTweet = "https://twitter.com/intent/tweet?text=" + encodeURI(txtTweet) + "&url=" + encodeURI(urlArticle);
+        return urlTweet;
+      }
+
+    })()
+    </script>
+  </body>
+</html>

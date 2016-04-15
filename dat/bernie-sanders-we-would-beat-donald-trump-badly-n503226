@@ -75,6 +75,27 @@
   <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
 </p><![endif]-->
 <header class="grid_default" role="banner">
+    <div class="breaking-banner">
+      <div class="container-gutter">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="breaking-banner_item">
+                <div class="is-breaking">
+                  <div class="breaking-banner_txt">
+                          <p><a href="http://www.nbcnews.com/video/watch-live-white-house-press-briefing-322524227825"> Watch Live: White House Press Briefing </a></p>  
+                                      </div>
+                  <div class="breaking-banner_sub-item">
+                    <a href="http://secure.nbcnews.com/_tps/_accounts/msnbc/newsletters">Get Alerts
+                      <i class="fa fa-envelope" aria-hidden="true"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="js-site-header header-group">
       <div class="site-header js-scroll-header">
         <div class="container-gutter">
@@ -99,10 +120,10 @@
                 <ul class="nav-bar nav-bar_collapse02">
                   <li class="nav-sub-title nav-sub-title_storyline">Ongoing:</li>
                     <li>
-                      <a data-target="#ongoing-0NaN-section" href="/storyline/zika-virus-outbreak">Zika Virus Outbreak</a>
+                      <a data-target="#ongoing-0NaN-section" href="/storyline/isis-terror">ISIS Terror</a>
                     </li>
                     <li>
-                      <a data-target="#ongoing-0NaN-section" href="/storyline/paris-terror-attacks">Paris Terror Attacks</a>
+                      <a data-target="#ongoing-0NaN-section" href="/storyline/panama-papers">Panama Papers</a>
                     </li>
                 </ul>
               </div>
@@ -383,8 +404,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_607833155917_42" class="js-video-placeholder" data-mpxid="607833155917" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video607833155917_42" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_607833155917_31" class="js-video-placeholder" data-mpxid="607833155917" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video607833155917_31" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -410,17 +431,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper607833155917_42", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper607833155917_31", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx607833155917_42" id="607833155917_42" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx607833155917_31" id="607833155917_31" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx607833155917_42">Bernie Sanders: &#x27;I Would Like to Take On Donald Trump&#x27;</span></strong>
+                            <strong><span id="title_video_mpx607833155917_31">Bernie Sanders: &#x27;I Would Like to Take On Donald Trump&#x27;</span></strong>
                                   <span>2:05</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper607833155917_42 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper607833155917_31 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -431,7 +452,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Broadcast","mpxId":"607833155917","guid":"mtp_sanderstrump_160124","pubDate":"2016-01-24 15:12:05 Z","expirationDate":"2024-12-31 23:59:00 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Bernie Sanders: 'I Would Like to Take On Donald Trump'","description":"Sen. Bernie Sanders tells Chuck Todd that if he won the nomination, he would beat Donald Trump &quot;badly.&quot;","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-01-24T15-14-10-2Z--1280x720.jpg","source":"Meet the Press","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/meet-the-press/video/bernie-sanders-i-would-like-to-take-on-donald-trump-607833155917","shortUrl":"http://nbcnews.to/1OHiwWV","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_18424744","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=mtp_sanderstrump_160124","videoAssets":[{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/RjzhS4vQ85oU?mbr=true","width":"1280","height":"720","bitRate":"3116101","privateUrl":null,"duration":"125.134","durationISO":"PT2M5.134S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/_W34sEkSnqy8?mbr=true","width":"640","height":"360","bitRate":"903397","privateUrl":null,"duration":"125.1","durationISO":"PT2M5.1S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/osUUEAM7xaF1?mbr=true","width":"426","height":"240","bitRate":"507379","privateUrl":null,"duration":"125.1","durationISO":"PT2M5.1S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/bpDjU1I5RyWe?mbr=true","width":"854","height":"480","bitRate":"1520019","privateUrl":null,"duration":"125.134","durationISO":"PT2M5.134S"},{"format":"ISM","assetType":"Smooth_1","publicUrl":"http://link.theplatform.com/s/2E2eJC/vGjZJcslnz4L","width":"1464","height":"824","bitRate":"3763968","privateUrl":null,"duration":"124.633","durationISO":"PT2M4.633S"}],"video_playlists":[{"playlist_id":"nnd_18424744","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":125,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT2M5.134S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/294p294/2016-01-24T15-12-05.0Z--125.1.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/91/891/2016-01-24T15-12-05.0Z--125.1.mp4.vtt"}},
-                            placeHolderID : 'video_mpx_607833155917_42',
+                            placeHolderID : 'video_mpx_607833155917_31',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false
@@ -509,8 +530,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_607838787733_42" class="js-video-placeholder" data-mpxid="607838787733" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video607838787733_42" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_607838787733_31" class="js-video-placeholder" data-mpxid="607838787733" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video607838787733_31" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -536,17 +557,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper607838787733_42", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper607838787733_31", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx607838787733_42" id="607838787733_42" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx607838787733_31" id="607838787733_31" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx607838787733_42">Bernie Sanders Reacts to Possible Michael Bloomberg Run</span></strong>
+                            <strong><span id="title_video_mpx607838787733_31">Bernie Sanders Reacts to Possible Michael Bloomberg Run</span></strong>
                                   <span>0:16</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper607838787733_42 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper607838787733_31 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -557,7 +578,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Broadcast","mpxId":"607838787733","guid":"mtp_sandersbloomberg_160124","pubDate":"2016-01-24 15:18:32 Z","expirationDate":"2024-12-31 23:59:00 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Bernie Sanders Reacts to Possible Michael Bloomberg Run","description":"Sen. Bernie Sanders tells Chuck Todd that the Americans don't want the nation to &quot;move toward an oligarchy where billionaires control the political process.&quot;","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-01-24T15-18-51-533Z--1280x720.jpg","source":"Meet the Press","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/meet-the-press/video/bernie-sanders-reacts-to-possible-michael-bloomberg-run-607838787733","shortUrl":"http://nbcnews.to/1ScTwcC","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_18424744","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=mtp_sandersbloomberg_160124","videoAssets":[{"format":"ISM","assetType":"Smooth_1","publicUrl":"http://link.theplatform.com/s/2E2eJC/f_3ZBi9CDj5A","width":"1464","height":"824","bitRate":"3763968","privateUrl":null,"duration":"16.433","durationISO":"PT16.433S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/TcSb93KWT_1g?mbr=true","width":"854","height":"480","bitRate":"1454594","privateUrl":null,"duration":"16.934","durationISO":"PT16.934S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/3KiclGXmo0te?mbr=true","width":"640","height":"360","bitRate":"873015","privateUrl":null,"duration":"16.9","durationISO":"PT16.9S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/F_mQ1nu_H82q?mbr=true","width":"426","height":"240","bitRate":"489586","privateUrl":null,"duration":"16.9","durationISO":"PT16.9S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/x0GJVFHbyQm2?mbr=true","width":"1280","height":"720","bitRate":"2993507","privateUrl":null,"duration":"16.934","durationISO":"PT16.934S"}],"video_playlists":[{"playlist_id":"nnd_18424744","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":16,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT16.434S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/294p294/2016-01-24T15-18-32.533Z--16.9.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/97/247/2016-01-24T15-18-32.533Z--16.9.mp4.vtt"}},
-                            placeHolderID : 'video_mpx_607838787733_42',
+                            placeHolderID : 'video_mpx_607838787733_31',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false
@@ -620,8 +641,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_607829059531_42" class="js-video-placeholder" data-mpxid="607829059531" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video607829059531_42" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_607829059531_31" class="js-video-placeholder" data-mpxid="607829059531" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video607829059531_31" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -647,17 +668,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper607829059531_42", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper607829059531_31", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx607829059531_42" id="607829059531_42" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx607829059531_31" id="607829059531_31" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx607829059531_42">Full Interview: Sanders Explains Campaign Momentum</span></strong>
+                            <strong><span id="title_video_mpx607829059531_31">Full Interview: Sanders Explains Campaign Momentum</span></strong>
                                   <span>6:59</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper607829059531_42 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper607829059531_31 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -668,7 +689,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Broadcast","mpxId":"607829059531","guid":"mtp_berniefull_160124","pubDate":"2016-01-24 15:11:54 Z","expirationDate":"2024-12-31 23:59:00 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Full Interview: Sanders Explains Campaign Momentum","description":"Chuck's full interview with surging Democratic presidential candidate Bernie Sanders.","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-01-24T15-11-54-533Z--1280x720.jpg","source":"Meet the Press","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/meet-the-press/video/full-interview-sanders-explains-campaign-momentum-607829059531","shortUrl":"http://nbcnews.to/1ScQtRx","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_18424744","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=mtp_berniefull_160124","videoAssets":[{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/B2utxOykwg4_?mbr=true","width":"1280","height":"720","bitRate":"3120943","privateUrl":null,"duration":"419.967","durationISO":"PT6M59.967S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/lM4EW5M4xVo0?mbr=true","width":"426","height":"240","bitRate":"506032","privateUrl":null,"duration":"419.934","durationISO":"PT6M59.934S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/ZEtPqyp69R5P?mbr=true","width":"640","height":"360","bitRate":"904574","privateUrl":null,"duration":"419.934","durationISO":"PT6M59.934S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/nSO81I766Jpd?mbr=true","width":"854","height":"480","bitRate":"1517652","privateUrl":null,"duration":"419.967","durationISO":"PT6M59.967S"},{"format":"ISM","assetType":"Smooth_1","publicUrl":"http://link.theplatform.com/s/2E2eJC/qd2MgCRqqtAA","width":"1464","height":"824","bitRate":"3763968","privateUrl":null,"duration":"419.433","durationISO":"PT6M59.433S"}],"video_playlists":[{"playlist_id":"nnd_18424744","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":419,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT6M59.434S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/294p294/2016-01-24T15-11-54.533Z--419.934.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/87/986/2016-01-24T15-11-54.533Z--419.934.mp4.vtt"}},
-                            placeHolderID : 'video_mpx_607829059531_42',
+                            placeHolderID : 'video_mpx_607829059531_31',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false

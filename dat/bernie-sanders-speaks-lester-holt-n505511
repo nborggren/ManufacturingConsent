@@ -75,6 +75,27 @@
   <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
 </p><![endif]-->
 <header class="grid_default" role="banner">
+    <div class="breaking-banner">
+      <div class="container-gutter">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="breaking-banner_item">
+                <div class="is-breaking">
+                  <div class="breaking-banner_txt">
+                          <p><a href="http://www.nbcnews.com/video/watch-live-white-house-press-briefing-322524227825"> Watch Live: White House Press Briefing </a></p>  
+                                      </div>
+                  <div class="breaking-banner_sub-item">
+                    <a href="http://secure.nbcnews.com/_tps/_accounts/msnbc/newsletters">Get Alerts
+                      <i class="fa fa-envelope" aria-hidden="true"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="js-site-header header-group">
       <div class="site-header js-scroll-header">
         <div class="container-gutter">
@@ -99,10 +120,10 @@
                 <ul class="nav-bar nav-bar_collapse02">
                   <li class="nav-sub-title nav-sub-title_storyline">Ongoing:</li>
                     <li>
-                      <a data-target="#ongoing-0NaN-section" href="/storyline/zika-virus-outbreak">Zika Virus Outbreak</a>
+                      <a data-target="#ongoing-0NaN-section" href="/storyline/isis-terror">ISIS Terror</a>
                     </li>
                     <li>
-                      <a data-target="#ongoing-0NaN-section" href="/storyline/paris-terror-attacks">Paris Terror Attacks</a>
+                      <a data-target="#ongoing-0NaN-section" href="/storyline/panama-papers">Panama Papers</a>
                     </li>
                 </ul>
               </div>
@@ -366,8 +387,8 @@
                 <div class="video-viewport">
                     <div class="intrinsic">
                         <div class="intrinsic-wrapper ratio-16x9">
-                            <div id="video_mpx_610190403642_41" class="js-video-placeholder" data-mpxid="610190403642" style="position: absolute; width:100%; height: 100%;">
-                              <button id="js-play-video610190403642_41" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                            <div id="video_mpx_610190403642_20" class="js-video-placeholder" data-mpxid="610190403642" style="position: absolute; width:100%; height: 100%;">
+                              <button id="js-play-video610190403642_20" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                 <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                               </button>
             
@@ -393,17 +414,17 @@
                     <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                   </a></li>
                   <li class="cursor-pointer">
-                    <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper610190403642_41", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                    <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper610190403642_20", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                   </li>
                 </ul>
-                <div data-playerid="video_mpx610190403642_41" id="610190403642_41" class="js-play-video img-caption img-caption_video img-caption_lg">
+                <div data-playerid="video_mpx610190403642_20" id="610190403642_20" class="js-play-video img-caption img-caption_video img-caption_lg">
                   <i class="fa fa-play" aria-hidden="true"></i>
-                  <strong><span id="title_video_mpx610190403642_41">Sanders: If There&#x27;s a Large Voter Turnout in Iowa, We&#x27;re Going To Win</span></strong>
+                  <strong><span id="title_video_mpx610190403642_20">Sanders: If There&#x27;s a Large Voter Turnout in Iowa, We&#x27;re Going To Win</span></strong>
                         <span>3:28</span>
                 </div>
                 <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                 <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                <div class="js-video-embed form_embed-wrapper form_embed-wrapper610190403642_41 is-hidden">
+                <div class="js-video-embed form_embed-wrapper form_embed-wrapper610190403642_20 is-hidden">
                   <form action="/">
                     <div class="form_group">
                       <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -414,7 +435,7 @@
             <script>
                 var playerInstance = {
                   videoObj : {"type":"","widget_type":"","videoType":"Broadcast","mpxId":"610190403642","guid":"nn_lho_sanders_intv_160127","pubDate":"2016-01-27 23:33:35 Z","expirationDate":"2024-12-31 23:59:00 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Sanders: If There's a Large Voter Turnout in Iowa, We're Going To Win","description":"In an exclusive interview with Lester Holt, Bernie Sanders says \"on caucus night in Iowa, you will be able to tell very early, I think, who wins, and who loses.\"","thumbnail":"http://media1.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/2016-01-27T23-34-11-966Z--1280x720.jpg","source":"Nightly News","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/nightly-news/video/sanders-if-there-s-a-large-voter-turnout-in-iowa-we-re-going-to-win-610190403642","shortUrl":"http://nbcnews.to/1SchhmW","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_18424734","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"1","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=nn_lho_sanders_intv_160127","videoAssets":[{"format":"ISM","assetType":"Smooth_1","publicUrl":"http://link.theplatform.com/s/2E2eJC/xlS433U__iSJ","width":"1464","height":"824","bitRate":"3763968","privateUrl":null,"duration":"208.266","durationISO":"PT3M28.266S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/mbOs8q4lx3mQ?mbr=true","width":"854","height":"480","bitRate":"1643532","privateUrl":null,"duration":"208.267","durationISO":"PT3M28.267S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/yCMogbvClrcw?mbr=true","width":"1280","height":"720","bitRate":"3402700","privateUrl":null,"duration":"208.267","durationISO":"PT3M28.267S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/EXXPubx5FJpa?mbr=true","width":"426","height":"240","bitRate":"542927","privateUrl":null,"duration":"208.234","durationISO":"PT3M28.234S"},{"format":"MPEG4","assetType":"Akamai Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/Kj28eehmtlWU?mbr=true","width":"640","height":"360","bitRate":"982772","privateUrl":null,"duration":"208.234","durationISO":"PT3M28.234S"}],"video_playlists":[{"playlist_id":"nnd_18424734","label":null}],"nativeVideo":false,"autoPlay":true,"hideAssociatedPlaylist":false,"duration":208,"hasCaption":false,"durationISO":"PT3M28.234S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":"http://media.snappytv.com/captions/928000/860p860/2016-01-27T23-33-35.833Z--208.234.mp4.srt","web-vtt":"http://tve_static-snappytvpoc.nbcuni.com/snappy/caption/NBC_News/291/939/2016-01-27T23-33-35.833Z--208.234.mp4.vtt"}},
-                  placeHolderID : 'video_mpx_610190403642_41',
+                  placeHolderID : 'video_mpx_610190403642_20',
                   nextPlaylist : [],
                   nextVideoIndex : 0,
                   isLoaded : false
@@ -586,8 +607,8 @@
                           <div class="video-viewport">
                               <div class="intrinsic">
                                   <div class="intrinsic-wrapper ratio-16x9">
-                                      <div id="video_mpx_599706179659_41" class="js-video-placeholder" data-mpxid="599706179659" style="position: absolute; width:100%; height: 100%;">
-                                        <button id="js-play-video599706179659_41" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
+                                      <div id="video_mpx_599706179659_20" class="js-video-placeholder" data-mpxid="599706179659" style="position: absolute; width:100%; height: 100%;">
+                                        <button id="js-play-video599706179659_20" class="btn_txt img-overlay img-overlay_lg img-overlay_default img-overlay_middle img-overlay_video">
                                           <i class="fa fa-play" aria-hidden="true"></i><span class="screen-reader-txt">Play</span>
                                         </button>
                       
@@ -613,17 +634,17 @@
                               <i class="fa fa-google-plus" aria-hidden="true"></i><span class="screen-reader-txt">Google Plus</span>
                             </a></li>
                             <li class="cursor-pointer">
-                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper599706179659_41", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
+                              <i class="js-toggle js-toggle-embed fa fa-code" data-togglecontrols='{"toggleClass":"is-hidden hidden-xs", "selector":".form_embed-wrapper599706179659_20", "activeTarget":true}' aria-hidden="true"></i><span class="screen-reader-txt">Embed</span>
                             </li>
                           </ul>
-                          <div data-playerid="video_mpx599706179659_41" id="599706179659_41" class="js-play-video img-caption img-caption_video img-caption_lg">
+                          <div data-playerid="video_mpx599706179659_20" id="599706179659_20" class="js-play-video img-caption img-caption_video img-caption_lg">
                             <i class="fa fa-play" aria-hidden="true"></i>
-                            <strong><span id="title_video_mpx599706179659_41">Caucuses Vs. Primaries: Winning Iowa Isn&#x27;t Always a Good Thing</span></strong>
+                            <strong><span id="title_video_mpx599706179659_20">Caucuses Vs. Primaries: Winning Iowa Isn&#x27;t Always a Good Thing</span></strong>
                                   <span>2:03</span>
                           </div>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-on pull-right is-hidden">autoplay <i class="fa fa-check-square-o fa-1"></i></span>
                           <span style="font-size: smaller; color:#696969;" class="js-autoplay-toggle-off pull-right is-hidden">autoplay <i class="fa fa-square-o fa-1"></i></span>
-                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper599706179659_41 is-hidden">
+                          <div class="js-video-embed form_embed-wrapper form_embed-wrapper599706179659_20 is-hidden">
                             <form action="/">
                               <div class="form_group">
                                 <label for="embed" class="font-small">Copy this code to your website or blog</label>
@@ -634,7 +655,7 @@
                       <script>
                           var playerInstance = {
                             videoObj : {"type":"widget","widget_type":"inline-video","videoType":"Original","mpxId":"599706179659","guid":"a_showme_caucus_160111","pubDate":"2016-01-11 15:21:00 Z","expirationDate":"2113-07-01 15:21:00 Z","playbackIsDisabled":false,"availabilityState":"available","title":"Caucuses Vs. Primaries: Winning Iowa Isn't Always a Good Thing","description":"David Yepsen describes how the caucus system works, and explains why it can produce out-of-touch frontrunners during the campaign season.","thumbnail":"http://media2.s-nbcnews.com/i/MSNBC/Components/Video/160111/a_showme_caucus2_160111.jpg","source":"Show Me","sourceId":null,"canonicalUrl":"http://www.nbcnews.com/feature/show-me/video/caucuses-vs-primaries-winning-iowa-isnt-always-a-good-thing-599706179659","shortUrl":"http://nbcnews.to/1PZXDbJ","associatedPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_54103288","fallbackPlaylistUrl":null,"topVideosPlaylistUrl":"http://feed.theplatform.com/f/2E2eJC/nnd_20381145","mezzVersion":"2","embedUrl":"http://player.theplatform.com/p/2E2eJC/nbcNewsOffsite?guid=a_showme_caucus_160111","videoAssets":[{"format":"ISM","assetType":"Smooth_1","publicUrl":"http://link.theplatform.com/s/2E2eJC/_ToQfkHtSkHk","width":"1464","height":"824","bitRate":"3763968","privateUrl":null,"duration":"123.233","durationISO":"PT2M3.233S"},{"format":"MPEG4","assetType":"Limelight MP4","publicUrl":"http://link.theplatform.com/s/2E2eJC/zd4zRDkPzkKG","width":"420","height":"240","bitRate":"500000","privateUrl":null,"duration":"123","durationISO":"PT2M3S"},{"format":"QT","assetType":"Mezzanine Video","publicUrl":"http://link.theplatform.com/s/2E2eJC/HnREPywcGg0V","width":"1920","height":"1080","bitRate":"6000000","privateUrl":null,"duration":"123","durationISO":"PT2M3S"},{"format":"MPEG4","assetType":"Limelight MP4","publicUrl":"http://link.theplatform.com/s/2E2eJC/piwZ3IXo644D","width":"640","height":"360","bitRate":"800000","privateUrl":null,"duration":"123","durationISO":"PT2M3S"},{"format":"MPEG4","assetType":"FireTV-Once","publicUrl":"http://link.theplatform.com/s/2E2eJC/_0J8K_ZzOWnk","width":"0","height":"0","bitRate":"0","privateUrl":null,"duration":"123","durationISO":"PT2M3S"},{"format":"MPEG4","assetType":"OnceURL","publicUrl":"http://link.theplatform.com/s/2E2eJC/jIQxLHn2JgTR","width":"0","height":"0","bitRate":"0","privateUrl":null,"duration":"123","durationISO":"PT2M3S"}],"video_playlists":[{"playlist_id":"nnd_54103288","label":null}],"nativeVideo":false,"autoPlay":false,"hideAssociatedPlaylist":false,"defaultAssociation":null,"duration":123,"liveVideoEvent":null,"liveVideoStatus":null,"hasCaption":false,"durationISO":"PT2M3.233S","captionLinks":{"requiresCaptioning":"False","clean":null,"smpte-tt":null,"srt":null,"web-vtt":null}},
-                            placeHolderID : 'video_mpx_599706179659_41',
+                            placeHolderID : 'video_mpx_599706179659_20',
                             nextPlaylist : [],
                             nextVideoIndex : 0,
                             isLoaded : false
